@@ -1,4 +1,3 @@
-# db.py
 from sqlalchemy import create_engine, text
 import os
 try:
@@ -6,16 +5,18 @@ try:
 except Exception:
     st = None
 
-DATABASE_URL = os.getenv("DATABASE_URL")
-if not DATABASE_URL and st is not None and "DATABASE_URL" in st.secrets:
-    DATABASE_URL = st.secrets["DATABASE_URL"]
+def _get_database_url():
+    url = os.getenv("DATABASE_URL")
+    if (not url) and st is not None and "DATABASE_URL" in st.secrets:
+        url = st.secrets["DATABASE_URL"]
+    if not url:
+        raise RuntimeError("DATABASE_URL not set.")
 
-# falls kein sslmode in der URL steht, hänge ihn an
-if DATABASE_URL and "sslmode=" not in DATABASE_URL:
-    sep = "&" if "?" in DATABASE_URL else "?"
-    DATABASE_URL = f"{DATABASE_URL}{sep}sslmode=require"
+    if url.startswith("postgres://"):
+        url = "postgresql://" + url[len("postgres://"):]
+    if "sslmode=" not in url:
+        url += ("&" if "?" in url else "?") + "sslmode=require"
+    return url
 
-if not DATABASE_URL:
-    raise RuntimeError("DATABASE_URL not set. Set in .env (lokal) oder in Streamlit Secrets.")
-
-engine = create_engine(DATABASE_URL, echo=False)
+DATABASE_URL = _get_database_url()
+engine = create_engine(DATABASE_URL, pool_pre_ping=True, echo=False)
