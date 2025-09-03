@@ -1,8 +1,21 @@
 # app.py
 import streamlit as st
-import pandas as pd
 from sqlalchemy import text
 from urllib.parse import urlparse
+from db import engine, DATABASE_URL
+
+u = urlparse(DATABASE_URL if DATABASE_URL.startswith("postgresql://") else DATABASE_URL.replace("postgres://","postgresql://"))
+masked = f"{u.scheme}://{u.username}:***@{u.hostname}:{u.port}{u.path}"
+st.caption(f"DB target: {masked} (sslmode={'sslmode=' in (u.query or '')})")
+
+try:
+    with engine.connect() as c:
+        c.execute(text("select 1"))
+    st.success("DB-Verbindung ok.")
+except Exception as e:
+    st.error(f"DB-Verbindung fehlgeschlagen: {type(e).__name__}: {e}")
+    st.stop()
+
 
 st.set_page_config(page_title="Pernod Ricard — Agent MVP", layout="wide")
 
