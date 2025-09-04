@@ -37,8 +37,8 @@ GOOGLE_NEWS_LANGS = [
     ("en", "US", "US:en"),  # Englisch
 ]
 
-LOOKBACK_HOURS = 24           # wie viele Stunden zurück
-MAX_PER_SOURCE = 6            # pro Quelle nicht mehr als X Artikel
+LOOKBACK_HOURS = 24 * 30           # wie viele Stunden zurück
+MAX_PER_SOURCE = 10            # pro Quelle nicht mehr als X Artikel
 TIMEOUT = 30
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.0)"}
 
