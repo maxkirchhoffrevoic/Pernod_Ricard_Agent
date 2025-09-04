@@ -1,15 +1,96 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T13:10:22Z",
+  "generated_at": "2025-09-04T13:15:43Z",
   "signals": [
     {
-      "type": "summary",
+      "type": "financial",
       "value": {
-        "headline": "FY25 Full-year Sales and Results",
-        "summary": "FY25 Full-year Sales and Results | Pernod Ricard Skip to main content Close Activate contrast theme Deactivate contrast theme Our Group Our Group Back Our Group Highlights Who we are A global leader in wine and spirits, we are 18,500 employees worldwide, respectful and responsibl",
-        "note": "Auto-Zusammenfassung zu Pernod Ricard (Fallback)"
+        "headline": "FY25 Organic Net Sales Decline",
+        "metric": "Organic Net Sales",
+        "value": "-3.0",
+        "unit": "%",
+        "topic": "Sales Performance",
+        "summary": "Pernod Ricard reported a decline in organic net sales for FY25, impacted by challenges in key markets.",
+        "note": "Declines noted in China, USA, and GTR Asia.",
+        "period": "FY25",
+        "region": "Global"
       },
-      "confidence": 0.35
+      "confidence": 0.8
+    },
+    {
+      "type": "financial",
+      "value": {
+        "headline": "Free Cash Flow Increase",
+        "metric": "Free Cash Flow",
+        "value": "1.1",
+        "unit": "billion €",
+        "topic": "Cash Management",
+        "summary": "Pernod Ricard achieved a free cash flow of €1.1 billion, reflecting strong operating working capital management.",
+        "note": "This represents an 18% increase.",
+        "period": "FY25",
+        "region": "Global"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "strategy",
+      "value": {
+        "headline": "Focus on Premiumization",
+        "metric": "Strategic Focus",
+        "value": "Imperial Blue Business Sale",
+        "unit": "N/A",
+        "topic": "Business Strategy",
+        "summary": "Pernod Ricard is selling its Imperial Blue business to accelerate focus on premiumization.",
+        "note": "This aligns with their strategic direction.",
+        "period": "FY25",
+        "region": "India"
+      },
+      "confidence": 0.7
+    },
+    {
+      "type": "financial",
+      "value": {
+        "headline": "Operating Margin Expansion",
+        "metric": "Organic Operating Margin",
+        "value": "64",
+        "unit": "bps",
+        "topic": "Profitability",
+        "summary": "The company reported a strong organic operating margin expansion of 64 basis points.",
+        "note": "Supported by a €900 million efficiency program.",
+        "period": "FY25",
+        "region": "Global"
+      },
+      "confidence": 0.85
+    },
+    {
+      "type": "sustainability",
+      "value": {
+        "headline": "2030 Sustainability Roadmap",
+        "metric": "Sustainability Commitment",
+        "value": "4",
+        "unit": "pillars",
+        "topic": "Sustainability",
+        "summary": "Pernod Ricard's 2030 roadmap includes strong commitments across four sustainability pillars.",
+        "note": "Focuses on responsible practices from grain to glass.",
+        "period": "2023-2030",
+        "region": "Global"
+      },
+      "confidence": 0.75
+    },
+    {
+      "type": "leadership",
+      "value": {
+        "headline": "Leadership Team Overview",
+        "metric": "Employee Count",
+        "value": "19,480",
+        "unit": "employees",
+        "topic": "Workforce",
+        "summary": "Pernod Ricard employs 19,480 people globally, fostering an empowering workplace.",
+        "note": "Focus on employee growth and safety.",
+        "period": "2025",
+        "region": "Global"
+      },
+      "confidence": 0.8
     }
   ],
   "sources": [
