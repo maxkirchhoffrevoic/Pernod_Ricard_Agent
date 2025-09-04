@@ -2,7 +2,7 @@
 import os, json, requests, streamlit as st, pandas as pd
 
 st.set_page_config(page_title="Pernod Ricard — Agent (No-DB)", layout="wide")
-st.title("Pernod Ricard — Agent (No-DB)")
+st.title("Pernod Ricard — Agent")
 
 DATA_URL = st.secrets.get("DATA_URL", "").strip()  # optionaler Fallback auf RAW-URL
 
