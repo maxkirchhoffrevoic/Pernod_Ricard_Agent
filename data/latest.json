@@ -1,6 +1,22 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T10:00:00Z",
-  "signals": [],
-  "sources": []
+  "generated_at": "2025-09-04T12:30:00Z",
+  "signals": [
+    {
+      "type": "financial",
+      "value": { "metric": "FY25 Sales", "note": "Umsatzwachstum ggü. Vorjahr", "delta": "+x%" },
+      "confidence": 0.7
+    },
+    {
+      "type": "strategy",
+      "value": { "topic": "Portfolio-Fokus", "summary": "Premiumisierung als Wachstumstreiber" },
+      "confidence": 0.6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
+      "title": "FY25 Sales & Results"
+    }
+  ]
 }
