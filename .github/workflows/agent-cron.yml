@@ -40,7 +40,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          # Wichtig: Pfad anpassen, falls deine Datei NICHT hier liegt
+          python pernod_ricard_agent_repo_full/scripts/build_json.py || true # Wichtig: Pfad anpassen, falls deine Datei NICHT hier liegt
           python scripts/build_json.py
         continue-on-error: true
 
