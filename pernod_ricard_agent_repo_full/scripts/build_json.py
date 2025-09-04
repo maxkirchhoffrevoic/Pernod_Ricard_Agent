@@ -178,4 +178,124 @@ def discover_from_google_news(query=COMPANY, hours=LOOKBACK_HOURS, max_items=MAX
 # LLM-Extraktion
 # =========================
 def llm_extract_signals(company: str, texts: list[dict]) -> list[dict]:
-    """Erzeuge strukturierte Signale via OpenAI. Fällt bei Key/Fehler auf leichten Heuristik-Fallback zurück
+    """Erzeuge strukturierte Signale via OpenAI. Fällt bei Key/Fehler auf leichten Heuristik-Fallback zurück."""
+    if not OPENAI_API_KEY:
+        return heuristic_signals(company, texts)
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=OPENAI_API_KEY)
+
+        joined = "\n\n".join(
+            f"### {t.get('title','(ohne Titel)')}\n{clip(t.get('text',''), 5000)}"
+            for t in texts if t.get("text")
+        )[:12000]
+
+        system = (
+            "Du extrahierst faktenbasierte, strukturierte Signale zu einer Firma.\n"
+            "Antworte NUR mit JSON:\n"
+            "{ \"signals\": [ {\"type\":\"financial|strategy|markets|risks|product|leadership|sustainability\",\n"
+            "  \"value\": {\"headline\":\"...\",\"metric\":\"...\",\"value\":\"...\",\"unit\":\"...\",\"topic\":\"...\",\"summary\":\"...\",\"note\":\"...\",\"period\":\"...\",\"region\":\"...\"},\n"
+            "  \"confidence\": 0.0 } ] }\n"
+            "Kein Fließtext außerhalb des JSON, keine Erklärungen. Maximal 6 Signale."
+        )
+
+        user = f"Firma: {company}\nQuellen (Auszug):\n{joined}"
+
+        resp = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            temperature=0.2,
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ],
+        )
+
+        content = resp.choices[0].message.content
+        data = json.loads(content)
+        sigs = data.get("signals", [])
+        # Sanity
+        out = []
+        for s in sigs:
+            if not isinstance(s, dict):
+                continue
+            s["type"] = str(s.get("type", "summary"))
+            try:
+                c = float(s.get("confidence", 0.5))
+            except Exception:
+                c = 0.5
+            s["confidence"] = max(0.0, min(1.0, c))
+            out.append(s)
+        return out[:6] if out else heuristic_signals(company, texts)
+    except Exception as e:
+        # Key- oder Netzfehler → Fallback
+        return heuristic_signals(company, texts)
+
+def heuristic_signals(company: str, texts: list[dict]) -> list[dict]:
+    """Ein sehr einfacher Fallback ohne LLM."""
+    if not texts:
+        return []
+    head = texts[0]
+    summary = head.get("text", "")[:280]
+    return [{
+        "type": "summary",
+        "value": {"headline": head.get("title"), "summary": summary, "note": f"Auto-Zusammenfassung zu {company} (Fallback)"},
+        "confidence": 0.35,
+    }]
+
+# =========================
+# Pipeline
+# =========================
+def main():
+    # 1) Links sammeln
+    items = []
+    items += discover_from_newsroom()
+    items += discover_from_google_news()
+
+    # dedupe
+    items = dedupe(items, key="url")
+
+    # 2) nur frische Artikel behalten (falls Datum vorhanden), sonst später über Textlänge filtern
+    recent = []
+    for it in items:
+        dt = None
+        if it.get("published_at"):
+            try:
+                dt = dateparser.parse(it["published_at"])
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+            except Exception:
+                dt = None
+        if (dt and is_recent(dt, LOOKBACK_HOURS)) or (dt is None):
+            recent.append(it)
+
+    # 3) Inhalte holen
+    texts = []
+    for it in recent:
+        url = it["url"]
+        text = safe_get_text(url)
+        if len(text) < 400:
+            # sehr kurze/irrelevante Seiten überspringen
+            continue
+        texts.append({"url": url, "title": it.get("title", ""), "source": it.get("source", ""), "text": text})
+
+    # falls nichts brauchbares, wenigstens erste Links als Quellen speichern
+    sources = [{"url": it["url"], "title": it.get("title", "")} for it in recent][: MAX_PER_SOURCE * 2]
+
+    # 4) Signale erzeugen
+    signals = llm_extract_signals(COMPANY, texts)
+
+    # 5) Schreiben
+    os.makedirs("data", exist_ok=True)
+    out = {
+        "company": COMPANY,
+        "generated_at": now_utc().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "signals": signals,
+        "sources": sources,
+    }
+    with open("data/latest.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(f"Wrote data/latest.json with {len(signals)} signals and {len(sources)} sources.")
+
+if __name__ == "__main__":
+    main()
