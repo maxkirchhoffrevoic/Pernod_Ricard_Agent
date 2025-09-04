@@ -1,13 +1,57 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T12:06:35Z",
+  "generated_at": "2025-09-04T12:23:39Z",
   "signals": [
     {
-      "type": "summary",
+      "type": "financial",
       "value": {
-        "note": "LLM-Extraktion fehlgeschlagen: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-SMwcr***************************************************************************************************************************************************Z6QA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+        "headline": "FY25 Organic Sales Decline",
+        "metric": "Organic Sales",
+        "value": -3.0,
+        "unit": "%",
+        "summary": "Pernod Ricard reported a 3.0% decline in organic sales for FY25, with significant impacts from declines in China, USA, and GTR Asia.",
+        "period": "FY25"
       },
-      "confidence": 0.2
+      "confidence": 0.9
+    },
+    {
+      "type": "financial",
+      "value": {
+        "headline": "Free Cash Flow Increase",
+        "metric": "Free Cash Flow",
+        "value": 1133,
+        "unit": "million €",
+        "summary": "Free Cash Flow increased by 18% to €1.1 billion, driven by improved operating working capital management.",
+        "period": "FY25"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "strategy",
+      "value": {
+        "headline": "Sale of Imperial Blue Business",
+        "summary": "Pernod Ricard India announced the sale of its Imperial Blue business division to Tilaknagar Industries to focus on premiumization and innovation.",
+        "note": "This strategic move aims to enhance profitability and growth in the Indian market."
+      },
+      "confidence": 0.85
+    },
+    {
+      "type": "leadership",
+      "value": {
+        "headline": "Board Proposed Appointments",
+        "summary": "Pernod Ricard's board proposed the appointment of two new independent directors to enhance diversity and industry expertise.",
+        "note": "The appointments reflect the board's ambition to strengthen its strategic capabilities."
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "sustainability",
+      "value": {
+        "headline": "Commitment to Sustainable Growth in China",
+        "summary": "Pernod Ricard welcomes the conclusion of China's MOFCOM Cognac Anti-Dumping investigation, reaffirming its commitment to sustainable growth in the region.",
+        "note": "The company aims to leverage its market-leading position in Cognac despite increased operational costs."
+      },
+      "confidence": 0.75
     }
   ],
   "sources": [
