@@ -5,7 +5,7 @@ st.set_page_config(page_title="Pernod Ricard — Agent (No-DB)", layout="wide")
 st.title("Pernod Ricard — Agent (No-DB)")
 
 # Passen Sie user/repo an:
-DATA_URL = "https://github.com/maxkirchhoffrevoic/Pernod_Ricard_Agent/blob/main/pernod_ricard_agent_repo_full/data/latest.json"
+DATA_URL = "https://raw.githubusercontent.com/maxkirchhoffrevoic/Pernod_Ricard_Agent/main/data/latest.json"
 
 @st.cache_data(ttl=300)
 def load_data():
