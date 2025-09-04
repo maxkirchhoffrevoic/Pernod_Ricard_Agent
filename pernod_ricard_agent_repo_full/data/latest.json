@@ -1,0 +1,11 @@
+{
+  "company": "Pernod Ricard",
+  "generated_at": "2025-09-04T10:00:00Z",
+  "signals": [
+    {"type": "financial", "value": {"revenue":"FY25 up"}, "confidence": 0.8}
+  ],
+  "sources": [
+    {"url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
+     "title": "FY25 Sales & Results"}
+  ]
+}
