@@ -48,13 +48,13 @@ jobs:
             echo "No data/latest.json produced – writing fallback."
             mkdir -p data
             cat > data/latest.json <<'EOF'
-{
-  "company": "Pernod Ricard",
-  "generated_at": "1970-01-01T00:00:00Z",
-  "signals": [],
-  "sources": []
-}
-EOF
+        {
+          "company": "Pernod Ricard",
+          "generated_at": "1970-01-01T00:00:00Z",
+          "signals": [],
+          "sources": []
+        }
+        EOF
           fi
 
       - name: Show output
