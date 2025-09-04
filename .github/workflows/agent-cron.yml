@@ -2,17 +2,18 @@ name: build-json
 
 on:
   schedule:
-    - cron: '0 6 * * *'    # täglich 06:00 UTC
-  workflow_dispatch:       # manuell startbar
+    - cron: '0 6 * * *'   # täglich 06:00 UTC
+  workflow_dispatch:      # manueller Start möglich
 
 permissions:
   contents: write
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Show repo tree
         run: |
@@ -21,7 +22,8 @@ jobs:
           ls -la scripts || true
           ls -la data || true
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -38,31 +40,24 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python scripts/build_json.py || true
-        # ^^^ wir lassen den Step nicht hart fehlschlagen
+          # Wichtig: Pfad anpassen, falls deine Datei NICHT hier liegt
+          python scripts/build_json.py
+        continue-on-error: true
 
-      - name: Ensure output exists (fallback)
-        if: always()
+      - name: Fallback if no output
         run: |
           if [ ! -f data/latest.json ]; then
             echo "No data/latest.json produced – writing fallback."
             mkdir -p data
-            cat > data/latest.json <<'EOF'
-        {
-          "company": "Pernod Ricard",
-          "generated_at": "1970-01-01T00:00:00Z",
-          "signals": [],
-          "sources": []
-        }
-        EOF
+            printf '%s' '{\n  "company": "Pernod Ricard",\n  "generated_at": "1970-01-01T00:00:00Z",\n  "signals": [],\n  "sources": []\n}\n' > data/latest.json
           fi
 
       - name: Show output
         run: |
-          wc -c data/latest.json || true
-          head -n 40 data/latest.json || true
+          wc -c data/latest.json
+          head -n 40 data/latest.json
 
-      - name: Commit & push updated data
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
