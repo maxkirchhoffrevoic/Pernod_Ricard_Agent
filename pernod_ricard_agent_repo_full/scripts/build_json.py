@@ -1,208 +1,181 @@
 # scripts/build_json.py
-import os, json, time, hashlib, re
-from datetime import datetime, timezone
-from typing import List, Dict, Any, Tuple
+# Sammeln von Quellen (Newsroom + Google News RSS 24h), Extraktion, LLM-Signale → data/latest.json
+
+import os
+import re
+import json
+import time
+import math
+import html
+import urllib.parse as ul
+from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
+import feedparser
+from dateutil import parser as dateparser
 
-# -------------------------
+# Optional .env laden (lokal). In GitHub Actions kommt der Key als Secret.
+try:
+    from dotenv import load_dotenv  # optional
+    load_dotenv()
+except Exception:
+    pass
+
+# =========================
 # Konfiguration
-# -------------------------
+# =========================
 COMPANY = "Pernod Ricard"
-NEWS_INDEX = "https://www.pernod-ricard.com/en/media"   # Newsroom-Übersicht
-MAX_ARTICLES = 6                                        # wie viele neue Artikel pro Lauf auswerten
+
+# Offizieller Newsroom (Seite wird gecrawlt)
+NEWS_INDEX = "https://www.pernod-ricard.com/en/media"
+
+# Google News RSS (keine API nötig; beachtet aber die jeweiligen Nutzungsbedingungen)
+# last 24h via "when:1d". Du kannst weitere Sprachen/Regionen hinzufügen.
+GOOGLE_NEWS_LANGS = [
+    ("de", "DE", "DE:de"),  # Deutsch
+    ("en", "US", "US:en"),  # Englisch
+]
+
+LOOKBACK_HOURS = 24           # wie viele Stunden zurück
+MAX_PER_SOURCE = 6            # pro Quelle nicht mehr als X Artikel
 TIMEOUT = 30
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.0)"}
 
-UA = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-)
+# OpenAI
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 
-# -------------------------
-# HTTP helpers
-# -------------------------
-def http_get(url: str) -> requests.Response:
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r
+# =========================
+# Utilities
+# =========================
+def now_utc() -> datetime:
+    return datetime.now(timezone.utc)
 
-def text_from_html(html: str) -> str:
-    soup = BeautifulSoup(html, "html.parser")
+def is_recent(dt: datetime, hours: int) -> bool:
+    if not isinstance(dt, datetime):
+        return False
+    return (now_utc() - dt) <= timedelta(hours=hours)
+
+def clean_text_from_html(html_text: str) -> str:
+    if not html_text:
+        return ""
+    soup = BeautifulSoup(html_text, "html.parser")
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
-    # häufig sitzen Inhalte in <article>, <main>, <section>
-    main = soup.find(["article", "main"]) or soup
-    text = main.get_text(" ", strip=True)
-    # Mehrfach-Spaces reduzieren
-    text = re.sub(r"\s+", " ", text)
+    text = soup.get_text(separator=" ")
+    text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def parse_title_and_date(html: str, fallback_url: str) -> Tuple[str, str]:
-    soup = BeautifulSoup(html, "html.parser")
-    title = (
-        (soup.find("meta", property="og:title") or {}).get("content")
-        or (soup.title.string.strip() if soup.title else "")
-        or fallback_url
-    )
-    # Veröffentlichungsdatum (falls vorhanden)
-    pub = (soup.find("meta", {"name": "date"}) or {}).get("content") \
-          or (soup.find("meta", property="article:published_time") or {}).get("content") \
-          or ""
-    return title.strip(), pub.strip()
+def fetch(url: str, timeout: int = TIMEOUT) -> str:
+    r = requests.get(url, headers=HEADERS, timeout=timeout)
+    r.raise_for_status()
+    return r.text
 
-def discover_article_links(index_url: str, max_n: int) -> List[str]:
-    """Findet Artikel-Links auf der News-Übersichtsseite."""
-    r = http_get(index_url)
-    soup = BeautifulSoup(r.text, "html.parser")
-    links = []
-
-    # Alle internen Links, die nach News-Artikeln aussehen
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if not href.startswith("http"):
-            href = "https://www.pernod-ricard.com" + href
-        # Heuristik: englische Medienseiten
-        if "/en/media/" in href and len(href) < 200:
-            links.append(href)
-
-    # Deduplizieren, Reihenfolge beibehalten
-    seen = set()
-    uniq = []
-    for u in links:
-        if u not in seen:
-            uniq.append(u)
-            seen.add(u)
-        if len(uniq) >= max_n:
-            break
-    return uniq
-
-# -------------------------
-# LLM-Extraktion (optional)
-# -------------------------
-def llm_extract_signals(texts: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """
-    Ruft OpenAI auf, wenn OPENAI_API_KEY gesetzt ist.
-    Gibt eine Liste einheitlicher 'signals'-Objekte zurück.
-    """
-    api_key = os.environ.get("OPENAI_API_KEY") or ""
-    if not api_key:
-        # Fallback ohne LLM: generische Zusammenfassung
-        approx_words = sum(len(t["text"].split()) for t in texts)
-        return [{
-            "type": "summary",
-            "value": {
-                "note": f"Automatische Kurz-Zusammenfassung ohne LLM. "
-                        f"{len(texts)} Quelle(n), ~{approx_words} Wörter extrahiert."
-            },
-            "confidence": 0.4,
-        }]
-
+def safe_get_text(url: str) -> str:
     try:
-        # OpenAI SDK v1.x
-        from openai import OpenAI
-        client = OpenAI(api_key=api_key)
+        html_ = fetch(url)
+        return clean_text_from_html(html_)
+    except Exception:
+        return ""
 
-        # Wir chunk-en sanft, damit Tokens klein bleiben
-        joined = "\n\n---\n\n".join(
-            f"TITLE: {t['title']}\nURL: {t['url']}\nTEXT: {t['text'][:8000]}"
-            for t in texts
-        )
+def norm_url(u: str) -> str:
+    try:
+        p = ul.urlsplit(u)
+        # Normalisierung (ohne Fragmente, standard query)
+        q = ul.parse_qsl(p.query, keep_blank_values=True)
+        q = ul.urlencode(sorted(q))
+        return ul.urlunsplit((p.scheme, p.netloc, p.path.rstrip("/"), q, ""))
+    except Exception:
+        return u
 
-        system = (
-             "Du extrahierst strukturierte, faktenbasierte Signale zu einer Firma."
-             "Gib ausschließlich JSON: {\"signals\":[...]}. "
-             "Jedes Signal hat Felder:"
-             "  type (one of: financial, strategy, sustainability, markets, risks, leadership, product),"
-             "  value (object with optional keys: headline, metric, value, unit, topic, summary, note, period, region, currency),"
-             "  confidence (0..1). "
-             "Beziehe dich nur auf Inhalte der Quellen."
-        )
+def dedupe(items, key="url"):
+    seen = set()
+    out = []
+    for it in items:
+        val = norm_url(it.get(key, "")).lower()
+        if not val or val in seen:
+            continue
+        seen.add(val)
+        out.append(it)
+    return out
 
-        user = (
-            f"Firma: {COMPANY}\n\n"
-            f"Quellentexte (gekürzt):\n{joined}\n\n"
-            "Liefere 3–6 prägnante Signale. confidence zwischen 0 und 1."
-        )
+def clip(text: str, n=9000) -> str:
+    return text if len(text) <= n else text[:n] + " ..."
 
-        # gpt-4o-mini ist günstig/robust
-        resp = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user},
-            ],
-            temperature=0.2,
-            response_format={"type": "json_object"},
-        )
-        content = resp.choices[0].message.content
-        data = json.loads(content)
-        signals = data.get("signals", [])
-        # Minimal validieren
-        out = []
-        for s in signals:
-            out.append({
-                "type": str(s.get("type", "other"))[:40],
-                "value": s.get("value", {}),
-                "confidence": float(s.get("confidence", 0.5)),
-            })
-        return out or [{
-            "type": "summary",
-            "value": {"note": "LLM lieferte kein verwertbares JSON."},
-            "confidence": 0.3,
-        }]
-    except Exception as e:
-        return [{
-            "type": "summary",
-            "value": {"note": f"LLM-Extraktion fehlgeschlagen: {e}"},
-            "confidence": 0.2,
-        }]
+# =========================
+# Quellen
+# =========================
+def discover_from_newsroom(index_url=NEWS_INDEX, max_items=MAX_PER_SOURCE):
+    """Scrape den offiziellen Newsroom und hole die letzten Artikel-URLs + Titel + Datum (falls erkennbar)."""
+    out = []
+    try:
+        html_ = fetch(index_url)
+        soup = BeautifulSoup(html_, "html.parser")
 
-# -------------------------
-# Orchestrierung
-# -------------------------
-def main():
-    # 1) Artikel finden
-    links = discover_article_links(NEWS_INDEX, MAX_ARTICLES)
+        # recht generisch: alle Links innerhalb der „media“-Seite
+        links = []
+        for a in soup.select("a[href]"):
+            href = a["href"].strip()
+            # Nur interne Artikelpfade erlauben, die nach "media" aussehen
+            if not href.startswith("http"):
+                href = ul.urljoin(index_url, href)
+            if "/media/" in href:
+                title = a.get_text(strip=True) or "Pernod Ricard – Media"
+                links.append((href, title))
 
-    # 2) Inhalte holen
-    items = []
-    for url in links:
+        # dedupe & kürzen
+        seen = set()
+        for href, title in links:
+            if href in seen:
+                continue
+            seen.add(href)
+            out.append({"url": href, "title": title, "source": "newsroom"})
+            if len(out) >= max_items:
+                break
+    except Exception:
+        pass
+    return out
+
+def google_news_rss_url(query: str, lang="en", gl="US", ceid="US:en", hours=24):
+    # when:1d → letzte 24h; wenn du 48h willst: when:2d
+    when = max(1, math.ceil(hours / 24))
+    q = f"{query} when:{when}d"
+    base = "https://news.google.com/rss/search"
+    params = {"q": q, "hl": lang, "gl": gl, "ceid": ceid}
+    return base + "?" + ul.urlencode(params)
+
+def discover_from_google_news(query=COMPANY, hours=LOOKBACK_HOURS, max_items=MAX_PER_SOURCE):
+    out = []
+    for lang, gl, ceid in GOOGLE_NEWS_LANGS:
+        url = google_news_rss_url(query, lang=lang, gl=gl, ceid=ceid, hours=hours)
         try:
-            r = http_get(url)
-            title, pub = parse_title_and_date(r.text, url)
-            txt = text_from_html(r.text)
-            items.append({
-                "url": url,
-                "title": title,
-                "published_at": pub,
-                "text": txt,
-                "hash": hashlib.sha256((url + ":" + txt[:2000]).encode("utf-8")).hexdigest()
-            })
-        except Exception as e:
-            # Quelle überspringen, aber notieren
-            items.append({
-                "url": url, "title": url, "published_at": "",
-                "text": "", "error": str(e), "hash": hashlib.sha256(url.encode()).hexdigest()
-            })
+            feed = feedparser.parse(url)
+            for e in feed.entries[: max_items]:
+                link = e.get("link") or ""
+                title = html.unescape(e.get("title", "")).strip()
+                # Publikationszeit
+                dt = None
+                for key in ("published", "updated"):
+                    if key in e:
+                        try:
+                            dt = dateparser.parse(e[key])
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                        except Exception:
+                            pass
+                out.append({
+                    "url": link,
+                    "title": title or "News",
+                    "source": f"google-news:{lang}",
+                    "published_at": dt.isoformat() if isinstance(dt, datetime) else None,
+                })
+        except Exception:
+            pass
+    return out
 
-    # 3) Signale extrahieren (LLM oder Fallback)
-    texts_for_llm = [{"url": it["url"], "title": it["title"], "text": it.get("text","")} for it in items if it.get("text")]
-    signals = llm_extract_signals(texts_for_llm)
-
-    # 4) JSON schreiben
-    out = {
-        "company": COMPANY,
-        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "signals": signals,
-        "sources": [{"url": it["url"], "title": it["title"], "published_at": it["published_at"]} for it in items],
-    }
-
-    os.makedirs("data", exist_ok=True)
-    with open("data/latest.json", "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2)
-
-    print(f"Wrote data/latest.json with {len(signals)} signals and {len(items)} sources.")
-
-if __name__ == "__main__":
-    main()
+# =========================
+# LLM-Extraktion
+# =========================
+def llm_extract_signals(company: str, texts: list[dict]) -> list[dict]:
+    """Erzeuge strukturierte Signale via OpenAI. Fällt bei Key/Fehler auf leichten Heuristik-Fallback zurück
