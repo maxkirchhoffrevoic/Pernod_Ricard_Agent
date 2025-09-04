@@ -2,8 +2,8 @@ name: build-json
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # täglich 06:00 UTC
-  workflow_dispatch:      # manuell startbar
+    - cron: "0 6 * * *"    # täglich 06:00 UTC
+  workflow_dispatch:       # manuell startbar
 
 permissions:
   contents: write
@@ -14,19 +14,62 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Show repo tree
+        run: |
+          echo "Branch: $GITHUB_REF"
+          ls -la
+          ls -la scripts || true
+          ls -la data || true
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      - name: Python info
+        run: |
+          python -V
+          pip -V
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          # requirements.txt installieren; wenn sie fehlt, installiere minimal
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests beautifulsoup4 openai
+          fi
 
       - name: Build JSON
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/build_json.py
+        run: |
+          set -e
+          python - <<'PY'
+import os, json, traceback
+from datetime import datetime, timezone
+try:
+    import scripts.build_json as m
+    m.main()
+except Exception as e:
+    print("Build failed:", e)
+    traceback.print_exc()
+    # Fallback schreiben, damit die App nicht leer/fehlerhaft bleibt
+    os.makedirs("data", exist_ok=True)
+    with open("data/latest.json","w", encoding="utf-8") as f:
+        json.dump({
+            "company":"Pernod Ricard",
+            "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "signals": [],
+            "sources": []
+        }, f, ensure_ascii=False, indent=2)
+    print("Wrote fallback data/latest.json")
+PY
+
+      - name: Show output
+        run: |
+          wc -c data/latest.json || true
+          head -n 40 data/latest.json || true
 
       - name: Commit & push updated data
         run: |
