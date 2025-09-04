@@ -1,89 +1,146 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T12:23:39Z",
+  "generated_at": "2025-09-04T13:02:15Z",
   "signals": [
     {
       "type": "financial",
       "value": {
-        "headline": "FY25 Organic Sales Decline",
-        "metric": "Organic Sales",
-        "value": -3.0,
+        "headline": "FY25 Organic Net Sales Decline",
+        "metric": "Organic Net Sales",
+        "value": "-3.0",
         "unit": "%",
-        "summary": "Pernod Ricard reported a 3.0% decline in organic sales for FY25, with significant impacts from declines in China, USA, and GTR Asia.",
-        "period": "FY25"
+        "topic": "Sales Performance",
+        "summary": "Pernod Ricard reported a decline in organic net sales by 3.0% for FY25.",
+        "note": "Declines were noted in key markets including China, USA, and GTR Asia.",
+        "period": "FY25",
+        "region": "Global"
       },
-      "confidence": 0.9
+      "confidence": 0.8
     },
     {
       "type": "financial",
       "value": {
-        "headline": "Free Cash Flow Increase",
+        "headline": "Free Cash Flow Improvement",
         "metric": "Free Cash Flow",
-        "value": 1133,
-        "unit": "million €",
-        "summary": "Free Cash Flow increased by 18% to €1.1 billion, driven by improved operating working capital management.",
-        "period": "FY25"
+        "value": "1.1",
+        "unit": "billion €",
+        "topic": "Cash Management",
+        "summary": "Pernod Ricard achieved a free cash flow of €1.1 billion, an increase of 18%.",
+        "note": "Strong operating working capital management contributed to this improvement.",
+        "period": "FY25",
+        "region": "Global"
       },
       "confidence": 0.9
     },
     {
       "type": "strategy",
       "value": {
-        "headline": "Sale of Imperial Blue Business",
-        "summary": "Pernod Ricard India announced the sale of its Imperial Blue business division to Tilaknagar Industries to focus on premiumization and innovation.",
-        "note": "This strategic move aims to enhance profitability and growth in the Indian market."
+        "headline": "Focus on Premiumization",
+        "metric": "Business Strategy",
+        "value": "Imperial Blue Division Sale",
+        "unit": "N/A",
+        "topic": "Strategic Moves",
+        "summary": "Pernod Ricard is selling its Imperial Blue business to accelerate focus on premiumization.",
+        "note": "This aligns with their strategy to enhance brand desirability.",
+        "period": "FY25",
+        "region": "India"
       },
-      "confidence": 0.85
+      "confidence": 0.7
     },
     {
-      "type": "leadership",
+      "type": "financial",
       "value": {
-        "headline": "Board Proposed Appointments",
-        "summary": "Pernod Ricard's board proposed the appointment of two new independent directors to enhance diversity and industry expertise.",
-        "note": "The appointments reflect the board's ambition to strengthen its strategic capabilities."
+        "headline": "Operating Margin Expansion",
+        "metric": "Operating Margin",
+        "value": "+64",
+        "unit": "bps",
+        "topic": "Profitability",
+        "summary": "Pernod Ricard reported a strong organic operating margin expansion of 64 basis points.",
+        "note": "This was supported by a €900 million efficiency program.",
+        "period": "FY25",
+        "region": "Global"
       },
       "confidence": 0.8
     },
     {
+      "type": "leadership",
+      "value": {
+        "headline": "Leadership Team Presentation",
+        "metric": "Investor Engagement",
+        "value": "Presentation on FY25 Results",
+        "unit": "N/A",
+        "topic": "Corporate Governance",
+        "summary": "CEO Alexandre Ricard and EVP Finance Hélène de Tissot will present FY25 results.",
+        "note": "The presentation will include a Q&A session for analysts.",
+        "period": "August 2025",
+        "region": "Global"
+      },
+      "confidence": 0.6
+    },
+    {
       "type": "sustainability",
       "value": {
-        "headline": "Commitment to Sustainable Growth in China",
-        "summary": "Pernod Ricard welcomes the conclusion of China's MOFCOM Cognac Anti-Dumping investigation, reaffirming its commitment to sustainable growth in the region.",
-        "note": "The company aims to leverage its market-leading position in Cognac despite increased operational costs."
+        "headline": "2030 Sustainability Roadmap",
+        "metric": "Sustainability Goals",
+        "value": "4",
+        "unit": "Pillars",
+        "topic": "Corporate Responsibility",
+        "summary": "Pernod Ricard's 2030 roadmap includes four key sustainability pillars.",
+        "note": "The roadmap emphasizes commitments from grain to glass.",
+        "period": "2023-2030",
+        "region": "Global"
       },
-      "confidence": 0.75
+      "confidence": 0.7
     }
   ],
   "sources": [
     {
       "url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
-      "title": "FY25 Full-year Sales and Results",
-      "published_at": ""
+      "title": "FY25 Full-year Sales and Results"
     },
     {
       "url": "https://www.pernod-ricard.com/en/media/invitation-fy25-full-year-sales-and-results",
-      "title": "Invitation - FY25 Full-year Sales and Results",
-      "published_at": ""
+      "title": "Invitation - FY25 Full-year Sales and Results"
     },
     {
       "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-board-proposed-appointments",
-      "title": "Pernod Ricard board proposed appointments",
-      "published_at": ""
+      "title": "Pernod Ricard board proposed appointments"
     },
     {
       "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-india-sell-its-imperial-blue-business-division-tilaknagar-industries",
-      "title": "Pernod Ricard India to sell its Imperial Blue business division to Tilaknagar Industries",
-      "published_at": ""
+      "title": "Pernod Ricard India to sell its Imperial Blue business division to Tilaknagar Industries"
     },
     {
       "url": "https://www.pernod-ricard.com/en/media/response-pernod-ricard-relation-conclusion-china-s-mofcom-cognac-anti-dumping-investigation",
-      "title": "A response from Pernod Ricard in relation to the conclusion of China’s MOFCOM Cognac Anti-Dumping investigation",
-      "published_at": ""
+      "title": "A response from Pernod Ricard in relation to the conclusion of China’s MOFCOM Cognac Anti-Dumping investigation"
     },
     {
       "url": "https://www.pernod-ricard.com/en/media/successful-completion-sale-pernod-ricard-s-portfolio-strategic-international-wines-australian",
-      "title": "Successful completion of the sale of Pernod Ricard’s portfolio of strategic international wines to Australian Wine Holdco Limited",
-      "published_at": ""
+      "title": "Successful completion of the sale of Pernod Ricard’s portfolio of strategic international wines to Australian Wine Holdco Limited"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzhYM2piRWdnSURPdktLaUxWd011blIxdVZoT0ZTSkY3SkN6UFJBQ0YyT01QZzhPZTVQbnUtenZfTnBJeWVzcmFHQldoTnYwcTdjNnczV2hzbUxJNF85RzVmcy1OOFNlUlI2dmNGWmlkZkhrTnlGU1otdGJhUzVGX3k3SktVdw?oc=5",
+      "title": "Gold - Mit neuem Allzeithoch • news - Onvista"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhOVFhaYW9ibkRYOVZvblNDbHI1S2E3LTEtd3luWjZzUkVoSGQ5NFVpb2FYeUJ6MFYtM2FHQmxUQ3gxaFNZZTFXUDdzVkRXLVlXMmlIMXdxTG9mTWlZSVlic2E4WVA2V1d6ZGFiV0E5VVFoQVNuTEpvVVRoVWhxNVlDOGNHQVQ5ZFUyZGVCTnI?oc=5",
+      "title": "STOXX-Handel: Euro STOXX 50 steigt - finanzen.ch"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkcycDJWS09Xb2hIeHZnXzFKbTk0WjZtb1F0Rld2TmNuX18yN1Q2X2prYjJJWHFiWDFPUm5QYWtTVEJCdEVheGpMbld2U296ZWxGeEE0d2czeTdwY3hyaUplc1l2NFNHaGY0ekFyalJtWWFfay1DY2FKaXJqcFMzazNHeDBrd0VFZFlyWlpNZFEyUHU4UklxYlpISkMwNFFwMkd4SEVpT0RzRThEQjNDRy1vZENid0I4R0E?oc=5",
+      "title": "Euro STOXX 50-Handel aktuell: Euro STOXX 50 schlussendlich fester - finanzen.ch"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjVBU01iQ2R0dmdnNzNVeXZrUV9rcFFQMzFsY2xHRm5UR1pTLWlIbDZfUTI3Wko5UmRuTXJwLXVsYXM1UkwybHBMSXBzVWY1Y2EzMDl4UFNjYUJHc01lbWYtVWlONkp2MUpaeEQyT2RxemV6aUV5Q3BtVEZ4azlwUDJ6SzM1RU9MSHJMcm1VR1Fmb0NRaUdLZWt0bFhwRjJGY2hPX0JsNHdVa3Z1SmdV?oc=5",
+      "title": "Optimismus in Europa: Euro STOXX 50 am Nachmittag im Plus - finanzen.ch"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjVDUXdZMGFxV1NSMk5CeWIxRjRtZlE1bVZieHI3TUFGR1lnSW1KdmMwTWtoaHpTSUpod0VkSHBOVzhUcjVickFzQjJlYk56MlZreUdmOTVsSl9hLTNybXJjdjlUdXYzcG5MVFZuLWw2RGV4cUZIdUJ2UVNVWnVXZ1E3R0JzRGZzVG4wd2hsNGQ?oc=5",
+      "title": "DAX® - Anschlussverkäufe bleiben aus • news - Onvista"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVJSdDQwejJlMEF5OXNjNng1bHozVGUtT1RoRnBfeGlKb2k3M2Y1QXRHcjl5RFk2ZThaZEg5bnlFX0U0YnFMMHdJeXJuTFBQMHZGS0FUQlVtZ29OV0FPX3dQR2dBam83SVpCaVA4SHpIQVpvSzdPcUhIOVFTc1ZYSFBNQzNIUzNHb3BNR3AzaTRHNzhmRGhvVE94QVZBb2k4eWVDZjdRQldib3FtMlVlTU1kUkwxd0w5ZkY4Z1RQWDNBVjNKLW1nbHJDTDludC1NRno4VA?oc=5",
+      "title": "Handel in Europa: Euro STOXX 50 zeigt sich zum Start des Donnerstagshandels schwächer - finanzen.at"
     }
   ]
 }
