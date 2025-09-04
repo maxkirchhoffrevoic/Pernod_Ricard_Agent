@@ -1,13 +1,8 @@
 # scripts/build_json.py
-# Sammeln von Quellen (Newsroom + Google News RSS 24h), Extraktion, LLM-Signale → data/latest.json
+# Quellen (Newsroom + Google News 24h/30T), Extraktion mit Readability,
+# LLM-Batch + per-Artikel-Nachschlag -> data/latest.json
 
-import os
-import re
-import json
-import time
-import math
-import html
-import urllib.parse as ul
+import os, re, json, html, math, urllib.parse as ul
 from datetime import datetime, timedelta, timezone
 
 import requests
@@ -15,74 +10,48 @@ from bs4 import BeautifulSoup
 import feedparser
 from dateutil import parser as dateparser
 
-# Optional .env laden (lokal). In GitHub Actions kommt der Key als Secret.
+# optional .env laden (lokal)
 try:
-    from dotenv import load_dotenv  # optional
+    from dotenv import load_dotenv
     load_dotenv()
 except Exception:
     pass
 
-# =========================
-# Konfiguration
-# =========================
+# ---------------- Config ----------------
 COMPANY = "Pernod Ricard"
 
-# Offizieller Newsroom (Seite wird gecrawlt)
 NEWS_INDEX = "https://www.pernod-ricard.com/en/media"
+GOOGLE_NEWS_LANGS = [("de","DE","DE:de"), ("en","US","US:en")]
 
-# Google News RSS (keine API nötig; beachtet aber die jeweiligen Nutzungsbedingungen)
-# last 24h via "when:1d". Du kannst weitere Sprachen/Regionen hinzufügen.
-GOOGLE_NEWS_LANGS = [
-    ("de", "DE", "DE:de"),  # Deutsch
-    ("en", "US", "US:en"),  # Englisch
-]
+LOOKBACK_DAYS  = int(os.getenv("LOOKBACK_DAYS", "7"))       # hier kannst du 30 setzen
+LOOKBACK_HOURS = LOOKBACK_DAYS * 24
+MAX_PER_SOURCE = int(os.getenv("MAX_PER_SOURCE", "8"))
 
-LOOKBACK_HOURS = 24 * 30           # wie viele Stunden zurück
-MAX_PER_SOURCE = 100            # pro Quelle nicht mehr als X Artikel
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.1)"}
 TIMEOUT = 30
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.0)"}
 
-# OpenAI
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+MIN_TEXT_CHARS = 600           # Mindestlänge je Artikel
+TOP_TEXTS = 10                 # nur die besten N Texte ins LLM geben
+SIGNAL_LIMIT = 8               # max. Signale gesamt
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
+OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
-# =========================
-# Utilities
-# =========================
-def now_utc() -> datetime:
-    return datetime.now(timezone.utc)
+# -------------- Utils --------------
+def now_utc(): return datetime.now(timezone.utc)
 
 def is_recent(dt: datetime, hours: int) -> bool:
-    if not isinstance(dt, datetime):
-        return False
+    if not isinstance(dt, datetime): return False
     return (now_utc() - dt) <= timedelta(hours=hours)
 
-def clean_text_from_html(html_text: str) -> str:
-    if not html_text:
-        return ""
-    soup = BeautifulSoup(html_text, "html.parser")
-    for tag in soup(["script", "style", "noscript"]):
-        tag.decompose()
-    text = soup.get_text(separator=" ")
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
-def fetch(url: str, timeout: int = TIMEOUT) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=timeout)
+def fetch(url: str) -> str:
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     return r.text
-
-def safe_get_text(url: str) -> str:
-    try:
-        html_ = fetch(url)
-        return clean_text_from_html(html_)
-    except Exception:
-        return ""
 
 def norm_url(u: str) -> str:
     try:
         p = ul.urlsplit(u)
-        # Normalisierung (ohne Fragmente, standard query)
         q = ul.parse_qsl(p.query, keep_blank_values=True)
         q = ul.urlencode(sorted(q))
         return ul.urlunsplit((p.scheme, p.netloc, p.path.rstrip("/"), q, ""))
@@ -90,200 +59,281 @@ def norm_url(u: str) -> str:
         return u
 
 def dedupe(items, key="url"):
-    seen = set()
-    out = []
+    seen, out = set(), []
     for it in items:
-        val = norm_url(it.get(key, "")).lower()
-        if not val or val in seen:
-            continue
-        seen.add(val)
-        out.append(it)
+        val = norm_url(it.get(key,"")).lower()
+        if not val or val in seen: continue
+        seen.add(val); out.append(it)
     return out
 
-def clip(text: str, n=9000) -> str:
-    return text if len(text) <= n else text[:n] + " ..."
+def clean_article_text(html_text: str) -> str:
+    """Readability -> cleaner Text; Fallback auf Plain-Text."""
+    if not html_text: return ""
+    text = ""
+    try:
+        from readability import Document
+        doc = Document(html_text)
+        article_html = doc.summary(html_partial=True)
+        soup = BeautifulSoup(article_html, "html.parser")
+        for t in soup(["script","style","noscript"]): t.decompose()
+        text = soup.get_text(" ").strip()
+    except Exception:
+        pass
+    if len(text) < 200:  # Fallback
+        soup = BeautifulSoup(html_text, "html.parser")
+        for t in soup(["script","style","noscript"]): t.decompose()
+        text = soup.get_text(" ").strip()
+    text = re.sub(r"\s+"," ", text)
+    return text
 
-# =========================
-# Quellen
-# =========================
+def extract_published_at(html_text: str):
+    """Versuche Datum aus meta/time zu lesen."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    cand = (
+        soup.find("meta", {"name":"date"}) or
+        soup.find("meta", property="article:published_time") or
+        soup.find("time")
+    )
+    if not cand: return None
+    val = cand.get("content") or cand.get("datetime") or cand.get_text(strip=True)
+    try:
+        dt = dateparser.parse(val)
+        if dt and dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
+
+# -------------- Quellen --------------
 def discover_from_newsroom(index_url=NEWS_INDEX, max_items=MAX_PER_SOURCE):
-    """Scrape den offiziellen Newsroom und hole die letzten Artikel-URLs + Titel + Datum (falls erkennbar)."""
     out = []
     try:
         html_ = fetch(index_url)
         soup = BeautifulSoup(html_, "html.parser")
-
-        # recht generisch: alle Links innerhalb der „media“-Seite
         links = []
         for a in soup.select("a[href]"):
-            href = a["href"].strip()
-            # Nur interne Artikelpfade erlauben, die nach "media" aussehen
-            if not href.startswith("http"):
-                href = ul.urljoin(index_url, href)
+            href = a.get("href","").strip()
+            if not href: continue
+            if not href.startswith("http"): href = ul.urljoin(index_url, href)
             if "/media/" in href:
                 title = a.get_text(strip=True) or "Pernod Ricard – Media"
                 links.append((href, title))
-
-        # dedupe & kürzen
         seen = set()
         for href, title in links:
-            if href in seen:
-                continue
+            if href in seen: continue
             seen.add(href)
-            out.append({"url": href, "title": title, "source": "newsroom"})
-            if len(out) >= max_items:
-                break
+            out.append({"url": href, "title": title, "source":"newsroom"})
+            if len(out) >= max_items: break
     except Exception:
         pass
     return out
 
-def google_news_rss_url(query: str, lang="en", gl="US", ceid="US:en", hours=24):
-    # when:1d → letzte 24h; wenn du 48h willst: when:2d
-    when = max(1, math.ceil(hours / 24))
-    q = f"{query} when:{when}d"
+def google_news_rss_url(query: str, lang="en", gl="US", ceid="US:en", hours=LOOKBACK_HOURS):
+    when_days = max(1, math.ceil(hours/24))
     base = "https://news.google.com/rss/search"
-    params = {"q": q, "hl": lang, "gl": gl, "ceid": ceid}
-    return base + "?" + ul.urlencode(params)
+    q = f"{query} when:{when_days}d"
+    return base + "?" + ul.urlencode({"q": q, "hl": lang, "gl": gl, "ceid": ceid})
 
-def discover_from_google_news(query=COMPANY, hours=LOOKBACK_HOURS, max_items=MAX_PER_SOURCE):
+def discover_from_google_news(query=COMPANY):
     out = []
-    for lang, gl, ceid in GOOGLE_NEWS_LANGS:
-        url = google_news_rss_url(query, lang=lang, gl=gl, ceid=ceid, hours=hours)
+    for lang,gl,ceid in GOOGLE_NEWS_LANGS:
+        url = google_news_rss_url(query, lang=lang, gl=gl, ceid=ceid)
         try:
             feed = feedparser.parse(url)
-            for e in feed.entries[: max_items]:
-                link = e.get("link") or ""
-                title = html.unescape(e.get("title", "")).strip()
-                # Publikationszeit
+            for e in feed.entries[:MAX_PER_SOURCE]:
+                link  = e.get("link") or ""
+                title = html.unescape(e.get("title","")).strip() or "News"
                 dt = None
-                for key in ("published", "updated"):
-                    if key in e:
+                for k in ("published","updated"):
+                    if k in e:
                         try:
-                            dt = dateparser.parse(e[key])
-                            if dt.tzinfo is None:
-                                dt = dt.replace(tzinfo=timezone.utc)
-                        except Exception:
-                            pass
-                out.append({
-                    "url": link,
-                    "title": title or "News",
-                    "source": f"google-news:{lang}",
-                    "published_at": dt.isoformat() if isinstance(dt, datetime) else None,
-                })
+                            dt = dateparser.parse(e[k])
+                            if dt and dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
+                        except Exception: pass
+                out.append({"url": link, "title": title, "source":f"google-news:{lang}",
+                            "published_at": dt.isoformat() if dt else None})
         except Exception:
             pass
     return out
 
-# =========================
-# LLM-Extraktion
-# =========================
-def llm_extract_signals(company: str, texts: list[dict]) -> list[dict]:
-    """Erzeuge strukturierte Signale via OpenAI. Fällt bei Key/Fehler auf leichten Heuristik-Fallback zurück."""
-    if not OPENAI_API_KEY:
-        return heuristic_signals(company, texts)
-
+# -------------- LLM --------------
+def llm_batch_signals(company: str, texts: list[dict], limit=SIGNAL_LIMIT) -> list[dict]:
+    """Batch über mehrere Texte (zusammengefasst). Mindestens 3, bis zu 'limit' Signale."""
+    if not OPENAI_API_KEY: return []
     try:
         from openai import OpenAI
         client = OpenAI(api_key=OPENAI_API_KEY)
 
         joined = "\n\n".join(
-            f"### {t.get('title','(ohne Titel)')}\n{clip(t.get('text',''), 5000)}"
-            for t in texts if t.get("text")
-        )[:12000]
+            f"### {t.get('title','(ohne Titel)')}\n{t.get('text','')[:5000]}"
+            for t in texts
+        )[:20000]  # ~ 6-7k tokens
 
         system = (
-            "Du extrahierst faktenbasierte, strukturierte Signale zu einer Firma.\n"
-            "Antworte NUR mit JSON:\n"
-            "{ \"signals\": [ {\"type\":\"financial|strategy|markets|risks|product|leadership|sustainability\",\n"
-            "  \"value\": {\"headline\":\"...\",\"metric\":\"...\",\"value\":\"...\",\"unit\":\"...\",\"topic\":\"...\",\"summary\":\"...\",\"note\":\"...\",\"period\":\"...\",\"region\":\"...\"},\n"
-            "  \"confidence\": 0.0 } ] }\n"
-            "Kein Fließtext außerhalb des JSON, keine Erklärungen. Maximal 6 Signale."
+            "Du extrahierst faktenbasierte, strukturierte Signale zu der Firma. "
+            "Gib mindestens 3, bis zu 8 Signale zurück. "
+            "Nur JSON im Format:\n"
+            "{ \"signals\": [ {"
+            "\"type\":\"financial|strategy|markets|risks|product|leadership|sustainability\","
+            "\"value\": {"
+            "\"headline\":\"...\","
+            "\"metric\":\"...\","
+            "\"value\":\"...\","
+            "\"unit\":\"...\","
+            "\"topic\":\"...\","
+            "\"summary\":\"...\","
+            "\"note\":\"...\","
+            "\"period\":\"...\","
+            "\"region\":\"...\"},"
+            "\"confidence\": 0.0 } ] }"
         )
-
-        user = f"Firma: {company}\nQuellen (Auszug):\n{joined}"
+        user = f"Firma: {company}\nQuellen:\n{joined}"
 
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             temperature=0.2,
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user},
-            ],
+            response_format={"type": "json_object"},
+            messages=[{"role":"system","content":system},
+                      {"role":"user","content":user}],
         )
-
-        content = resp.choices[0].message.content
-        data = json.loads(content)
-        sigs = data.get("signals", [])
-        # Sanity
+        data = json.loads(resp.choices[0].message.content)
         out = []
-        for s in sigs:
-            if not isinstance(s, dict):
-                continue
-            s["type"] = str(s.get("type", "summary"))
-            try:
-                c = float(s.get("confidence", 0.5))
-            except Exception:
-                c = 0.5
+        for s in data.get("signals", []):
+            if not isinstance(s, dict): continue
+            s["type"] = str(s.get("type","summary"))
+            try: c = float(s.get("confidence", 0.5))
+            except: c = 0.5
             s["confidence"] = max(0.0, min(1.0, c))
             out.append(s)
-        return out[:6] if out else heuristic_signals(company, texts)
-    except Exception as e:
-        # Key- oder Netzfehler → Fallback
-        return heuristic_signals(company, texts)
-
-def heuristic_signals(company: str, texts: list[dict]) -> list[dict]:
-    """Ein sehr einfacher Fallback ohne LLM."""
-    if not texts:
+        return out[:limit]
+    except Exception:
         return []
+
+def llm_per_article(company: str, article: dict) -> list[dict]:
+    """Feinextraktion pro Artikel (0–2 Signale)."""
+    if not OPENAI_API_KEY: return []
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=OPENAI_API_KEY)
+        text = article.get("text","")[:6000]
+        system = (
+            "Extrahiere bis zu 2 faktenbasierte Signale aus dem Artikel. "
+            "Nur JSON: {\"signals\":[{...}]} wie zuvor beschrieben."
+        )
+        user = f"Firma: {company}\nTitel: {article.get('title')}\nText:\n{text}"
+
+        resp = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            temperature=0.2,
+            response_format={"type":"json_object"},
+            messages=[{"role":"system","content":system},
+                      {"role":"user","content":user}],
+        )
+        data = json.loads(resp.choices[0].message.content)
+        out=[]
+        for s in data.get("signals", []):
+            if not isinstance(s, dict): continue
+            s["type"]=str(s.get("type","summary"))
+            try: c=float(s.get("confidence",0.5))
+            except: c=0.5
+            s["confidence"]=max(0.0,min(1.0,c))
+            out.append(s)
+        return out[:2]
+    except Exception:
+        return []
+
+def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
+    if not texts:
+        return [{
+            "type":"summary",
+            "value":{"headline": company,"summary":"Keine verwertbaren Artikeltexte gefunden.","note":"Fallback"},
+            "confidence":0.2,
+        }]
     head = texts[0]
-    summary = head.get("text", "")[:280]
     return [{
-        "type": "summary",
-        "value": {"headline": head.get("title"), "summary": summary, "note": f"Auto-Zusammenfassung zu {company} (Fallback)"},
-        "confidence": 0.35,
+        "type":"summary",
+        "value":{"headline": head.get("title") or company,
+                 "summary": head.get("text","")[:280],
+                 "note":"Fallback"},
+        "confidence":0.35,
     }]
 
-# =========================
-# Pipeline
-# =========================
+# -------------- Pipeline --------------
 def main():
-    # 1) Links sammeln
+    # 1) Links
     items = []
     items += discover_from_newsroom()
-    items += discover_from_google_news()
-
-    # dedupe
+    items += discover_from_google_news(COMPANY)
     items = dedupe(items, key="url")
 
-    # 2) nur frische Artikel behalten (falls Datum vorhanden), sonst später über Textlänge filtern
-    recent = []
+    # 2) Inhalte abrufen + Datum bestimmen
+    enriched, sources = [], []
     for it in items:
-        dt = None
-        if it.get("published_at"):
-            try:
-                dt = dateparser.parse(it["published_at"])
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-            except Exception:
-                dt = None
-        if (dt and is_recent(dt, LOOKBACK_HOURS)) or (dt is None):
-            recent.append(it)
+        url, title = it["url"], it.get("title","")
+        try:
+            html_ = fetch(url)
+        except Exception:
+            sources.append({"url": url, "title": title}); continue
 
-    # 3) Inhalte holen
-    texts = []
-    for it in recent:
-        url = it["url"]
-        text = safe_get_text(url)
-        if len(text) < 400:
-            # sehr kurze/irrelevante Seiten überspringen
+        dt = it.get("published_at")
+        if dt: 
+            try: dt = dateparser.parse(dt)
+            except: dt = None
+        if not isinstance(dt, datetime):
+            try: dt = extract_published_at(html_)
+            except: dt = None
+
+        text = clean_article_text(html_)
+        if len(text) >= MIN_TEXT_CHARS:
+            enriched.append({
+                "url": url, "title": title, "source": it.get("source",""),
+                "published_at": dt, "text": text
+            })
+
+        sources.append({"url": url, "title": title})
+
+    # 3) strenger Lookback
+    enriched_recent = []
+    for a in enriched:
+        dt = a.get("published_at")
+        if dt and not is_recent(dt, LOOKBACK_HOURS):
             continue
-        texts.append({"url": url, "title": it.get("title", ""), "source": it.get("source", ""), "text": text})
+        enriched_recent.append(a)
 
-    # falls nichts brauchbares, wenigstens erste Links als Quellen speichern
-    sources = [{"url": it["url"], "title": it.get("title", "")} for it in recent][: MAX_PER_SOURCE * 2]
+    # Scoring: Länge + Frische
+    def score(a):
+        L = len(a.get("text",""))
+        dt = a.get("published_at")
+        bonus = 0.0
+        if dt:
+            hours = max(1.0, (now_utc()-dt).total_seconds()/3600.0)
+            bonus = 1.0 / hours
+        return L/1500.0 + bonus
 
-    # 4) Signale erzeugen
-    signals = llm_extract_signals(COMPANY, texts)
+    enriched_recent.sort(key=score, reverse=True)
+    selected = enriched_recent[:TOP_TEXTS]
+
+    # 4) LLM-Batch
+    signals = []
+    if OPENAI_API_KEY and selected:
+        signals = llm_batch_signals(COMPANY, selected, limit=SIGNAL_LIMIT)
+
+        # Nachschlag pro Artikel, falls zu wenige Signale
+        if len(signals) < 3:
+            for art in selected[:min(6,len(selected))]:
+                signals += llm_per_article(COMPANY, art)
+                if len(signals) >= SIGNAL_LIMIT:
+                    break
+
+        # Dedupe by (headline, topic)
+        dedup = {}
+        for s in signals:
+            val = s.get("value", {})
+            key = (val.get("headline","").strip().lower(), val.get("topic","").strip().lower())
+            if key not in dedup: dedup[key] = s
+        signals = list(dedup.values())[:SIGNAL_LIMIT]
+
+    if not signals:
+        signals = heuristic_summary(COMPANY, selected)
 
     # 5) Schreiben
     os.makedirs("data", exist_ok=True)
@@ -291,11 +341,11 @@ def main():
         "company": COMPANY,
         "generated_at": now_utc().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "signals": signals,
-        "sources": sources,
+        "sources": sources
     }
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"Wrote data/latest.json with {len(signals)} signals and {len(sources)} sources.")
+    print(f"Wrote data/latest.json with {len(signals)} signals and {len(sources)} sources; texts_selected={len(selected)}.")
 
 if __name__ == "__main__":
     main()
