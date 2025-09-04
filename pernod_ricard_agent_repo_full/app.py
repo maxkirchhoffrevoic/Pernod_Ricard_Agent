@@ -24,19 +24,94 @@ except Exception as e:
     st.error(f"Keine Daten gefunden/ladbar: {e}")
     st.stop()
 
+# ... oberer Teil deiner app.py bleibt gleich (load_data etc.)
+
 st.caption(f"Stand: {data.get('generated_at','–')}")
 
-sig = pd.DataFrame(data.get("signals", []))
-src = pd.DataFrame(data.get("sources", []))
+sig_raw = data.get("signals", [])
+src_raw = data.get("sources", [])
+
+import pandas as pd
+
+def flatten_signals(signals: list[dict]) -> pd.DataFrame:
+    # verschachtelte Felder (value.*) zu Spalten machen
+    if not signals:
+        return pd.DataFrame()
+    df = pd.json_normalize(signals, sep="_")
+    # Spalten schöner anordnen
+    value_cols = [c for c in df.columns if c.startswith("value_")]
+    front = [c for c in ["type", "confidence"] if c in df.columns]
+    others = [c for c in df.columns if c not in front + value_cols]
+    ordered = front + value_cols + others
+    return df[ordered]
+
+sig_df = flatten_signals(sig_raw)
+src_df = pd.DataFrame(src_raw)
 
 st.subheader("Signale")
-if sig.empty:
+
+if sig_df.empty:
     st.dataframe(pd.DataFrame([{"info": "Noch keine Signale"}]), use_container_width=True)
 else:
-    st.dataframe(sig, use_container_width=True, height=420)
+    # Filter
+    types = sorted(sig_df["type"].dropna().unique().tolist())
+    col1, col2 = st.columns([2, 1])
+    with col1:
+        sel_types = st.multiselect("Filter: Typ", types, default=types)
+    with col2:
+        min_conf = st.slider("Min. Confidence", 0.0, 1.0, 0.5, 0.05)
+
+    view = sig_df.copy()
+    if sel_types:
+        view = view[view["type"].isin(sel_types)]
+    view = view[view["confidence"].fillna(0) >= min_conf]
+
+    # Anzeige
+    st.dataframe(
+        view,
+        use_container_width=True,
+        height=420
+    )
+
+    # Details pro Zeile (schön formatiert)
+    with st.expander("Details je Signal anzeigen"):
+        for _, row in view.iterrows():
+            title_bits = [str(row.get("type", ""))]
+            for key in ["value_metric", "value_topic", "value_headline", "value_note"]:
+                if key in row and pd.notna(row[key]):
+                    title_bits.append(str(row[key])[:90])
+                    break
+            st.markdown("— " + " · ".join(title_bits) + f" · conf={row.get('confidence', 0):.2f}")
+            # vollständiges JSON (ohne NaN) zeigen
+            clean = {k: (None if pd.isna(v) else v) for k, v in row.to_dict().items()}
+            st.json(clean)
+
+    # Export
+    exp_col1, exp_col2 = st.columns(2)
+    with exp_col1:
+        st.download_button(
+            "CSV exportieren",
+            view.to_csv(index=False).encode("utf-8"),
+            file_name="signals.csv",
+            mime="text/csv",
+        )
+    with exp_col2:
+        import json
+        st.download_button(
+            "JSON exportieren",
+            json.dumps(sig_raw, ensure_ascii=False, indent=2),
+            file_name="signals.json",
+            mime="application/json",
+        )
 
 st.subheader("Quellen")
-if src.empty:
+if src_df.empty:
     st.dataframe(pd.DataFrame([{"info": "Noch keine Quellen"}]), use_container_width=True)
 else:
-    st.dataframe(src, use_container_width=True, height=420)
+    # klickbare Links
+    st.dataframe(
+        src_df.assign(url_link=src_df["url"].apply(lambda u: f"[Link]({u})"))[["title", "url_link"]],
+        use_container_width=True,
+        height=420
+    )
+

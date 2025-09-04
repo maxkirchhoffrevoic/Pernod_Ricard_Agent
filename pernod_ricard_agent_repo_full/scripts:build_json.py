@@ -110,11 +110,15 @@ def llm_extract_signals(texts: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         )
 
         system = (
-            "Extrahiere strukturierte, faktenbasierte Signale zu einer Firma. "
-            "Erlaube Typen wie: financial, strategy, sustainability, markets, risks, leadership, product. "
-            "Antworte ausschließlich als JSON mit einem Array 'signals', "
-            "jedes Element: {type: string, value: object, confidence: number}."
+             "Du extrahierst strukturierte, faktenbasierte Signale zu einer Firma."
+             "Gib ausschließlich JSON: {\"signals\":[...]}. "
+             "Jedes Signal hat Felder:"
+             "  type (one of: financial, strategy, sustainability, markets, risks, leadership, product),"
+             "  value (object with optional keys: headline, metric, value, unit, topic, summary, note, period, region, currency),"
+             "  confidence (0..1). "
+             "Beziehe dich nur auf Inhalte der Quellen."
         )
+
         user = (
             f"Firma: {COMPANY}\n\n"
             f"Quellentexte (gekürzt):\n{joined}\n\n"
