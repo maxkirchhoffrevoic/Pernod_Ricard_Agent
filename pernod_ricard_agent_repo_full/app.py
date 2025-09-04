@@ -1,17 +1,22 @@
-# app.py (No-DB)
-import streamlit as st, pandas as pd, requests
+# app.py
+import os, json, requests, streamlit as st, pandas as pd
 
 st.set_page_config(page_title="Pernod Ricard — Agent (No-DB)", layout="wide")
 st.title("Pernod Ricard — Agent (No-DB)")
 
-# Passen Sie user/repo an:
-DATA_URL = "https://raw.githubusercontent.com/maxkirchhoffrevoic/Pernod_Ricard_Agent/main/data/latest.json"
+DATA_URL = st.secrets.get("DATA_URL", "").strip()  # optionaler Fallback auf RAW-URL
 
 @st.cache_data(ttl=300)
 def load_data():
-    r = requests.get(DATA_URL, timeout=15)
-    r.raise_for_status()
-    return r.json()
+    local_path = "data/latest.json"
+    if os.path.exists(local_path):
+        with open(local_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    if DATA_URL:
+        r = requests.get(DATA_URL, timeout=15)
+        r.raise_for_status()
+        return r.json()
+    raise FileNotFoundError("data/latest.json nicht gefunden und keine DATA_URL gesetzt.")
 
 try:
     data = load_data()
@@ -25,7 +30,13 @@ sig = pd.DataFrame(data.get("signals", []))
 src = pd.DataFrame(data.get("sources", []))
 
 st.subheader("Signale")
-st.dataframe(sig if not sig.empty else pd.DataFrame([{"info":"Noch keine Signale"}]), use_container_width=True)
+if sig.empty:
+    st.dataframe(pd.DataFrame([{"info": "Noch keine Signale"}]), use_container_width=True)
+else:
+    st.dataframe(sig, use_container_width=True, height=420)
 
 st.subheader("Quellen")
-st.dataframe(src if not src.empty else pd.DataFrame([{"info":"Noch keine Quellen"}]), use_container_width=True)
+if src.empty:
+    st.dataframe(pd.DataFrame([{"info": "Noch keine Quellen"}]), use_container_width=True)
+else:
+    st.dataframe(src, use_container_width=True, height=420)

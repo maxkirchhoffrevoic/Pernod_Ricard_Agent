@@ -13,3 +13,5 @@ python-dateutil
 pgvector
 pytest
 beautifulsoup4
+openai>=1.30.0
+python-dateutil
