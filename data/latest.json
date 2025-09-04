@@ -1,96 +1,15 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T13:02:15Z",
+  "generated_at": "2025-09-04T13:10:22Z",
   "signals": [
     {
-      "type": "financial",
+      "type": "summary",
       "value": {
-        "headline": "FY25 Organic Net Sales Decline",
-        "metric": "Organic Net Sales",
-        "value": "-3.0",
-        "unit": "%",
-        "topic": "Sales Performance",
-        "summary": "Pernod Ricard reported a decline in organic net sales by 3.0% for FY25.",
-        "note": "Declines were noted in key markets including China, USA, and GTR Asia.",
-        "period": "FY25",
-        "region": "Global"
+        "headline": "FY25 Full-year Sales and Results",
+        "summary": "FY25 Full-year Sales and Results | Pernod Ricard Skip to main content Close Activate contrast theme Deactivate contrast theme Our Group Our Group Back Our Group Highlights Who we are A global leader in wine and spirits, we are 18,500 employees worldwide, respectful and responsibl",
+        "note": "Auto-Zusammenfassung zu Pernod Ricard (Fallback)"
       },
-      "confidence": 0.8
-    },
-    {
-      "type": "financial",
-      "value": {
-        "headline": "Free Cash Flow Improvement",
-        "metric": "Free Cash Flow",
-        "value": "1.1",
-        "unit": "billion €",
-        "topic": "Cash Management",
-        "summary": "Pernod Ricard achieved a free cash flow of €1.1 billion, an increase of 18%.",
-        "note": "Strong operating working capital management contributed to this improvement.",
-        "period": "FY25",
-        "region": "Global"
-      },
-      "confidence": 0.9
-    },
-    {
-      "type": "strategy",
-      "value": {
-        "headline": "Focus on Premiumization",
-        "metric": "Business Strategy",
-        "value": "Imperial Blue Division Sale",
-        "unit": "N/A",
-        "topic": "Strategic Moves",
-        "summary": "Pernod Ricard is selling its Imperial Blue business to accelerate focus on premiumization.",
-        "note": "This aligns with their strategy to enhance brand desirability.",
-        "period": "FY25",
-        "region": "India"
-      },
-      "confidence": 0.7
-    },
-    {
-      "type": "financial",
-      "value": {
-        "headline": "Operating Margin Expansion",
-        "metric": "Operating Margin",
-        "value": "+64",
-        "unit": "bps",
-        "topic": "Profitability",
-        "summary": "Pernod Ricard reported a strong organic operating margin expansion of 64 basis points.",
-        "note": "This was supported by a €900 million efficiency program.",
-        "period": "FY25",
-        "region": "Global"
-      },
-      "confidence": 0.8
-    },
-    {
-      "type": "leadership",
-      "value": {
-        "headline": "Leadership Team Presentation",
-        "metric": "Investor Engagement",
-        "value": "Presentation on FY25 Results",
-        "unit": "N/A",
-        "topic": "Corporate Governance",
-        "summary": "CEO Alexandre Ricard and EVP Finance Hélène de Tissot will present FY25 results.",
-        "note": "The presentation will include a Q&A session for analysts.",
-        "period": "August 2025",
-        "region": "Global"
-      },
-      "confidence": 0.6
-    },
-    {
-      "type": "sustainability",
-      "value": {
-        "headline": "2030 Sustainability Roadmap",
-        "metric": "Sustainability Goals",
-        "value": "4",
-        "unit": "Pillars",
-        "topic": "Corporate Responsibility",
-        "summary": "Pernod Ricard's 2030 roadmap includes four key sustainability pillars.",
-        "note": "The roadmap emphasizes commitments from grain to glass.",
-        "period": "2023-2030",
-        "region": "Global"
-      },
-      "confidence": 0.7
+      "confidence": 0.35
     }
   ],
   "sources": [
@@ -119,28 +38,60 @@
       "title": "Successful completion of the sale of Pernod Ricard’s portfolio of strategic international wines to Australian Wine Holdco Limited"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzhYM2piRWdnSURPdktLaUxWd011blIxdVZoT0ZTSkY3SkN6UFJBQ0YyT01QZzhPZTVQbnUtenZfTnBJeWVzcmFHQldoTnYwcTdjNnczV2hzbUxJNF85RzVmcy1OOFNlUlI2dmNGWmlkZkhrTnlGU1otdGJhUzVGX3k3SktVdw?oc=5",
-      "title": "Gold - Mit neuem Allzeithoch • news - Onvista"
+      "url": "https://www.pernod-ricard.com/en/media/third-quarter-fy25-sales-and-results",
+      "title": "Third Quarter FY25 Sales and Results"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhOVFhaYW9ibkRYOVZvblNDbHI1S2E3LTEtd3luWjZzUkVoSGQ5NFVpb2FYeUJ6MFYtM2FHQmxUQ3gxaFNZZTFXUDdzVkRXLVlXMmlIMXdxTG9mTWlZSVlic2E4WVA2V1d6ZGFiV0E5VVFoQVNuTEpvVVRoVWhxNVlDOGNHQVQ5ZFUyZGVCTnI?oc=5",
-      "title": "STOXX-Handel: Euro STOXX 50 steigt - finanzen.ch"
+      "url": "https://www.pernod-ricard.com/en/media/invitation-pernod-ricard-third-quarter-fy25-sales-and-results",
+      "title": "Invitation - Pernod Ricard Third Quarter FY25 Sales and Results"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkcycDJWS09Xb2hIeHZnXzFKbTk0WjZtb1F0Rld2TmNuX18yN1Q2X2prYjJJWHFiWDFPUm5QYWtTVEJCdEVheGpMbld2U296ZWxGeEE0d2czeTdwY3hyaUplc1l2NFNHaGY0ekFyalJtWWFfay1DY2FKaXJqcFMzazNHeDBrd0VFZFlyWlpNZFEyUHU4UklxYlpISkMwNFFwMkd4SEVpT0RzRThEQjNDRy1vZENid0I4R0E?oc=5",
-      "title": "Euro STOXX 50-Handel aktuell: Euro STOXX 50 schlussendlich fester - finanzen.ch"
+      "url": "https://www.pernod-ricard.com/en/media/pernod-picard-successfully-completes-bond-issuance-eu800million",
+      "title": "Pernod Picard successfully completes Bond Issuance: €800million"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjVBU01iQ2R0dmdnNzNVeXZrUV9rcFFQMzFsY2xHRm5UR1pTLWlIbDZfUTI3Wko5UmRuTXJwLXVsYXM1UkwybHBMSXBzVWY1Y2EzMDl4UFNjYUJHc01lbWYtVWlONkp2MUpaeEQyT2RxemV6aUV5Q3BtVEZ4azlwUDJ6SzM1RU9MSHJMcm1VR1Fmb0NRaUdLZWt0bFhwRjJGY2hPX0JsNHdVa3Z1SmdV?oc=5",
-      "title": "Optimismus in Europa: Euro STOXX 50 am Nachmittag im Plus - finanzen.ch"
+      "url": "https://www.pernod-ricard.com/en/media/approval-half-year-financial-results-and-filing-half-year-financial-report-fy202425",
+      "title": "Approval of the Half-Year Financial Results and filing of the Half-Year Financial report for FY2024/25"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjVDUXdZMGFxV1NSMk5CeWIxRjRtZlE1bVZieHI3TUFGR1lnSW1KdmMwTWtoaHpTSUpod0VkSHBOVzhUcjVickFzQjJlYk56MlZreUdmOTVsSl9hLTNybXJjdjlUdXYzcG5MVFZuLWw2RGV4cUZIdUJ2UVNVWnVXZ1E3R0JzRGZzVG4wd2hsNGQ?oc=5",
-      "title": "DAX® - Anschlussverkäufe bleiben aus • news - Onvista"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekR3Rm5Bdmcya0xMZWk5RVg0NUdGS1lZMmotVVZjSFIxc2E5VnRrbWFBbHBBRkkyQXRjLXM3TG9nVmRleV9fTG5EQmJINkJSTUlMVi1IbWxFQ2JBOWdyUEM3bndKemtVclZHM2k4azBaZmUxNlFiSkE3V2VQZnA1MlBZaW5XWUtiQWswVVFHMlRvX3BtZVBLNmIzclM4QkZNQW5n?oc=5",
+      "title": "Wintergenuss mit Stil – die Whisk(e)y-Promotions von Pernod Ricard Deutschland - WhiskyExperts"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVJSdDQwejJlMEF5OXNjNng1bHozVGUtT1RoRnBfeGlKb2k3M2Y1QXRHcjl5RFk2ZThaZEg5bnlFX0U0YnFMMHdJeXJuTFBQMHZGS0FUQlVtZ29OV0FPX3dQR2dBam83SVpCaVA4SHpIQVpvSzdPcUhIOVFTc1ZYSFBNQzNIUzNHb3BNR3AzaTRHNzhmRGhvVE94QVZBb2k4eWVDZjdRQldib3FtMlVlTU1kUkwxd0w5ZkY4Z1RQWDNBVjNKLW1nbHJDTDludC1NRno4VA?oc=5",
-      "title": "Handel in Europa: Euro STOXX 50 zeigt sich zum Start des Donnerstagshandels schwächer - finanzen.at"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0NEcVBzR0oxOWltc1loU2FSMjZlR2JvSDhHTmtIa1JBQlZQcGFWb3doVENBQXpqNFB2bjcxTkF2c3liME9EUHF1YWYwVUVCVnQ3Y3M5UzlCNzNuM2dDVkNzVm5OX3BCekZoZTg2OGlBUkZvYW9VT2FWaWthOHhtdUg4a0RzMi1HTEJiWjVCbXV3bmk1N2ZOTXhLM1E5QQ?oc=5",
+      "title": "Pernod Ricard sieht Licht am Ende des Tunnels - Börsen-Zeitung"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeUkwdm01ZU1mY3c2ajlTUFpsXy02bHhDZm41S0ljYW1uMnY4bk43T1dYbVNFR0dUcnFMWTdBQUNyRGZlZ1FicTF1RXg4N2VCUzdxNmhJc2pIVEw0dmxNdzc3RjdXTnVrOFhDLUFReFVPYm12N3FLUFY5emJubGswUFR4YXAxcEtaX0xvYmFDZWJQNjJTV0lkN0pIMDhfZS16dlBibkNvTnh5TWMydG5tZ09zbVkzc0xlVURqelF1RkhXQlRHMGNrTlBiam1Pd2pUMm5fSnNkZFFoS3hDeEtUSDZUT1Y4bjJCRVFXX2thdkdUb3hWeGtVSXlud2zSAesBQVVfeXFMT25XYUFOdF82V2I1X2RFNUNkM2tDaVVOT3dNN01OaFJYTHpCaHhMbFVVMFF2RzZ6cFdtTFh4SGNFdFJCeFRkU0g4Rkdlazllb2I0NTZETnBHYzBKNWp2Rk1SdjFWU3BscFhBc0lVLUlVYlJ1bW5TMTVjVHFhQy1yMEtmR25oQXNudkQtdThjV05WV2o0bnJCbEk4UHNCTVNhYXE4cXctemR0Y0NpUkxSbTVadEFuRDdLSng2ODYxMEZaRUxUSkZkYVdFMldaYnZ5U19wTW02Y1A2ZFBEaVhDUWJ2bmUyQzQ0UEF0bw?oc=5",
+      "title": "Pernod Ricard-Aktie zieht an: Pernod Ricard erwartet erst Anfang 2026 wieder besseren Umsatz - Finanzen.net"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91TGszVFN2ejltRzYyOGFNdFZQWFZLc3hSRlM1Sl9GWFRocFNqMF9SOUNWXzdMNC1UdU8xWjZZdGJCdnU1Zm50R3o0anBDSFhGeE1hMVdOMExiS3JCNmlhZkh4bVFiTW5xVk1Kdy1haGtjMnVYcGpTcDZR0gF_QVVfeXFMT1ozTWViMlV3V1pnSlJfMjl0NjEwQWJjTDAtVUdkWDJDQkJKY2psMWVSODYyNlZ4MWhwX2REb0RtNktUT1IteDZ0eUJiUUs4bTJ5Skg1NklZS015SWZwNnZnS3JNTkpLT045alN2RWJNZEF1ckh2dThxcUhWYVBRNA?oc=5",
+      "title": "JEFFERIES: Pernod Ricard \"buy\" - boerse.de - boerse.de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWtHNjJRVXJwaVN2ckxkMzJncno5VFVPdXBkSkJYcDV0Q2hKQ2IwTTBhcVlTcHp5NzlxX0hMeWJraG1WNS0yTXdCNHlCOVYtTUZnRTBWa2dDMUNSYWtOX0Q0TlZPOTJqYW1jS0t5cGtLUVJnU1QyY0J2SWlJZ052TVRzQklTdll3TDhqcjZ4M3NMOWlkcV9OMmg0SjNyYzdxeDJWdzRHWWNYSEFpdzRtT3BCUXpkaFZ3YkluUld4ZnhFZl8yTjhJV0VCaHlmYnh6RG92d3pTMmxTcWxVYWZyRmRGZXJjUU83RjZLeA?oc=5",
+      "title": "Frankreich - Pernod Ricard meldet Gewinnrückgang im ersten Halbjahr - Lebensmittelpraxis.de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXFPQ1pvWlpuSVJSZG9xRjBOOFUycW9uSFJkSlFhU2pjWGsyRDJ1ekRpLW9vU2J5VElGMFJSeE52Q0VVV2J0SlQ4Q1JQMzhvSFh3bi1vb3BYeWRDVi1PYmRBM2dyaUxpS1B1OHJtZFZ0SWZra3RsQTUwdEdxRm0xa2VZWHhZOU4tTW1EMnN6akFQUWJBZ0lpWUlHNTdDQUVnQTBHYg?oc=5",
+      "title": "Pernod Ricard: Zwischen Rekorden und Rückschlägen - Börse Express"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1N6TUdRNDJLYzREQ3haSTBzV1NWeHpLcnIxN3BCcG8tX0s3TjZycU1QZ3EzVVA4cUMtWmJ6YnlVV2pGbUVpSzFzXzJVWFFrc0ZKZ1VzanBtSktWcjY0V2tyQnp3M2dSSVd5cXJ5UWF0TVpfaFdRbjZrZ2VKdVhUMVVFcTExWG9RYjJ0Q2tpLXAtblB4MUdiOU5ETEpvNk9DSUlLQU1EMDBNV0RFS2Zxak1jRGEyeUZVYUVmQ3NVWQ?oc=5",
+      "title": "Spirituosen: China-Geschäft belastet Pernod Ricard weiter - Lebensmittel Zeitung"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXJhMUhoRGU3endCdnFqd0VOdlZveGRGSzV4UTJHb1BnLUhaVi1USWhwZ3hia05RSW5MVHducWNPZ2JKZ1c5V1pKdWpxeS02NktGZG1JZ2s2YkNINGlvQ05id2ZZOGtGQmx0WWs0SFB3UzdOcXdiQVdOMTQxbFVxcWw1c1hidjJQRS1wSmN0Nk1mM0N6VDBJMzBsU211aXlIOWlvYi02RkVzZjNnaUZ6dQ?oc=5",
+      "title": "Pernod Ricard: Umsatzrückgang, aber Analysten positiv überrascht! - Wallstreet Online"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pOGNjU2wtRXJMVXA4Zk9wUVVvS0szdEY4SG1uN1hvX0hmcGhmb0JlcEtnRFRhUlh5LXUxWnZXYnJEU1ZOQ295VzRpR2daemxXcXM1WllBbV9Hd2FwaVh4eWNGbHlUc0o1eUFBR01NbjQ4LWfSAXhBVV95cUxPeTQwR1U1cmRVM1RPeExHNnRkbGhkLXFGNXItMUpJQlV2MmNCbmotalUxOTJMWnFNT0Z0UUh6RFQ3Z1IxeUFJTllPemswa3YwVG9ENlNUaUNPTk9tSU05OFBDbVFma0xPTXlST0xGaDBKZ1U2MjQ3aEg?oc=5",
+      "title": "UBS: Pernod Ricard \"hold\" - boerse.de - boerse.de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEpDT2R6NWRvTjgwLVBkSGpvU29wUmI0U0p6dXlUUW5LQnQxaVlwRkhTQm5BVF82OG41aGZJdXpxekdnSk9YR2lJYkRZdklnRDA0d1hqV1oxMS0yZkxYbG9TN2R6MWFJRl9Lb3d4N3dWU2QyVmJHS0loRkRSZFd6Y29EWVM5WWJSOS12R0h5dXF3bFBETkVqTWxOVDVqZHc?oc=5",
+      "title": "Pernod Ricard Aktie: Schwieriges Quartal voraus - Börse Express"
     }
   ]
 }
