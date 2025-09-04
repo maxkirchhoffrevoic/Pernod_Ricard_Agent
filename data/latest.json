@@ -1,22 +1,45 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-04T12:30:00Z",
+  "generated_at": "2025-09-04T12:03:12Z",
   "signals": [
     {
-      "type": "financial",
-      "value": { "metric": "FY25 Sales", "note": "Umsatzwachstum ggü. Vorjahr", "delta": "+x%" },
-      "confidence": 0.7
-    },
-    {
-      "type": "strategy",
-      "value": { "topic": "Portfolio-Fokus", "summary": "Premiumisierung als Wachstumstreiber" },
-      "confidence": 0.6
+      "type": "summary",
+      "value": {
+        "note": "LLM-Extraktion fehlgeschlagen: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-SMwcr***************************************************************************************************************************************************Z6QA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+      },
+      "confidence": 0.2
     }
   ],
   "sources": [
     {
       "url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
-      "title": "FY25 Sales & Results"
+      "title": "FY25 Full-year Sales and Results",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/invitation-fy25-full-year-sales-and-results",
+      "title": "Invitation - FY25 Full-year Sales and Results",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-board-proposed-appointments",
+      "title": "Pernod Ricard board proposed appointments",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-india-sell-its-imperial-blue-business-division-tilaknagar-industries",
+      "title": "Pernod Ricard India to sell its Imperial Blue business division to Tilaknagar Industries",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/response-pernod-ricard-relation-conclusion-china-s-mofcom-cognac-anti-dumping-investigation",
+      "title": "A response from Pernod Ricard in relation to the conclusion of China’s MOFCOM Cognac Anti-Dumping investigation",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/successful-completion-sale-pernod-ricard-s-portfolio-strategic-international-wines-australian",
+      "title": "Successful completion of the sale of Pernod Ricard’s portfolio of strategic international wines to Australian Wine Holdco Limited",
+      "published_at": ""
     }
   ]
 }
