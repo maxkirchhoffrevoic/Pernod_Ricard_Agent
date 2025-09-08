@@ -369,7 +369,7 @@ def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[
         sources_list = "\n".join(numbered_sources)
 
         system = (
-            "Du bist ein Analyst. Erstelle einen sachlichen, faktenbasierten Bericht über die Firma. "
+            "Du bist ein Analyst. Erstelle einen sachlichen, faktenbasierten Bericht über die Firma. Gehe dabei sehr gründlich vor und gib einen ausfrührlichen Bericht zu den jeweiligen Themenbereichen. "
             "Struktur und Format: Markdown mit H2-Überschriften in dieser Reihenfolge:\n"
             "## Executive Summary\n"
             "## Finanzen\n"
@@ -385,7 +385,6 @@ def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[
             "- Belege konkrete Aussagen mit Zitatnummern in eckigen Klammern (z. B. [1], [3]) aus der unten stehenden Quellenliste. "
             "Erfinde keine Quellen.\n"
             "- Keine PR-Sprache, keine Spekulationen; vorsichtig formulieren, wenn Zahlen unsicher sind.\n"
-            "- Länge: grob 600–1200 Wörter.\n"
         )
 
         user = (
