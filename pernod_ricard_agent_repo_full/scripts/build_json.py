@@ -42,7 +42,7 @@ GOOGLE_NEWS_LANGS = [
 ]
 
 # Zeitraum (Standard: 7 Tage); alternativ in GitHub Actions als ENV setzen
-LOOKBACK_DAYS  = int(os.getenv("LOOKBACK_DAYS", "7"))
+LOOKBACK_DAYS  = int(os.getenv("LOOKBACK_DAYS", "14"))
 LOOKBACK_HOURS = LOOKBACK_DAYS * 24
 
 # wie viele Treffer pro Quelle
@@ -53,8 +53,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.1)"}
 TIMEOUT = 30
 
 # Auswahl/Qualität
-MIN_TEXT_CHARS = int(os.getenv("MIN_TEXT_CHARS", "600"))   # Mindestlänge Artikeltext
-TOP_TEXTS      = int(os.getenv("TOP_TEXTS", "10"))         # beste N Texte ins LLM
+MIN_TEXT_CHARS = int(os.getenv("MIN_TEXT_CHARS", "300"))   # Mindestlänge Artikeltext
+TOP_TEXTS      = int(os.getenv("TOP_TEXTS", "20"))         # beste N Texte ins LLM
 SIGNAL_LIMIT   = int(os.getenv("SIGNAL_LIMIT", "8"))       # max. Anzahl Signale
 
 # OpenAI
