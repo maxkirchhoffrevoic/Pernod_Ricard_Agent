@@ -1,8 +1,8 @@
 # scripts/build_json.py
 # -----------------------------------------------------------------------------
-# Täglicher Builder: sammelt Quellen (Newsroom + Google News), extrahiert
-# Artikeltexte, erzeugt strukturierte Signale per LLM und schreibt
-# data/latest.json. Zusätzlich wird ein gegliederter Markdown-Bericht erzeugt.
+# Täglicher Builder: sammelt Quellen (Newsroom + Google News + LinkedIn),
+# extrahiert Artikeltexte, erzeugt strukturierte Signale per LLM und schreibt
+# data/latest.json. Zusätzlich: gegliederter Markdown-Bericht.
 #
 # Abhängigkeiten (requirements.txt):
 #   requests, beautifulsoup4, feedparser, python-dateutil,
@@ -41,25 +41,37 @@ GOOGLE_NEWS_LANGS = [
     ("en", "US", "US:en"),
 ]
 
+# LinkedIn:
+#   - Setze LINKEDIN_RSS_URLS auf kommagetrennte RSS-Feeds (z. B. aus RSSHub / Social-Tool),
+#     z. B. "https://rsshub.app/linkedin/company/pernod-ricard,https://…/user/xyz"
+#   - Zusätzlich versuchen wir (optional) Google-News-RSS mit site:linkedin.com
+LINKEDIN_RSS_URLS = [u.strip() for u in os.getenv("LINKEDIN_RSS_URLS", "").split(",") if u.strip()]
+INCLUDE_GNEWS_LINKEDIN = os.getenv("INCLUDE_GNEWS_LINKEDIN", "1") in ("1", "true", "True")
+
 # Zeitraum (Standard: 7 Tage); alternativ in GitHub Actions als ENV setzen
-LOOKBACK_DAYS  = int(os.getenv("LOOKBACK_DAYS", "14"))
+LOOKBACK_DAYS  = int(os.getenv("LOOKBACK_DAYS", "7"))
 LOOKBACK_HOURS = LOOKBACK_DAYS * 24
 
 # wie viele Treffer pro Quelle
 MAX_PER_SOURCE = int(os.getenv("MAX_PER_SOURCE", "8"))
 
 # HTTP
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.1)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PernodRicardAgent/1.2)"}
 TIMEOUT = 30
 
 # Auswahl/Qualität
-MIN_TEXT_CHARS = int(os.getenv("MIN_TEXT_CHARS", "300"))   # Mindestlänge Artikeltext
-TOP_TEXTS      = int(os.getenv("TOP_TEXTS", "20"))         # beste N Texte ins LLM
+MIN_TEXT_CHARS_ARTICLE  = int(os.getenv("MIN_TEXT_CHARS_ARTICLE", "600"))  # Artikel
+MIN_TEXT_CHARS_LINKEDIN = int(os.getenv("MIN_TEXT_CHARS_LINKEDIN", "140")) # LinkedIn-Posts sind kürzer
+TOP_TEXTS      = int(os.getenv("TOP_TEXTS", "10"))         # beste N Texte ins LLM
 SIGNAL_LIMIT   = int(os.getenv("SIGNAL_LIMIT", "8"))       # max. Anzahl Signale
 
 # OpenAI
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
 OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+
+# Report-Prompt Feintuning
+REPORT_MAX_TEXTS     = int(os.getenv("REPORT_MAX_TEXTS", "12"))
+REPORT_MIN_CITATIONS = int(os.getenv("REPORT_MIN_CITATIONS", "6"))
 
 # ------------------------------- Utilities -----------------------------------
 def now_utc() -> datetime:
@@ -110,7 +122,7 @@ def clean_article_text(html_text: str) -> str:
     except Exception:
         pass
 
-    if len(text) < 200:   # Fallback (z. B. bei sehr „schmalen“ Seiten)
+    if len(text) < 200:   # Fallback
         soup = BeautifulSoup(html_text, "html.parser")
         for t in soup(["script", "style", "noscript"]):
             t.decompose()
@@ -137,6 +149,16 @@ def extract_published_at(html_text: str):
         return dt
     except Exception:
         return None
+
+def clean_from_html_fragment(fragment: str) -> str:
+    """HTML-Fragment (z. B. aus RSS summary/content) zu Text."""
+    if not fragment:
+        return ""
+    soup = BeautifulSoup(fragment, "html.parser")
+    for t in soup(["script", "style", "noscript"]):
+        t.decompose()
+    text = soup.get_text(" ").strip()
+    return re.sub(r"\s+", " ", text)
 
 # ----------------------------- Quellen-Finder --------------------------------
 def discover_from_newsroom(index_url=NEWS_INDEX, max_items=MAX_PER_SOURCE):
@@ -195,6 +217,78 @@ def discover_from_google_news(query=COMPANY):
                     "url": link,
                     "title": title,
                     "source": f"google-news:{lang}",
+                    "published_at": dt.isoformat() if dt else None
+                })
+        except Exception:
+            pass
+    return out
+
+# ----------------------------- LinkedIn Finder -------------------------------
+def discover_from_linkedin_rss(max_items=MAX_PER_SOURCE):
+    """Liest kommagetrennte RSS-Feeds aus LINKEDIN_RSS_URLS (z. B. RSSHub, Social-Tool)."""
+    out = []
+    for feed_url in LINKEDIN_RSS_URLS:
+        try:
+            feed = feedparser.parse(feed_url)
+            for e in feed.entries[:max_items]:
+                link = e.get("link") or ""
+                title = html.unescape(e.get("title", "")).strip() or "LinkedIn"
+                dt = None
+                for k in ("published", "updated"):
+                    if k in e:
+                        try:
+                            dt = dateparser.parse(e[k])
+                            if dt and dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                        except Exception:
+                            pass
+                # Prefetched summary/content
+                content = ""
+                if "summary" in e and e.summary:
+                    content = clean_from_html_fragment(e.summary)
+                elif "content" in e and e.content:
+                    try:
+                        content = clean_from_html_fragment(e.content[0].value)
+                    except Exception:
+                        pass
+
+                out.append({
+                    "url": link,
+                    "title": title,
+                    "source": "linkedin:rss",
+                    "published_at": dt.isoformat() if dt else None,
+                    "prefetched_text": content
+                })
+        except Exception:
+            pass
+    return out
+
+def discover_from_google_news_linkedin(company=COMPANY, max_items=MAX_PER_SOURCE):
+    """Best-Effort: Google News mit site:linkedin.com Query (funktioniert nicht immer, aber schadet nicht)."""
+    out = []
+    for lang, gl, ceid in GOOGLE_NEWS_LANGS:
+        when_days = max(1, math.ceil(LOOKBACK_HOURS / 24))
+        base = "https://news.google.com/rss/search"
+        q = f'{company} site:linkedin.com when:{when_days}d'
+        url = base + "?" + ul.urlencode({"q": q, "hl": lang, "gl": gl, "ceid": ceid})
+        try:
+            feed = feedparser.parse(url)
+            for e in feed.entries[:max_items]:
+                link  = e.get("link") or ""
+                title = html.unescape(e.get("title", "")).strip() or "LinkedIn (via GNews)"
+                dt = None
+                for k in ("published","updated"):
+                    if k in e:
+                        try:
+                            dt = dateparser.parse(e[k])
+                            if dt and dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                        except Exception:
+                            pass
+                out.append({
+                    "url": link,
+                    "title": title,
+                    "source": f"linkedin:gnews:{lang}",
                     "published_at": dt.isoformat() if dt else None
                 })
         except Exception:
@@ -278,7 +372,7 @@ def llm_per_article(company: str, article: dict) -> list[dict]:
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             temperature=0.2,
-            response_format={"type": "json_object"},
+            response_format={"type":"json_object"},
             messages=[
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
@@ -307,7 +401,7 @@ def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
             "type": "summary",
             "value": {
                 "headline": company,
-                "summary": "Keine verwertbaren Artikeltexte gefunden.",
+                "summary": "Keine verwertbaren Texte gefunden.",
                 "note": "Fallback"
             },
             "confidence": 0.2,
@@ -323,24 +417,26 @@ def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
         "confidence": 0.35,
     }]
 
-def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[dict], sources: list[dict]) -> str:
+def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[dict], sources: list[dict],
+                                 max_texts: int = REPORT_MAX_TEXTS,
+                                 min_citations: int = REPORT_MIN_CITATIONS,
+                                 use_only_selected_sources: bool = True):
     """
-    Erzeugt einen ausführlichen, gegliederten Bericht als Markdown.
-    Abschnitte: Executive Summary, Finanzen, Strategie, Produkte & Innovation,
-                Führung & Organisation, Märkte & Wettbewerb, Nachhaltigkeit & ESG,
-                Risiken, Ausblick.
-    Zitate als [1], [2], ... verweisen auf die Quellenliste (Reihenfolge = sources).
+    Erzeugt einen ausführlichen Bericht (Markdown).
+    Gibt zusätzlich die tatsächlich referenzierbare Quellenliste zurück (für Transparenz).
     """
     if not OPENAI_API_KEY:
-        return ""
+        return "", []
+
     try:
         from openai import OpenAI
         client = OpenAI(api_key=OPENAI_API_KEY)
 
-        # kompakte Materialbasis (Titel + Auszüge)
+        use_texts = texts[:max_texts]
+        # Artikel-Auszüge
         text_snippets = []
-        for t in texts[:8]:
-            snip = t.get("text", "")[:3500]
+        for t in use_texts:
+            snip = (t.get("text") or "")[:3500]
             title = t.get("title") or "(ohne Titel)"
             text_snippets.append(f"# {title}\n{snip}")
         joined_snippets = "\n\n---\n\n".join(text_snippets)[:24000]
@@ -348,68 +444,55 @@ def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[
         # kompakte Signalsicht
         sig_lines = []
         for s in signals[:12]:
-            t = s.get("type", "")
-            v = s.get("value", {}) or {}
-            head = v.get("headline", "")
-            summ = v.get("summary", "")
-            metric = v.get("metric", "")
-            topic = v.get("topic", "")
-            sig_lines.append(f"- type={t}; headline={head}; metric={metric}; topic={topic}; summary={summ}")
+            v = s.get("value") or {}
+            sig_lines.append(
+                f"- type={s.get('type','')}; headline={v.get('headline','')}; "
+                f"metric={v.get('metric','')}; topic={v.get('topic','')}; summary={v.get('summary','')}"
+            )
         signals_digest = "\n".join(sig_lines)
 
-        # Quellenliste (nummeriert)
+        # Quellenliste (nur Texte, die wirklich ins Prompt gehen)
+        if use_only_selected_sources:
+            selected_urls = {t.get("url") for t in use_texts}
+            sources_for_report = [s for s in sources if s.get("url") in selected_urls]
+        else:
+            sources_for_report = list(sources)
+
         numbered_sources = []
-        for i, s in enumerate(sources, start=1):
+        for i, s in enumerate(sources_for_report, start=1):
             ttl = (s.get("title") or "").strip()
             url = (s.get("url") or "").strip()
-            if ttl:
-                numbered_sources.append(f"[{i}] {ttl} — {url}")
-            else:
-                numbered_sources.append(f"[{i}] {url}")
+            numbered_sources.append(f"[{i}] {ttl+' — ' if ttl else ''}{url}")
         sources_list = "\n".join(numbered_sources)
 
         system = (
-            "Du bist ein Analyst. Erstelle einen sachlichen, faktenbasierten Bericht über die Firma. Gehe dabei sehr gründlich vor und gib einen ausfrührlichen Bericht zu den jeweiligen Themenbereichen. "
-            "Struktur und Format: Markdown mit H2-Überschriften in dieser Reihenfolge:\n"
-            "## Executive Summary\n"
-            "## Finanzen\n"
-            "## Strategie\n"
-            "## Produkte & Innovation\n"
-            "## Führung & Organisation\n"
-            "## Märkte & Wettbewerb\n"
-            "## Nachhaltigkeit & ESG\n"
-            "## Risiken\n"
-            "## Ausblick\n\n"
+            "Du bist ein Analyst. Erstelle einen faktenbasierten Bericht über die Firma. "
+            "Struktur (H2):\n"
+            "## Executive Summary\n## Finanzen\n## Strategie\n## Produkte & Innovation\n"
+            "## Führung & Organisation\n## Märkte & Wettbewerb\n## Nachhaltigkeit & ESG\n## Risiken\n## Ausblick\n\n"
             "Regeln:\n"
-            "- Schreibe auf Deutsch.\n"
-            "- Belege konkrete Aussagen mit Zitatnummern in eckigen Klammern (z. B. [1], [3]) aus der unten stehenden Quellenliste. "
-            "Erfinde keine Quellen.\n"
-            "- Keine PR-Sprache, keine Spekulationen; vorsichtig formulieren, wenn Zahlen unsicher sind.\n"
+            f"- Deutsch, 600–1200 Wörter.\n- Belege Aussagen mit Zitatnummern [n] aus der Quellenliste.\n"
+            f"- Versuche, mindestens {min_citations} unterschiedliche Quellen zu zitieren (sofern sinnvoll).\n"
+            "- Keine PR-Sprache, keine erfundenen Quellen/Zahlen."
         )
 
         user = (
             f"Firma: {company}\n\n"
-            "Verfügbare Signale (kompakt):\n"
-            f"{signals_digest}\n\n"
-            "Artikel-Auszüge:\n"
-            f"{joined_snippets}\n\n"
-            "Quellenliste (für Zitate):\n"
-            f"{sources_list}\n\n"
-            "Erzeuge jetzt den Bericht in Markdown. Verwende Zitatnummern [n] passend zur Quellenliste."
+            f"Verfügbare Signale (kompakt):\n{signals_digest}\n\n"
+            f"Artikel-/Post-Auszüge:\n{joined_snippets}\n\n"
+            f"Quellenliste (nur diese dürfen zitiert werden):\n{sources_list}\n\n"
+            "Erzeuge den Bericht."
         )
 
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             temperature=0.2,
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user},
-            ],
+            messages=[{"role":"system","content":system},{"role":"user","content":user}],
         )
         md = resp.choices[0].message.content.strip()
-        return md
+        return md, sources_for_report
     except Exception:
-        return ""
+        return "", []
 
 # -------------------------------- Pipeline -----------------------------------
 def main():
@@ -417,41 +500,57 @@ def main():
     items = []
     items += discover_from_newsroom()
     items += discover_from_google_news(COMPANY)
+    # LinkedIn (RSS)
+    if LINKEDIN_RSS_URLS:
+        items += discover_from_linkedin_rss()
+    # LinkedIn (via Google News site:linkedin.com)
+    if INCLUDE_GNEWS_LINKEDIN:
+        items += discover_from_google_news_linkedin(COMPANY)
     items = dedupe(items, key="url")
 
-    # 2) Inhalte abrufen + Datum bestimmen
+    # 2) Inhalte abrufen + Datum bestimmen (Posts/Artikel)
     enriched, sources = [], []
     for it in items:
-        url, title = it["url"], it.get("title", "")
-        try:
-            html_ = fetch(url)
-        except Exception:
-            sources.append({"url": url, "title": title})
-            continue
+        url, title, src = it["url"], it.get("title", ""), it.get("source", "")
+        prefetched = it.get("prefetched_text", "")
 
-        # Datum: RSS > HTML-Meta
+        html_ = None
+        # Wenn wir bereits Text aus RSS haben (LinkedIn), nutze ihn
+        if prefetched:
+            text = prefetched
+            html_ = None
+        else:
+            # versuche Seite zu laden (bei LinkedIn kann das scheitern → dann leeren Text)
+            try:
+                html_ = fetch(url)
+                text = clean_article_text(html_)
+            except Exception:
+                text = ""
+
+        # Veröffentlichungszeit
         dt = it.get("published_at")
         if dt:
             try:
                 dt = dateparser.parse(dt)
             except Exception:
                 dt = None
-        if not isinstance(dt, datetime):
+        if not isinstance(dt, datetime) and html_:
             dt = extract_published_at(html_)
 
-        text = clean_article_text(html_)
-        if len(text) >= MIN_TEXT_CHARS:
+        # Mindestlängen je Quelle
+        min_chars = MIN_TEXT_CHARS_LINKEDIN if src.startswith("linkedin") or "linkedin.com" in url else MIN_TEXT_CHARS_ARTICLE
+        if len(text) >= min_chars:
             enriched.append({
                 "url": url,
                 "title": title,
-                "source": it.get("source", ""),
+                "source": src,
                 "published_at": dt,
                 "text": text
             })
 
-        sources.append({"url": url, "title": title})
+        sources.append({"url": url, "title": title, "source": src})
 
-    # 3) strenger Lookback (nur Artikel mit Datum, die <= LOOKBACK_HOURS alt sind)
+    # 3) strenger Lookback (nur Artikel/Posts mit Datum, die ≤ LOOKBACK_HOURS alt sind)
     enriched_recent = []
     for a in enriched:
         dt = a.get("published_at")
@@ -467,7 +566,10 @@ def main():
         if dt:
             hours = max(1.0, (now_utc() - dt).total_seconds() / 3600.0)
             bonus = 1.0 / hours
-        return L / 1500.0 + bonus
+        # LinkedIn-Posts sind kürzer; gebe ihnen kleinen Bonus, damit sie reinkommen
+        src = a.get("source", "")
+        li_bonus = 0.2 if (src.startswith("linkedin") or "linkedin.com" in a.get("url","")) else 0.0
+        return L / 1500.0 + bonus + li_bonus
 
     enriched_recent.sort(key=score, reverse=True)
     selected = enriched_recent[:TOP_TEXTS]
@@ -478,7 +580,7 @@ def main():
         # Batch
         signals = llm_batch_signals(COMPANY, selected, limit=SIGNAL_LIMIT)
 
-        # Nachschlag pro Artikel, falls zu wenige
+        # Nachschlag pro Artikel/Post, falls zu wenige
         if len(signals) < 3:
             for art in selected[:min(6, len(selected))]:
                 signals += llm_per_article(COMPANY, art)
@@ -498,12 +600,14 @@ def main():
     if not signals:
         signals = heuristic_summary(COMPANY, selected)
 
-    # 4b) Ausführlichen Bericht erzeugen
-    report_md = ""
+    # 4b) Ausführlichen Bericht erzeugen + genutzte Quellen
+    report_md, report_used_sources = "", []
     try:
-        report_md = llm_generate_report_markdown(COMPANY, selected, signals, sources)
+        report_md, report_used_sources = llm_generate_report_markdown(
+            COMPANY, selected, signals, sources
+        )
     except Exception:
-        report_md = ""
+        report_md, report_used_sources = "", []
 
     # 5) Schreiben
     os.makedirs("data", exist_ok=True)
@@ -513,16 +617,20 @@ def main():
         "signals": signals,
         "sources": sources,
         "report_markdown": report_md,
+        "report_used_sources": report_used_sources,
         "report_meta": {
             "lookback_days": LOOKBACK_DAYS,
-            "texts_selected": len(selected)
+            "texts_selected": len(selected),
+            "report_max_texts": REPORT_MAX_TEXTS
         }
     }
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
+    # kleines Log
+    li_sources = sum(1 for s in sources if "linkedin.com" in (s.get("url","")) or str(s.get("source","")).startswith("linkedin"))
     print(
-        f"Wrote data/latest.json with {len(signals)} signals and {len(sources)} sources; "
+        f"Wrote data/latest.json with {len(signals)} signals; sources={len(sources)} (linkedin={li_sources}); "
         f"texts_selected={len(selected)}."
     )
 
