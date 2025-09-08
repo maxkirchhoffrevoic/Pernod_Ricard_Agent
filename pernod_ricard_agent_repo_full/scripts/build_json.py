@@ -256,6 +256,97 @@ def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
                  "note":"Fallback"},
         "confidence":0.35,
     }]
+def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[dict], sources: list[dict]) -> str:
+    """
+    Erzeugt einen ausführlichen, gegliederten Bericht als Markdown.
+    Abschnitte: Executive Summary, Finanzen, Strategie, Produkte/Innovation, Führung, Märkte/Wettbewerb,
+                Nachhaltigkeit/ESG, Risiken, Ausblick.
+    Zitate als [1], [2], ... verweisen auf die Quellenliste (Reihenfolge = übergebene sources).
+    """
+    if not OPENAI_API_KEY:
+        return ""
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=OPENAI_API_KEY)
+
+        # 1) kompaktes Material zusammenstellen (nicht zu groß, aber nützlich)
+        #    - Top Texte (Titel + Auszug)
+        text_snippets = []
+        for t in texts[:8]:  # reichen i. d. R. für den Bericht
+            snip = t.get("text", "")[:3500]
+            title = t.get("title") or "(ohne Titel)"
+            text_snippets.append(f"# {title}\n{snip}")
+
+        joined_snippets = "\n\n---\n\n".join(text_snippets)[:24000]
+
+        #    - Signale in knapper JSON-ähnlicher Darstellung
+        sig_lines = []
+        for s in signals[:12]:
+            t = s.get("type", "")
+            v = s.get("value", {}) or {}
+            head = v.get("headline", "")
+            summ = v.get("summary", "")
+            metric = v.get("metric", "")
+            topic = v.get("topic", "")
+            sig_lines.append(f"- type={t}; headline={head}; metric={metric}; topic={topic}; summary={summ}")
+        signals_digest = "\n".join(sig_lines)
+
+        #    - Quellenverzeichnis (nummeriert), das der Autor verwenden soll
+        #      Wichtig: Reihenfolge hier = Nummerierung im Bericht
+        numbered_sources = []
+        for i, s in enumerate(sources, start=1):
+            ttl = (s.get("title") or "").strip()
+            url = (s.get("url") or "").strip()
+            if ttl:
+                numbered_sources.append(f"[{i}] {ttl} — {url}")
+            else:
+                numbered_sources.append(f"[{i}] {url}")
+        sources_list = "\n".join(numbered_sources)
+
+        system = (
+            "Du bist ein Analyst. Erstelle einen sachlichen, faktenbasierten Bericht über die Firma. "
+            "Struktur und Format: Markdown mit klaren H2-Überschriften in dieser Reihenfolge:\n"
+            "## Executive Summary\n"
+            "## Finanzen\n"
+            "## Strategie\n"
+            "## Produkte & Innovation\n"
+            "## Führung & Organisation\n"
+            "## Märkte & Wettbewerb\n"
+            "## Nachhaltigkeit & ESG\n"
+            "## Risiken\n"
+            "## Ausblick\n\n"
+            "Regeln:\n"
+            "- Schreibe auf Deutsch.\n"
+            "- Belege konkrete Aussagen mit Zitatnummern in eckigen Klammern, z. B. [1], [3]. "
+            "Verwende ausschließlich die unten gelisteten Quellen; erfinde keine.\n"
+            "- Keine PR-Sprache, keine Spekulationen. Wenn Zahlen unsicher sind, formuliere vorsichtig.\n"
+            "- Länge: grob 600–1200 Wörter.\n"
+        )
+
+        user = (
+            f"Firma: {company}\n\n"
+            "Verfügbare Signale (kompakt):\n"
+            f"{signals_digest}\n\n"
+            "Artikel-Auszüge:\n"
+            f"{joined_snippets}\n\n"
+            "Quellenliste (für Zitate):\n"
+            f"{sources_list}\n\n"
+            "Erzeuge jetzt den Bericht in Markdown. Verwende Zitatnummern [n] passend zur Quellenliste."
+        )
+
+        resp = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            temperature=0.2,
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ],
+        )
+        md = resp.choices[0].message.content.strip()
+        return md
+    except Exception:
+        return ""
 
 # -------------- Pipeline --------------
 def main():
