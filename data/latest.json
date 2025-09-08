@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-08T06:14:41Z",
+  "generated_at": "2025-09-08T10:21:10Z",
   "signals": [
     {
       "type": "financial",
@@ -10,8 +10,8 @@
         "value": "-3.0",
         "unit": "%",
         "topic": "Sales Performance",
-        "summary": "Pernod Ricard reported a 3.0% decline in organic net sales for FY25, impacted by declines in key markets like China and the USA.",
-        "note": "The decline was also influenced by adverse foreign exchange impacts.",
+        "summary": "Pernod Ricard reported a 3.0% decline in organic net sales for FY25, impacted by declines in key markets.",
+        "note": "This decline was primarily due to adverse conditions in China, the USA, and GTR Asia.",
         "period": "FY25",
         "region": "Global"
       },
@@ -25,8 +25,8 @@
         "value": "N/A",
         "unit": "N/A",
         "topic": "Portfolio Management",
-        "summary": "Pernod Ricard India is selling its Imperial Blue business to Tilaknagar Industries to focus on premium brands and enhance profitability.",
-        "note": "This move aligns with Pernod Ricard's strategy to capitalize on premiumization trends in India.",
+        "summary": "Pernod Ricard India signed an agreement to sell its Imperial Blue business to Tilaknagar Industries to focus on premium brands.",
+        "note": "This move is expected to enhance profitability and align with premiumization trends in India.",
         "period": "FY25",
         "region": "India"
       },
@@ -37,11 +37,11 @@
       "value": {
         "headline": "Challenging Market Conditions in China",
         "metric": "Sales Change",
-        "value": "-21.0",
+        "value": "-21",
         "unit": "%",
         "topic": "Market Performance",
-        "summary": "Pernod Ricard experienced a 21% decline in sales in China due to a challenging macroeconomic environment and weak consumer sentiment.",
-        "note": "Premium brands like Jameson and Absolut showed strong growth despite overall declines.",
+        "summary": "Pernod Ricard experienced a 21% decline in sales in China due to weak consumer sentiment and macroeconomic challenges.",
+        "note": "Despite this, premium brands like Jameson and Absolut showed strong growth.",
         "period": "FY25",
         "region": "China"
       },
@@ -53,10 +53,10 @@
         "headline": "Free Cash Flow Improvement",
         "metric": "Free Cash Flow",
         "value": "1.1",
-        "unit": "billion EUR",
+        "unit": "billion euros",
         "topic": "Cash Management",
-        "summary": "Pernod Ricard reported a free cash flow of €1.1 billion for FY25, reflecting strong operating working capital management.",
-        "note": "This represents an 18% increase compared to the previous year.",
+        "summary": "Pernod Ricard reported a free cash flow of €1.1 billion, an 18% increase due to strong working capital management.",
+        "note": "This reflects improved cash conversion and operational efficiency.",
         "period": "FY25",
         "region": "Global"
       },
@@ -65,13 +65,13 @@
     {
       "type": "leadership",
       "value": {
-        "headline": "Proposed Appointments to the Board",
+        "headline": "Proposed Board Appointments",
         "metric": "Board Composition",
         "value": "2",
         "unit": "Directors",
         "topic": "Governance",
-        "summary": "Pernod Ricard's Board proposed the appointment of two new independent directors to enhance diversity and expertise.",
-        "note": "The appointments aim to strengthen the board's capabilities in navigating complex global challenges.",
+        "summary": "Pernod Ricard's board proposed the appointment of two new independent directors to enhance strategic capabilities.",
+        "note": "The appointments aim to bring expertise in the spirits industry and international markets.",
         "period": "FY25",
         "region": "Global"
       },
@@ -83,10 +83,10 @@
         "headline": "Commitment to Sustainable Growth",
         "metric": "Investment",
         "value": "1.2",
-        "unit": "billion EUR",
-        "topic": "Sustainability Initiatives",
-        "summary": "Pernod Ricard is investing €1.2 billion in capital expenditures and strategic inventories to support sustainable long-term growth.",
-        "note": "This investment reflects the company's commitment to sustainability and brand desirability.",
+        "unit": "billion euros",
+        "topic": "Sustainability Investments",
+        "summary": "Pernod Ricard plans to invest €1.2 billion in capital expenditures and strategic inventories to support long-term growth.",
+        "note": "This investment reflects the company's focus on sustainable practices and brand desirability.",
         "period": "FY25",
         "region": "Global"
       },
@@ -143,20 +143,20 @@
       "title": "Pernod Ricard-Aktie zieht an: Pernod Ricard erwartet erst Anfang 2026 wieder besseren Umsatz - MSN"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHY2a1ZYTmFleER2MnBWQURpZVVsT0p1TElOaTJaZDQ3dUUtaGdUOUN2UWxBZDEyU1UwMlBWbXpuQllWTWpsUmd4ZnBIRlhRNWpmRksyZmxFSk5NdUZCRWVYaTlweE54YnRhVURVSXhfd2ZMaE5oc01fMFhvOFFuMml6aFdCZHJyaDFpTjAwX1JJOXA4RWxxVVVYa2ZNZnFN?oc=5",
+      "title": "Jameson mit neuem Export-Rekord: 66 Millionen Flaschen weltweit abgesetzt - WhiskyExperts"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM1JGbHpCZjVMc2xHQmV5YjNJakNfaFpDdFlCYU9kMzhTRUN6Z1NicXdrSmQ2X1hBVnZJR05BR0kyWHd3cWZ3TjVGcGxYVkVNUVcxcWlPT1pNaUo5QkprcmI2cmtHa2NqUlBOQkljalFnRUFWWVVlaGkxaUV1N0lpQ0FwQmp4cUE5MDR0Y0t2T2VGT1Vwb3NGQ1UyeS1XM1owSlczdEd1bXpaNXpiakFFX0t3bVVPazRMMjY0Q3NocF9XNUFIelZSOGgwU09fN29kN0pZVWVJaWxiajR6ZnpvMEp4ZUpWY3FuOWh1d01ydUdqVzJyRHc?oc=5",
       "title": "Deutsche Bank, Siemens Energy und Argenx ersetzen Nokia, Stellantis und Pernod Ricard im Euro Stoxx 50 - MarketScreener Schweiz"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQy0wcWZvZVAtdjN4T0JEa2ppc3owd3A4eEJyWWdMci1tbktrTHgxV3BwajBnRy1iMXdreEdPOHN0LWRUTmc1dFVLSDRMYjduMHlHWHd1eEhObHFWVE5DRUFQTVoweFBLV0lmVHdtLVpPTTBOeEc0OGo2am1ZNWpJZnhnYV9yOUw5LVBEUkxvV1VTbzg?oc=5",
+      "title": "Aktien: Hochprozentiges fürs Portfolio - WirtschaftsWoche"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW1rVTBpMlpYaVVYRWFRY0RvUzNkZFdtN2M2SEdyWWs3ZERjRDRORjd1RXQxNmZwM2xuZlRVRHVTVkoyZXJoNE54aWZYLTB6LVBPUktrZnpYSGxRTXNuOUc4Tl8yRTJlb0dsX1hVS0MyZkllaVA3M0FQYVhlcm9ucENHZVNxU2FKRnhmNlBIZGdzcll6REFLekFYNlpoSEt5SnJpSzF3TGlPMmVqY3JzVU9tcHBRaGJNYlZuVTZKWQ?oc=5",
-      "title": "Deutsche Bank nach sieben Jahren wieder im Euro Stoxx 50 - Bloomberg.com"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92SEcwVnBwV252Y1VSR0w0S2NHOURLZFpZWGhaUEVuTG15Y3E1cFZGTWMxMnhWNmVYX05JQXdCYlQ5Z0VqVW83Z0M3SFJVOGNJMUJFZ25Uek9LWHVtdVo2NkpxQXFIZUtGX2o3RTM4V1NSb3MwU3hoNU5PYWLSAYIBQVVfeXFMT1dGX2dsOU9GUzdVT3hHUUNFVnh6S3R0RlhpNkFqczVDTUxaNENUYjZKYTdxQ1JoQzhvVG1kMHdLdUhnQk9COEFJbUk3R0o0MTdaQW9aWlFaR0F1LUZOTzRReXhPT3BNZGVxakExUnk4cFFiMGdmVGdsWGZjWk5reE9hZw?oc=5",
-      "title": "EuroStoxx 50: Deutsche Bank und Siemens Energy steigen auf - 4investors.de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYU9xalZwbElyeU83SlY5SEhwakdXNDZpVjQ4SG5oWG05ZnA4QnlIVTMwWHBVSWJ5dDg0QkZGMFhSMk53Rms4cnVmZzVFdmtnZzVhLTNOVnppNEs0NGVmN0R6SS1OdFU0dHFEUXVtaFRWUzFCR2g3YS1HMGY0M0hndlI5bWFqUk1oSkE2bnR1TWdITzV6V1Jkc19qU1JwVnBrckY4cWJPbDJiNVdtMmZr?oc=5",
-      "title": "Deutsche Bank und Siemens Energy steigen in Euro Stoxx 50 auf - FAZ"
+      "title": "Deutsche Bank nach sieben Jahren wieder im Euro Stoxx 50 - Bloomberg"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVh6WUROWVFEUmtZU2lzeGZVZzFCTVFlWE12SlJ0RVUxaWJ5anJzbHEtZkdwX3JuNzJJZEdmeGpId3pPM3VLaGtKb2NadDRLQ1F1YUd4ZWFpazlNUTJ2ZmZ6V05Ka21WS2trNnk2MnVoLU52OXRQbnRUR21RQXMwNWsxa0gwSWxZcVhZUWZzclkta3A5WTEwdTljMjNFZw?oc=5",
@@ -165,10 +165,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVhlanVSOTNsMjZHUlJWWlRoVzg0WGF2blhTMUZhQkwyZ3ROZl9OVUo2cnY0U3dWYjZBOVRnQkl3azFUbDVTMFlpUWI2SnBPN1BMX0pXTEpHNDJDSnVHRTYydmVGMC1RN1ZPYXZZVXRXQ09XNS1jNTFlRGxTd21hcXJ2UlJaR0w1MjVrVDkxYVFIMVJqSDlvbA?oc=5",
       "title": "Pernod Ricard to Revamp RGM, Analytics as Part of Route-to-Market Transformation - Consumer Goods Technology"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlZ1M3lVb2ZBS0hJTUlNYi1CZGRQUVFOdlZ5R1E0dm1fUjNHX216Qlk4LXpvYkp6ajFKelNxWjNqRFM5Zmctei0zNEdyYTZPdjM4WHh1ZDdCMU1xd0cwVHE0NWd2ZldkeHkwajh5Z0hRVjNIOG11VW1BYXhhSjc5VThNOGJ3eDcwTUtRVkNxekNwNEJWaGZmbkFFNDE?oc=5",
-      "title": "Pernod Ricard USA bets big on RTDs in market overhaul - The Drinks Business"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEpRQ2x0MHlycW9rLXhBR1FwRGhFYXV2XzVFUFVTZGxneXlGT0gtYkVucG1NNnVVQWlRUVZuT1VqeTdHUlFHM0pGZmw5TS00Z216X2h3U0VGeHhUOU1kMXNvWHZQZ0xHR2t5VTdCenltckY0bjRSbWltRW5sOGhlQ0twd0k?oc=5",
@@ -189,6 +185,15 @@
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV253a0VyMDdpLWZETm9ZbXo0TFdvVmtlSk9GN003UlZDSUN5NGJkVzNjOGRNWkpKLVc2eU0wQUhjTVpWM2xKTzlEV0tfcEtiOE84NjExTDFQODZKZ1FYNmE2alZubkdzNDFIaGJmUlJoeGtXZWM0ZTRjN1hjc3VjTFhMX3FWd1c1THk3Zzd1MDBVUEw3LWxrQWluVEd4Ymw1SHlaZkRDOXpXZnpLTTQyT3pxVU0?oc=5",
       "title": "Pernod Ricard (OTC:PRNDY) Trading 1.4% Higher - Time to Buy? - MarketBeat"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1hFd1E5d3lwdnVQRGdZVk0xUzJGT2UxNElYMkphSG55NEdhSXo4YnRBb1JkUllDN0prb2Z0NE5YSExUU3N0UERVSEZESEluZVZ6UlFSREhtX1Bfd0tUMHMybVBCUmlqRjN2SDVTY21fYjUwSFVCNVRIV0k2cnFoTkZPcmVOYkdhRzZhTTdCR0gyTmJqRUY5X1ZCZ0RoT294MnFvTVhteGpEZk5TQkl0azBwWHlrcXM?oc=5",
+      "title": "Pernod Ricard GTR releases The Chuan whisky with CDFG - DFNI"
     }
-  ]
+  ],
+  "report_markdown": "## Executive Summary\nPernod Ricard, ein führendes Unternehmen in der Spirituosen- und Champagnerindustrie, hat im Geschäftsjahr 2025 (FY25) einen Rückgang des organischen Nettoumsatzes um 3,0 % verzeichnet, was auf Herausforderungen in wichtigen Märkten wie China und den USA zurückzuführen ist. Trotz dieser Rückgänge konnte das Unternehmen eine Verbesserung des freien Cashflows um 18 % auf 1,1 Milliarden Euro erzielen, was auf ein starkes Management des Betriebskapitals hinweist. Pernod Ricard plant zudem Investitionen in Höhe von 1,2 Milliarden Euro in langfristiges Wachstum und hat kürzlich die Veräußertung seiner Imperial Blue Geschäftssparte in Indien angekündigt, um sich stärker auf Premium-Marken zu konzentrieren [1][4].\n\n## Finanzen\nIm FY25 beliefen sich die konsolidierten Nettoumsätze von Pernod Ricard auf 10.959 Millionen Euro, was einem organischen Rückgang von 3,0 % entspricht. Der Rückgang wurde durch negative Wechselkurswirkungen und eine schwache Nachfrage in wichtigen Märkten wie China und den USA beeinflusst [1]. Der freie Cashflow verbesserte sich jedoch um 18 % auf 1,1 Milliarden Euro, was auf eine effektive Verwaltung des Betriebskapitals zurückzuführen ist [1][2].\n\n## Strategie\nPernod Ricard verfolgt eine aktive Portfolio-Management-Strategie, die darauf abzielt, sich auf profitablere und wachstumsstärkere Marken zu konzentrieren. Die geplante Veräußertung der Imperial Blue Geschäftssparte in Indien ist ein Beispiel für diese Strategie, die darauf abzielt, die Ressourcen auf Premium-Marken wie Royal Stag und Jameson zu konzentrieren [4]. Das Unternehmen plant auch, 1,2 Milliarden Euro in Kapitalausgaben und strategische Bestände zu investieren, um das langfristige Wachstum zu unterstützen [1].\n\n## Produkte & Innovation\nPernod Ricard bietet eine breite Palette von Premium- und Luxusmarken an, darunter Absolut Vodka, Jameson Irish Whiskey und Martell Cognac. Das Unternehmen hat in FY25 eine kontinuierliche Volumenrückgewinnung von 2 % verzeichnet, unterstützt durch die Einführung neuer Produkte und Innovationen innerhalb seiner Markenfamilien [1][2]. Insbesondere die Marken Jameson und Absolut zeigen starke Wachstumsraten, während die Premiumisierung in Märkten wie Indien voranschreitet [4].\n\n## Führung & Organisation\nDer Vorstand von Pernod Ricard hat die Ernennung von zwei neuen unabhängigen Direktoren vorgeschlagen, um die strategischen Fähigkeiten des Unternehmens zu stärken. Diese Ernennungen sollen die Diversität und die komplementären Fähigkeiten des Vorstands erhöhen, insbesondere in Bezug auf die nordamerikanische Marktstrategie und geopolitische Herausforderungen [3]. \n\n## Märkte & Wettbewerb\nPernod Ricard sieht sich in mehreren Märkten, insbesondere in China, mit herausfordernden Bedingungen konfrontiert. Der Umsatz in China fiel um 21 %, was auf eine schwache Verbraucherstimmung und makroökonomische Herausforderungen zurückzuführen ist [1][4]. In anderen Märkten wie Indien und Brasilien verzeichnete das Unternehmen jedoch ein starkes Wachstum, was die Diversität seines Portfolios und die geografische Reichweite unterstreicht [1][2].\n\n## Nachhaltigkeit & ESG\nPernod Ricard hat sich verpflichtet, nachhaltiges Wachstum zu fördern und plant, 1,2 Milliarden Euro in nachhaltige Investitionen zu stecken. Diese Investitionen sollen nicht nur das Wachstum unterstützen, sondern auch die Verantwortung des Unternehmens gegenüber Umwelt und Gesellschaft stärken [1][2].\n\n## Risiken\nDie Risiken für Pernod Ricard umfassen makroökonomische Unsicherheiten, insbesondere in wichtigen Märkten wie China und den USA, sowie regulatorische Herausforderungen, die sich auf die Preisgestaltung und die Betriebskosten auswirken können. Die jüngste Anti-Dumping-Untersuchung in China hat zusätzliche Kosten verursacht, die das Unternehmen jedoch als weniger belastend empfindet, als wenn die vorläufigen Zölle dauerhaft geworden wären [5] [1].\n\n## Ausblick\nFür die kommenden Jahre plant Pernod Ricard, sich weiterhin auf die Premiumisierung seiner Marken zu konzentrieren und die Effizienz seiner Betriebsabläufe zu verbessern. Das Unternehmen erwartet, dass die Veräußertung von weniger profitablen Geschäftsbereichen wie Imperial Blue zu einer sofortigen Verbesserung der Margen und des Umsatzwachstums führen wird [4]. Die Herausforderungen in den Märkten werden jedoch weiterhin eine bedeutende Rolle spielen, und das Unternehmen wird seine Strategien anpassen müssen, um in einem sich schnell verändernden Umfeld erfolgreich zu bleiben.",
+  "report_meta": {
+    "lookback_days": 7,
+    "texts_selected": 8
+  }
 }
