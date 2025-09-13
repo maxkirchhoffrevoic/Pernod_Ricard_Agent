@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-12T06:13:58Z",
+  "generated_at": "2025-09-13T06:11:29Z",
   "signals": [
     {
       "type": "financial",
@@ -10,12 +10,12 @@
         "value": "-3.0",
         "unit": "%",
         "topic": "Sales Performance",
-        "summary": "Pernod Ricard reported a 3.0% decline in organic net sales for FY25, impacted by declines in key markets such as China and the USA.",
-        "note": "The decline was attributed to challenging macroeconomic conditions and adverse foreign exchange impacts.",
+        "summary": "Pernod Ricard reported a -3.0% decline in organic net sales for FY25, impacted by declines in key markets like China and the USA.",
+        "note": "The decline was attributed to adverse macroeconomic conditions and currency fluctuations.",
         "period": "FY25",
         "region": "Global"
       },
-      "confidence": 0.8
+      "confidence": 0.9
     },
     {
       "type": "strategy",
@@ -25,42 +25,42 @@
         "value": "N/A",
         "unit": "N/A",
         "topic": "Portfolio Management",
-        "summary": "Pernod Ricard India signed an agreement to sell its Imperial Blue business division to Tilaknagar Industries, focusing on premiumization and profitable growth.",
-        "note": "This strategic move is expected to enhance Pernod Ricard's operating margin and net sales growth in India.",
-        "period": "2025",
-        "region": "India"
-      },
-      "confidence": 0.75
-    },
-    {
-      "type": "markets",
-      "value": {
-        "headline": "Strong Growth in India",
-        "metric": "Sales Growth",
-        "value": "+6",
-        "unit": "%",
-        "topic": "Market Performance",
-        "summary": "India showed a strong underlying consumer demand with a 6% growth, particularly for premium brands like Jameson.",
-        "note": "The growth is driven by premiumization trends and dynamic consumer demand.",
+        "summary": "Pernod Ricard India announced the sale of its Imperial Blue business to Tilaknagar Industries to focus on premium brands and improve profitability.",
+        "note": "This strategic move is expected to enhance Pernod Ricard's growth in the Indian market.",
         "period": "FY25",
         "region": "India"
       },
       "confidence": 0.85
     },
     {
+      "type": "markets",
+      "value": {
+        "headline": "Strong Growth in India",
+        "metric": "Sales Growth",
+        "value": "+6.0",
+        "unit": "%",
+        "topic": "Market Performance",
+        "summary": "India showed a strong underlying consumer demand with a +6% growth in sales, particularly for premium brands.",
+        "note": "Jameson became the #1 imported spirit brand in India.",
+        "period": "FY25",
+        "region": "India"
+      },
+      "confidence": 0.8
+    },
+    {
       "type": "risks",
       "value": {
         "headline": "Challenging Environment in China",
         "metric": "Sales Decline",
-        "value": "-21",
+        "value": "-21.0",
         "unit": "%",
         "topic": "Market Risks",
-        "summary": "China experienced a significant 21% decline in sales due to a challenging macroeconomic environment and weak consumer sentiment.",
-        "note": "The decline particularly affected Martell and Scotch brands, despite strong growth in premium brands.",
+        "summary": "China faced a significant -21% decline in sales due to a challenging macroeconomic environment and weak consumer sentiment.",
+        "note": "This decline particularly affected Martell and Scotch brands.",
         "period": "FY25",
         "region": "China"
       },
-      "confidence": 0.7
+      "confidence": 0.9
     },
     {
       "type": "leadership",
@@ -71,26 +71,11 @@
         "unit": "Members",
         "topic": "Governance",
         "summary": "Pernod Ricard proposed the appointment of two new independent directors to enhance board diversity and expertise.",
-        "note": "The board will consist of 15 members, with a focus on strategic and geopolitical expertise.",
-        "period": "2025",
-        "region": "Global"
-      },
-      "confidence": 0.65
-    },
-    {
-      "type": "sustainability",
-      "value": {
-        "headline": "Commitment to Sustainable Growth",
-        "metric": "Capex Investment",
-        "value": "€1.2bn",
-        "unit": "EUR",
-        "topic": "Sustainability Investments",
-        "summary": "Pernod Ricard is investing €1.2 billion in sustainable long-term growth initiatives.",
-        "note": "This includes investments in strategic inventories and operational efficiencies.",
+        "note": "The board will consist of 46% women and 54% men, with 62% independent members.",
         "period": "FY25",
         "region": "Global"
       },
-      "confidence": 0.8
+      "confidence": 0.75
     }
   ],
   "sources": [
@@ -145,13 +130,18 @@
       "source": "google-news:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak9jN1U1cWNhLU4zTXdyY3BzZ0VocTNLRkJTcmE5VTBtN1lVbVRxVUd5M1FCdVpFaWIzcG9Fd1FNX21oUmcwVF8tT3RabDEtSmxiSVI0QzZlTHdTSWw1RHp3eU9lTlA0RkVlelRGUGtzbFdOWlJVV05iekVDMHRyRXpJOEhxV2w5WHZLOTRtOHpUUXc1SVlhNXJ4bUt3N2M?oc=5",
-      "title": "Besonders beachtet!: Pernod Ricard Aktie knickt ein - 10.09.2025 - Wallstreet Online",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUGxVeXp4UngzVTB4QTdPeWtRaVpFeklDQXFld3lNRTY1TjhHM2tYQ0F1NnRVdW5MR2p1NndYX0pubGo3bGxzb2JmQXU5dWFVOTB4Z282VVh6OG81bGowTU16aHBMX05zTk5mRzVxbnpSTlJ1Y05iclpNSm5sOUJNUmpoSU9NUXdtaUZQaG5mYk1TZjlLUjlINlFCcGo3alM4dGNhMjZ5WkJCVWNldC1FMnhBMmxJUmtYb1UzaW83eWJ1bHdkRzh1OFVQWWZfVlZ3YmVsaGszTnpqa0MzNUxPMkVoQm5fM0dqbGFnNlM1OFFnZEoxTGFZQXVXMl9fY1E?oc=5",
+      "title": "Österreich - Pernod Ricard Austria ernennt Christopher Robl zum Geschäftsführer - Lebensmittelpraxis.de",
       "source": "google-news:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzdSWHFvWGtBcDFMUFl4UW94RWowRnlvaVVJNnlNUEZBbVBzeTZRYUpmVTZmUjFhek52RlBZUWRRaXRmSnlTU1cwN2ZlY1A1SHp1aW52eGJLTGZVZnluUkxCQ0dJc3R5ZnVpRVFaVlFmNm5RZmdjeUJlQVNZdExpRWZkNkFyTmowR3V4MGhacm9tRG9GdjV0SThR?oc=5",
       "title": "Pernod Ricard. Aktie: Stabilität beleuchtet - Börse Express",
+      "source": "google-news:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak9jN1U1cWNhLU4zTXdyY3BzZ0VocTNLRkJTcmE5VTBtN1lVbVRxVUd5M1FCdVpFaWIzcG9Fd1FNX21oUmcwVF8tT3RabDEtSmxiSVI0QzZlTHdTSWw1RHp3eU9lTlA0RkVlelRGUGtzbFdOWlJVV05iekVDMHRyRXpJOEhxV2w5WHZLOTRtOHpUUXc1SVlhNXJ4bUt3N2M?oc=5",
+      "title": "Besonders beachtet!: Pernod Ricard Aktie knickt ein - 10.09.2025 - Wallstreet Online",
       "source": "google-news:de"
     },
     {
@@ -170,18 +160,13 @@
       "source": "google-news:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHY2a1ZYTmFleER2MnBWQURpZVVsT0p1TElOaTJaZDQ3dUUtaGdUOUN2UWxBZDEyU1UwMlBWbXpuQllWTWpsUmd4ZnBIRlhRNWpmRksyZmxFSk5NdUZCRWVYaTlweE54YnRhVURVSXhfd2ZMaE5oc01fMFhvOFFuMml6aFdCZHJyaDFpTjAwX1JJOXA4RWxxVVVYa2ZNZnFN?oc=5",
-      "title": "Jameson mit neuem Export-Rekord: 66 Millionen Flaschen weltweit abgesetzt - WhiskyExperts",
-      "source": "google-news:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkd0NWVUdElmNmhCSmp2NkdqUFowSTdROTJCcGUyVlBhblRKS1lrTkhlRWc3Y2lLRzN2VEtNOTJSY29vX0JTMy1Da2FkeTJiQ1pWd3VPdHlYSVI2bHBFLWY0QkkzXzRBVmtHTm80d2I3akR1NWkxUG9fWkZGcjUzNThDbXpuUWZDZ3dGdzdEZk1uNDRBTVlSSmcxV2oydw?oc=5",
-      "title": "Pernod Ricard highlights Ferrari pit crew in Chivas Regal ad – video - Global Drinks Intel",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFAyTzFETTVuSmJUUWlJSnhoVkpNX1pTTndWZE56aXVKdUdFWWd5VXE3el9tUk1aelpTbXB4eFlEVWdJVXdTalc0YnMwc2RmRnlIS0RiTXMwZUxORVJVdHpBU3JVbV9mNldUWm9TNExHWnJwTVBxM2o1NmhNR19wWU13UzRjSDF4QWRFdmd0eFN6U3cyZm5FVjlLRlY5R3ZDQnlUN1dXV1JVaFlxeTE1ekpMZzl3SmxaNFZWWEtkRlA2OGJxVnN1cjNVS2xpY1U?oc=5",
+      "title": "Morgan Stanley downgrades Pernod Ricard on weak FY26 earnings, high risk ahead - Investing.com",
       "source": "google-news:en"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFAyTzFETTVuSmJUUWlJSnhoVkpNX1pTTndWZE56aXVKdUdFWWd5VXE3el9tUk1aelpTbXB4eFlEVWdJVXdTalc0YnMwc2RmRnlIS0RiTXMwZUxORVJVdHpBU3JVbV9mNldUWm9TNExHWnJwTVBxM2o1NmhNR19wWU13UzRjSDF4QWRFdmd0eFN6U3cyZm5FVjlLRlY5R3ZDQnlUN1dXV1JVaFlxeTE1ekpMZzl3SmxaNFZWWEtkRlA2OGJxVnN1cjNVS2xpY1U?oc=5",
-      "title": "Morgan Stanley downgrades Pernod Ricard on weak FY26 earnings, high risk ahead - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbzBjSmtLTHQ3c1J6MU5iTnZINjdJUy1VbDIwV3JBWVBiaV9ETGlacC1aNm5sdTRqNWw5TlEtZ1JZZFhFb1R0V1RPUTRFYS1WM2VvUmJpVkNnSElLaUN6ZTJSNEZXSEp5aXhET2ExWXVYZW9mVVFRX3dHakFRSlVvdTJEVi1JaVVGZ2FOUERGQVdjdDRyTzJvN2dRQnlsSHQ5SnlaNDNpWkFBRS1PaHM3cEhMZ2xrWVR0dEhBM2hBNi01ekxPUE5WM29Ib2ItdGM1WlktTVZEMjVIUXJ3dV9tOFFTclBlVW1kMzVGbW1tcWdtM0xxTGxjY3RxUDdNdWE4UUE?oc=5",
+      "title": "'Innovation can’t do everything – you need to choose' - Pernod Ricard's global innovation director, Mathieu Deslandes, speaks to Global Drinks Intel - Global Drinks Intel",
       "source": "google-news:en"
     },
     {
@@ -200,34 +185,19 @@
       "source": "google-news:en"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjRlTEZjSVl3NElkVEdha1RSYUVOdkxraW51dVNuTUg3RHdhWXUwYlUxZWdPeUgtT3ZXUEtOTlhRbmdEQzZfTWdodU1GRWNaaXloZ0V5eTliUjF5el9oWUxLNm8tT3JrV19OcWJWeHNfQ2ZOOEJ3QWNJdVpOZjRod0xDa3RSUXVjMTR2VG9zWTJBNVEzVFVkYnR0dDNraFhteUZaOUctclc2dHFzOXJYa0ExVFJPa3BFTG5sYUJHRkRjYk0?oc=5",
-      "title": "Pernod Ricard stock downgraded by Morgan Stanley on FY26 concerns - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWVsRWU5U3Bka0taSHA2dm1QWDJONUtMMHFoeDh3WTI3RTZVNkdhUm9qTEd6VVMtaUQ5aWw1Ukw2dUhsN1FaWUgwLXdOLWNXaUhRRnVwMjByYTNyZnJQQVVyQVhweU5QQ1FMZkVMX2dzUDdXenVNdzhKazhnVy1TcTY4QVBrMXRxLUdveHBSeGdYbE1LY0lPRk9jVmdMdnpKQTJYVFRGNmFpRWlTUUtteVRkc2Z2NHk1dVZnMDFn?oc=5",
+      "title": "Supreme Court Rejects Pernod Ricard's Challenge Against \"London Pride\" - MarketScreener",
       "source": "google-news:en"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWVsRWU5U3Bka0taSHA2dm1QWDJONUtMMHFoeDh3WTI3RTZVNkdhUm9qTEd6VVMtaUQ5aWw1Ukw2dUhsN1FaWUgwLXdOLWNXaUhRRnVwMjByYTNyZnJQQVVyQVhweU5QQ1FMZkVMX2dzUDdXenVNdzhKazhnVy1TcTY4QVBrMXRxLUdveHBSeGdYbE1LY0lPRk9jVmdMdnpKQTJYVFRGNmFpRWlTUUtteVRkc2Z2NHk1dVZnMDFn?oc=5",
-      "title": "Supreme Court Rejects Pernod Ricard's Challenge Against \"London Pride\" - MarketScreener",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjRlTEZjSVl3NElkVEdha1RSYUVOdkxraW51dVNuTUg3RHdhWXUwYlUxZWdPeUgtT3ZXUEtOTlhRbmdEQzZfTWdodU1GRWNaaXloZ0V5eTliUjF5el9oWUxLNm8tT3JrV19OcWJWeHNfQ2ZOOEJ3QWNJdVpOZjRod0xDa3RSUXVjMTR2VG9zWTJBNVEzVFVkYnR0dDNraFhteUZaOUctclc2dHFzOXJYa0ExVFJPa3BFTG5sYUJHRkRjYk0?oc=5",
+      "title": "Pernod Ricard stock downgraded by Morgan Stanley on FY26 concerns - Investing.com",
       "source": "google-news:en"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3ZUM21QaHN4SzVGd3VrUlZpaUxiczcybmNGcVNWZW9FTVdzMUZIWVJsWFdxMjJCTllVMWQ3dzh3bGlYcnRTUGFPdXN6QVdpVF9ObDc4SjUtbUZmU0ExN2dreUdzZ2p1a1h4eXNDS29Yck5RTEY5YlNRZHpsQVJHY0NiVVA5Tjc5S3FEbkZQcFRGUWhsT2t1eVhGbEE0WFd4c1hKag?oc=5",
       "title": "Absolut turns Charing Cross into Keith Haring tribute - The Spirits Business",
       "source": "google-news:en"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGxtdHdNaEpZRElEaGRkeTA4Xy1reWhIMlAyU21famV4UG5BQkpuZC1GZDFmRlpRU3FqUlJFc0w4MXpKY1NtV1huZG1nQ3ppMmc1enMyN0p2ZW9odFNMZXRUeUxCcHJKTnJQZmhseUg1b2luN2o2NnVpNWhGVlhJaE53M2M5LWpickVqTVlkUThGekxhVmpqMXpBVlltbTBadUlUVllFaw?oc=5",
-      "title": "Pernod Ricard sucht Senior Key Account Manager Wholesale (m/w/d) in Zürich, Schweiz - LinkedIn Schweiz",
-      "source": "linkedin:gnews:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZnFMVl9hRV83QVlCbXBGRGNPYy1Sa3h2NzdHNm5FUEJFSm5YRGVnbEtjZVhfQ3E4WG95UkhpeHlvMzJzMGRrdnA0clNWMS16UW9OOWZyV05xZw?oc=5",
-      "title": "Denkfabrik Zukunft der Gastwelt (DZG) - LinkedIn",
-      "source": "linkedin:gnews:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXhCc0E5eUR5bE5BNFNidHJjcFJiYkRIUWZnTjNONXk1dkFPYjFncWVYUFdzcUlveGl2TEhLN29zcU5feGpvV3NfSGlzRHQ1YVBHOXZEWW9VXzk4SjV4Skd5OWdycUhHYUU2aUNTRmJqRUxGT2VYVXJaUTZKdkVTd3p6eTNORUpuMi1yb0Z6RFRwRjU4eXRSNmYwVG9Za2o3UDRadzBfUnpzMk01bFNUQkZhNFNJWEdnM3V2dg?oc=5",
-      "title": "What a great group of Supply Chain leaders. I was honored to serve as jury member for this years leaders in Supply Chain Award. We had more than 10.000 people joining the event - to celebrate and to spread the importance of Supply Chain. Here are the aw - LinkedIn",
-      "source": "linkedin:gnews:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXFsckU3VHFCZFRDajlaSkRSZmQ1M0JuOTJLTnBHMmI0Y1A3UVdKMVNRU1RQQTV3N21tbWExeFFMdEg4NkU0YVV2RUNMUVJiZlZRMzZtUm5USEd0ODNhV2hGMThMVi1mdF9Dc19YTWpqYkF6Vms0TFlfVE96VWJKclFRcGlhMmkxWThjX1JkSHRtZkxIbHVfZXdQc3JCTHNzbHViQ1M2Z0VmMmhMemhTQ0lIZlpsTGlza0RaM3F6cEZsOHJYQUFSdmRmaVE?oc=5",
@@ -245,13 +215,28 @@
       "source": "linkedin:gnews:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmpQT29WdllUdUM4OEMwbW1DaV9sMk5HUFBVc1MxSXppdFBZVWFDYjNMb2UyMF9FeUEtRWY0WW9tM2QzWFNLVDdPdEtYWFZXeXNUWVZPeEJpMWJ5d0RtZEoxN2dJZzBKNWJFckxuVTdDM3o3OXRZZlhOMWstU2o1VE1Vb0p2MGtCTTBEVlcxOWNrTHdP?oc=5",
-      "title": "PrePress & Multimedia AG sucht Key-Account-Manager in Urdorf, Zürich, Schweiz - LinkedIn Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbl9ycEt4aFRnd3ZUUVp3ZFNnWTVxVmh2aTZmLUk3OFhaRUtjUjJRSC1MV0phd25Xbkg4RTRLM0tnRVVjQXI0UWozT29pTmk3MXhBOWVNZWowX3RIVWpLdmk4d3RGalpxeXlVN3VfblZJRF9wNUtwTmFqRW5OTjRuY1JyMm5ULWMwVjZZbWlIQmJmRzJNLWZncDZpOVR6X0twUkVwOXRVaUQ?oc=5",
+      "title": "TieTalent sucht Verkaufsprofi Im Aussendienst 100% Ostschweiz in Schweiz - LinkedIn Schweiz",
       "source": "linkedin:gnews:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbl9ycEt4aFRnd3ZUUVp3ZFNnWTVxVmh2aTZmLUk3OFhaRUtjUjJRSC1MV0phd25Xbkg4RTRLM0tnRVVjQXI0UWozT29pTmk3MXhBOWVNZWowX3RIVWpLdmk4d3RGalpxeXlVN3VfblZJRF9wNUtwTmFqRW5OTjRuY1JyMm5ULWMwVjZZbWlIQmJmRzJNLWZncDZpOVR6X0twUkVwOXRVaUQ?oc=5",
-      "title": "TieTalent sucht Verkaufsprofi Im Aussendienst 100% Ostschweiz in Schweiz - LinkedIn Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjNiWFhtMWZ4bDdlWktsejEyNFdMdVVsZDBnc1J6S1pGazhvVXlib0pubTU3aDFybXZVVFJZczBRLTd6VEJwcHBtbk9yR3p5MzJQUzU3X3ptYzhXNGtidVlkNnhob1V4a2NsUnhUQ250YWhjcnVYeVVZMjh5U01IdjNrb1pJOFRmR20yV1dFN1p5ajNnV0M5VThtdDl5bkZfYkwzWDdFYXB4T0w3V3Mw?oc=5",
+      "title": "TieTalent sucht Account Manager:in Badener Tagblatt & Aargauer Zeitung in Baden, Aargau, Schweiz - LinkedIn Schweiz",
+      "source": "linkedin:gnews:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZnFMVl9hRV83QVlCbXBGRGNPYy1Sa3h2NzdHNm5FUEJFSm5YRGVnbEtjZVhfQ3E4WG95UkhpeHlvMzJzMGRrdnA0clNWMS16UW9OOWZyV05xZw?oc=5",
+      "title": "Denkfabrik Zukunft der Gastwelt (DZG) - LinkedIn",
+      "source": "linkedin:gnews:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtSnNnM2RvbkJQNUNvQ1JkWnNCb2JSVlY2X2M5Y0JzT0lIbm82RU5DTVFqLWZURWI4OUdXRTVFSUxFRDNmdVdVVHlEdFZ2dUNpZEhHbQ?oc=5",
+      "title": "Johannes Rohmer – Campari Group - LinkedIn",
+      "source": "linkedin:gnews:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWld2SXhUNGJMN1g4NWRFN2s3RElkY1J1VndxVF9DZHhidlRERHVxcHpRMm1aVkx3M2F5TTZRN0VHaEhLSEdaeHpueUJ1UXhlekVfMTg5ZGxBeVNQcks4dWhHUnZ4VWFRQmJuYjVpVTVqM2JDbVU2N2lQMTljenNBSXZTVy1oRkRrR1pOMVprOEV6bUJPTmotU1hXdTR0MVFub3k5LWpsSEpHVHFqSXhFcE9BTlZjZm1iSGJqM3Y3aWx1X1RIRW4wMw?oc=5",
+      "title": "Manager/Senior Manager, Marketing Strategy (Bangkok Based, relocation provided) - LinkedIn Schweiz",
       "source": "linkedin:gnews:de"
     },
     {
@@ -267,11 +252,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYU9jSlRQMEdpYUhJYjdzdXhXOE1kUnU4Wl84aWdPSW9DankzeVJPNjNSZnBici14VW5JVVJCRVRqbzFsT2l5RlNxdmFncTBRcGU3bTBubVZKc0JSRGMwOU9OUUhfSk9VczJqdFN5TnVicTI1TU16Yk5QNHpnMUVTOGNsN2lmUlhYRGRhdW5hVnQ2dmRVZEE?oc=5",
       "title": "Pernod Ricard hiring Key Account Manager - MD/DC/MC in Washington DC-Baltimore Area - LinkedIn",
-      "source": "linkedin:gnews:en"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVpuNVFFUEFuUDA1Q2FQQ042Z2V0WXdROFFSS0psT25kYW91QkFGZE80bkdiczdaSWV6S1BEamt5TmhFRjB2LUdZNkpyV2JiNGdxZklaT2ZvLWhNX254eUk1cWNYSHpQYzlmN2NpNm8xTEFRUDVMclV6SHJEeWJ6R1RYMExUM0hJeXo5UnkwQ3piNFZxMXh4S0RXVV8yc0lEY1hPbWN1NEFFV0h3LUlDUmE4Q0xCUDE1UmUyVDdB?oc=5",
-      "title": "2024 was a massive year for Arsenal F.C and Chivas Regal (Chivas Brothers), and we can’t wait to see what’s in store this season!​ The partnership took Gunners fans behind the scenes from North London to Asia, with unforgettable match day moments, excl - LinkedIn",
       "source": "linkedin:gnews:en"
     },
     {
@@ -293,9 +273,14 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmJqRDVLRUVyM25vdHloajFOUE53Y0VKMjRnVkhGLTR0QkI5QXd3UnBIb2l4cWhlcGNxRXpQZ2Vjam54MUFOc2JVNWJpSmV2UUwzZVZpYmVnQzFzXzgtdXROQWpnUGRzNG90YjBuREZnRVV6bzBtenlIT19GZDI4RGt0OHh3cl9YUmNELV9n?oc=5",
       "title": "Pernod Ricard hiring Market Manager, Georgia in Atlanta Metropolitan Area - LinkedIn",
       "source": "linkedin:gnews:en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFU4YWNHM2w3YTN1amVLaUFuRjdqNWxteFE0N0tkcl9TbXMzajdkZ21vZ0hOWTRudzFxbF9xR01pRElNWFR2Y0lYV1A3MGhGTE5UdVI3dndlekVlNWQ4aEl5RE1FbkhHVHg1cF9ld0RIZnU0bWdmWU94Z280cUlKaDc0QU41UnF6aGxYdFBkMWIxSEN3QXNiS1Y2VHVubHI0ZExOQnBDU2lZSGwyU0JqeEY4cW4zLTBOZGNyNkhpRDAtQkRyaUE?oc=5",
+      "title": "Celebrating the 2025 APEC Rising Stars !! Two years ago, we launched the Rising Star program in partnership with Pernod Ricard, driven by a shared vision: to elevate the craft of mixology across Asia Pacific by nurturing our talented bartenders and attracting - LinkedIn",
+      "source": "linkedin:gnews:en"
     }
   ],
-  "report_markdown": "## Executive Summary\n\nPernod Ricard, ein führendes Unternehmen in der Spirituosen- und Champagnerindustrie, hat im Geschäftsjahr 2025 (FY25) einen organischen Rückgang des Nettoumsatzes um 3,0 % verzeichnet, was auf Herausforderungen in wichtigen Märkten wie China und den USA zurückzuführen ist. Trotz dieser Rückgänge zeigt das Unternehmen in vielen anderen Märkten, insbesondere in Indien, eine starke Leistung. Pernod Ricard verfolgt eine Strategie der Premiumisierung und hat kürzlich die Veräußertung seiner Imperial Blue-Sparte in Indien angekündigt, um sich auf profitablere Marken zu konzentrieren. Das Unternehmen investiert zudem 1,2 Milliarden Euro in nachhaltige Wachstumsinitiativen.\n\n## Finanzen\n\nIm FY25 beliefen sich die Nettoumsätze von Pernod Ricard auf 10.959 Millionen Euro, was einem organischen Rückgang von 3,0 % entspricht. Der Rückgang war insbesondere in China (-21 %) und den USA (-6 %) ausgeprägt, während Indien ein Wachstum von 6 % verzeichnete [1][4]. Die organische Betriebsmarge konnte jedoch um 64 Basispunkte gesteigert werden, unterstützt durch ein Effizienzprogramm in Höhe von 900 Millionen Euro [1]. Der freie Cashflow betrug 1,1 Milliarden Euro, was eine Verbesserung um 18 % darstellt [1].\n\n## Strategie\n\nPernod Ricard verfolgt eine klare Strategie der Premiumisierung, um sich auf wachstumsstarke und profitable Marken zu konzentrieren. Die Veräußertung der Imperial Blue-Sparte an Tilaknagar Industries ist ein Beispiel für diese Strategie, die darauf abzielt, Ressourcen effektiver auf Marken wie Jameson und Absolut zu lenken [4]. Zudem plant das Unternehmen, seine Portfolio-Management-Strategie weiter zu optimieren, um in einem dynamischen Marktumfeld wettbewerbsfähig zu bleiben.\n\n## Produkte & Innovation\n\nDas Produktportfolio von Pernod Ricard umfasst eine Vielzahl von Premium- und Luxusmarken, darunter Absolut, Chivas Regal, Jameson und Martell. Die Innovationsstrategie des Unternehmens konzentriert sich auf die Einführung neuer Produkte und die Stärkung bestehender Marken. Insbesondere die Nachfrage nach Premium-Spirituosen in Indien zeigt, dass die Verbraucher bereit sind, für qualitativ hochwertige Produkte mehr zu bezahlen [1][4].\n\n## Führung & Organisation\n\nPernod Ricard hat kürzlich zwei neue unabhängige Direktoren in den Vorstand berufen, um die Diversität und Expertise zu erhöhen. Albert Baladi und Jean Lemierre bringen umfangreiche Erfahrungen aus der Spirituosen- und Finanzbranche mit, was dem Unternehmen helfen soll, sich in einem sich schnell verändernden globalen Markt zu behaupten [3]. Der Vorstand besteht nun aus 15 Mitgliedern, von denen 46 % Frauen sind und 62 % unabhängig [3].\n\n## Märkte & Wettbewerb\n\nDie Marktbedingungen sind in verschiedenen Regionen unterschiedlich. Während Indien ein starkes Wachstum von 6 % verzeichnet, kämpft China mit einem Rückgang von 21 % aufgrund eines herausfordernden makroökonomischen Umfelds und schwacher Verbraucherstimmung [1][4]. In den USA bleibt der Spirituosenmarkt stabil, jedoch mit einem leichten Rückgang in den Verkaufszahlen [1]. Die Wettbewerbslandschaft wird durch die zunehmende Nachfrage nach Premium-Produkten und die Notwendigkeit, sich an veränderte Verbraucherpräferenzen anzupassen, geprägt.\n\n## Nachhaltigkeit & ESG\n\nPernod Ricard hat sich verpflichtet, in nachhaltige Wachstumsinitiativen zu investieren, mit einem geplanten Kapitalaufwand von 1,2 Milliarden Euro [1]. Diese Investitionen sind Teil der langfristigen Strategie des Unternehmens, um sowohl ökologische als auch soziale Verantwortung zu übernehmen. Das Unternehmen hat auch Maßnahmen ergriffen, um die Auswirkungen seiner Geschäftstätigkeit auf die Umwelt zu minimieren und die soziale Verantwortung zu fördern.\n\n## Risiken\n\nDie Risiken für Pernod Ricard sind vielfältig und umfassen makroökonomische Herausforderungen, insbesondere in wichtigen Märkten wie China, wo ein Rückgang von 21 % im Umsatz verzeichnet wurde [1][4]. Zudem gibt es Unsicherheiten im Zusammenhang mit regulatorischen Änderungen und geopolitischen Spannungen, die sich negativ auf die Geschäftstätigkeit auswirken könnten. Die Abhängigkeit von bestimmten Märkten und die Volatilität der Rohstoffpreise stellen ebenfalls Risiken dar.\n\n## Ausblick\n\nFür die Zukunft plant Pernod Ricard, seine Strategie der Premiumisierung weiter zu verfolgen und sich auf wachstumsstarke Märkte wie Indien zu konzentrieren. Das Unternehmen wird weiterhin in nachhaltige Initiativen investieren und seine Portfolio-Management-Strategie anpassen, um den sich ändernden Marktbedingungen gerecht zu werden. Die Herausforderungen in China und den USA bleiben jedoch ein zentrales Thema, das die zukünftige Leistung des Unternehmens beeinflussen könnte [1][4][5].",
+  "report_markdown": "## Executive Summary\n\nPernod Ricard, ein führendes Unternehmen in der Spirituosen- und Champagnerindustrie, hat im Geschäftsjahr 2025 (FY25) einen Rückgang des organischen Nettoumsatzes um 3,0 % verzeichnet. Dieser Rückgang wurde hauptsächlich durch negative Entwicklungen in wichtigen Märkten wie China und den USA beeinflusst. Trotz dieser Herausforderungen zeigt das Unternehmen in anderen Regionen, insbesondere in Indien, ein starkes Wachstum. Pernod Ricard verfolgt eine Strategie der Portfoliooptimierung, um sich auf Premium-Marken zu konzentrieren und die Rentabilität zu steigern. Die jüngsten Verkäufe von Geschäftsbereichen, wie der Imperial Blue Division in Indien, sind Teil dieser Strategie [1][4].\n\n## Finanzen\n\nIm FY25 erzielte Pernod Ricard einen Nettoumsatz von 10.959 Millionen Euro, was einem organischen Rückgang von 3,0 % entspricht. Der Rückgang wurde durch negative Wechselkurswirkungen und eine schwache Nachfrage in China verstärkt, wo die Umsätze um 21 % sanken [1]. Die organische Betriebsmarge konnte jedoch um 64 Basispunkte gesteigert werden, was auf ein erfolgreiches Effizienzprogramm und strikte Kostenkontrolle zurückzuführen ist. Der freie Cashflow stieg um 18 % auf 1,1 Milliarden Euro, was auf eine verbesserte Verwaltung des Betriebskapitals hinweist [1][7].\n\n## Strategie\n\nPernod Ricard verfolgt eine klare Strategie der Portfoliooptimierung, um sich auf wachstumsstarke und profitable Marken zu konzentrieren. Der Verkauf der Imperial Blue Division an Tilaknagar Industries ist ein Beispiel für diese Strategie, die darauf abzielt, Ressourcen auf Premium-Marken wie Jameson und Absolut zu konzentrieren [4]. Das Unternehmen plant, weiterhin in nachhaltige Wachstumsinitiativen zu investieren, mit einem Investitionsbudget von 1,2 Milliarden Euro für strategische Bestände und Kapitalausgaben [1].\n\n## Produkte & Innovation\n\nDas Produktportfolio von Pernod Ricard umfasst eine Vielzahl von Premium- und Luxusmarken, darunter Absolut, Jameson, Chivas Regal und Martell. Die Innovationsstrategie des Unternehmens konzentriert sich auf die Einführung neuer Produkte und die Anpassung bestehender Marken an die sich ändernden Verbraucherpräferenzen. In Indien verzeichnete das Unternehmen ein starkes Wachstum bei Premium-Marken, was die erfolgreiche Umsetzung dieser Strategie unterstreicht [1][4].\n\n## Führung & Organisation\n\nPernod Ricard hat kürzlich zwei neue unabhängige Direktoren in den Vorstand berufen, um die Diversität und Expertise im Führungsteam zu erhöhen. Diese Ernennungen sind Teil der Bemühungen des Unternehmens, seine Governance-Strukturen zu stärken und die strategische Ausrichtung in einem sich schnell verändernden Markt zu unterstützen [3]. Die Unternehmensführung legt großen Wert auf soziale und ökologische Verantwortung, was sich in den Entscheidungen des Vorstands widerspiegelt.\n\n## Märkte & Wettbewerb\n\nPernod Ricard operiert in einem wettbewerbsintensiven Markt, der von großen Akteuren wie Diageo und Bacardi geprägt ist. Während das Unternehmen in vielen Märkten, einschließlich Indien, ein starkes Wachstum verzeichnet, sieht es sich in China mit erheblichen Herausforderungen konfrontiert, wo die Umsätze um 21 % zurückgingen [1][5]. Die Diversifizierung des geografischen Portfolios und die Fokussierung auf Premium-Produkte sind entscheidend, um im globalen Wettbewerb erfolgreich zu bleiben.\n\n## Nachhaltigkeit & ESG\n\nPernod Ricard hat sich verpflichtet, nachhaltige Praktiken in allen Geschäftsbereichen zu integrieren. Das Unternehmen investiert in umweltfreundliche Technologien und verfolgt eine verantwortungsvolle Unternehmensführung. Die jüngsten Verkäufe von Geschäftsbereichen, die nicht im Einklang mit den Nachhaltigkeitszielen stehen, sind Teil dieser Strategie, um den Fokus auf umweltfreundliche und sozial verantwortliche Produkte zu legen [1][4].\n\n## Risiken\n\nDie größten Risiken für Pernod Ricard sind die volatilen Marktbedingungen, insbesondere in China, wo eine schwache Verbrauchernachfrage und makroökonomische Herausforderungen zu einem signifikanten Umsatzrückgang geführt haben [1][5]. Darüber hinaus könnten geopolitische Spannungen und regulatorische Veränderungen in verschiedenen Märkten die Geschäftstätigkeit des Unternehmens beeinträchtigen. Das Unternehmen muss weiterhin agil auf diese Herausforderungen reagieren, um seine Marktposition zu sichern.\n\n## Ausblick\n\nFür die kommenden Jahre plant Pernod Ricard, seine Strategie der Premiumisierung fortzusetzen und sich auf wachstumsstarke Märkte wie Indien zu konzentrieren. Die erfolgreiche Umsetzung von Portfolioverkäufen und die Investition in innovative Produkte werden entscheidend sein, um die Rentabilität zu steigern und die Marktanteile zu sichern. Trotz der Herausforderungen in bestimmten Märkten bleibt das Unternehmen optimistisch und sieht Potenzial für weiteres Wachstum [1][4][6].",
   "report_used_sources": [
     {
       "url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
