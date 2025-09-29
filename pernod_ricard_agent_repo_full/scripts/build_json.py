@@ -83,7 +83,7 @@ TIMEOUT = 30
 
 # OpenAI
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
-OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-5")
 
 # Bericht
 REPORT_MAX_TEXTS     = int(os.getenv("REPORT_MAX_TEXTS", "14"))
@@ -100,6 +100,105 @@ ECOM_KEYWORDS = [
     "prime","seller","vendor","shop","webshop","checkout","basket","conversion","acquisition",
     "gmv","cart","buy box","fulfillment","fba","retouren","click & collect"
 ]
+
+# ---------- LLM-Kompatibilitäts-Helpers (Responses-API + Fallback) ----------
+def _extract_responses_text(resp):
+    # OpenAI Python SDK >= 1.30 hat meist resp.output_text
+    txt = getattr(resp, "output_text", None)
+    if isinstance(txt, str) and txt.strip():
+        return txt.strip()
+    # generische Extraktion
+    try:
+        out = resp.output  # kann Liste sein
+        if isinstance(out, list) and out:
+            # suche nach .content[].text
+            for item in out:
+                content = getattr(item, "content", None) or item.get("content")
+                if isinstance(content, list):
+                    for c in content:
+                        t = getattr(c, "text", None) or c.get("text")
+                        if isinstance(t, str) and t.strip():
+                            return t.strip()
+    except Exception:
+        pass
+    raise RuntimeError("Responses-API: kein Text im Response gefunden")
+
+def llm_json(system_msg: str, user_msg: str) -> dict:
+    """Versucht zuerst Responses-API (GPT-5), fällt auf Chat Completions zurück. Liefert JSON-Objekt."""
+    if not OPENAI_API_KEY:
+        raise RuntimeError("OPENAI_API_KEY fehlt")
+    from openai import OpenAI
+    client = OpenAI(api_key=OPENAI_API_KEY)
+
+    # 1) Responses-API (bevorzugt für GPT-5)
+    try:
+        kwargs = {
+            "model": OPENAI_MODEL,
+            "input": [
+                {"role": "system", "content": system_msg},
+                {"role": "user",   "content": user_msg},
+            ],
+            "response_format": {"type": "json_object"},
+        }
+        # optionale GPT-5 Regler
+        if str(OPENAI_MODEL).startswith("gpt-5"):
+            kwargs["reasoning"] = {"effort": "medium"}
+            # kwargs["text"] = {"verbosity": "medium"}  # optional
+
+        r = client.responses.create(**kwargs)
+        txt = _extract_responses_text(r)
+        return json.loads(txt)
+    except Exception as e_responses:
+        # 2) Fallback: Chat Completions (für gpt-4o-mini etc.)
+        try:
+            r = client.chat.completions.create(
+                model=OPENAI_MODEL,
+                temperature=0.2,
+                response_format={"type": "json_object"},
+                messages=[
+                    {"role": "system", "content": system_msg},
+                    {"role": "user",   "content": user_msg},
+                ],
+            )
+            content = r.choices[0].message.content
+            return json.loads(content)
+        except Exception as e_chat:
+            raise RuntimeError(f"LLM JSON fehlgeschlagen (responses: {e_responses}; chat: {e_chat})")
+
+def llm_text(system_msg: str, user_msg: str) -> str:
+    """Wie oben, nur dass reiner Text zurückgegeben wird (für den Bericht)."""
+    if not OPENAI_API_KEY:
+        raise RuntimeError("OPENAI_API_KEY fehlt")
+    from openai import OpenAI
+    client = OpenAI(api_key=OPENAI_API_KEY)
+
+    # Responses-API zuerst
+    try:
+        kwargs = {
+            "model": OPENAI_MODEL,
+            "input": [
+                {"role": "system", "content": system_msg},
+                {"role": "user",   "content": user_msg},
+            ],
+        }
+        if str(OPENAI_MODEL).startswith("gpt-5"):
+            kwargs["reasoning"] = {"effort": "medium"}
+        r = client.responses.create(**kwargs)
+        return _extract_responses_text(r)
+    except Exception as e_responses:
+        # Fallback: Chat Completions
+        try:
+            r = client.chat.completions.create(
+                model=OPENAI_MODEL,
+                temperature=0.2,
+                messages=[
+                    {"role": "system", "content": system_msg},
+                    {"role": "user",   "content": user_msg},
+                ],
+            )
+            return r.choices[0].message.content.strip()
+        except Exception as e_chat:
+            raise RuntimeError(f"LLM TEXT fehlgeschlagen (responses: {e_responses}; chat: {e_chat})")
 
 # ================================ Utils ======================================
 def now_utc() -> datetime:
@@ -313,90 +412,43 @@ def discover_from_gnews_linkedin(company=COMPANY):
 
 # =============================== LLM =========================================
 def llm_batch_signals(company: str, texts: list[dict], limit=SIGNAL_LIMIT) -> list[dict]:
-    if not OPENAI_API_KEY: return []
+    if not OPENAI_API_KEY or not texts:
+        return []
+    joined = "\n\n".join(
+        f"### {t.get('title','(ohne Titel)')}\n{t.get('text','')[:5000]}"
+        for t in texts
+    )[:22000]
+
+    system = (
+        "Du extrahierst faktenbasierte, strukturierte Signale zur Firma – mit Fokus auf Europa/Deutschland "
+        "und den E-Commerce-Kanal. Antworte NUR als JSON:\n"
+        "{ \"signals\": [ {"
+        "\"type\":\"financial|strategy|markets|risks|product|leadership|sustainability|ecommerce|retail_media\","
+        "\"value\": {"
+        "\"headline\":\"...\",\"metric\":\"...\",\"value\":\"...\",\"unit\":\"...\","
+        "\"topic\":\"...\",\"summary\":\"...\",\"note\":\"...\",\"period\":\"...\",\"region\":\"DE|EU|...\"},"
+        "\"confidence\": 0.0 } ] }\n"
+        "Mindestens 4, bis zu 10 Signale."
+    )
+    user = f"Firma: {company}\nQuellenauszüge:\n{joined}"
+
     try:
-        from openai import OpenAI
-        client = OpenAI(api_key=OPENAI_API_KEY)
-
-        joined = "\n\n".join(
-            f"### {t.get('title','(ohne Titel)')}\n{t.get('text','')[:5000]}"
-            for t in texts
-        )[:22000]
-
-        system = (
-            "Du extrahierst faktenbasierte, strukturierte Signale zur Firma – mit Fokus auf Europa/Deutschland "
-            "und den E-Commerce-Kanal. Antworte NUR als JSON:\n"
-            "{ \"signals\": [ {"
-            "\"type\":\"financial|strategy|markets|risks|product|leadership|sustainability|ecommerce|retail_media\","
-            "\"value\": {"
-            "\"headline\":\"...\","
-            "\"metric\":\"...\","
-            "\"value\":\"...\","
-            "\"unit\":\"...\","
-            "\"topic\":\"...\","
-            "\"summary\":\"...\","
-            "\"note\":\"...\","
-            "\"period\":\"...\","
-            "\"region\":\"DE|EU|...\"},"
-            "\"confidence\": 0.0 } ] }\n"
-            "Regeln: Mindestens 4, bis zu 10 Signale. Bevorzuge EU/DE-bezogene Aussagen und E-Commerce-bezogene Fakten "
-            "(Online-Umsatz, Marktplätze, Retail Media, D2C, Amazon/Zalando etc.)."
-        )
-        user = f"Firma: {company}\nQuellenauszüge:\n{joined}"
-
-        resp = client.chat.completions.create(
-            model=OPENAI_MODEL,
-            temperature=0.2,
-            response_format={"type": "json_object"},
-            messages=[
-                {"role":"system","content":system},
-                {"role":"user","content":user},
-            ],
-        )
-        data = json.loads(resp.choices[0].message.content)
-        out=[]
+        data = llm_json(system, user)
+        out = []
         for s in data.get("signals", []):
-            if not isinstance(s, dict): continue
-            s["type"] = str(s.get("type","summary"))
-            try: c=float(s.get("confidence",0.5))
-            except: c=0.5
+            if not isinstance(s, dict):
+                continue
+            s["type"] = str(s.get("type", "summary"))
+            try:
+                c = float(s.get("confidence", 0.5))
+            except Exception:
+                c = 0.5
             s["confidence"] = max(0.0, min(1.0, c))
             out.append(s)
         return out[:limit]
     except Exception:
         return []
 
-def llm_per_article(company: str, article: dict) -> list[dict]:
-    if not OPENAI_API_KEY: return []
-    try:
-        from openai import OpenAI
-        client = OpenAI(api_key=OPENAI_API_KEY)
-        text = article.get("text","")[:6000]
-
-        system = (
-            "Extrahiere bis zu 2 Signale mit Europa/Deutschland- und E-Commerce-Fokus. "
-            "Nur JSON wie zuvor (type kann auch 'ecommerce' oder 'retail_media' sein)."
-        )
-        user = f"Firma: {company}\nTitel: {article.get('title')}\nText:\n{text}"
-
-        resp = client.chat.completions.create(
-            model=OPENAI_MODEL,
-            temperature=0.2,
-            response_format={"type":"json_object"},
-            messages=[{"role":"system","content":system},{"role":"user","content":user}],
-        )
-        data = json.loads(resp.choices[0].message.content)
-        out=[]
-        for s in data.get("signals", []):
-            if not isinstance(s, dict): continue
-            s["type"]=str(s.get("type","summary"))
-            try: c=float(s.get("confidence",0.5))
-            except: c=0.5
-            s["confidence"]=max(0.0,min(1.0,c))
-            out.append(s)
-        return out[:2]
-    except Exception:
-        return []
 
 def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
     if not texts:
@@ -422,78 +474,64 @@ def llm_generate_report_markdown(company: str, texts: list[dict], signals: list[
                                  use_only_selected_sources: bool = True):
     if not OPENAI_API_KEY:
         return "", []
+    use_texts = texts[:max_texts]
+
+    # Auszüge
+    text_snippets = []
+    for t in use_texts:
+        snip = (t.get("text") or "")[:3500]
+        title = t.get("title") or "(ohne Titel)"
+        text_snippets.append(f"# {title}\n{snip}")
+    joined_snippets = "\n\n---\n\n".join(text_snippets)[:24000]
+
+    # kompakte Signalsicht
+    sig_lines = []
+    for s in signals[:14]:
+        v = s.get("value") or {}
+        sig_lines.append(
+            f"- type={s.get('type','')}; headline={v.get('headline','')}; "
+            f"topic={v.get('topic','')}; region={v.get('region','')}; summary={v.get('summary','')}"
+        )
+    signals_digest = "\n".join(sig_lines)
+
+    # Quellenliste (nur die, die ins Prompt gehen)
+    if use_only_selected_sources:
+        selected_urls = {t.get("url") for t in use_texts}
+        sources_for_report = [s for s in sources if s.get("url") in selected_urls]
+    else:
+        sources_for_report = list(sources)
+
+    numbered_sources = []
+    for i, s in enumerate(sources_for_report, start=1):
+        ttl = (s.get("title") or "").strip()
+        url = (s.get("url") or "").strip()
+        numbered_sources.append(f"[{i}] {ttl+' — ' if ttl else ''}{url}")
+    sources_list = "\n".join(numbered_sources)
+
+    system = (
+        "Erstelle einen faktenbasierten Bericht (Markdown) zur Firma mit Fokus auf Europa/Deutschland und E-Commerce. "
+        "Struktur (H2):\n"
+        "## Executive Summary\n## Finanzen (Europa/Deutschland)\n## E-Commerce (Europa/Deutschland)\n"
+        "## Retail Media & Marktplätze (Amazon/Zalando …)\n## Strategie\n## Produkte & Innovation\n"
+        "## Führung & Organisation\n## Märkte & Wettbewerb (EU/DE)\n## Nachhaltigkeit & ESG\n## Risiken\n## Ausblick\n\n"
+        f"Regeln:\n- Deutsch, 700–1400 Wörter.\n- Nutze Zitatnummern [n] aus der Quellenliste; verwende mindestens {min_citations} verschiedene Quellen, sofern sinnvoll.\n"
+        "- Keine PR-Sprache; fokussiere Kennzahlen/Trends für EU/DE und E-Commerce."
+    )
+
+    user = (
+        f"Firma: {company}\n\n"
+        f"Signale (kompakt):\n{signals_digest}\n\n"
+        f"Material-Auszüge:\n{joined_snippets}\n\n"
+        f"Quellenliste (nur diese dürfen zitiert werden):\n{sources_list}\n\n"
+        "Erzeuge den Bericht."
+    )
+
     try:
-        from openai import OpenAI
-        client = OpenAI(api_key=OPENAI_API_KEY)
-
-        use_texts = texts[:max_texts]
-        # Auszüge
-        text_snippets = []
-        for t in use_texts:
-            snip = (t.get("text",""))[:3500]
-            title = t.get("title") or "(ohne Titel)"
-            text_snippets.append(f"# {title}\n{snip}")
-        joined_snippets = "\n\n---\n\n".join(text_snippets)[:24000]
-
-        # kompakte Signalsicht
-        sig_lines=[]
-        for s in signals[:14]:
-            v=s.get("value") or {}
-            sig_lines.append(
-                f"- type={s.get('type','')}; headline={v.get('headline','')}; "
-                f"topic={v.get('topic','')}; region={v.get('region','')}; summary={v.get('summary','')}"
-            )
-        signals_digest = "\n".join(sig_lines)
-
-        # Quellenliste
-        if use_only_selected_sources:
-            selected_urls = {t.get("url") for t in use_texts}
-            sources_for_report = [s for s in sources if s.get("url") in selected_urls]
-        else:
-            sources_for_report = list(sources)
-
-        numbered_sources=[]
-        for i,s in enumerate(sources_for_report, start=1):
-            ttl=(s.get("title") or "").strip()
-            url=(s.get("url") or "").strip()
-            numbered_sources.append(f"[{i}] {ttl+' — ' if ttl else ''}{url}")
-        sources_list="\n".join(numbered_sources)
-
-        system = (
-            "Erstelle einen faktenbasierten Bericht (Markdown) zur Firma mit Fokus auf Europa/Deutschland und E-Commerce. "
-            "Struktur (H2):\n"
-            "## Executive Summary\n"
-            "## Finanzen (Europa/Deutschland)\n"
-            "## E-Commerce (Europa/Deutschland)\n"
-            "## Retail Media & Marktplätze (Amazon/Zalando …)\n"
-            "## Strategie\n"
-            "## Produkte & Innovation\n"
-            "## Führung & Organisation\n"
-            "## Märkte & Wettbewerb (EU/DE)\n"
-            "## Nachhaltigkeit & ESG\n"
-            "## Risiken\n"
-            "## Ausblick\n\n"
-            f"Regeln:\n- Deutsch, 700–1400 Wörter.\n- Nutze Zitatnummern [n] aus der Quellenliste; verwende mindestens {min_citations} verschiedene Quellen, sofern sinnvoll.\n"
-            "- Keine PR-Sprache; fokussiere Kennzahlen/Trends für EU/DE und E-Commerce.\n"
-        )
-
-        user = (
-            f"Firma: {company}\n\n"
-            f"Signale (kompakt):\n{signals_digest}\n\n"
-            f"Material-Auszüge:\n{joined_snippets}\n\n"
-            f"Quellenliste (nur diese dürfen zitiert werden):\n{sources_list}\n\n"
-            "Erzeuge den Bericht jetzt."
-        )
-
-        resp = client.chat.completions.create(
-            model=OPENAI_MODEL,
-            temperature=0.2,
-            messages=[{"role":"system","content":system},{"role":"user","content":user}],
-        )
-        md = resp.choices[0].message.content.strip()
-        return md, sources_for_report
+        md = llm_text(system, user)
+        return md.strip(), sources_for_report
     except Exception:
-        return "", []
+        return "", sources_for_report
+
 
 # ================================ Pipeline ===================================
 def main():
