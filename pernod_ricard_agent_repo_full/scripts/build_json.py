@@ -83,7 +83,7 @@ TIMEOUT = 30
 
 # OpenAI
 OPENAI_API_KEY = (os.getenv("OPENAI_API_KEY") or "").strip()
-OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-5")
 
 # Bericht
 REPORT_MAX_TEXTS     = int(os.getenv("REPORT_MAX_TEXTS", "14"))
