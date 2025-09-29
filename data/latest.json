@@ -1,16 +1,96 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-09-29T06:38:03Z",
+  "generated_at": "2025-09-29T06:43:01Z",
   "signals": [
     {
-      "type": "summary",
+      "type": "financial",
       "value": {
-        "headline": "FY25 Full-year Sales and Results",
-        "summary": "Consistent organic operating margin expansion, investing in brand desirability and sustainable long-term growth FY25 Organic Net Sales -3.0%, with declines in China, USA and GTR Asia negatively impacting mix, while many markets posted a resilient to strong growth, leading to gain",
-        "note": "Fallback",
+        "headline": "FY25 Organic Net Sales Decline",
+        "metric": "Organic Net Sales",
+        "value": "-3.0",
+        "unit": "%",
+        "topic": "Sales Performance",
+        "summary": "Pernod Ricard reported a -3.0% decline in organic net sales for FY25, with significant impacts from various regions.",
+        "note": "The decline was influenced by challenging market conditions in China, the USA, and GTR Asia.",
+        "period": "FY25",
         "region": "EU"
       },
-      "confidence": 0.35
+      "confidence": 0.8
+    },
+    {
+      "type": "ecommerce",
+      "value": {
+        "headline": "Strong Performance of Premium Brands",
+        "metric": "Market Share Growth",
+        "value": "Gaining",
+        "unit": "Market Share",
+        "topic": "E-commerce Strategy",
+        "summary": "Pernod Ricard is focusing on premium brands like Jameson and Absolut, which are performing well in e-commerce channels.",
+        "note": "This strategy aligns with the growing trend of premiumization among consumers.",
+        "period": "FY25",
+        "region": "DE"
+      },
+      "confidence": 0.7
+    },
+    {
+      "type": "strategy",
+      "value": {
+        "headline": "Sale of Imperial Blue Business",
+        "metric": "Business Realignment",
+        "value": "Strategic Move",
+        "unit": "N/A",
+        "topic": "Portfolio Management",
+        "summary": "Pernod Ricard is selling its Imperial Blue business to focus on more profitable brands in India, enhancing its premiumization strategy.",
+        "note": "This move is expected to improve margins and growth rates.",
+        "period": "2025",
+        "region": "EU"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "financial",
+      "value": {
+        "headline": "Free Cash Flow Improvement",
+        "metric": "Free Cash Flow",
+        "value": "1.1",
+        "unit": "Billion EUR",
+        "topic": "Cash Management",
+        "summary": "Pernod Ricard reported a free cash flow of €1.1 billion, reflecting strong operational efficiency.",
+        "note": "This improvement is attributed to effective working capital management.",
+        "period": "FY25",
+        "region": "EU"
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "markets",
+      "value": {
+        "headline": "Decline in German Market",
+        "metric": "Net Sales Change",
+        "value": "-2",
+        "unit": "%",
+        "topic": "Market Performance",
+        "summary": "Pernod Ricard experienced a -2% decline in net sales in Germany, amidst challenging macroeconomic conditions.",
+        "note": "This decline is part of a broader trend affecting Western Europe.",
+        "period": "FY25",
+        "region": "DE"
+      },
+      "confidence": 0.6
+    },
+    {
+      "type": "leadership",
+      "value": {
+        "headline": "Focus on Operational Efficiencies",
+        "metric": "Operational Strategy",
+        "value": "Continuous",
+        "unit": "N/A",
+        "topic": "Leadership Strategy",
+        "summary": "Pernod Ricard is committed to continuous operational efficiencies to sustain its organic operating margin.",
+        "note": "This strategy is crucial in the current volatile market environment.",
+        "period": "FY25",
+        "region": "EU"
+      },
+      "confidence": 0.7
     }
   ],
   "sources": [
@@ -460,13 +540,18 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3ZuRlpELVlDYnluX0o3Ynhtb3dJSlYxRWs5WTRIbkdNZGlkZjluREY3WmR6LW9STHp5UGVrUG92ZXJ1SDFBRWtQcnlWVWxDY04zZXpuQk45WHBkRGlEcWRGOGNBN1M5SW4yOS0zZFgxal9BQ1JEMHpRbTA4cUtHRlVMZlQ0alZydjNQdi12LVExRExXaEJZZHFSMWVYZ2k0Z002cEJwYkdhdG5kRU8tRm95VWg4WkhJY1owcjNWYi1ldw?oc=5",
+      "title": "Pernod Ricard parmi les plus fort replis du CAC 40, BofA dégrade - Zonebourse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcExTbkdDRnNPSVEyYmVqNW9xZHh2Ui12UTFfTkdUbnQydlV1aUstSzl1cUpPUFcySXAtZllWek43Q01WM1JFdzNYX2lVd0RJNG42OWpzd2FsRzd6b2NtMzBvbjByVUw1VV9XVVBJNVJYcExCMTBSYXBxNUJ5cmlPN0VZNVNubmt1ZGE2akhJQy1fTVZHak56Tzg5SHRrZ0VlMFBsSUptb0ljOVdKTDAteGhlS055SXhMdnJCWGVnWXl2NFd3ZjF0WkNSY00wVlhfQ2hpTVY0UGlScGJJMDBWbzJTUDdVS3JBLUJKLW5iUjdOTzN1alE?oc=5",
       "title": "Saint-Gobain, Pernod Ricard, EssilorLuxottica : les recommandations des analystes - Les Echos",
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3ZuRlpELVlDYnluX0o3Ynhtb3dJSlYxRWs5WTRIbkdNZGlkZjluREY3WmR6LW9STHp5UGVrUG92ZXJ1SDFBRWtQcnlWVWxDY04zZXpuQk45WHBkRGlEcWRGOGNBN1M5SW4yOS0zZFgxal9BQ1JEMHpRbTA4cUtHRlVMZlQ0alZydjNQdi12LVExRExXaEJZZHFSMWVYZ2k0Z002cEJwYkdhdG5kRU8tRm95VWg4WkhJY1owcjNWYi1ldw?oc=5",
-      "title": "Pernod Ricard parmi les plus fort replis du CAC 40, BofA dégrade - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0hSNGhJOFlxTk9nUC1lcHhYME5kSk8xanB5RUdkTWtVMDVsOElDZUxScVl2RG16WEl3ckVzMFhDY19RSjRYNUhKR21HbE1QMGR4N1BxZm9NMDQwRVpGREJBRXUyWEdmY3NOemtZa3dLMVZsVnA1bDJCZWJ2UVNZTHBVWG10MmR4dXhUWnJHOEZQUGx6dFdNMHZoUmtZaVUwNjNoWHdqclBXZWZKcXJsZWVTdXZ6UWFsOGZBWXRHNFg5enBvaW5taFJtTjhUYkkxandZb0YxTDAzVkk?oc=5",
+      "title": "BeInfluence réaffirme sa position de leader européen de l’influence avec une nouvelle identité de marque - digimedia.be",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -475,9 +560,9 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0hSNGhJOFlxTk9nUC1lcHhYME5kSk8xanB5RUdkTWtVMDVsOElDZUxScVl2RG16WEl3ckVzMFhDY19RSjRYNUhKR21HbE1QMGR4N1BxZm9NMDQwRVpGREJBRXUyWEdmY3NOemtZa3dLMVZsVnA1bDJCZWJ2UVNZTHBVWG10MmR4dXhUWnJHOEZQUGx6dFdNMHZoUmtZaVUwNjNoWHdqclBXZWZKcXJsZWVTdXZ6UWFsOGZBWXRHNFg5enBvaW5taFJtTjhUYkkxandZb0YxTDAzVkk?oc=5",
-      "title": "BeInfluence réaffirme sa position de leader européen de l’influence avec une nouvelle identité de marque - digimedia.be",
-      "source": "gnews-ecom:fr:fr"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS2dvbVNoS3BoeUM4bHBiNGNtUEdfcWtIMlkzQlVoNGRMcW0xX0xzMjM5ZWZVT1JMU3dxaTJ3SnVZSkNoQXhmbnpZdGJMZURTTU9iWXpnY3F1MC00cUpkOHo4LXoza3RDRXRNcV9LU3VORk42dXZtWjJOWUZhN3ZnM3Nqd3A0eVhkZXhvWDMyTFRsYXJabnF4b1EtTkVFRUlRQzFxa2JHcmNJa2lTM2E1bWZyTFdNdFNpOEM5NzhUUzUxU3AweUFn0gHMAUFVX3lxTE5MOE9VVVdYZ3M3SlMycXdNTnI0MWtLdE9rd3RYQ0hjby13RGJIbjI3SU5vREIySGdNSFhyYzVITE9ULXZPMTMza2otX1M5MWlSZlhsVHgxNjlidDNwTE5TTVRaQW94T1lfZThWakNjbnNRdm16bkM4WXB3ZDgzNUpQWUlTTG5xcXdBN0FoSVdoY0RiS1htZHFkU3RyMXNxN1R1bktxNklkdVphdDBndVBVMlF6bENfelA4Q1czby1WVGxJelpDN1h6ZkJVOQ?oc=5",
+      "title": "DYC refuerza su liderazgo en la categoría de whisky con una nueva versión - Alimarket.es",
+      "source": "gnews-ecom:es:es"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFVwTlJEcW41QlQ1eTRLdERLUnBJcDdWQl9BdDYwWi1mT0w2NktTQ1Y4YVRsVlF1RDBVclJiWHJVbTNwSHRuUmtHb21DaUt0Vm50VUU1b0dHdGlqRnFxanZoa1pNN1VmRzBfczE1dF9KOFotdVVxZnBiQy16dnFfVjYyS1hCMWVDaUZVNG1lZ2FwUjRNTzZpUno4Rmhnb0FxR0U3cDdOZjVOUVlwYnowRG5IdEtfc0g1Rm9PT2l4cURZV2M?oc=5",
@@ -945,8 +1030,59 @@
       "source": "linkedin:gnews:ie:en-IE"
     }
   ],
-  "report_markdown": "",
-  "report_used_sources": [],
+  "report_markdown": "# Bericht über Pernod Ricard mit Fokus auf Europa/Deutschland und E-Commerce\n\n## Executive Summary\nPernod Ricard, ein führendes Unternehmen in der Spirituosen- und Champagnerindustrie, hat im Geschäftsjahr 2025 einen organischen Umsatzrückgang von 3,0 % verzeichnet, was auf herausfordernde makroökonomische Bedingungen in mehreren Märkten zurückzuführen ist. Insbesondere in Deutschland wurde ein Rückgang von 2 % im Nettoumsatz festgestellt. Trotz dieser Herausforderungen zeigt das Unternehmen eine starke Leistung im E-Commerce, insbesondere mit seinen Premium-Marken wie Jameson und Absolut, die in den digitalen Vertriebskanälen gut abschneiden. Die strategische Neuausrichtung, einschließlich des Verkaufs des Imperial Blue-Geschäfts, zielt darauf ab, sich auf profitablere Marken zu konzentrieren und die Premiumisierung voranzutreiben.\n\n## Finanzen (Europa/Deutschland)\nIm Geschäftsjahr 2025 beliefen sich die konsolidierten Umsätze von Pernod Ricard auf 10.959 Millionen Euro, was einem organischen Rückgang von 3,0 % entspricht. In Deutschland wurde ein Nettoumsatzrückgang von 2 % verzeichnet, was auf die schwierigen wirtschaftlichen Rahmenbedingungen zurückzuführen ist. Die Free Cash Flow-Verbesserung betrug 1,1 Milliarden Euro, was auf eine starke operative Effizienz hinweist [3][4].\n\n## E-Commerce (Europa/Deutschland)\nPernod Ricard hat seine E-Commerce-Strategie verstärkt, insbesondere in Deutschland, wo Premium-Marken wie Jameson und Absolut eine starke Leistung zeigen. Diese Marken profitieren von der wachsenden Nachfrage nach hochwertigen Spirituosen im Online-Handel. Die Fokussierung auf Premium-Produkte ist Teil einer breiteren Strategie zur Anpassung an sich verändernde Verbraucherpräferenzen und zur Nutzung der Wachstumschancen im digitalen Bereich [3][4].\n\n## Retail Media & Marktplätze (Amazon/Zalando …)\nObwohl spezifische Daten zu Retail Media und Marktplätzen wie Amazon oder Zalando fehlen, ist anzumerken, dass Pernod Ricard zunehmend digitale Vertriebskanäle nutzt, um seine Marken zu positionieren. Die Präsenz auf großen E-Commerce-Plattformen ist entscheidend, um jüngere Verbraucher zu erreichen und die Markenbekanntheit zu steigern.\n\n## Strategie\nDie Strategie von Pernod Ricard konzentriert sich auf die Premiumisierung und die Optimierung des Produktportfolios. Der Verkauf des Imperial Blue-Geschäfts in Indien ist ein Beispiel für die Neuausrichtung des Unternehmens, um sich auf profitablere Marken zu konzentrieren. Diese strategischen Entscheidungen sollen das Wachstum in Märkten mit hohem Potenzial unterstützen und die operative Effizienz weiter steigern [6][8].\n\n## Produkte & Innovation\nPernod Ricard investiert kontinuierlich in die Entwicklung neuer Produkte und Innovationen innerhalb seiner bestehenden Marken. Die Einführung neuer Geschmacksrichtungen und Produkte, insbesondere im Premium-Segment, ist entscheidend, um die Marktanteile zu erhöhen und den Umsatz zu steigern. Die Marken Jameson und Absolut haben in den letzten Jahren durch innovative Produkte und Marketingkampagnen an Popularität gewonnen [3][4].\n\n## Führung & Organisation\nDie Unternehmensführung von Pernod Ricard hat sich auf operative Effizienz und nachhaltiges Wachstum konzentriert. Die kontinuierliche Verbesserung der operativen Margen und die Anpassung an Marktveränderungen sind zentrale Elemente der Unternehmensstrategie. Die Ernennung neuer unabhängiger Direktoren soll die Governance-Strukturen stärken und die strategische Ausrichtung des Unternehmens unterstützen [5][6].\n\n## Märkte & Wettbewerb (EU/DE)\nIn Europa und insbesondere in Deutschland sieht sich Pernod Ricard einem intensiven Wettbewerb gegenüber. Der Rückgang des Nettoumsatzes um 2 % in Deutschland ist ein Indikator für die Herausforderungen, die das Unternehmen in einem gesättigten Markt bewältigen muss. Die Konkurrenz durch lokale und internationale Marken bleibt stark, was eine kontinuierliche Anpassung der Marketingstrategien und Produktangebote erfordert [3][4].\n\n## Nachhaltigkeit & ESG\nPernod Ricard hat sich verpflichtet, nachhaltige Praktiken in seine Geschäftsstrategie zu integrieren. Dies umfasst Investitionen in umweltfreundliche Produktionsmethoden und die Förderung verantwortungsvoller Konsumgewohnheiten. Die Unternehmensführung betont die Bedeutung von ESG-Kriterien (Umwelt, Soziales und Unternehmensführung) als Teil der langfristigen Wachstumsstrategie [1][2].\n\n## Risiken\nDie Risiken für Pernod Ricard umfassen makroökonomische Unsicherheiten, regulatorische Herausforderungen und den intensiven Wettbewerb im Spirituosenmarkt. Insbesondere die Abhängigkeit von bestimmten Märkten und die Volatilität der Rohstoffpreise können die Geschäftsergebnisse erheblich beeinflussen. Zudem könnte der Rückgang der Verbraucherausgaben in wirtschaftlich schwierigen Zeiten die Umsätze weiter belasten [3][4].\n\n## Ausblick\nFür die kommenden Jahre plant Pernod Ricard, seine Strategie der Premiumisierung fortzusetzen und die digitale Transformation voranzutreiben. Die Fokussierung auf E-Commerce und die Anpassung an sich ändernde Verbraucherpräferenzen werden entscheidend sein, um das Wachstum in Europa und Deutschland zu fördern. Die kontinuierliche Optimierung des Produktportfolios und die Stärkung der Marken werden ebenfalls zentrale Elemente der zukünftigen Strategie sein [3][4][6].",
+  "report_used_sources": [
+    {
+      "url": "https://www.pernod-ricard.com/en/media/filing-pernod-ricard-s-202425-universal-registration-document-0",
+      "title": "Filing of Pernod Ricard’s 2024/25 Universal Registration Document",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/filing-pernod-ricard-s-202425-universal-registration-document",
+      "title": "Filing of Pernod Ricard’s 2024/25 Universal Registration Document",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/fy25-full-year-sales-and-results",
+      "title": "FY25 Full-year Sales and Results",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/invitation-fy25-full-year-sales-and-results",
+      "title": "Invitation - FY25 Full-year Sales and Results",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-board-proposed-appointments",
+      "title": "Pernod Ricard board proposed appointments",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-india-sell-its-imperial-blue-business-division-tilaknagar-industries",
+      "title": "Pernod Ricard India to sell its Imperial Blue business division to Tilaknagar Industries",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/response-pernod-ricard-relation-conclusion-china-s-mofcom-cognac-anti-dumping-investigation",
+      "title": "A response from Pernod Ricard in relation to the conclusion of China’s MOFCOM Cognac Anti-Dumping investigation",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/successful-completion-sale-pernod-ricard-s-portfolio-strategic-international-wines-australian",
+      "title": "Successful completion of the sale of Pernod Ricard’s portfolio of strategic international wines to Australian Wine Holdco Limited",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/third-quarter-fy25-sales-and-results",
+      "title": "Third Quarter FY25 Sales and Results",
+      "source": "newsroom"
+    },
+    {
+      "url": "https://www.pernod-ricard.com/en/media/invitation-pernod-ricard-third-quarter-fy25-sales-and-results",
+      "title": "Invitation - Pernod Ricard Third Quarter FY25 Sales and Results",
+      "source": "newsroom"
+    }
+  ],
   "report_meta": {
     "lookback_days": 14,
     "texts_selected": 10,
