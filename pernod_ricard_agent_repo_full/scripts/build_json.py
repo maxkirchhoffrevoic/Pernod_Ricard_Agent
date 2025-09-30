@@ -449,6 +449,33 @@ def llm_batch_signals(company: str, texts: list[dict], limit=SIGNAL_LIMIT) -> li
     except Exception:
         return []
 
+def llm_per_article(company: str, article: dict) -> list[dict]:
+    if not OPENAI_API_KEY:
+        return []
+    text = article.get("text", "")[:6000]
+    system = (
+        "Extrahiere bis zu 2 Signale mit Europa/Deutschland- und E-Commerce-Fokus. "
+        "Nur JSON wie zuvor (type kann auch 'ecommerce' oder 'retail_media' sein)."
+    )
+    user = f"Firma: {company}\nTitel: {article.get('title')}\nText:\n{text}"
+
+    try:
+        data = llm_json(system, user)
+        out = []
+        for s in data.get("signals", []):
+            if not isinstance(s, dict):
+                continue
+            s["type"] = str(s.get("type", "summary"))
+            try:
+                c = float(s.get("confidence", 0.5))
+            except Exception:
+                c = 0.5
+            s["confidence"] = max(0.0, min(1.0, c))
+            out.append(s)
+        return out[:2]
+    except Exception:
+        return []
+
 
 def heuristic_summary(company: str, texts: list[dict]) -> list[dict]:
     if not texts:
