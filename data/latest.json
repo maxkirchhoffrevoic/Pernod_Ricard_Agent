@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2025-12-14T06:16:34Z",
+  "generated_at": "2025-12-15T06:21:26Z",
   "signals": [
     {
       "type": "summary",
@@ -75,18 +75,8 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlV2cFJKcE9zM2F5LThQTDlXUGdzcjk3eExNUW5tbHZza2JELUJ1NWN3LW5CY1ZCbGNnMTNvNHFTQVBJdTA1aHBVTmRUYjhCR0s5UFBwV3dZa0g0NHRPc0I4ME9hTUlHdUFJT1NJREhBZkhrR2dWSEl2QTJYV1pXSjhUZExSTkM0SGhYRFMzTE8yUEJkSzZnbzMyaw?oc=5",
-      "title": "Aufruf: SIP Supernova kommt erstmals nach Deutschland - Spirituosen-Journal",
-      "source": "gnews:de:de"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHBWa3lyU1JEcDNlMW5wMld1OGtERHJWUUJPRWdFTEpsUDdlTDBFbHB6ckhRdHgyNmFRbUFDb1J1Wjk4MUlUU1lpMldna0FsTnA1bWlTd253bFNJdkFVWm9VM09GNzJYUXJSeThHdEV2Vm5EaFM2eTAtRFBXWDNaeDJsdFdMZGdMUFRTWUFpTFB5VkZzZU1oMkhTbk16MHJ0UlN3QnpaVTdSMkpEMVdwNUx4YjRGdFp4YmNjVnVKRlVkdzA?oc=5",
       "title": "Barclays stuft Pernod Ricard hoch: Wachstumspotenzial unterbewertet - Investing.com Deutsch",
-      "source": "gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yOHpCQk5PcThEdTRfNjA1SHFsb1pjUFRRRTFEOUl0TzF0bmNTQXJjTWZuREtQQmlvV2xSSzZ0STdsNHkyRlFQUjRiX0l3X2JZcFBSbE81cnRMSXVoTGlWRFI1MnBLODYtUG5rS2EyOF85WVhhM2pKQWRrOE1CUQ?oc=5",
-      "title": "Pernod Ricard Aktie: Indien-Explosion! - kapitalmarktexperten.de",
       "source": "gnews:de:de"
     },
     {
@@ -115,14 +105,19 @@
       "source": "gnews:de:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQS1fLUNRemVPY2ZOWVIyUWE5X2diNWttSmxSaFpfa1FhNnV4VVpBQ1BpMmY0V1lDZzVxT0dxRkVYOUROaWExNFY0SWlybUd1RTA0aHBUREgtWHBMTVBVSFN5UHljTFJ4eFZObXZ3WktiMG1tUVB1bTNkSGhpaExCUHlnbDVSc1JxekVSeWdjaW5aQlZsZ0lDV3lFWm1JRzAtdnVDSTh3?oc=5",
+      "title": "UBS senkt Kursziel für Pernod Ricard - MarketScreener Deutschland",
+      "source": "gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlEtY3FKdC1OUGJtSUpQTmE5SFF4cUlZSWQ3X2wxNkF0aUctRUxMX0dOcTBiTktSVFpMVzBRTkFCOG55b2xMTlpLLS1HWnJSUHpxM2hqVy1LSVh5S0JOdHBkRXVsbDhLb2FJbmo2d0d3d3puNF8zUFJyTFBBejdoUURacnBrNUJLcU1IbHhfcnZ3RnRBeGQ5X05laloyQlZIMFNqS3BtY1NnX2RZSm5ILWxZT0JDMTlHdFBF?oc=5",
+      "title": "Börsen Update: Börsen Update Europa - 08.12. - FTSE Athex 20 stark +2,36 % - 08.12.2025 - Wallstreet Online",
+      "source": "gnews:de:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWhFcDRoRlZjREhrckEwNVpwSURPLUljQ3lYMHFac0g1aUlsX0c5QkpiZ0RHMWtHVEFQcXB1Q01HUVR3RVZqdFZ4a2RBVWhyTWxxaHh0UUtmeXYtM1VqYzFkdV9pS2lDSU9LNXlpd2tjVzB2ZVpwUU9QSVlnS0dyRTM1QUViWHJCazlv?oc=5",
       "title": "Aberlour enthüllt die A’Bunadh Sherry Cask Collection - about-drinks.com",
       "source": "gnews:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQS1fLUNRemVPY2ZOWVIyUWE5X2diNWttSmxSaFpfa1FhNnV4VVpBQ1BpMmY0V1lDZzVxT0dxRkVYOUROaWExNFY0SWlybUd1RTA0aHBUREgtWHBMTVBVSFN5UHljTFJ4eFZObXZ3WktiMG1tUVB1bTNkSGhpaExCUHlnbDVSc1JxekVSeWdjaW5aQlZsZ0lDV3lFWm1JRzAtdnVDSTh3?oc=5",
-      "title": "UBS senkt Kursziel für Pernod Ricard - MarketScreener Deutschland",
-      "source": "gnews:ch:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXp1bFhmWXlzdVdtZmJrcDdtWTVOVUR4eGJLelFlTHNZRGwwTHlqTTVHTWpCUVhaUEd5S3h6VzVQeEQyV3pRbDMweHlvR0I4MVJwRFNpQ2tsU3FEWlFKT2JyWFRGbW1jRzljeEVpank2V0taU3RsZU1oZGZOU0pjNVI5RGZJR1U?oc=5",
@@ -155,33 +150,13 @@
       "source": "gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTHQtNzF0TTFidzN5LXJHOHNaWk43SGw1NDgzXzBhMzJ4QkhfVzhtVnVWUUVIVERVZXNYXy1zQjFYNmhucFYyN0diYzEyYmhFeDJVZC1LZFhPdUFicjVMTGxudmRwWTk4VTJzQWpOTHpyVkdBV1cxbjRzZkY1dTBjREt1cTdyQ2hyUjB6eWhic3BvSUpTX3JicGc2RHY2cTVtaHluYjZiWEZHZ0xidkIyUWt5Sjd1LUU?oc=5",
+      "title": "Pernod Ricard préfère le Low Code au Vibe Coding pour intégrer ses applications IA - La Revue du Digital",
+      "source": "gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNZmNuQjZGanpNUEFSNFpCd0pnUWxudjZaU29vSUd5R0I5RDNUbmYtMldSMWRjQlpSMzhBZExxR09HaVVISUlpSE1EajhNZjRGdVQteFljZ0gxVVQ0VmhWWDRSUGpIV0FLeFFFZ1hnV3JDb0JvczhCOW5EOV9OYnloeVFzVVhsdV9Gd0VwWkhYcEUxZHoxQXY5dkxXQzZLRk4wdm8zUmZpMlh3b2RaV0NyeTBvVndqbVpFOFNZRU0zWkcyQzc1elFubmk0cXhBVzM5YjNuOGtlWUI1dF81M0JtLXgzblEydzh2eWlHcHdiZklLZzBDX0pkRURSQW1oWXluekF4SUdGSkV1b0E1SU5yQWM3YnJaaTdlZlFYTmV2ekI2M2ZwQ3JGRGhha0tCUFFKU0RYQ0hrNG1pV1FqOXR6aXZROElia1ZEQlVqNnU3MVRFY0F6alFwUU0tNm9uamVXWHVlX1lGYw?oc=5",
       "title": "Stellantis, Pernod Ricard, LVMH, Engie, Carrefour, Dassault Systèmes, Eutelsat Communications, Arkema, Air France-KLM, Exosens, OPmobility : les recommandations des analystes - Les Echos",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTUhfS1E5MDg1U0dvd1J6bmVGd3pQa1dqY2xfVkhockE5dTM2QW1NbTM3WTM0Vml4RG9TbWdDbF9wN0hDUVlVNERpZDZzZXkzaDNlOUZQalYyWEVyMWpkQThjcVNqTXNrdTZYYXJ6YlNaS3JTWkxSdGIteUJ1aVZFLUdIbHU2Y09aZWNWVVdFWlJCdmV0c2c40gGcAUFVX3lxTE9VS0JRdUVxMUlkYnN4akxHYnJpOUtCbXFoX3ZQcWlNQkhFQmRoNHdVMWVTWTIxTHhEVUlJa0MxN250SzRHMGxCZGtac1p3QjRtTENZZ25zYUNnTWdub0Z1VVVZQk1NVXVNQjJjNl92eTYtei1iVmNuZ180dmZ1Vi1fOWJlLVNNNkt2LXRySHF2OUhoT1pqMkZhbXBfUQ?oc=5",
-      "title": "UBS abaisse son objectif de cours sur Pernod Ricard - ABC Bourse",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCU0d0eUQ1ZUJvZWtSRzRjUG4ycklKckx4SkpjZlFZTHNZZGh2aGVxWmtsaGdkYnJjQXZ2UF80SkthX0FNdmhyeHpuckF5eURnQzRIUDluOGFvWUlqVzRUdldtZWdoYVFGeHdMMEhXQTlKTXczTnA2dS1peFNuZw?oc=5",
-      "title": "Exposition « In the main in the more » - Ville de Paris",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEg4UHpXZ1Q0MFNLYzJjdU1lcnhYU2NWblFmWTgtTG5ndEZXRGVhaE9ibnRJbUloN0FXeHRMYS1LaVIwVDFnak50ZGpGM3lONmprNVIzVmZsVHNDcnI0eUx6ODJMLVF5aVYyQmFRM2M4dGtVblFiMWxyb0xRcDFrLVhTMDdyb3hpNUpiTEgydnYwclMyeldBd0NDLU1VZnBrd2c?oc=5",
-      "title": "Pernod Ricard actualités du jour : Le prix se consolide près de 77,48 € — Nouvelle baisse favorisée dans la fourchette de 75,00 € à 79,00 € - Traders Union",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ1ZUV0pmaU5mRWZoQmpIcVkxdVpQX0pmR1RKZzZCdkJ6Wkl0Z1FReGZpZUdXR0lJMlREclhzZFhwMEdvbVV0cFhPdTM0QUpjRzFfRlFUZnBDYmFfLWVDeDBQdFpvb0pSSE01RXpNVUNXTmxFakFVMDNTYTdQZGozNW93ZlU1Q2dZX2dkdmZQaXRLTjMwa2d2Rzdrd282ODM3Qks2cVNYaTlSQUdvbE81SFBjdVEzSmZQcWdFbXlaZGRwLWVBclF1Z09peUExajlQVERJSndCQzFqREJzSW5IUFY1VEZWVm5WWGZtRktPS3c5NXFG?oc=5",
-      "title": "Barclays relève la note de Pernod Ricard à Surpondérer en raison d’un potentiel de croissance sous-évalué - Investing.com France",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTF5Zk83Mkp2WXhObklUblQwa1BTQ255ZXhYQ3VoWnVtTDRlT3VxVWgtVmRIT1lWX0lFNnMxaVVZMWpuZUFyRVE3T0dvcjJ4VlNrb0VuWHhEZ3VyNWZJdGthdkNKYVFBVkVUbWxXUHl5VEJKTmY4RHZna25JeWQ1LUVWeWhLd1I2aU9fV255NXc?oc=5",
-      "title": "Pernod Ricard : avis croisés - Boursier.com",
       "source": "gnews:fr:fr"
     },
     {
@@ -190,13 +165,33 @@
       "source": "gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEg4UHpXZ1Q0MFNLYzJjdU1lcnhYU2NWblFmWTgtTG5ndEZXRGVhaE9ibnRJbUloN0FXeHRMYS1LaVIwVDFnak50ZGpGM3lONmprNVIzVmZsVHNDcnI0eUx6ODJMLVF5aVYyQmFRM2M4dGtVblFiMWxyb0xRcDFrLVhTMDdyb3hpNUpiTEgydnYwclMyeldBd0NDLU1VZnBrd2c?oc=5",
+      "title": "Pernod Ricard actualités du jour : Le prix se consolide près de 77,48 € — Nouvelle baisse favorisée dans la fourchette de 75,00 € à 79,00 € - Traders Union",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDJzX21VeUhHejFfSUgwVWdKRE1taC1xakJfUFVqcVUtTU9pM1dCYzM2MWJFaDJQcm1ON1kyVjFoYm9aNUNFQzJ4YXFzbndMSmROOW11WHdKUVBjU0FiNEZLZE1UQUN5T3MweFdYY3d1UG42NnZOc21XU1lpbXVDM215SV9YcTJ6c3lnMkw4UlVFV2UtTnNlNFRna2RqWndUQnFPaXA1R3B1YUViVVpkZkVBQXlCLVFrOXVTVko0MndvQ1hjcE9vVktKb1dLX1p4QmtoUVhKenVKdFJFUlE?oc=5",
+      "title": "Deutsche Bank reprend la couverture de Pernod Ricard avec une recommandation \"Conserver\" - Investing.com France",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMk5RbFc3Z3FyOC0xSEl5dzlfV2swMlMzamh3YkIwZGxJNGZWMlBobmJ6SF9oVktNeGVPall5YTF4QTVTQXpOLXFsLXgzemxZbVNfWkJVRDQ0bGk1ZDBscHY4M29MMmo2NUt6emNrRUZwU2todHI1S0F1WVo1TUxQUzZkY1JabWdwZXhPb01R?oc=5",
+      "title": "Pernod Ricard prend 0,98% - Boursier.com",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2RZZV9PcEFVeThtdk5zdldvT0pfWm8tdWxsZkJaMmNOYWFUZXRwTk01aXB2b2p0c190eUlpa0VHMGlvem1BdU1GQ3hpbU1iOUpiVk9hMnJiNXB5SU5TWlBqOEZtcjFTWTQ0YWU5dVRfdi16WFFKLWc5a21TZWVNWlBwWExuQWJmcmNVc3c3am1fMXJyQm9WSU9jWUZQV0hYMnh6ZVVKNVItRjZXVVE1NGpmS25GRUtYWEZz0gHAAUFVX3lxTE1SdTIxdmM4VUhiNkJnc0dzUlBwdVpXeVZORG00angwWlV1OHZZUWRzYmFlYWctSDBNODVUaXI1aWxuaDUxYUFzdmV1dE9sc1FBZzJpNjlQR0syWTl2aWxkMG5BRXhYQVc3S1dQalhWY3A5YzhCemdSSzhtdmVQcUR4czJ3REoySGlSeUtITlRCd3NweENTUVhpRWpQMEY5dlUwdlFnSkE3M21McVVuUlByUXNkSDNFb0RCbnREM1FKYQ?oc=5",
+      "title": "La faible croissance de Pernod Ricard limite sa marge de manoeuvre financière - UBS - ABC Bourse",
+      "source": "gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkpoT3lCZkljYVktOWUzbFdkVkRGa1RjT1ItQVZkV05GNWplUTF5QkFBdjlCdDVUU05Nd2pSTW8zZ0RWdW13LVBtenE4YTEyVmI0TmE3VG5lT295N1VUYm5qT25wYTNHcF9kbDdncUp4aXFnYXE0NHEydW93SVc1NUp4Ynd2NTJOWkg4?oc=5",
       "title": "La Fondazione Pernod Ricard a Parigi non è museo né una galleria, è un organismo dell'arte - ELLE Decor",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGt6VWIyZXl5QjI5UlU0dGZXaGU4TTNoNzN6ZnpjRVFnUmhlNTlGUGRUbFZXNnFtRGhYLUZBWDB1NDc5V2FRTll4Z0FMcDB2bzRyUllCaFFNUkFCYWtQaWtVWkdjTWhTNnVtNEp2QlBrM1U0VWFEUlJEY0YzTE9jZHF6MkoySXg0NzBIZmlaaVV1Zk9GNmVIckVQbU00c1F5Nmd4aHdXYlRUdzZlUGNSWHRqeWxhaC1jZ0Y3LUtNQ1Bzb2YwcG5PUDBEUW1LN3FtNzI4aHoxeG9aamhacXNtYXBQMjllUnd4?oc=5",
-      "title": "Barclays alza il rating di Pernod Ricard a Overweight per potenziale di crescita sottovalutato - Investing.com - Quotazioni, Borsa, Economia e Finanza",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEpEN0hHQ0pQeC1scmowdVl3VEN1YkZxOFY1WWVRQ1E3amw2OWhLLVFnNEt2QjRJX2RVc19ZWmVKLTZtSUpkeEt2M0VpbTRJRm83MURtSE50MFJoQ0c2cU1oeTl5YVpvdWNiZ3MwMFpYVlVGTHdUdmp2cWVXQ1NoTk9XdkZFZ1ptVTU4bExaWTlXaXlLQjJQSFJjdmRfSHJQVWQzWHIzT3NaV2djRXVIX3gzT2xlalQxNzViOGN2SDMxdmxTdVZ5WXY5dUxSOWJk?oc=5",
+      "title": "Deutsche Bank riprende la copertura del titolo Pernod Ricard con rating Hold - Investing.com - Quotazioni, Borsa, Economia e Finanza",
       "source": "gnews:it:it"
     },
     {
@@ -215,13 +210,13 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWTEtUjZjTnRzdXJURGVraUl2cGxxaEswVUgtN1dtYV9Ud3RXbENzUzlxcjZVUF9fU0hwUlliWEt6SnNiN2FYeGNJalJmTkdFbFJTdkd4VF94eU42QnZBZlpmVFVvd09ZNE11MTZNd0pybDVBcmdFMU5ZWWptbGxZcm5BaVBVV1cxLVp3QVlsUkFuTUZxaUpHUW5GV0RiZWdWTG9MQmw4LWI2NEswcEVEVmR0d1JCLTQxWGpLUjRZYXlpeS1nbmJHSmVaMkgyTzhxeEE5MHhXcTVMakxfMm45TWVwRHh0N09CdWI0eWRsRkIyME0xRUdaVnZvX1pUQzRkUWsxSHdoZE1pTjQ?oc=5",
-      "title": "Tutto pronto per l’apertura del Super G Faloria Mountain Club il nuovo Après-Ski panoramico di Cortina d’Ampezzo: ascolta l’intervista a Mazay - radiocortina.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWY2djgtTG9iODFhSllLVnlnYUxQRHdUTzJ0Qk9oWFBxeldYWTZab01JbWUzWEFLcFRSUzNQVmFFSVdhT2IzVnY2bDdLQXUyRENSXy1xdGVLSTBEUC0xWjRuMUNBZHo1MUVZaFk4ZFJpWGs4Z2dtc2N5WENHVTN4NE00WU0xeUt4bmxWR1ptMW9oMTJnYmF1SlVUc1VJUEVCQ19Na0RPZ0l3eUxBejZLblpVRmI4b2pVV2piWnNsSHh2d0JoZFhVdTdKY1NvZzNVMmJNMjlad3ZxTG_SAagBQVVfeXFMTnJ2SVBFaTNxMVIzRlZxMmNGZEctMjhtdDFQdkk0MXVZVjFndEs0SUdSQjBHb0xBUWI3SklRVWZSb3NEenFvbkF6VmpLYzNsemt5X0tXZ0ItOXZIOWZHQm82aHM3TEJldVhpaVVGMUNaeXVXSXo2bl9EUDYyejduUV9FOEo4SHpFTzY2WFhOdERFRnRhaTl0dTduODZhYkZUZHh4YTU0YjZM?oc=5",
+      "title": "Punch mon amour: il grande ritorno del drink iconico - Mediaset Infinity",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWY2djgtTG9iODFhSllLVnlnYUxQRHdUTzJ0Qk9oWFBxeldYWTZab01JbWUzWEFLcFRSUzNQVmFFSVdhT2IzVnY2bDdLQXUyRENSXy1xdGVLSTBEUC0xWjRuMUNBZHo1MUVZaFk4ZFJpWGs4Z2dtc2N5WENHVTN4NE00WU0xeUt4bmxWR1ptMW9oMTJnYmF1SlVUc1VJUEVCQ19Na0RPZ0l3eUxBejZLblpVRmI4b2pVV2piWnNsSHh2d0JoZFhVdTdKY1NvZzNVMmJNMjlad3ZxTG_SAagBQVVfeXFMTnJ2SVBFaTNxMVIzRlZxMmNGZEctMjhtdDFQdkk0MXVZVjFndEs0SUdSQjBHb0xBUWI3SklRVWZSb3NEenFvbkF6VmpLYzNsemt5X0tXZ0ItOXZIOWZHQm82aHM3TEJldVhpaVVGMUNaeXVXSXo2bl9EUDYyejduUV9FOEo4SHpFTzY2WFhOdERFRnRhaTl0dTduODZhYkZUZHh4YTU0YjZM?oc=5",
-      "title": "Punch mon amour: il grande ritorno del drink iconico - Mediaset Infinity",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWTEtUjZjTnRzdXJURGVraUl2cGxxaEswVUgtN1dtYV9Ud3RXbENzUzlxcjZVUF9fU0hwUlliWEt6SnNiN2FYeGNJalJmTkdFbFJTdkd4VF94eU42QnZBZlpmVFVvd09ZNE11MTZNd0pybDVBcmdFMU5ZWWptbGxZcm5BaVBVV1cxLVp3QVlsUkFuTUZxaUpHUW5GV0RiZWdWTG9MQmw4LWI2NEswcEVEVmR0d1JCLTQxWGpLUjRZYXlpeS1nbmJHSmVaMkgyTzhxeEE5MHhXcTVMakxfMm45TWVwRHh0N09CdWI0eWRsRkIyME0xRUdaVnZvX1pUQzRkUWsxSHdoZE1pTjQ?oc=5",
+      "title": "Tutto pronto per l’apertura del Super G Faloria Mountain Club il nuovo Après-Ski panoramico di Cortina d’Ampezzo: ascolta l’intervista a Mazay - radiocortina.com",
       "source": "gnews:it:it"
     },
     {
@@ -235,11 +230,6 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUJoLTRBUnNMNTM1RHZvdEl5UnJNSmg2M1djN3J3clFnZDdYQnBLcjZtWUJTTjFnUHJJQmJFaVNtZ1E3cW1HdWVGOC1wZnAtclVYbWVPY3VQU29QVVVkdWFtT3dCMzBLeXNvR3A2TFhYdndteTQ4bHFPbGhDbGktM3liSVh3YS1TYmF1cHBqTUNrU0o1TDRrb1dtX0NJRTJXMWNhTHdOeTI2bERiNno3N1lkY2dZOXV6QU15Tm45X1RMWDltX0pRblM3SG1xYUJTT1lQYkVn?oc=5",
-      "title": "Deutsche Bank reanuda la cobertura de Pernod Ricard con calificación de Mantener - Investing.com Español",
-      "source": "gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ta29lVUFkSTVHNkpzZ3k0ci1Vd0ZRTjFXM2YzaUZsT01LVnVvdGllM0ppcDBZMTNZcTlPVGtUZWdSZVFpNHZ5S0UxQV9mZ1U4U3dyMmdUQTZ3QmlYNWlpbFpveFJhcmExcUE?oc=5",
       "title": "¿Y si miramos hacia las acciones de Pernod Ricard? - Bolsayeconomia",
       "source": "gnews:es:es"
@@ -250,13 +240,13 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY0JtZ3otclh1ZUFzRXVSSFhUZ29pWkFEaDBtU3ctQTFOMXRXWHc4OWFZYkhodlNFeWJYLTlmekZkaUxsU2Jpb1ZOQ293OGJHZUpRSjFZdkdrMnp1MHhVNUxCa0V6akU4MEFsZlI0Zzd1R0ViMVpMZWRTWkRQN1BiY3VSTWM1V2dwbDRvSFdod01DMThwb2ZJVEpneGJQa2dEMzV5QVl2ZmpFZDhwa2xJZEVOMDUxcVpzLU5jWUFHVDMwcjItb1IzV3RWSkRZM1FubzBFYlBsU1BoS0k?oc=5",
-      "title": "Pernod Ricard realiza cata sensorial multimarca, en el marco de su campaña “Estrellas de Navidad” - RC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZXpkTExrUFItTktmY0NvVGJWQlRoTHNRbGZ0blBycHlJYlp5OXpGZkRjOWR2eHJoVmxCUzhXa01Ib0hwTFJ3VklTTUh1SnV4c0lZN3NfLU03RjkzQ2RhLURtTzd2MW9sV1ppYXM2UGdxR1NONk1HeTFiclJ3dktweEh5U1M4WmRkY0tnOUMxNmQ4MV9RaFhvX2ptU0JkNUhkYTNWbWltYndnTjNESE1seFhuS3pOWnJCbGJxOURzeGZNRHhOdG1IZmNNNzB5cGpzOTNWYUpjR2RZVFhIa0J4V2ZRYlJ3eXFPOU9Sb1hFaVF6cmJMaVJZZmh5bHluZw?oc=5",
+      "title": "Barclays mejora la calificación de Pernod Ricard a Sobreponderación por potencial de crecimiento infravalorado - Investing.com Español",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZXpkTExrUFItTktmY0NvVGJWQlRoTHNRbGZ0blBycHlJYlp5OXpGZkRjOWR2eHJoVmxCUzhXa01Ib0hwTFJ3VklTTUh1SnV4c0lZN3NfLU03RjkzQ2RhLURtTzd2MW9sV1ppYXM2UGdxR1NONk1HeTFiclJ3dktweEh5U1M4WmRkY0tnOUMxNmQ4MV9RaFhvX2ptU0JkNUhkYTNWbWltYndnTjNESE1seFhuS3pOWnJCbGJxOURzeGZNRHhOdG1IZmNNNzB5cGpzOTNWYUpjR2RZVFhIa0J4V2ZRYlJ3eXFPOU9Sb1hFaVF6cmJMaVJZZmh5bHluZw?oc=5",
-      "title": "Barclays mejora la calificación de Pernod Ricard a Sobreponderación por potencial de crecimiento infravalorado - Investing.com Español",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY0JtZ3otclh1ZUFzRXVSSFhUZ29pWkFEaDBtU3ctQTFOMXRXWHc4OWFZYkhodlNFeWJYLTlmekZkaUxsU2Jpb1ZOQ293OGJHZUpRSjFZdkdrMnp1MHhVNUxCa0V6akU4MEFsZlI0Zzd1R0ViMVpMZWRTWkRQN1BiY3VSTWM1V2dwbDRvSFdod01DMThwb2ZJVEpneGJQa2dEMzV5QVl2ZmpFZDhwa2xJZEVOMDUxcVpzLU5jWUFHVDMwcjItb1IzV3RWSkRZM1FubzBFYlBsU1BoS0k?oc=5",
+      "title": "Pernod Ricard realiza cata sensorial multimarca, en el marco de su campaña “Estrellas de Navidad” - RC Noticias",
       "source": "gnews:es:es"
     },
     {
@@ -270,8 +260,18 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm1aR1NYVWlMSXJpLW5pMWhqNXRVd2ZGNEhRTzFoQXFfSHpYZHpTTkp1eUFMTTBURFd6UkRhdnhpYzRwbFVpUWVCVzRUTXNPaDJYS3o0TTJwdFFzTHY5TWx0MW9VWWp3UEp2ems4MGZnNFh4VlJTbGRaUm9lVHN2QXNRcWdlTzZ2SkZjS1FucFFUdkJPdnBESEJuLVloQWdvcGlVUUpGV2tFSENsQVBCZ9IBtgFBVV95cUxQRlFzU0tScjg4dEN2SzhLTUNBY1JWYnpwcXpPaHRJWW5IVlREMUZqWkV2X3lyTnkxb1VPT1lUc29BbzRfdjFSRjB5MGVNZUtkX1BsMk8wYUN4TWY5V3YtWDhVU3ZtNWFLRHVtTXd1OEdvVTBQNXNvLVplQlNTQ296elBScUZKMXphaG1LT1NoSkwweHJKUU42TEZqQ2V2NHJ1bkNGWUMyeXFyYWVBbFFIU3dGQVBSdw?oc=5",
-      "title": "Pernod Ricard realiza encuentro navideño con periodistas - Listín Diario",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdHNqaXd5MEI5UjZaQjdhLVBLVlJJcFVpR18zQ2JKMURxVTRTdGdCOEFsUGpBc25fOWRYRXZJNFdQY1pYOGpCNFZMYlc4WjFTQXdyNXV3aDhCQU1RMUtFcHYyRnFBRUw5Q25vRFFHWnpSd2lh?oc=5",
+      "title": "Llega la Nochevieja hostelera segoviana anticipada - El Adelantado",
+      "source": "gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTNEWF80QnFSb2xzWmtoei16YWRhQVBhNzRIZEdrNkxVRnY0a2ZGYjV1OFdwTkxqWFlHcVhDcU9MRlNxZHVNcUlLNFlfYmZLMS1fOXhGTlFsbnhRSnM5eFk3ZnJYUHM3ZE9HQ2ZhWFlJQ0xiNkh5dEhoZzVzcXNPY3hzZ1N0NjdYaGxDandBUjRCeEhVQWZxZWN3M3ZGd2xJQmxGa085WjNHcURVWDRrbk5wbmN2NXBMYlVKbG8zMm5VSkM3SzZaN19FRTZBQWJnM0E?oc=5",
+      "title": "Deutsche Bank reanuda cobertura de Pernod Ricard con calificación de Mantener - Investing.com México - Finanzas, Bolsa y Forex",
+      "source": "gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXl2M0V6U3loOG9IamYtM0FPT0R6Y2JxOHZ0aVNEVmpqalgxbVlmemFHQnh6NWdPR0tKOF9naUVYaG1sQ2JtREZaV0Z6UjhqOEhpOXlUd3lpUlRUdlNaYi1tTzRydlFQdXVfam5QSXdVNmo2RUZFUkpiVUpDTE4yUmpFSnloYUFvMjN3VURHdlNCUW1MdGRnUkcwUHhDUVFnTllzUFdnVQ?oc=5",
+      "title": "La primera Casa Havana Club nace en el corazón de la capital cubana - Travel Trade Caribbean",
       "source": "gnews:es:es"
     },
     {
@@ -280,18 +280,13 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR01jSVR4ek1yMXlnLWtfU1lDbkp4Y0QySG42c194NE5GdUZHQkxUcDhza0lDcVdBNHhFWU80NmxwMWNDRktLTU1fSEExX0g1S09HNU5NSE5pZFF0SXlGUjRXNXhSaHFhV2VNNjRHc2RKNngwRkV2dTJMckV0dkVjU2RjZTNHSWJsdVdiNWVUN1ZGNHRwdkFITkdRalI3Nlk?oc=5",
-      "title": "Newlink Group abre oficina en París en alianza con Hallowen Agency - Periódico elDinero",
-      "source": "gnews:es:es"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFl4cTlKWTg2aFllTmhmMTlOWV9oOEtpMlB5MlBVTUpZVDFaMzlwZVZzdDRDM3gxWHVYOFVLS3R6SUFpMG5XX0J3cHROTEpuN2lFcWFlSmdvSFJFNzJ4RGdnRlpORGI4ZHJGTlByc0RJdzh0ZFZmLXBXV0F4UHpfMHE2dnlJMkFnN1R0d2ZnVTZXdmtqU3ZoOGhlVk13emd0ejB1MVdXRU5kUGFNZTViT2pYNndpVzV4dDBwZVZWX1R4Zw?oc=5",
+      "title": "Deutsche Bank hervat dekking Pernod Ricard-aandeel met Houden-advies - Investing.com",
+      "source": "gnews:nl:nl"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRlNyQTBDZC1ScEoxUVY4bDJvQnhiUDFwY0dob2t5dUZYdjg5Y3I4MG9pay00LW5MMXJQeXpZZ0VWQnRLSzU4TDlrbXVlVXZvZHNWZXBPTjJoWG12VXNnbXpyQmFvNEJ0QUhzcVJmUDVQVlZCYlJKLWpXM1FSTF9GYmUxNjZoZW9mWG5QY2tVeDRBQmdoSUUxLWNIUUplNFZEdkFQQklXdzQyamZVQ1JhVWp3LVg4M2pEOWZOUmlveDFpbW0yNERCQ05BRXdRaHRPZGNyN21Vak5lcXh3V01laVZ6ZFczZl8xbHc?oc=5",
       "title": "Barclays verhoogt rating Pernod Ricard-aandeel naar Overweight vanwege onderschatte groeipotentie - Investing.com",
-      "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFl4cTlKWTg2aFllTmhmMTlOWV9oOEtpMlB5MlBVTUpZVDFaMzlwZVZzdDRDM3gxWHVYOFVLS3R6SUFpMG5XX0J3cHROTEpuN2lFcWFlSmdvSFJFNzJ4RGdnRlpORGI4ZHJGTlByc0RJdzh0ZFZmLXBXV0F4UHpfMHE2dnlJMkFnN1R0d2ZnVTZXdmtqU3ZoOGhlVk13emd0ejB1MVdXRU5kUGFNZTViT2pYNndpVzV4dDBwZVZWX1R4Zw?oc=5",
-      "title": "Deutsche Bank hervat dekking Pernod Ricard-aandeel met Houden-advies - Investing.com",
       "source": "gnews:nl:nl"
     },
     {
@@ -310,8 +305,8 @@
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlRb01rbVRybGNYWEo0V0dNZ0tza21Gd1lNRGg4NGV4TU1kSnF5VFBHOXNqS0IxNklKd2hwMmlOMkxDTzl3cmNDWG9odXctUDFTclJONk5KdlRmR242azdEakpLcGNWUlNtWHVualBVYlJ1OC1kR3pfOG9tc1BDYVl4eWoxWmttQ2M4Q2xuVllCTWxUTDdSeUpPOHZTd1didkE?oc=5",
-      "title": "Europese sluiten dicht bij huis na matte handelssessie - Beursduivel.be",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGZ2SzhQVmJRdkNjbXpFUzlQQV9rb3FBcWRyZDRaTkxzU3hJcEpSTlZfRjRXWVFBdHNvMXU3ZjZaNXBFUFAwMTNOWldhWFB2SWdFTzF3WVlvd3R5dEpfVlN6dmM0a1JnVEJEMTVTWE95SjN3RDM3aFhDWXlvWm1yVGZEYmE4RHduUTBYZGVQU3R5ZXYtVEl2amtfMWU5YXdfcU84RjNpcmpUU3hnSVlXRFFqdGNvRDFmWTByWG1tLWZkWUs3eEhyT1JIVQ?oc=5",
+      "title": "UBS turns bullish on European brewers, cuts spirit giants on weak U.S. demand - Investing.com",
       "source": "gnews:nl:nl"
     },
     {
@@ -320,23 +315,8 @@
       "source": "gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0NmamVoZW1qQTcySWVxbVpOUThqbHAtU2pvdWxDX0hxanFYNVJEcEE4R2ZFMGRHSmNfZHpGUVRqSlRlSmNBeGhOQ1Qta0NHSi1wY1RjSzdRWF9tNU5hZjdwNDVyYjVGajFYMmp2THJIY1V1YndHNVluSWxGbHpSeVlJUkpjdG1zbjd6ejE0Y2dWUXU0b0JVQjFsV3hUVzBjRXpRd1lQeWo0bmJDeERwbURRV3NKZGt6NGlVR1hDT29QYjJtNHZRMjhpbWR3ZjlYb2JDd3ZLd0s?oc=5",
-      "title": "Att gå ut i vinter i Paris: utställningar som värmer hjärtat - Sortir à Paris",
-      "source": "gnews:se:sv"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNandudFFmOHkzLXRXRWRqMFNRS0dYTkkzZkI5NUNCbnN2STZxQk9XOUFRZTVWekE0b3BfaUp0Yi1oWklKd284dVdYYkJVa3BsdU1fOFNYTkh2M3NYQ3dzOHM3U04xQ0RjYkZHLUtIZ1FjM2c3aTQyRDQxVXRSYVJLTXFRbVd1TC1UME8wcEdsTVJuMmt2bV9oa3M3ZWJtaDc1dm9qeEJOQmdjWXY1cHdlcEFqQmZvVDhiZGtBZTlJTkF2Wk1jUTRzX2JiRUJSSnlrd0pCRXBZN29KQUlWOUkwSkc0c3BqV28?oc=5",
-      "title": "Barclays podnosi ocenę akcji Pernod Ricard do Overweight ze względu na niedoceniony potencjał - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
-      "source": "gnews:pl:pl"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXhoR09ndUpDdE5NTVp1M1gxMUtveFVqdlVORWVJT3JvUUFEX292dmxlUFVWSTB6cFJKVFJIZTBOTmRPMTJKa1JrbnV4WTVFZFhzOXVPUFRhSTNLV1Q1VloyeFM2ZlpZWjVIOXlCclp4X2tBZGZveEtvSDM5b0ZlRTI5NFZnRjJUdVBVMjdINkZZWldWYkNSUXRrbTV6Z0FS?oc=5",
       "title": "Globalne podejście w lokalnym działaniu - Forsal",
-      "source": "gnews:pl:pl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQajduaWhieDdwOUlFcEhyZF92dHV3eE81UFBiYjdBYkVqNnhLa2hfR05mU1VwcU9VNk12SG5FT3dYWmhnenNxeWM0ckQ4MXJnZGpXdkh5eVZMMWdiMXdtS1ZWRV9XNHgxV3hPVEs1R0ZCQTlBS2RvTVF2M3U4eWw5aGtrUXFFZw?oc=5",
-      "title": "Tadeusz Rusek dyrektorem marketingu Geely Auto. Ma ponad 20 lat doświadczenia - Press.pl",
       "source": "gnews:pl:pl"
     },
     {
@@ -345,8 +325,8 @@
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1NaYUVnOEtFVTdzTHdvLUJJaGVHQ3czTmpPRTZmTEI5S3MyRWs4VmVhUlphWVJRTmtHSG13b1AwNUNsZmhhSXA1UnI1dnhMR0EwY01Bc0trYlBRTWxld0RRZDc2V3dMelRrTzFPVms2X1BTR0RJRmhXX0l5RHdmb0prSlgyUUc1dEJsci15RS1haXhHNlFoQm9LYU1wbVM5NTFwRlFweFU4eGs?oc=5",
-      "title": "Przerwa na kawę z... Mariuszem Mistewiczem - Marketing przy Kawie",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2pPVDVTc0lzNEZsa2c0VXVMaTVobVQ1SWpxcVhNYjRhRDBqZjZDaDRjS0tFQzJ5Q2pYaF9YWWROMGIyX3dVUExMbEZKVUtoUGdEYlAtRVpJLV9PNFdXOFdPcXF2cDQxcGtjNXZPQWVjd2t0MkFiQk03d3R1ZUEyblNvR1V5aEpfQzZoTC12R1ZEbXBraUdDU1hxMC0zc1pHVFVtRnZzTlcwd0JVeS1WVVZLT0NoVENM?oc=5",
+      "title": "Rynek akcji Francji zamknął sesję spadkami. CAC 40 stracił 0,69% - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
       "source": "gnews:pl:pl"
     },
     {
@@ -355,28 +335,18 @@
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2pPVDVTc0lzNEZsa2c0VXVMaTVobVQ1SWpxcVhNYjRhRDBqZjZDaDRjS0tFQzJ5Q2pYaF9YWWROMGIyX3dVUExMbEZKVUtoUGdEYlAtRVpJLV9PNFdXOFdPcXF2cDQxcGtjNXZPQWVjd2t0MkFiQk03d3R1ZUEyblNvR1V5aEpfQzZoTC12R1ZEbXBraUdDU1hxMC0zc1pHVFVtRnZzTlcwd0JVeS1WVVZLT0NoVENM?oc=5",
-      "title": "Rynek akcji Francji zamknął sesję spadkami. CAC 40 stracił 0,69% - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
-      "source": "gnews:pl:pl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1l2Q1M5cVFUNE85UUpzckJFRmpDbWFQZDJzMlFUN2xiWVRRN3RpYk9YT2tvaUJwLUNzTDl4Q25UenlOQUIzdDZQZU5JYS1PVVhmeWt1S3ZfWVJydDF1ZXJ5OWMwR1BDLUNRYU1fbksydVlwZlBldjV0RVBZNEZPRXlFOXctemQ5QmNsbHBJVW43Y3NoUlBuZ1RvaHE1R1RmcHFUX2VSaTRHYU1OTjBVZTNEMlpDR29aN1pRQlVYQWNHOEZKX3dqeDBrdlFnWnNzaE9j?oc=5",
-      "title": "Ut på byen i Paris i vinter: utstillinger som varmer hjertet ditt - Sortir à Paris",
-      "source": "gnews:dk:da"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVHlDODZYZ2tnR3p1SXlaMkh6cGE3RWhxSDFHa0JVMzlVWDZweDBYZ3VGMUw1OVR3LW1jMFhlNEtMTkVheGFIQ011czhFYlRQaG9wZUZQZTJ3NDc3MFNsaHUzSmxabDY0YkhfeUJHak9nNjRlUV91bXpPQ0dvSm00NXJiRkxoQy1WZkh4Y29wOENRc1YyREdUVDI4c1AxVnZ5T0twSWRuQkdnTW8xSnhXdDVLeWY0OWdkMDRtNFo3ZGsxRnM4cnRGTDl1NTQwUDhVaHZwQVNsT044QXBCdTgyS3V5OA?oc=5",
-      "title": "Ulkona tänä talvena Pariisissa: näyttelyt lämmittävät sydäntäsi - Sortir à Paris",
-      "source": "gnews:fi:fi"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGdjbnM2VDZJUHh6UmkzM2VacVZ5SkdpY20wdE1OalJEZGY1R3l3MGtlUWJReU1RNUtKcUNaM0pCS2ZONmZZMHpadV9mQVpEZU9KeTlhdWV1TWJ5YUlzTUI4S2hGRV9BUFh0R2lyMjZ4WE5jV21sa2Q2ZjluMHhaZTk0bVlXVU5jVmxmMlpQdw?oc=5",
       "title": "Pernod completes Imperial Blue whisky sale - The Spirits Business",
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRTRQcFN6Mi1jZWY2NWg1clRsRGRNWlY5S3NzTGNPbXpPaVJNcTNuLXpEajNDekJ4ZkFnaDVnSi1Dd0NPaS0yUjBOUXh5WUh5YXpmTHRidjA3UnhPWFJFZTY1UVlZRmFSRWFtRDVhMk5fNm5WTldSYzFrQVI5RlNIQVg3Vkc5MjJVeEtMRUhfSG9tZ2RBOWkyekNqOTh2VkdVQ1JfUUJ2Vk5DNlNfZW1uOHZoTkotMXZFTDZySHM0LThzeS1zeTJ1MU95NkI4T0NUdi1yRU5KUzJKSnMwbUtoLVdDeHd1d9IB5gFBVV95cUxNRTRQcFN6Mi1jZWY2NWg1clRsRGRNWlY5S3NzTGNPbXpPaVJNcTNuLXpEajNDekJ4ZkFnaDVnSi1Dd0NPaS0yUjBOUXh5WUh5YXpmTHRidjA3UnhPWFJFZTY1UVlZRmFSRWFtRDVhMk5fNm5WTldSYzFrQVI5RlNIQVg3Vkc5MjJVeEtMRUhfSG9tZ2RBOWkyekNqOTh2VkdVQ1JfUUJ2Vk5DNlNfZW1uOHZoTkotMXZFTDZySHM0LThzeS1zeTJ1MU95NkI4T0NUdi1yRU5KUzJKSnMwbUtoLVdDeHd1dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX3dqYVJ2ak43QU55OW1Ldjlfajd3Z2tnNGpOYWpPZHpMbGZkbWRpNXl5VG00QlZRcEktUDZ1OTI3MUdyNWl4SUFNY1BHSmdwMlZSc2tXSzJwQ0trUnZXWTkwWDF1d0tyd1VNZlUtMDF5Ti1CbzdFTDF4bjhaTThRamxreDgzdkRydElYMHpuWVBLRXNRNURsRFBBdUQ4c1AyVDRPLUVRVDE4S3N4cjI2QWppWlgxSTd5VEpKM3VRX1hsdUt4UG1FWl8yTDBSQXdaZnpGWTQxdjhlMmRrLXNQZ9IB5gFBVV95cUxNRTRQcFN6Mi1jZWY2NWg1clRsRGRNWlY5S3NzTGNPbXpPaVJNcTNuLXpEajNDekJ4ZkFnaDVnSi1Dd0NPaS0yUjBOUXh5WUh5YXpmTHRidjA3UnhPWFJFZTY1UVlZRmFSRWFtRDVhMk5fNm5WTldSYzFrQVI5RlNIQVg3Vkc5MjJVeEtMRUhfSG9tZ2RBOWkyekNqOTh2VkdVQ1JfUUJ2Vk5DNlNfZW1uOHZoTkotMXZFTDZySHM0LThzeS1zeTJ1MU95NkI4T0NUdi1yRU5KUzJKSnMwbUtoLVdDeHd1dw?oc=5",
       "title": "Taking Stock of Pernod Ricard (ENXTPA:RI)’s Valuation After Barclays’ Overweight Upgrade - simplywall.st",
+      "source": "gnews:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTh0U3kyZk11bzA4ak1FdU03aFpFdTd2MDRHcDBBSUp3T2k0em5rZF9CT09xNnVjQUlsNjQ2bHFrLUhXQk1RSTQ2YXo5emFweElPS29XUC1iVkxoZkdWWG9oS1pkZXlId2hzR1FhTGZrUXNmbEQ5bWIzeWozUEpoWGdB?oc=5",
+      "title": "The Bull Case For Pernod Ricard (ENXTPA:RI) Could Change Following Barclays’ Upgrade And Reframed Geographic Risks - Yahoo Finance",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -387,11 +357,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ1ZNOHZuZ1dqMjRmdHBXbmRUcWhSdlBQOVpZOU53aVBDVjRMSFQ3dEpQN1R2MjJjaGFFaU52b2d6VEV5amZaTlZwOXVOWjB6aEpma2lVLXNCSUlPR244clRHb1lzQ3NrUWZYVzdEbkgxN2IzOUU1ck5tZlcxQk96NUNDRExHOU1tQ1o5ZGpzN3lpVGFCOUNDVWVkZHR3MUlUSU45LXRsZ2pGT3BWQktpVVlDRnBZSmROWVNvSTB0QklwNWFoeXFYX0s5ZUxDNmszNVFKcVJGamJ3VXFoQm9OTXY1SDE?oc=5",
       "title": "Barclays upgrades Pernod Ricard stock rating to Overweight on undervalued growth potential - Investing.com",
-      "source": "gnews:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTh0U3kyZk11bzA4ak1FdU03aFpFdTd2MDRHcDBBSUp3T2k0em5rZF9CT09xNnVjQUlsNjQ2bHFrLUhXQk1RSTQ2YXo5emFweElPS29XUC1iVkxoZkdWWG9oS1pkZXlId2hzR1FhTGZrUXNmbEQ5bWIzeWozUEpoWGdB?oc=5",
-      "title": "The Bull Case For Pernod Ricard (ENXTPA:RI) Could Change Following Barclays’ Upgrade And Reframed Geographic Risks - Yahoo Finance",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -420,8 +385,8 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0E2aXdUdl9yVm5fYm84eHpxb1hhWkdzVE0zb3QzODd3V2ZHdDhRbzd3ZERLUW1EMFQ0U2stV0ZoNkVnc3RSZkVQQm43TURCUjdKV3RhT0pnbjZUX3Y4aUVVQ1huU0NWdXU5YnpYbjlqOWxCaFJSSnlZM2ZvTDdyZmlNS3dkZw?oc=5",
-      "title": "The Bull Case For Pernod Ricard (ENXTPA:RI) Could Change Following Barclays’ Upgrade And Reframed Geographic Risks - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOXd5dVA1cmpZUHBUOGhtbnR1cURiU1U3WXlQMThDNGRJaHJ1N205VS00SHdmQS14QmZmT2pTQUhzWDBHaVo1TUc3OEhxck1kVWhOWUFDRXRsUHA4MVhGWmJCaTRlem9FdGFDN1pXNC14TjVXY3RfQTJqQVBIZlQxeTZ0T3ZsbTBsb2U1V2lfNVdJM3NDU1lNdkMwLVNYXzdmbElQN0pEdXZWb2MyV0trN1hESm9RQ3FiWmY1ay02ZUI0WmlvQVhyV3ZhclVOOVlZbFZDZ000dGliQXZvQkIzektFdWlhd9IB5gFBVV95cUxPOXd5dVA1cmpZUHBUOGhtbnR1cURiU1U3WXlQMThDNGRJaHJ1N205VS00SHdmQS14QmZmT2pTQUhzWDBHaVo1TUc3OEhxck1kVWhOWUFDRXRsUHA4MVhGWmJCaTRlem9FdGFDN1pXNC14TjVXY3RfQTJqQVBIZlQxeTZ0T3ZsbTBsb2U1V2lfNVdJM3NDU1lNdkMwLVNYXzdmbElQN0pEdXZWb2MyV0trN1hESm9RQ3FiWmY1ay02ZUI0WmlvQVhyV3ZhclVOOVlZbFZDZ000dGliQXZvQkIzektFdWlhdw?oc=5",
+      "title": "Does Barclays’ India-Focused Upgrade Change The Bull Case For Pernod Ricard (ENXTPA:RI)? - simplywall.st",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -430,8 +395,8 @@
       "source": "gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTF3QjhMcEg5TmxkaGRwcUZsd0drMktBRTZIQ1F3anplTUNpcGx6U2ZwWWdBM1RuTUpGWHpYVm1uUFNnbDJsN0hmenl1YVlCejlqdkJsZkJJeGdxZ0NYMlgwXy1pWGdQcTdyN05KWUFOQWZzTEw1WUxZbEZJM3oxZGIxVDVFVUxiaGoxNjdsQTJ5WDJJa0lDWXVaZGsyWkFRWUlBZWwxTW15d0dFa2R4YzU3Tmd2eUZZUFZKOFM1S2tLOW11bWFQeEJTcGI?oc=5",
-      "title": "Top of the Street: Pernod-Ricard, Aker, Bankinter, Iberdrola, Thule - TradingView — Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVRmWWdrOWo3dEFnYVhVTkQ1MnNLYUx4a3htQ0w1ZzB6cjJrV1o4bWRjLUJrTjBnMmdINzhMZkM0TkdZc3FPWm4wOHBmZ0NjaFhSWEZPbFcyV1QyQWtROUxYVjFkVHhEUE9VUzAxMUVhejlJSkR6UjgzY2RtWm5Dekp1VC1CWUlNVUMwUVpTVl92RDk0UW9jbVBGc3UydE5iVXlxTzJwWFg3aWJtWFREdjE3WkRackZjQ3ROdkZoQThNcWdiendxenF5N0s3NjdfbVdKa3Vub1liTUR4RlZCcUZB?oc=5",
+      "title": "Deutsche Bank resumes Pernod Ricard at 'hold' on 'challenging environment' in 2026 - TradingView — Track All Markets",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -440,13 +405,13 @@
       "source": "gnews-ecom:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDJzX21VeUhHejFfSUgwVWdKRE1taC1xakJfUFVqcVUtTU9pM1dCYzM2MWJFaDJQcm1ON1kyVjFoYm9aNUNFQzJ4YXFzbndMSmROOW11WHdKUVBjU0FiNEZLZE1UQUN5T3MweFdYY3d1UG42NnZOc21XU1lpbXVDM215SV9YcTJ6c3lnMkw4UlVFV2UtTnNlNFRna2RqWndUQnFPaXA1R3B1YUViVVpkZkVBQXlCLVFrOXVTVko0MndvQ1hjcE9vVktKb1dLX1p4QmtoUVhKenVKdFJFUlE?oc=5",
-      "title": "Deutsche Bank reprend la couverture de Pernod Ricard avec une recommandation \"Conserver\" - Investing.com France",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ1ZUV0pmaU5mRWZoQmpIcVkxdVpQX0pmR1RKZzZCdkJ6Wkl0Z1FReGZpZUdXR0lJMlREclhzZFhwMEdvbVV0cFhPdTM0QUpjRzFfRlFUZnBDYmFfLWVDeDBQdFpvb0pSSE01RXpNVUNXTmxFakFVMDNTYTdQZGozNW93ZlU1Q2dZX2dkdmZQaXRLTjMwa2d2Rzdrd282ODM3Qks2cVNYaTlSQUdvbE81SFBjdVEzSmZQcWdFbXlaZGRwLWVBclF1Z09peUExajlQVERJSndCQzFqREJzSW5IUFY1VEZWVm5WWGZtRktPS3c5NXFG?oc=5",
+      "title": "Barclays relève la note de Pernod Ricard à Surpondérer en raison d’un potentiel de croissance sous-évalué - Investing.com France",
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVVliWk16LVNIWXd1N056MEZ6R2p1QWFNOUVoNVdtbWV5X0J2c1VCQkd6d2dPYmFOTzE2TWtUakN4NkdTMGw2N2lsaDRrLVFzT0VQLTFKRHNaUE10XzdQRWJlOFYyYzItRnBFXzFlTVN1WVpWU1dhZTFMU2k4cHQ2Z3pQSTAtZzFCZk9IYVRNSW5rNkVXUzU5S2ZIZTZTY1VTUWU0d2dJSHNkSGRWYzY1WGJYTGMyNS1WZGl4Y2U1T19RMWVPeHF2TmFoRUhJMTA4b25mbjJNaHpHbTRTRWhudmdIS2M0eGg4c2dSbFNlN01fQzhubVplZWNzazMzMENHTHBOUjc3ajg2bUM5R1dkNHBhdmlndldEanhOVmM5Rzlzby12akhQQnJEU3BiLS1LNnZFRA?oc=5",
-      "title": "Point recommandations des analystes : Airbus, LVMH, Schneider Electric, Société Générale, Hermès, Kering, Pernod Ricard, Capgemini, Dassault Systèmes, Gecina - BFM Bourse",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQZ3pOamJLa3FJZm1sMlh4Z2toWExMb2c3d2RxclE4a1U0elBSNEZYeHFsREtYMU9pZGgxYUd1b25tRTQxbDFZeFpMcTJqeEJWQTdxTldMRXY5RS1xQU9KQ3A1WlNIemRWZ0ZCb3oyOXpmNzEyUUVUY01YdlBWbFNEbDRUcFNvdFlGRUZUYnZqRjI5aVBHZVh1eTRCYW9SM2VfcTZLY2xoc3hfOE5zQ0JZdFF6TXhDX2Q1ZWw2dGxhZXIzT0R6WGZIUTIyZDJMM3pBN2Zxc2F0VEpHdUhjc3dFbWRiT2VJQ3dnaFBGUkloNmRGWnNPQk9VLXN1YWFSV0dwYXdBc0RGRHdVbjc1V01SNTRJX1RRY3dCMDRGT3JQYjZzUzZWdmFvOVZDWVZMZVZ5d1ZFZExYdnhWWUNXY2tPc1RLQXotUWdIZEFqWkJaWXZ0UnBuMU5JRXBZYU5Gek00QUR0OVVoamkxUQ?oc=5",
+      "title": "Schneider Electric, Capgemini, Dassault Systèmes, Renault, Société Générale, Crédit Agricole, secteur du luxe, Pernod Ricard, Airbus, Gecina, Aramis : les recommandations des analystes - Les Echos",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -465,24 +430,14 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmlYWnF2ZlBSZkFCclpHMHhsR0pIRFk2Tl9NVHppdmJiVVhBQkhOZWxHdnViU2d5SV90bVdQTExXYk5EMWp2UDRLbjJPSHhjcmdEUXd3VHJ2anl2dTA0aXhJQW9OazI4WlozQlZDVkptODVJbUlYM1pIZ1A5bG80X05nNVJkeEJ5MTdXb3l6WmxwNzNxT3k3UDRLMzhpUmZG?oc=5",
-      "title": "Prévision des prix : Nouvelle baisse en vue ? Pernod Ricard se négocie près du sommet de la fourchette intrajournalière - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdklVZUpqVENMSDYwNkgyWmltNlNPZHdGTE4zYUdXWG1NN1NacjN2WkdETGFIcFZDUU9pSHRDX3F2YXdxbkVQdUJHRU5ub0JxNFVKS05GeUJzcXRVQTduRzB6RWpiaFU1Ty1NQ0VBbDV6OE83WGpZWFJPSnBYWUd5N1lPWld3LWNyUlNRMTJqSVhtRXYyMlllR2dvTjEydzZmcnJ3ZlNvTEVQS1NDRmZxMWZmQmRCS1otXzJONDNIdDhfZ2NHM3B0Vlh1ZXg0WFhQU3lFdzJMRTVrVnZjSGRseDB6TWttSjgzTlQyNnk1V3ZDQ3FL?oc=5",
+      "title": "Kering versera un acompte sur dividende de 1,25 euro par action au titre de l'exercice 2025 - Les Echos",
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnhQazh3dDNiN3F6aG1BQXBCZkN2bFNaZ3RPOG9ZbVNJZVpjby1qemM4RkgwcjM0eUp4OGpkNEFNTW5BQlFsUEs3TnRQd1hXbVB4aW5oNjZaUUd0RWx4d1p1REtyY2FNMmI3S01ieDJQNkpyLW9PZXNjcktXbDNHUnZ0ZG5fYS1VZUE0bjNwLWtQRHpJa1hSUXdJeVVGMDVR?oc=5",
-      "title": "Actualités RI en direct : le cours de Pernod Ricard se maintient, les indicateurs baissiers et les signaux techniques faibles persistent - Traders Union",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcjhUdWZCdjVVWXJfTkNRS1lhWFd0Y1dnTHpNcEVHdmFIajUzYzZCSVRhcVZVcHpXZUhyVG9GbmpnU3c3cWtzbUUzRUc1bnJBYkJaTV9iZ2pNcnEtMFVVcVl6SU5McXA0WUtXclFOYThLbmgxRmFOLWYwS3gtb1F6d1NoZU9vNUR4a01VV3FkZnd3WGxyWGRteDhlUQ?oc=5",
-      "title": "L'acquisition par Tilaknagar de la division Imperial Blue fait grimper la prévision du cours de l'action Pernod Ricard de 1,13 % - Traders Union",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTNEWF80QnFSb2xzWmtoei16YWRhQVBhNzRIZEdrNkxVRnY0a2ZGYjV1OFdwTkxqWFlHcVhDcU9MRlNxZHVNcUlLNFlfYmZLMS1fOXhGTlFsbnhRSnM5eFk3ZnJYUHM3ZE9HQ2ZhWFlJQ0xiNkh5dEhoZzVzcXNPY3hzZ1N0NjdYaGxDandBUjRCeEhVQWZxZWN3M3ZGd2xJQmxGa085WjNHcURVWDRrbk5wbmN2NXBMYlVKbG8zMm5VSkM3SzZaN19FRTZBQWJnM0E?oc=5",
-      "title": "Deutsche Bank reanuda cobertura de Pernod Ricard con calificación de Mantener - Investing.com México - Finanzas, Bolsa y Forex",
-      "source": "gnews-ecom:es:es"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNandudFFmOHkzLXRXRWRqMFNRS0dYTkkzZkI5NUNCbnN2STZxQk9XOUFRZTVWekE0b3BfaUp0Yi1oWklKd284dVdYYkJVa3BsdU1fOFNYTkh2M3NYQ3dzOHM3U04xQ0RjYkZHLUtIZ1FjM2c3aTQyRDQxVXRSYVJLTXFRbVd1TC1UME8wcEdsTVJuMmt2bV9oa3M3ZWJtaDc1dm9qeEJOQmdjWXY1cHdlcEFqQmZvVDhiZGtBZTlJTkF2Wk1jUTRzX2JiRUJSSnlrd0pCRXBZN29KQUlWOUkwSkc0c3BqV28?oc=5",
+      "title": "Barclays podnosi ocenę akcji Pernod Ricard do Overweight ze względu na niedoceniony potencjał - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
+      "source": "gnews-ecom:pl:pl"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWi0tdDltTW9SNm9YYTZGaVhGLVNyd0FDMk9UU3RjVmJnV3Uwb1F4a3R6TWxoRmlTeFduS016ek9URnZ3dXYzaXpFekt6WjA0Si10aGlsNXc3aXNQckFMdXdaMXp1NVBLUHNBdGZMQ2V4NFhfNm8yNlEydGxHS09WY3VCbDh0WE5LeXRfbHVGQkhVY2lPZGhuV1ZkdzNKYUZfeHdNdERCRmVsUDlnNmFsVEpoME8zV0pYZk1KcEU4cWlBRC02V29hSHVxZjcybVNFZ2YtOEN3?oc=5",
@@ -490,8 +445,18 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUxWSzZrODZwaUtoS2ZGVmpfdHg3T3FiODY2UFlYOFVVN0pxUm1BQVhnS0pUQ05BM3pua24zNDE5aDFVZEV4LW83WGo1T0x6OEppd25QNnR1M2dFT0RrZ2RWeVR3ZDZLMm1uTF9vSG56cm8zZFFQbzluTEM0WWk3VXdWOFphbFRqRkhCSzNuOU16ZFVSY1haWnVXR3NGWVJaQm41VHYzQmFRcHozak5NdllJSkhLNm9BLW5JNWQyOGFTVE9WZTA3X2VvT2N2TXNiN1Z4Y0R3dFZad3JNRDYtNllBM2tTVnU5a20zT0ZhM3lNNjTSAfgBQVVfeXFMUDZNVE1HTFFKQXg2ZXFMMDFFVVgzTXA2Y1JFZlNWS2JrcXN1M3ZWWWV0MUFXcDNzbnZUaURVUUZYVnhfVmpURkxIWXBWQkNIVEtRVTQzd0w1c1liRW15cHVlY3lZMHlwSm9JcTNJU01PNTJUOGVZNDdFTGN2bEJlRzF0Q3ZOcHZvTmZ4LXdXUTRMSGJjM2RMb3gwMklpZ1AxeW91alZqUkJJck9iQUY5LWVYZU9QWnVpTlBJdFVLVVR6NG1yQ3l3Q0FhdjNqaDJ6NU5sZEozeDRSb2pobWRlVWJKYjdjV0dIMzhwelJzSWVxVDgzLTBTdE0?oc=5",
+      "title": "Nestle India appoints former Pernod Ricard HR head Nitu Bhushan as its new HR chief - The Economic Times",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHBGYl9yQ19Md3dUQlJsS3lYMU1CM2xwVGNoTVZYc25EaHo5WWFwclVvVDA5eE5zNFN1LTRPUHhsVV80a21KRXF5RDk5NEt5RkpFME14MjJRUXYyb2pSTHhzckkycV9aU3Y1VTZ6OVozeDJ2eXVnUW5FU09fTDJpMG10SXB4bXNMdDk2RVk4LTZtQUIxSTl6QXJqZFZqMVBMVFFpMk1hazhLXzNjOGRYWnlKbXBpZVJPWExF?oc=5",
       "title": "Pernod Ricard (OTC:PRNDY) Rating Increased to Strong-Buy at Barclays - MarketBeat",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEVZN2l0b0prRFYxbEJUS2NhZTJxMUozUm5GMVVMeHZKdlZyaklGbnJuNXBpaE1PelYtbEhjQTZacFlBSlBScjFiZTc0a0ZsVTF3VEpnc08yRl9hVG1xZ1BfRjJUdTg2ajNFeWltZGxxRHVZczVLYUx5NEtUOEtLN04zYm5tMjdCd1VoVjNQYlpGVkNnVzA4dG0ycFVKRGFkTEl2cGp0Mmk4V2xweWVualB5b1lZd01zbXV3ZQ?oc=5",
+      "title": "Nestlé India names former Pernod Ricard CHRO Nitu Bhushan as HR head - Storyboard18",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -505,14 +470,14 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQTNmVWI5eWxialN0aV94MkpXWFJhVkZ0OEpnQ1E1MkZNclZnRnVEZERfb2xhOER2ZVpyazRSTVpvdXFFT3BJRml4VVdsWGNrcC0ycnByRFZSZVJnbmRVQWJQSnJnTEZ2WnVvcjM4QklFbjV0aWdHejZsd2VtUVBhbXNiQ0U4YVdSVXRCbUZHTEpBZkpzSU9rYXB2cnE2STZ5Q0p3OGE4VGhsZVRwUjkzc2RqN0NkeWZDd0hqX2FCQ3NFc01OaXFnS3N5a3puUk82ZlI2OEYzVlVwZF85Q25BS3dXaVRVUXR1c0tYZ0w0eDBwa282WlkxdjN0VUV4UUdpLXZfX1NZcHBEQdIBjwJBVV95cUxPdFMxckpRYnFJZDBrbVVaNFYtMHBKRHpsT2NfYjZRLXRteHdYd295bTN0YXNiRDBHcFNodF9WZ3lHYmg3M1ZfYTFqTWp0RWNfc3JoWlpmS0dPRDNJemd2UnJCc1ZVWVFLWEhKOWNqaTRHbWRlSFJucVRRdjhFRDFSR0NoMlNlbWZVeFV5UUdBb18tSFY0TUdsN0pUWUdyX2tXam43S0VNWEIweE03NjVBN3BtOVdCdkZYU1VVMkVWbTcwYThITzlVMW1kTnhKTVNTdkFjbWEzRjU0UmprZmJEMm8wYUUtTkt0TE94dUhwbzJINHJPV2tFSXB6RE9DVVZMOG9zRXl2emNBQVhiQ2Yw?oc=5",
-      "title": "Tilaknagar Industries completes acquisition of Imperial Blue business from Pernod Ricard India - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1g3Z0dGYjQ0N2x6em5kampXQkE2VXk3MW50Yk5hSFVaNFd1R0V5OG13YjhQc19SUXE3UFlBVlM1UUZjcU1DUDQ5OV9RYU9ja2ZCVXlUS3JRbFpySzVTaGI1MUdPSXFNS2EzT3Ftejh2TVFabG1rU2RhWVpJU3AwTU41QzF1QWNDd0tUZzItYnprdVV3MHNwNG9ZZjRkempucFJaYkFLQXdhTnJIYnBpdTZ4UEtEdEdocUtmeW56N1BlSDhudkE?oc=5",
+      "title": "Deutsche Bank resumes Pernod Ricard stock coverage with Hold rating - Investing.com",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGpmMldVcl8tdUczUUJjQjJHR0ZNWU80N2tWazFsLVZ1amg5eXFyaWZHVkZzY2l2VWpoV1ROOUlZenVuZzRfX2p2VGljNkowZkdPRVNhWUJTT2FNNmFDS3lFaUpFNHhPQjVoNFd1R3ZDMFBOYUhOWTIzNWkwa0s2NXhYYXdDV2xUajRUVjh0VHdWWjQ0cVlGMw?oc=5",
-      "title": "UBS Lowers Price Target on Pernod Ricard - marketscreener.com",
-      "source": "gnews-ecom:ie:en-IE"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXdQSFAwZW10Yk1OSHMtUk91c01DVkozZzRGSjVzZjVpNzlWWWpmU0VSRXMtQ0o1MWQ1RG1GdTJrVkcxcGJYNEMwQzB2V0k3NU9BUGItMzZlZ2RSSzRJMFo2OHhfcWVoV0sydjdpSWVvdnBMODFxXzVyTl9wZVpPdkctQlE5UjYyS3dOSTRPZFo4dVJkUTNGMEYxeGtTY3JWRHNJM1J4am95dGFIaWpocl8xcW1VZkVDbGYzRHFiT2tsTnp5QXk0My13MDltWDNSSXV6T05mNGRlbDBnNEtGcDZpR0NmNmPSAfQBQVVfeXFMT1k0UHQxUk5YSU9lcnd3UU1iQTBuWTE5ZDBiaEdqQVhCcVIxUFlVMUUwcWRYTXI2Y0pfSVlpRE1UM1N1S0F3QWMzS1FZZE9zUzEycFlzVURNd0NHYy15UGlXUi14Tm1MTXAyV1h1S0hybkkta2Z3dG93OUhDZS1SdHhweW5mREdZeVNDa0tmVlNuMVF3VjN0REZBNm1sbVBRMFBUaTl2NndBUDFtQWFIczJnTGYzT2c2SEJiWk5ZOEx5U0hiM2VreTEtanljNkt2aHVvcE91Sm1PdzZRUWhBZEpSbGdHbW9zV3NvMU5PMGtEaTV2dg?oc=5",
+      "title": "Fortune India Exclusive: Pernod Ricard bets big on premiumisation, innovation and local scale, says CEO Jean Touboul - Fortune India",
+      "source": "gnews-ecom:gb:en-GB"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVGJGekQwdTE3NTFSX1FSXzNNXzgtZm5mbGZ0SlpONWZXWHRtVWhHTzdsbTJfOGNYWnM0QllCbFVLbGVTN3ZRQ1BpbERNU1dOdXh6R3ZyQTd3WUVSYWEwcmlQOXFzbXZPYWowdmFOSUtVcnlzN2xYcTFJVnFIVFZTaVpIVVV3S3dSUVl4LTdBbmJMcC1RclZWNTBSV0c1NzJNU0ExRS11Wnp3UXFyYV9NWWRvMU5QTVBRcklvdmJMVTZJOWpxWWdiSmQ0VFM4OGdHUEpsV25oamhMeEhER0lDU3Fwb1NRODE4SWNkb3VlMG94UTTSAfgBQVVfeXFMTXlzWFZZa3hBZUZXZHFuckpGRW1EaTJWS20wWG0wMFJhdGZaWW1qZDJ1WG1uaHpYeW4tVjJnSkJMaHFZY1liY3plTXgyTFVoSy0xajVPWld1SjZKRkhsdUJHanNLRktiQ0hZZy04UmltMl82QUp6cDViNlRsSUd1OU01N1BnYTV2WjVDb3QtajRyR29tUmVGZXRnV0xPT0d5cW8wRFYtVEhfa3M4ZmNVb3NqY2pkRTFVX0s1YUNib0pncmZmc3ZiT1pEOUMwMUdRTEVGNlgtbUd1bUdvMHpzNU5CV1YzaG9Rd3NqNlowalpqNHdHWklIMVE?oc=5",
@@ -520,19 +485,9 @@
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmNrd1ltWS1wU2d6alVnOVdLVE9PeDZKTk1WN0JUSTJFU015Y3FjcUp3QzNQUUNual9lZlNVSW10MFBaeUhnV184Z0o5N2lFenR1MEpOWVZ6OWl4N2ZXcjcyQWwtY3ZwdjJfYTJRQ29RMjR3UEhNVHduUFZCMkxib19vdUlDSHc2Z3NEczFLc0ZnZEtQZS1sR1Vn?oc=5",
-      "title": "Pernod Ricard Plans Double Digit Growth as India Demand Rises - Indian Retailer",
-      "source": "gnews-ecom:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdklVZUpqVENMSDYwNkgyWmltNlNPZHdGTE4zYUdXWG1NN1NacjN2WkdETGFIcFZDUU9pSHRDX3F2YXdxbkVQdUJHRU5ub0JxNFVKS05GeUJzcXRVQTduRzB6RWpiaFU1Ty1NQ0VBbDV6OE83WGpZWFJPSnBYWUd5N1lPWld3LWNyUlNRMTJqSVhtRXYyMlllR2dvTjEydzZmcnJ3ZlNvTEVQS1NDRmZxMWZmQmRCS1otXzJONDNIdDhfZ2NHM3B0Vlh1ZXg0WFhQU3lFdzJMRTVrVnZjSGRseDB6TWttSjgzTlQyNnk1V3ZDQ3FL?oc=5",
-      "title": "Kering versera un acompte sur dividende de 1,25 euro par action au titre de l'exercice 2025 - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1daQk5ReHJyVW8yWG1rUl9tSndwdldZYzBuVDBxLUR6c21TVUlEUXRBVXk4aEhzVUxIZlZocXZqWUFDNlluQ3pLM1NjREVES0FxcTJLOGJ1NGZvdkN0TU0zX3d1LU54VHJ3Z0VpU294THhVMjcxZF9NTTBjLVZwYlJBQTZaTFBoVHFGLVhOTVVCUEpEZXhUeDVKQk5RbWVhVk0zMXJBYVBfQnJBb243OXh3UTcyX1JjQUJhYnJ5dXRhb3VUQ0duMkJCb3hXMzA4Y0ZZ0gHYAUFVX3lxTFBIUEtmNTNVdDdaM1NqSDJKdERFbFlFR09vNzYtRTVndnlGWUE2b3NFa19JaUNMMDBlNU0zX1NYb05WT0xFN0Y5SFRhT3R4NU9jNkRER3ZkeHhMbWUzN2VxLVA0cVkwMnVaVnBTWXhkOS1yTnA0bTFtelNraEpaSWNoa3Z6ZWttN01mY1R6QzFyYm5YbXRaYmZnTDlkWjhnN2ZMWnBFY1ZaRXBnUV93TExWeUV4b3N3bmdYWW93a3VtNzYxTHJZTDZoVmVtMkh6WEhiVHZXTy1jag?oc=5",
       "title": "India is largest selling market globally for Pernod - Times of India",
-      "source": "gnews-ecom:gb:en-GB"
+      "source": "gnews-ecom:ie:en-IE"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDFFZHpqaVZWaVRlNngyV1pBTmhkRTk0RTZXZEJPRGt2eTFzV19xY29aUjBUV05aN2YtSjlrWkVMLW5FaWpncHJ4VkZ6RV9BUDJjbWd1LUhQXzdDb3RycVNheWxyeGZtMmVfTUlabnA1elU2dE5fdDlhTks1YklCeURoeWhYelJJZjNhcXh0OENrektDc3dVUjUtcDh4MWxiVEtjYlpiSXBXSVNVRlozZ3R5WU1tTFBrWVE?oc=5",
@@ -540,13 +495,18 @@
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXdQSFAwZW10Yk1OSHMtUk91c01DVkozZzRGSjVzZjVpNzlWWWpmU0VSRXMtQ0o1MWQ1RG1GdTJrVkcxcGJYNEMwQzB2V0k3NU9BUGItMzZlZ2RSSzRJMFo2OHhfcWVoV0sydjdpSWVvdnBMODFxXzVyTl9wZVpPdkctQlE5UjYyS3dOSTRPZFo4dVJkUTNGMEYxeGtTY3JWRHNJM1J4am95dGFIaWpocl8xcW1VZkVDbGYzRHFiT2tsTnp5QXk0My13MDltWDNSSXV6T05mNGRlbDBnNEtGcDZpR0NmNmPSAfQBQVVfeXFMT1k0UHQxUk5YSU9lcnd3UU1iQTBuWTE5ZDBiaEdqQVhCcVIxUFlVMUUwcWRYTXI2Y0pfSVlpRE1UM1N1S0F3QWMzS1FZZE9zUzEycFlzVURNd0NHYy15UGlXUi14Tm1MTXAyV1h1S0hybkkta2Z3dG93OUhDZS1SdHhweW5mREdZeVNDa0tmVlNuMVF3VjN0REZBNm1sbVBRMFBUaTl2NndBUDFtQWFIczJnTGYzT2c2SEJiWk5ZOEx5U0hiM2VreTEtanljNkt2aHVvcE91Sm1PdzZRUWhBZEpSbGdHbW9zV3NvMU5PMGtEaTV2dg?oc=5",
-      "title": "Fortune India Exclusive: Pernod Ricard bets big on premiumisation, innovation and local scale, says CEO Jean Touboul - Fortune India",
-      "source": "gnews-ecom:ie:en-IE"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmlYWnF2ZlBSZkFCclpHMHhsR0pIRFk2Tl9NVHppdmJiVVhBQkhOZWxHdnViU2d5SV90bVdQTExXYk5EMWp2UDRLbjJPSHhjcmdEUXd3VHJ2anl2dTA0aXhJQW9OazI4WlozQlZDVkptODVJbUlYM1pIZ1A5bG80X05nNVJkeEJ5MTdXb3l6WmxwNzNxT3k3UDRLMzhpUmZG?oc=5",
+      "title": "Prévision des prix : Nouvelle baisse en vue ? Pernod Ricard se négocie près du sommet de la fourchette intrajournalière - Traders Union",
+      "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1g3Z0dGYjQ0N2x6em5kampXQkE2VXk3MW50Yk5hSFVaNFd1R0V5OG13YjhQc19SUXE3UFlBVlM1UUZjcU1DUDQ5OV9RYU9ja2ZCVXlUS3JRbFpySzVTaGI1MUdPSXFNS2EzT3Ftejh2TVFabG1rU2RhWVpJU3AwTU41QzF1QWNDd0tUZzItYnprdVV3MHNwNG9ZZjRkempucFJaYkFLQXdhTnJIYnBpdTZ4UEtEdEdocUtmeW56N1BlSDhudkE?oc=5",
-      "title": "Deutsche Bank resumes Pernod Ricard stock coverage with Hold rating - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcjhUdWZCdjVVWXJfTkNRS1lhWFd0Y1dnTHpNcEVHdmFIajUzYzZCSVRhcVZVcHpXZUhyVG9GbmpnU3c3cWtzbUUzRUc1bnJBYkJaTV9iZ2pNcnEtMFVVcVl6SU5McXA0WUtXclFOYThLbmgxRmFOLWYwS3gtb1F6d1NoZU9vNUR4a01VV3FkZnd3WGxyWGRteDhlUQ?oc=5",
+      "title": "L'acquisition par Tilaknagar de la division Imperial Blue fait grimper la prévision du cours de l'action Pernod Ricard de 1,13 % - Traders Union",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSFFBUVVBc3gtS1BoX1NnZkxmQ3NFcWNRQXFKeFNybDcxZGkzQXR3dVZEQVFseTVKZDA4N2ZkT0dFY2tuSGUyQlBDQ1hJYTRmSTFndEJ5bFVrQmJMc0ExQ0YxdkZLY0NqTm9OZ2JIYTYzUHlrZ2tuSHQ3WEpqOTdUTFpyNGJBbU95Vjl3aXZwcDk1LXREcGVNS1VYdTNscXZmclE3Y0twdWdkUzNsVUVEY0dDN0IteEFITUl4Z3BRbUdNaWdYYW90b0Jlc3MzdWRrcDBMaVZxdTJia1dERjNrWGZqSXRQdWZLd3BCRjRvaUJBeEo4NDBfcHFxWlU3akVCemRDbkhoaGhJbUxN?oc=5",
+      "title": "Pernod Ricard India eyes double-digit growth, retains top slot with Rs 27,446 cr revenue in FY25 - ET Retail",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -560,13 +520,18 @@
       "source": "linkedin:gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMHJSSnlfbzA0U1pLckNjUFBxOTJxUnMyY045MUE4eVlFT05oSHFDcjRwQzBkNWVUZVg3eU5uSXAxU3hLRC00YXBUYUphZm1wOER4Nmdxc2JKWlpZcThFN2RwNnFUdnVwdUFhY2EwS2xCUGQwN0t4amlYWUFRSHBRR3FhNmtWckxDNmRxN2phamxueUtOZXBlVjhaS0xhcjg0U0JPY3J0Q1JUelQ0UVdzR25vMWR2bWZEbmZoVDNMWWhEODNyZkpybXdzZjIzZGFz?oc=5",
-      "title": "(Sponsored) Es lohnt sich, für die Wünsche von morgen seine Ziele langfristig zu verfolgen. Bereits mit 20 Fr. pro Monat kann ein Fundament für den Vermögensaufbau gelegt werden. Damit das Geld für Ihre Werte und Visionen arbeiten kann. Lesen Sie dazu - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXlSYTNTOWdBc0lLUUo2Sk9oQ2d4bk9yUnNTaGJTQUIyd1I3QXVKYmJtUThFbng2eHN6QWdZXzJfNVVYM29mV2YxdXdES3JEbkFBQkd3Yno0VlJIS3BUUTNIY0IySGdaLVF1MGFGMW1FY3NUMU56S29jOHFLRXlPYmZXMGMxMVJrSzlURkxSc2ItSmJMVk5DbG10aWItS2tfMFdpWTlXNTQ5aHI0UjlKTFh4b0NxLVgyV3JSTG9aLXY0MzN2YVE?oc=5",
+      "title": "Das Rennen um die besten Aktienportfolios der Schweiz ist vorbei, die Sieger stehen fest. 🎉 «Finanz und Wirtschaft» und Jan Schwalbe danken euch ganz herzlich für eure Teilnahme am Spiel! Wir freuen uns schon auf die nächste Runde. 😍 - LinkedIn",
       "source": "linkedin:gnews:de:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalBDN2xfMV92LU9Ka2NhYTNMb0U1UEZYU3Y5SVVQVENGSFhyMmdxYUFQajhqMTRxNjRBZHRBNE5vRkpDZVIzUW00UmdsV2ltUURwMkNXSV9HOTZZS0V2YTYxOE9pQWFJMUVqZFhYb3FCQlFseXhZdmJBNDZNZUNJc1U1WDZITDZrZ21uSWphMWIwWnlZMXFsaW5uRE5GMWVsUnJrSjZZd25lSHB3eVRwckN1OXFIWm53TXRmWWF0N0ZhZUhfU1ZJ?oc=5",
       "title": "Der FuW-Wochenausblick mit den wichtigsten Terminen der kommenden Woche. Wollen Sie noch weiter in die Zukunft sehen? Dann finden Sie hier unsere 4-Wochen-Vorschau: https://lnkd.in/ee49ptEf 🎤 Sylvia Walter - LinkedIn",
+      "source": "linkedin:gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMHJSSnlfbzA0U1pLckNjUFBxOTJxUnMyY045MUE4eVlFT05oSHFDcjRwQzBkNWVUZVg3eU5uSXAxU3hLRC00YXBUYUphZm1wOER4Nmdxc2JKWlpZcThFN2RwNnFUdnVwdUFhY2EwS2xCUGQwN0t4amlYWUFRSHBRR3FhNmtWckxDNmRxN2phamxueUtOZXBlVjhaS0xhcjg0U0JPY3J0Q1JUelQ0UVdzR25vMWR2bWZEbmZoVDNMWWhEODNyZkpybXdzZjIzZGFz?oc=5",
+      "title": "(Sponsored) Es lohnt sich, für die Wünsche von morgen seine Ziele langfristig zu verfolgen. Bereits mit 20 Fr. pro Monat kann ein Fundament für den Vermögensaufbau gelegt werden. Damit das Geld für Ihre Werte und Visionen arbeiten kann. Lesen Sie dazu - LinkedIn",
       "source": "linkedin:gnews:de:de"
     },
     {
@@ -585,18 +550,13 @@
       "source": "linkedin:gnews:de:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9SeWYyYXhGcU1WRzM0MUtTU2NPZUlEQlhNLWxIU1FBaUdQUkY5dzNpVC1Rc2Nic2hTMkEtaG41ZTZFSktwTzJld3U0clJ2anRPclZwc0FEZnJ1Q2Q4UXJTRHpZalI3UTQ1T3JILS1RcC1fV29YNjZMYVZIdGg0WG4wbHVZNUZLbHQ3ZnNjczduT014elRuM3pBNV82YUx4QUNOcWRxMTVnXzdZNXFDVFZjODlqcExUdUduLTdOZ0dIOEYtVEQ4NG5sYnFiZ1pnZFR5OGw3WE4tZw?oc=5",
+      "title": "Befinden wir uns in einer KI-befeuerten Aktienmarktblase oder nicht? Diese Frage bewegt die Anleger bereits eine ganze Weile. Unter Analysten und Investoren scheint sich inzwischen die Meinung etabliert zu haben, dass wir uns tatsächlich in einer Phase d - LinkedIn",
+      "source": "linkedin:gnews:de:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmhZU3JyZjN4Wm5UYjE2WTgzYXQtcmkzWGtENkRxMVByRGRhM1Y4SmVfcG1WSDE3MmIxLWdSVi1LMlprNE1TVVF0UUhqSE0wYVlWWEh2VUk0LWpWR0VSR3phRGRQTlZzQjNkZmhxbUxXV1lvTDYzekVUdEN4U0xyUEZDcGVVZ3F4NHdFeEhORGduTFFUOTRKUlR4UENTNHhsZG0yOV9yOGNIWF9nRnhFWHp4QV8zSU45TWRwaXpTQ3E4eXJ4dnc?oc=5",
       "title": "🎉 Das Rennen um die besten Aktienportfolios der Schweiz ist vorbei, die Sieger stehen fest. So haben sie performt. Zusammen mit Raiffeisen Gruppe danken wir ganz herzlich allen Spielerinnen und Spielern für die aktive Teilnahme! 🥰 Lesen Sie hier den Arti - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0xJSDJKaEhvcENtb0gxNGR6Uy1YNXdrV3hKaUNqTk5sTWRXNWVqaTRUaUJiZFh2eHFDZ2QtV04wUEszNy1DdlhvUERKNWhqYUxEWUYzSEhMSUM2eTlJMWhCR09pNXpnMDExdlctenNhZUZma05rUmpoWERSNjlvUnNycEtrWnJFc21GUTNJRDlnWm9JNjUzQjB4UGlrMVFIMm9FOVd6ZWt5VkpIdmtfeFo3czBuTTlVZlJaSnVaWkhiM3NrQmIzQlZscw?oc=5",
-      "title": "Nach einer Druckkampagne sondergleichen haben bürgerliche Parlamentarier eine abgeschwächte Vorlage zur neuen Regulierung der Grossbank UBS erarbeitet. Für alle Beteiligten könnte das Ganze am Ende nach hinten losgehen. Lesen Sie den Komme - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQWxrY0pLeVhvQXNjMVctTGpWR1RGVzlPajhVMGJpTklya2hka2VnaUxEQ29kWE56VDh6d2FPSFE3ckNTZmtVQUxuTVdRcDhxZHRBTEV6VGFhSXJKaVEyUXp4ZXgtLVhuRlJfTkZ1dTh1bEhlVk9HYURDak9NT1VyaGlFdTNld1R1MjFWWjNKU2puaEY0enhDZmFZcnNlbnBwZHBiOW9FWlltQTBLbHo1M2ZzQ2dKell0Sy1mYXJuZE5pN3BhSlphcWQ4WksxcWs?oc=5",
-      "title": "Warum UBS und Julius Baer im Nahen Osten mit der grossen Kelle anrühren Wirkliches Wachstum lässt sich nicht mehr bequem vom Schreibtisch in Zürich aus generieren. Das globale Kapital hat neue Adressen am Golf, und der Schweizer Finanzplatz folgt i - LinkedIn",
       "source": "linkedin:gnews:de:de"
     },
     {
@@ -605,8 +565,8 @@
       "source": "linkedin:gnews:at:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSlZ6Y21DUmlFcTZsQTVIYWlXTlA2dnkzd3JlWUNuc3haN1gyTkJuaFlTX3EwUXZPMVBKSkpZNDY2QTc0YUFfdm5uTUNVQ0llM3hBdm84V2s4aVJxYVB3WUd1cHZITHUwWDRTT0FZakRoUGtpcU1uYW9sR0R6RDQ0NUI2SklHeVJiM3Y3NVJRcjY4TGR1RUZVMmpJSi1OdmtrVDEyNzdJMGdMMVhGRTJlaVVyLWVjVEtCcFpkZDc3aUFKUXd1WkdN?oc=5",
-      "title": "Schweizer Industrie-PMI springt nah an die Wachstumsschwelle Die Senkung der US-Importzölle für Schweizer Waren zeigt Wirkung, der Einkaufsmanagerindex der Industrie übertrifft die Erwartungen. Die Einschätzung zum Einkaufsmanagerindex von Sylvia - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckJzNEZRQ3V2Xzl1WW9zNDlrQmxxSVVuSUVfWGxReWVoNTJ5MDJGLVVTLUVEU1pmZmxsemlsQ3FnODVMcElRb1VLZWsxMVp5WVA2WXBTZmcxVGFfWVZ4SFdJZmZzZUdFY1VsUjNRczlpMzhJOTNsMTJUNlg0Wi1rdDZPZ0tBbWs3VjZXM0hvR0ZvOFA2QWdoNDJ0TmdXVThGX0J6dE5UUnlXY3NaM0M3WmNJM2hpaUh4bHc1TFlYa2NzYmpkb3c?oc=5",
+      "title": "Die Gewinnwarnung von R&S Group traf viele Anleger unerwartet. Wie es dazu kam und was sie nun verändert, um das Vertrauen zurückzugewinnen. Lesen Sie das Interview mit Eduardo Terzi von Kaspar Wolfensberger hier: https://lnkd.in/eDM-kkQe Bild: Z - LinkedIn",
       "source": "linkedin:gnews:at:de"
     },
     {
@@ -705,11 +665,6 @@
       "source": "linkedin:gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mcy1aN3JQOENYQ1pzejk0RkYydjgxZkFrOXpSdVBLaW5DQlZEOFRJc01yc1F6ZUFjMXZWVXYwZXg2djZZbjIwblJqT3U2ZHJEZ0VXR2IwQVhIcTQ?oc=5",
-      "title": "Carlsberg Group - LinkedIn Italia",
-      "source": "linkedin:gnews:it:it"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LTFgtOVdnak9hWDFRcUw2OE5MU3YzZ001eENkN0pGNHcyWk1WWjNTTjBKdldMNXlkLUJVSW5fWXBMRUlodFByRHNoeFloZ2hqOEV6cjhlTVpjWHZJQTZlRFhrRTdaOHRQ?oc=5",
       "title": "1 empleos de Pernod Ricard en Madrid, Comunidad de Madrid, España - LinkedIn",
       "source": "linkedin:gnews:es:es"
@@ -730,11 +685,6 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVdOb2UzVVVsdDllaF9IT0hkN3BDR01FTDZZWmxyVmVZeUNCWmF5UVQtYUpmcnFrU0FLdkl4YTNNbVRKVXk3eXJkWUhZTnNEMEZPOGNzRnM1TmY0ZVlUOW55UUw1UDh1MlMyQ2ZlSTF2cVBFUWpCV1lrbnJsMVJKZE1hcHlqSElLX0VROEE3MndEcDI2VExuT3FCamVyNGJiRFJQcmRHSklOYVFtWEJjSA?oc=5",
-      "title": "🎄 ✨ La emoción es el verdadero lenguaje de la #Navidad. Y detrás de cada campaña que nos acompaña en estas fechas hay estrategia, #propósito y marcas que saben conectar con lo que realmente importa. En el nuevo episodio de #ConexiónDircom expl - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11bHdmV3pBY29FSkVSLXhRb1FwSHI5dEh0ZEVyZ19QYU1iRXBzZDY1bUpaVlE0LXpFcm81VzJuajQzc3lBYmNKb0lWRm8wTUxMZnlqTjhQSHZJV0NocFBIUXRIYXU2THQy?oc=5",
       "title": "CCU - LinkedIn Chile",
       "source": "linkedin:gnews:es:es"
@@ -745,8 +695,8 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWZicGotSGNVMnN4cTBoZ0ZiYXlpS1E0eGR0Sk94Q2JOOGJJNmI3R3ltd1NUSTdvaWE1SFJjaVFoc3Uzdk5fbGt4U2ZoUUc4bWRhSFpzZkcwSFE5MFJ4ZUZZd0lqXzdEVFhXbTd4T1BlRElldFNodEYwaGdTY2lsSXo1eVdFU3BONHpUZlhxa0xHcjZkaEg0TDFiUHZPcmN5bE42YUtJdkIteVA5NUprbmNtX1hhN1RHNUE?oc=5",
-      "title": "Esta semana echa a andar un proyecto que me hace mucha ilusión. Estamos todo el día con la misma pregunta: ¿Qué quiere ver la chavalada? Coño, pues querrán lo mismo que todos nosotros. Entretenerse, emocionarse, echarse unas risas. De eso va La - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ19TakZ1VVNpelBiZWIySkJkbGJrc3dyN2xSVTM3YkxBN1U0ZFAzMmlVa2J3VExqT3ljNXdnQzF1UmJSVTZRWjlVdW1vLTVVVENTMGktWXQtRFpVWkRwVWFBR2U3eHpYcWU4ZGJsaWI0LV9rdFRvemxBUUE1RFIwclpRZDRuaDRPanpjQ0JZVFhYdGhZWEhpa2xXWE5wbEhnZ1cxLXU0SFJ3Y0dDSzlBTUR0Q0c?oc=5",
+      "title": "🌿 Hay proyectos que dejan huella… y este fue uno de ellos. El Responsible Day junto a Pernod Ricard en Bodegas Etchart fue una jornada de trabajo en equipo, reflexión y sostenibilidad vivida desde adentro. Desde SER+ diseñamos experiencias que fortal - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -757,6 +707,11 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00RVlSYTFFU1pON3hVSFREZkluTEgyZmhUX0ZVR3A4R3BSVWVGb2k1WlFrSU9KeHZScjRlYUE4UHVQU3BFZ09lUjFBMFYtTW9nQVk3c3V1TGs5RXJw?oc=5",
       "title": "MIWI REAL DRINKS - LinkedIn",
+      "source": "linkedin:gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenpPaHAteGR5TG1yUzB1NGdKdTRURW1aWVJaS3RUdDluNkZXUlczY21aRjhPd0tDOWFmdHpMSTRvV1N3NUQ0MkQ3VGJ1bUxmWjFMQnk5bV9sOHNfRFBoeE04RG5zc3kwT3NqYnlwb1YwTzIxZHFmMUtfLU9YWDE4c0ZpNjNTQ2ZBMWF3RS13ME1aVVA3cXZLcDh2SkM5UFZ0MElzVmtPWGZfajNmZ1lvSWd0MkJkb3J0ZElvV29zVmpfUQ?oc=5",
+      "title": "Ojalá jubilarme por la puerta grande como ha hecho mi querido Héctor Velázquez. El martes se presentó en el Palacio de Congresos su libro Memoria Gráfica 1969–2017, rodeado de su familia, amigos, compañeros de profesión, antiguos clientes y más de 1 - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -815,11 +770,6 @@
       "source": "linkedin:gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSTRpd09QR3hTazd2b1FsXzJjQVl4emhwMnJkNnNUU3gtOVRhVi1ybzg5cUJoYWNqNlpfdDJ5dVF0QU4wR01PMUVFeGtSclREdkFQMnA5cGdiTklqWnRaVFFCeWJmX3ViQWhSeXMtcG9BV0pEZHlMQXBDR1BNT0ZfYW1mb1dTM21rT1g2SlVVdU84NTZRZXU5TkkyQ1NNZ3ZkazQtY1lMeHpvQ3Fia1M5Tmd1ODRCWnFzbEp3dDhVLUdzMWlCeGFfdTQxU1A3eF9NYy1tUXYwVDd3dUwyVHE1aldaTzdFU2VHa1JkUmtXcnQ?oc=5",
-      "title": "Välkommen Erika Danckwardt-Lillieström – ny senior rådgivare hos The Labyrinth! Erika har 20 års erfarenhet av samhällsrelationer, politisk påverkan och strategisk kommunikation kopplat till regulatoriskt arbete som rör folkhälsa, hållbarhet och marknadsföru - LinkedIn Sverige",
-      "source": "linkedin:gnews:se:sv"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk1IM0ZjbnNTZWVnMC01RU5JUTA5Nnoyb3oyX2huSmNUV3FkMUtnSzBvVTEyV3VnQ2Rhc045RTJMa0FjaGZ1bGZsN2YzbWU3R3ZJbDJkQ1N1YWdoazJ0WjJqLTZYNm1CRXEwSG5GSlY0NXl2NTN1b1pqa09PZlZ3UWxRMWVNcnRyTGpSempTbllpMEs1OW40V0NpMnV4QTNfYlNVQWpVTjZfVkEza1R6RTZETDc1LXRZUFJEOTNlUkw?oc=5",
       "title": "Siemens Healthineers söker Global Government Affairs Sustainability Manager (f/m/d) i Stockholm - LinkedIn Sverige",
       "source": "linkedin:gnews:se:sv"
@@ -870,13 +820,13 @@
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDlLb0VYLVZvcDdXYk4zOHdnbWhCakpPOXFOdFA5SmtkazhlTG0tSEJodWVQYXFvbEtYRTQ5VE0tajNfLW5CRzZHT3htbVpKSzk0QWx4ZWZZMGxBZXBHczM2d1ZjY1JlN2tiTEU3ZjU0SXpUX2hoVkE2dllBbVBSbDcyVkxMRXZQZTNEQUZzZ0FfRTJUNUd5R2FHS2ZmLTZtc2NSSzdnaDBURGc2VFBWbUswWDVBLTg4?oc=5",
-      "title": "In celebration of Chinese New Year, Pernod Ricard Global Travel Retail and Maison Martell have unveiled a limited-edition collection of bottles and gift boxes, to mark the Year of the Horse. The collection, which includes three travel exclusives, is being suppor - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjZmSGkzck5qQkNwNGQyOVFaclpQb0xPNFZQNUVoWkZGek12U1pMZGVBR2FyY0NFbUxMWVlVRWowYWlfOHVGZVYwcURNUGpkZHg0WFBwMHFjOXhhOVdmUEQyRmt0am15ZVV1andqT1drR0p6dFV2a2x0N1BSZ2ZJbGdwblRfYVN6My1MTjlLQlNpdDZkWjNYNVZIVDVra2E5eVBpT1FScmc4MkhDRlJvek9yRG1HVkdqYmN1Y25JUXJOX0FMMWV1Qkh3?oc=5",
+      "title": "My client Pernod Ricard,have an exciting opportunity as their new Key Account Manager in Tallinn! 🤝 We are searching for a driven and strategic individual to take on a key commercial role within the organization 🌍✨ The ideal candidate will bring: A strong an - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjZmSGkzck5qQkNwNGQyOVFaclpQb0xPNFZQNUVoWkZGek12U1pMZGVBR2FyY0NFbUxMWVlVRWowYWlfOHVGZVYwcURNUGpkZHg0WFBwMHFjOXhhOVdmUEQyRmt0am15ZVV1andqT1drR0p6dFV2a2x0N1BSZ2ZJbGdwblRfYVN6My1MTjlLQlNpdDZkWjNYNVZIVDVra2E5eVBpT1FScmc4MkhDRlJvek9yRG1HVkdqYmN1Y25JUXJOX0FMMWV1Qkh3?oc=5",
-      "title": "My client Pernod Ricard,have an exciting opportunity as their new Key Account Manager in Tallinn! 🤝 We are searching for a driven and strategic individual to take on a key commercial role within the organization 🌍✨ The ideal candidate will bring: A strong an - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFZsRUV2VllRN191ZFdieDZ5NUxfUHhDd3Bnd0twYnU1ajVvdjZBaXhCOG82RExuOGtlUmlnSnd5WkJMb0Zzc2hwWTFoR3VWeElSVF9vR05aUG1fTXRkbjNnM0FYc20xWHJNVUZaVnVpdGttRlFfRV9mM2sxYnl1Z0p1TmZDWjE3NkxZMFF0RFVyVjhwN1EzeVpiNEMzMURQNjNZblZhcnNTRDA?oc=5",
+      "title": "Pernod Ricard hiring Senior Manager, Brand Architecture & Activation in New York City Metropolitan Area - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
@@ -885,14 +835,19 @@
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODRDTDZ5RWo2NElPdXZGYXJFeWY0R1dEaEt2SUxTZXpkLXRGOV9hUEJxbG9JLVN0YlFzcEY5c0hQTGs3enUtOFBmYnNGN2NNX2pDYkRqUUZVVkdZNWZ5eGFQUDlLdXRZZUtYY2ZGYVd3STI3SmwxN0F3OENpVnBEZmk0WTBJTHFJWmpVdmhJMWMwd1FWUXlyVGJIdTRQR0dWZWVRTVhVYllDbzI3eXRQQ1ZMZHlHYVNhRzBOalZn?oc=5",
-      "title": "Fresh off the incredible energy and inspiration of Crux 2026, teams across Pernod Ricard India united to create Smackdown United -a rallying cry that reflects our collective ambition and relentless drive. Across regions, our teams brought unmatched fire, focus - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmEyYTJwZXdKSC1nOHhLRFF5QUloMjZ6dDBpVXBPT0xoMjF4SDlhVmxYN3ZZLXpnRjBjMVVsZWhzREh3eHFsbl9menZlMWFLdm9LaHNEY3dpS1ZycmNLVGpLY0VXeHJIdjFmQ3o2VDZ5YURKUExoV19OY3BpaWtrR1ZMMzM0a0MyanczVQ?oc=5",
+      "title": "Pernod Ricard hiring Revenue Growth Manager in Chiswick, England, United Kingdom - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0VoSm1HRU0wdTZXWHVLb2lfeTZLSmdOel9Cb0w4UkEzcGdJdVg3VERENVRkY0M0Y1Jaak5xbmRhMjJLMlZHbjdhb045cjEtWHl0R1J3Sng1cnFnZ0lyYTdNakdvM2VnU25FNzFud2hqdnpZUUQ1NnBBMDNoTGtKalQ0NUR2WE1yYVM0QllfU1c0dw?oc=5",
-      "title": "Pernod Ricard hiring Optimization Product Owner in London Area, United Kingdom - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVdQSGw3Q3dtRkNqSndxZW93R0hDWUVXNXM1RGpUdno4YlBWSkVRbE1KaXBsWnJWVUI0aFM4RTlhVDJlQUowTndzdVBnMFBVTzRtamxqQ3JGSTlJWElNV0xoSWpRUWtXSFZzWDdlT2p3RE4zQUNheERUOXBaMkkwM2lFSUwyd0F1QlpSWnVLNWdmdEdXU0FZQ0JkNHltZw?oc=5",
+      "title": "Pernod Ricard hiring Head of Financial Planning & Analysis in Brentford, England, United Kingdom - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDlLb0VYLVZvcDdXYk4zOHdnbWhCakpPOXFOdFA5SmtkazhlTG0tSEJodWVQYXFvbEtYRTQ5VE0tajNfLW5CRzZHT3htbVpKSzk0QWx4ZWZZMGxBZXBHczM2d1ZjY1JlN2tiTEU3ZjU0SXpUX2hoVkE2dllBbVBSbDcyVkxMRXZQZTNEQUZzZ0FfRTJUNUd5R2FHS2ZmLTZtc2NSSzdnaDBURGc2VFBWbUswWDVBLTg4?oc=5",
+      "title": "In celebration of Chinese New Year, Pernod Ricard Global Travel Retail and Maison Martell have unveiled a limited-edition collection of bottles and gift boxes, to mark the Year of the Horse. The collection, which includes three travel exclusives, is being suppor - LinkedIn",
+      "source": "linkedin:gnews:gb:en-GB"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEE1Ry1hY1hmUHZ2VlBRUy1fUkRrcDBOMExWV0lUNzBPUnNraTJ6SUJQVGVzeWY2QnBDekR4TVRMQWZvZVRENWNmYkNpc1E2QTNTamRCZ0x1QkRMTjJ5WGNkbFlXWmR6MWZaUzBrdXNPd1R2QTl6eThOam5pOEhvQ2xVRDlUQk5JZEVEaDdmYUlWbEZxeVM4eHdnN2Y1VVpB?oc=5",
@@ -905,12 +860,12 @@
       "source": "linkedin:gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0lVaDlRemZMdlg5Nk01S085d1ljbDhXRDVGNHFRU2NyZHpmVzdWRmVlVzNILS1xQ2pOdWxONjZoSWxTUk14RWVyOGRQUEpVWm9qR1Nwc2UxZnVQb1JwSExhWW0tanlySFNPNWw4Mk84TUtUZ0tmNkpfMGFrUFhzT2xmbFIycTVxdEU2Y3JPbGt0Z3J4akZDcC1R?oc=5",
-      "title": "Pernod Ricard India hiring Manager – Wellness in Gurugram, Haryana, India - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeU9wT3FmWm53VXVIcXZEYWZCeGZIRkZXbGdUaFlOYzc3ZWhWU3BVVGpXNElPLS1LMGNiX0lpbnpIVFRvMnNJcGJJX21DbGh4M0VZZFdtMVVqVDVDWjBwbXRSYTgzZFNYdjFkekRIQ3pmX3BwenJ1ZktSMGJLb3hmYTEyR09NR2QwY0Q0ZGxwY0puQjNsZEdfS0J6ZlF2aFg2NDN5b2VJRVAzMkV1SmZLcEU2cmE5SjRjUjFuMFR6SXRVMTdjNkE5OFVhWmN2QQ?oc=5",
+      "title": "Pernod Ricard India is betting big on Xclamat!on, aiming for strong long-term growth as CEO Jean Touboul positions the five-spirit brand for young, premium-seeking drinkers. More here: https://lnkd.in/gxuDHR6J Story by: Cheenu Agarwal #PernodRicardIndia - LinkedIn",
       "source": "linkedin:gnews:gb:en-GB"
     }
   ],
-  "report_markdown": "## Executive Summary\nPernod Ricard steuert durch ein herausforderndes Umfeld mit schwächerer Nachfrage in China und den USA, aber solider Entwicklung in mehreren europäischen Märkten. Im Geschäftsjahr FY25 sanken die organischen Umsatzerlöse um 3,0% (berichtete -5,5%) bei zugleich deutlicher operativer Margenexpansion (+64 bp) und starkem Free Cash Flow von 1,1 Mrd. Euro [7]. Im ersten Quartal FY26 ging Europa um 4% zurück; Spanien stabilisierte sich, in Deutschland verlangsamte sich der Rückgang, Frankreich und UK verzeichneten moderate Rückgänge [3]. Für E‑Commerce und Retail Media liegen in den aktuellen Offenlegungen keine spezifischen KPI für EU/DE vor; die Gruppe betont jedoch fortlaufende Investitionen in Markenbegehrlichkeit und „global distribution technologies“ [6][1]. Die Finanzierung ist über den europäischen Kapitalmarkt solide abgesichert (1,2 Mrd. Euro Neuemission, Ø‑Coupon 3,30%) [1].\n\n## Finanzen (Europa/Deutschland)\n- FY25 Konzernumsatz: 10.959 Mio. Euro, organisch -3,0% (berichtete -5,5%); negativer FX‑Effekt -277 Mio. Euro (insb. TRY, ARS, INR) [7].  \n- Operative Marge organisch +64 bp, unterstützt durch Abschluss eines Effizienzprogramms (900 Mio. Euro, FY23–FY25) und strikte Kostendisziplin [7].  \n- Free Cash Flow 1,1 Mrd. Euro (+18%) dank starkem Working‑Capital‑Management; Investitionen (Capex + strategische Bestände) 1,2 Mrd. Euro; vorgeschlagene Dividende 4,70 Euro/Aktie (stabil ggü. FY24) [7].  \n- Q1 FY26: Europa -4%; Spanien stabil, Deutschland mit abgeschwächtem Rückgang, Frankreich/UK in moderatem Minus. Starke Beiträge von Perrier‑Jouët und Bumbu sowie robuste Verkäufe von Kahlúa [3].  \n- Liquidität/Finanzierung: Erfolgreiche Platzierung von 1,0 Mrd. Euro in zwei Eurobonds (7J: 3,25%; 11J: 3,75%) plus 0,2 Mrd. Euro Privatplatzierung; Ø‑Laufzeit 8 Jahre; Ratings Baa1/BBB+ mit stabilem Ausblick [1].  \n- Berichts- und Governance‑Rahmen: Der Universal Registration Document (URD) FY24/25 ist bei der AMF eingereicht; enthält u. a. Konzernabschluss FY25 und Managementbericht inkl. nichtfinanzieller Erklärung [6].\n\nFür Deutschland sind in den Veröffentlichungen keine separaten Umsatz- oder Ergebniskennzahlen ausgewiesen. Die Hinweise auf eine „abgemilderte“ Rückgangsdynamik deuten jedoch auf eine leichte Normalisierung nach einem schwachen Vorjahr hin [3].\n\n## E-Commerce (Europa/Deutschland)\n- Die verfügbaren Dokumente weisen keine separate Offenlegung des Online‑Umsatzanteils oder spezifischer E‑Commerce‑KPIs für EU/DE aus [3][6][7].  \n- Pernod Ricard verweist allgemein auf die Verbindung von traditioneller Handwerkskunst mit „global distribution technologies“; dies impliziert fortlaufende Digitalisierung entlang Marke/Distribution, jedoch ohne kanal-spezifische Zahlen [6][1].  \n- Marketing- und Markendruck werden trotz Marktabschwächung aufrechterhalten; in den USA lagen Marketinginvestitionen in Q1 FY26 über dem Gruppenschnitt. Für EU/DE werden jedoch keine E‑Commerce‑Budgets oder ‑Ergebnisse berichtet [3].  \n\nFazit: E‑Commerce ist strategisch relevant, aber ohne dedizierten EU/DE‑Split in den aktuellen Quellen. Operative Aussagen fokussieren auf Gesamtmix, Preis/Mix‑Effekte und Markeninvestitionen statt auf Kanalkennzahlen [3][7].\n\n## Retail Media & Marktplätze (Amazon/Zalando …)\n- Es liegen keine Angaben zu Retail‑Media‑Investitionen, Retail‑Media‑ROAS oder spezifischen Partnerschaften/Anteilen auf Marktplätzen wie Amazon/Zalando in EU/DE vor [2][6][7].  \n- Die Kommunikation stellt Markenbegehrlichkeit, kontrollierte Distributionsqualität und Portfolio‑Steuerung in den Vordergrund; kanal-spezifische Marktplatzstrategien werden nicht separat offengelegt [7][6].\n\n## Strategie\n- Schwerpunkt Premiumisierung und Portfoliosteuerung: Verkauf des Imperial‑Blue‑Geschäfts in Indien (Admix‑Value‑Segment) zur Fokussierung auf margenstärkere, schneller wachsende Marken; unmittelbar margen- und wachstumsakretiv erwartet [10].  \n- Effizienz und Cash: 900‑Mio.-Euro‑Effizienzprogramm abgeschlossen (FY23–FY25); starke Cash‑Konversion; gleichzeitig Weiterinvestition in Marken und „sustainable long-term growth“ (Capex/Bestände 1,2 Mrd. Euro) [7].  \n- Disziplinierte Kapitalmarktnutzung: Langläufer-Eurobonds zu attraktiven Kupons; Mittel für allgemeine Unternehmenszwecke, Stabilisierung der Fälligkeitsstruktur [1].  \n- Kommerzielle Exzellenz/Go‑to‑Market: In den USA wurde FY25 die Route‑to‑Market überarbeitet; in mehreren Märkten wurde Marktanteil gehalten/ausgebaut. Das soll in schwächeren Märkten die Lücke zum Markt verringern [7].  \n- Governance‑Weiterentwicklung: Geplante Ernennung zweier unabhängiger Direktoren mit starker Branchen- und Finanzexpertise (Albert Baladi, Jean Lemierre) zur Stärkung internationaler und geopolitischer Kompetenz [9].\n\n## Produkte & Innovation\n- Markenimpulse EU/Q1 FY26: „Stellar“ für Perrier‑Jouët; stark für Bumbu; Kahlúa mit robusten Verkäufen [3].  \n- Globale Leitmarken: Jameson, Absolut und Kahlúa outperformen ihre Wettbewerbssets in den USA; in Indien ist Jameson #1 importierte Spirituose nach Volumen [7][3].  \n- Portfolioaktivitäten: Neben Imperial‑Blue‑Veräußerung auch Dynamik bei Weinen (Desinvestitionen), insgesamt aktives Portfoliomanagement zur Mixverbesserung [7].  \n- Kategorien: RTD‑Erweiterung u. a. durch Zukäufe (Q1 FY26: Kanada mit starkem Wachstum auch durch neu erworbene RTD‑Marken); EU‑spezifische RTD‑Daten sind nicht berichtet [3].\n\n## Führung & Organisation\n- Vorstand/Management: CEO Alexandre Ricard; EVP Finance & IT Hélène de Tissot (Bestätigung im Rahmen der FY25‑Ergebnispräsentation) [8].  \n- Board‑Erneuerung: Vorgeschlagene Ernennungen von Albert Baladi (ehem. Beam Suntory CEO) und Jean Lemierre (Vorsitz BNP Paribas) als unabhängige Direktoren zur Stärkung von Nordamerika‑Know‑how und strategischer Finanzkompetenz [9].  \n- Corporate Governance: URD FY24/25 enthält u. a. Bericht des Verwaltungsrats zur Corporate Governance sowie Angaben zu internen Kontrollen und Risikomanagement [6].  \n- Hauptversammlung: 27. Oktober 2025; Unterlagen und Verfahren wurden fristgerecht bereitgestellt und veröffentlicht [5].\n\n## Märkte & Wettbewerb (EU/DE)\n- Europa Q1 FY26: -4%; Spanien stabil, Deutschland mit verlangsamt rückläufiger Tendenz; Frankreich/UK moderat rückläufig [3].  \n- Nachfrage-/Mix-Lage: Preis/Mix durch negative Marktstruktur belastet; Volumenrückgänge in Schlüssel­märkten (v. a. USA, China; in Indien durch Steueränderung in Maharashtra). In Europa stützten einzelne Premiummarken die Entwicklung [3].  \n- Marktanteile: FY25 wurden in vielen Märkten Anteile gehalten/ausgebaut, trotz Rückgängen in China/USA/GTR Asien; EU-spezifische Marktanteilsdaten werden nicht separat ausgewiesen [7].\n\n## Nachhaltigkeit & ESG\n- Der FY24/25‑URD enthält die „declaration of extra‑financial performance“ (nichtfinanzielle Erklärung) und umfassende ESG‑Angaben [6].  \n- Unternehmensmission betont langfristiges Wachstum „mit Respekt für Menschen und Umwelt“ sowie verantwortungsvolle Konsumkommunikation [6][1].  \n- Investitionen werden als „sustainable long-term growth investments“ charakterisiert (Capex/Strategic Inventories 1,2 Mrd. Euro in FY25) [7].\n\nKonkrete EU/DE‑ESG‑KPIs (z. B. CO₂‑Intensität, Wasser, Verpackung) sind in den hier zitierten Dokumenten nicht separat ausgewiesen [6][2].\n\n## Risiken\n- Makro/Regionen: China mit anhaltend schwacher Konsumentenstimmung; On‑Trade besonders belastet; Cognac‑Absatz gedämpft; Lagerbereinigungen drückten Q1 FY26 [3][7].  \n- USA: Subdues Marktumfeld; Tarifsituation erzeugte FY25 Unsicherheit und beeinflusste Distributorenbestände [7].  \n- Indien: Steuererhöhung in Maharashtra (Excise +50%) belastet Nachfrage; erwartet negative Wirkung auf FY26, v. a. Q1 [3].  \n- GTR: Q1 FY26 -15%; nach Abschluss der chinesischen Anti‑Dumping‑Untersuchung Wiederaufnahme des Cognac‑Vertriebs an China Duty Free ab Q2 erwartet [3][1].  \n- FX/Finanz: Deutliche negative Währungseffekte (TRY, ARS, INR) in FY25; FX‑Belastung setzte sich in Q1 FY26 fort (USD, INR, TRY) [7][3].  \n- Mix/Preis: Negativer Markt‑Mix drückt Preis/Mix; Volumenrückgänge in Schlüssel­märkten [3].\n\n## Ausblick\n- Kurzfristig: „Slow start“ FY26 wie erwartet; USA und China belasten, während mehrere Märkte in Europa (Spanien stabilisierend, Deutschland mit nachlassendem Rückgang) und in AME positiv beitragen [3].  \n- Mittelfristig: Fortgesetzte Margendisziplin (Effizienzprogramm, Kosten), Markendruck und Portfoliofokussierung (Premiumisierung, Desinvestitionen in niedrigmargige Assets) sollen organisches Wachstum und Marge stützen [7][10].  \n- Finanzierung/Dividende: Solide Kapitalmarktposition (1,2 Mrd. Euro Bonds) und stabile Dividendenpolitik untermauern finanzielle Flexibilität [1][7].  \n- Governance/Transparenz: URD FY24/25 und AGM‑Rahmen sichern regulatorische Klarheit; Management‑Dialog mit Kapitalmarkt via regelmäßige Webcasts/Disclosure [6][4][8].\n\nE‑Commerce‑Implikationen für EU/DE bleiben in den Quellen nicht quantifiziert; die strategische Priorität liegt in Markenstärke, Portfoliomix und Execution, während digitale Distributionstechnologien unterstützt werden [6][1][7].\n\nQuellen: [1], [2], [3], [4], [5], [6], [7], [8], [9], [10]",
+  "report_markdown": "## Executive Summary\nPernod Ricard steigerte im Geschäftsjahr FY25 (per 30. Juni 2025) seine organische operative Marge um 64 Basispunkte trotz rückläufiger Umsätze; die organischen Nettoerlöse sanken um 3,0% auf 10.959 Mio. Euro (reported -5,5%). Negativer Währungseinfluss betrug -277 Mio. Euro. Der Free Cash Flow lag bei 1,1 Mrd. Euro (+18%), unterstützt durch striktes Working-Capital-Management und ein abgeschlossenes Effizienzprogramm von 900 Mio. Euro (FY23–FY25). Investitionen in Capex und strategische Bestände beliefen sich auf 1,2 Mrd. Euro; vorgeschlagene Dividende: 4,70 Euro je Aktie, unverändert zu FY24 [7][6]. In Q1 FY26 startete Europa mit -4% organisch: Spanien stabilisierte sich, der Rückgang in Deutschland verlangsamte sich; Frankreich und UK verzeichneten leichte Rückgänge. Cognac in Global Travel Retail blieb schwach, Wiederaufnahme der Verkäufe an China Duty Free ab Q2 angekündigt [3]. Für E-Commerce/Marktplätze sind in der EU fortgesetzte Markenfokussierung, digitale Vermarktung und ein straffes Portfoliomanagement relevant, u. a. durch Abbau margenschwächerer Aktivitäten (Wein, Imperial Blue in Indien) zugunsten Premiummarken [7][10][2].\n\n## Finanzen (Europa/Deutschland)\n- FY25 Nettoerlöse: 10.959 Mio. Euro (organisch -3,0%; reported -5,5%); Währungseffekt -277 Mio. Euro (v. a. TRY, ARS, INR) [7].  \n- Operative Marge: Organische Ausweitung um +64 bp, getragen von Effizienzprogramm (900 Mio. Euro, Abschluss FY25) und Kostendisziplin; gemeldete Marge trotz FX-Belastung stabil [7].  \n- Free Cash Flow: 1,1 Mrd. Euro (+18%); verbesserte Cash Conversion [7].  \n- Ausschüttung: Dividendenvorschlag 4,70 Euro je Aktie (stabil ggü. Vorjahr) [7].  \n- Q1 FY26 Europa: -4% organisch; Spanien stabil, Deutschland mit vermindertem Rückgang, Frankreich/UK leicht rückläufig. Starke Beiträge im Quartal von Perrier-Jouët, Bumbu sowie Kahlúa in Europa [3].  \n- Liquidität/Finanzierung: Im November 2025 hat Pernod Ricard 1,2 Mrd. Euro an Schuldtiteln begeben (2 Tranchen à 500 Mio. Euro; Laufzeit “long” 7 und 11 Jahre; Kupons 3,25% bzw. 3,75%; zusätzl. 200 Mio. Euro Privatplatzierung über 2 Jahre). Durchschnittscoupon 3,30%, durchschnittl. Laufzeit 8 Jahre. Zweck: allgemeine Unternehmenszwecke [1].  \n- Regulatorischer/Investor-Frame: Einreichung des Universal Registration Document (URD) 2024/25 am 17. September 2025 (u. a. Abschluss, Governance-, Risiko- und ESG-Berichterstattung) [6]; Unterlagen zur HV am 27. Oktober 2025 verfügbar gemacht [5].\n\nFür Deutschland deuten die Q1-FY26-Signale auf eine Abflachung der rückläufigen Dynamik hin; die Region Europa bleibt jedoch heterogen. Angesichts der stabilen Dividende, soliden FCF-Generierung und gesicherter Langfristfinanzierung bleibt die Bilanz tragfähig [7][1][6].\n\n## E-Commerce (Europa/Deutschland)\nDer Geschäftsbericht betont allgemein den Ausbau moderner Markenführung und globaler Distributions- und Technologiekompetenzen, die auch digitale Kanäle und datengetriebene Vermarktung stützen [2]. In Europa/Deutschland ist das Online-Geschäft strategisch relevant für Premiumspirituosen (hoher Informations- und Markensteuerungsbedarf, Compliance-Anforderungen). Für FY25/Q1 FY26 weist Pernod Ricard zwar keine separaten Online-Umsatzdaten für EU/DE aus, aber die konsequente Investition in Markenbegehrlichkeit und überdurchschnittliche Marketinginvestitionen in Schlüsselregionen unterstreichen die Priorität des abverkaufsnahen, kanalübergreifenden Marketings – ein Hebel, der typischerweise auch den E‑Commerce-Absatz stützt [7][3][2]. \n\nIm Umfeld schwächerer Konsumstimmung (teilweise Lagerbereinigungen im Handel) ist eine engere Steuerung von Sell-in/Sell-out, Promotion- und Preis-/Mix-Management entscheidend – auch mit Blick auf digitale Regalplätze und differenzierte Preisgestaltung in EU-Märkten mit strenger Alkoholwerberegulierung [3][2]. \n\n## Retail Media & Marktplätze (Amazon/Zalando …)\n- Retail Media: Pernod Ricard hebt die Stärkung der Markenattraktivität und gezielte Marketinginvestitionen hervor. In Q1 FY26 lagen die Marketing-Investitionen in den USA über dem Gruppenschnitt, um die saisonale Nachfrage zu stützen – ein Ansatz, der gewöhnlich auch Retail-Media-Formate in Europa einschließt (Sponsored Ads, digitale Aktivierungen) [3][2][7].  \n- Marktplätze: Für EU/DE ist die Präsenz in kuratierten Online-Händler-Ökosystemen (pure player, Omnichannel) und in rechtlich erlaubten Marktplatz-Setups zentral, wobei die Portfoliosteuerung (Premium-/Luxusmarken) und Compliance (Altersverifikation) erfolgskritisch sind. Konkrete Plattformangaben nennt das Unternehmen in den vorliegenden Mitteilungen nicht; Travel Retail als separater Kanal zeigte in Q1 FY26 -15% (Cognac belastet), mit erwarteter Entlastung ab Q2 durch Wiederaufnahme der Cognac-Verkäufe an China Duty Free [3].  \n\nFür Premium-Champagner (z. B. Perrier-Jouët) und Liköre (Kahlúa) wurden in Europa “stellar/strong” Quartalsleistungen gemeldet – relevante Sortimente für digitale Sichtbarkeit und Retail-Media-Platzierungen [3].\n\n## Strategie\nDie Strategie bleibt auf nachhaltiges, profitables Wachstum ausgerichtet:  \n- Fokussierung auf Markenbegehrlichkeit und Premiumisierung; Abschluss eines dreijährigen Effizienzprogramms (900 Mio. Euro) [7].  \n- Aktives Portfoliomanagement: Veräußerung margenschwächerer Aktivitäten (u. a. Weine; Verkauf des Imperial-Blue-Geschäfts in Indien) zugunsten schneller wachsender, profitablerer Marken; unmittelbare Margen- und Wachstumsaussichten für Indien positiv [7][10].  \n- Disziplinierte Kapitalallokation: Stabiler Dividendenvorschlag, fortgesetzte Investitionen (Capex/Bestände 1,2 Mrd. Euro) und gesicherte Langfristfinanzierung (1,2 Mrd. Euro Bonds) [7][1].  \n- Governance und Transparenz: URD 2024/25 eingereicht; umfassende Finanz‑, Risiko- und ESG-Offenlegung [6].\n\n## Produkte & Innovation\n- Portfolio-Schwergewichte: Absolut, Ricard, Ballantine’s, Chivas Regal, Royal Salute, The Glenlivet, Jameson, Martell, Havana Club, Beefeater, Malibu, Mumm, Perrier-Jouët [1][6].  \n- Dynamik FY25/Q1 FY26: In Europa besonders starke Beiträge von Perrier-Jouët, Bumbu und Kahlúa im Q1; in Kanada trugen neu akquirierte RTD‑Marken, Jameson und Absolut zu starkem Wachstum bei [3].  \n- Premiumisierung: Jameson zeigt in mehreren Märkten relative Outperformance; in Indien ist Jameson die #1 importierte Spirituose nach Volumen und dort Perns zweitgrößter Jameson‑Markt [7].  \n- Portfolio-Bereinigung/Innovation: Verkauf Imperial Blue zur Fokussierung auf Premium (Royal Stag, Blenders Pride, internationale Marken). Erwartete sofortige Margenakkretion und höheres Wachstumstempo [10].\n\n## Führung & Organisation\n- Vorstand/Aufsicht: Einreichung URD 2024/25 inkl. Corporate Governance; Vorbereitung der HV am 27. Oktober 2025 [6][5].  \n- Board-Kompetenzaufbau: Vorgeschlagene Bestellung zweier unabhängiger Direktoren (Albert Baladi mit starkem US-Spirituosenprofil; Jean Lemierre mit hoher Finanz- und Geopolitik-Expertise). Ziel: Diversifizierung und Ergänzung der Kompetenzen, u. a. Nordamerika‑Know-how und strategische Steuerung [9].  \n- Transparenz für Investoren: Einladungen/Termine für Ergebnispräsentationen und Q&As (FY25, Q1 FY26) [8][4].\n\n## Märkte & Wettbewerb (EU/DE)\n- Q1 FY26 Europa: -4% organisch; Spanien stabil, Deutschland mit gebremstem Rückgang, Frankreich/UK moderat negativ. Starke Entwicklung einzelner Premium-/Luxusmarken (Perrier-Jouët) [3].  \n- FY25 Umfeld: Rückgänge in den USA/China/GTR Asien belasteten den Mix; zahlreiche Märkte jedoch robust bis stark, mit gehaltenen oder ausgebauten Anteilen [7].  \n- Kanal-/Kategorienote: Cognac schwach (GTR/China), Whisky und Premium-Liköre teils robust; in Europa trugen Bumbu/Kahlúa sichtbar bei [3][7].  \n\nMangels detaillierter EU-Marktanteilsdaten in den vorliegenden Quellen bleibt die Wettbewerbsbewertung qualitativ: Premiumhäuser mit fokussierter Marken- und Kanalsicht gewinnen relativ, während Volumen-/Value-Segmente unter Druck stehen [7][2].\n\n## Nachhaltigkeit & ESG\n- Berichterstattung: Das URD 2024/25 enthält die Erklärung nichtfinanzieller Leistung sowie Informationen zu interner Kontrolle und Risikomanagement [6].  \n- Anspruch: Mission und Kommunikationsunterlagen verankern verantwortungsvollen Umgang und Umwelt-/Sozialziele als Teil der Markenführung [1][6][8].  \n\nKonkrete EU/DE-spezifische ESG-Kennzahlen wurden in den hier genutzten Mitteilungen nicht ausgewiesen; weiterführende Metriken sind dem URD/Annual Report zu entnehmen [6][2].\n\n## Risiken\n- Makro/Regionen: Schwache Konsumstimmung in China (Q1 FY26 -27%), USA (Q1 -16%); destocking und Inventuranpassungen belasten; GTR -15% im Quartal, Cognac bleibt unter Druck [3].  \n- Regulierung/Steuern: Indien – Maharashtra erhöhte die Verbrauchsteuern um 50%, mit deutlich negativer Nachfragereaktion; dämpfender Effekt erwartet für das Gesamtjahr [3].  \n- Handelspolitik: Anhaltende Zollunsicherheit in den USA beeinträchtigte Distributorenbestände zum FY25‑Jahresende [7].  \n- Währung: FY25 negativer FX‑Effekt -277 Mio. Euro (TRY, ARS, INR) [7].  \n- Governance/Reputation/Compliance: Strenge Alkoholregulierung und Werbebeschränkungen in EU/DE erfordern präzise Kanalsteuerung; URD adressiert interne Kontrolle/Risikomanagement [6].  \n\n## Ausblick\nFür FY26 ist eine schrittweise Normalisierung wahrscheinlich, jedoch mit anhaltender Vorsicht für China (CNY-Saison kritisch) und Teile der USA. In Europa deuten Q1‑Signale auf Stabilisierungstendenzen (Spanien) und eine Verlangsamung des Rückgangs in Deutschland hin; Premiummarken lieferten positive Impulse. Travel Retail sollte ab Q2 von der Wiederaufnahme der Cognac-Verkäufe an China Duty Free profitieren [3]. Die Kombination aus robustem Free Cash Flow, stabiler Dividende, abgeschlossener Effizienzinitiative und frischer Langfristfinanzierung gibt finanziellen Spielraum für selektive Investitionen in Marken, digitale Reichweite und Portfoliostrukturierung – mit Fokus auf Premiumisierung und profitablem Wachstum in der EU/Deutschland [7][1][6][2].",
   "report_used_sources": [
     {
       "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-successfully-completes-eu12-billion-bond-issuance",
