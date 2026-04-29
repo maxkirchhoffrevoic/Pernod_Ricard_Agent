@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2026-04-28T08:01:33Z",
+  "generated_at": "2026-04-29T07:56:09Z",
   "signals": [
     {
       "type": "summary",
@@ -14,6 +14,11 @@
     }
   ],
   "sources": [
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-and-brown-forman-terminate-discussions-regarding-potential-combination",
+      "title": "Pernod Ricard and Brown-Forman terminate discussions regarding potential combination",
+      "source": "newsroom"
+    },
     {
       "url": "https://www.pernod-ricard.com/en/media/third-quarter-fy26-sales-and-results",
       "title": "Third Quarter FY26 Sales and Results",
@@ -60,23 +65,13 @@
       "source": "newsroom"
     },
     {
-      "url": "https://www.pernod-ricard.com/en/media/q1-fy26-sales",
-      "title": "Q1 FY26 Sales",
-      "source": "newsroom"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXF2Y3lvb21tcHFySlRrTGozeGRtcXYtTDZobFFleUdNdEFyZV9lc3dlQzZxcUg0bHNNSHpnTUxncU5PNUNLYnhIQTdjYmlzUlNWZmZINDJkX1p6VVc5MzRBV0xnZEx2QTNMY2FiazU0UVpGbnlUWHNPTTJ1NDBPNzI3eG9EbXRVemFHMFZkenU3ampkMFF1V3NaQ21VQnZxNjBzazFSaU9kSHJZSkJvVlhhUFRKNVRWZjVvWjROZjgyMmRfNG14SVNOcnFIbDA?oc=5",
       "title": "Frankreich - Pernod Ricard stabilisiert Umsatz - Lebensmittelpraxis.de",
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1hjQV9rbml6Q2ZIRkRBTUUwblNuUWhfZ3U3NTNWLUFLcGxheXdVbmpPaGhNOF91X29ZYktkdjdLWGVHeUxUc2RyazVjbElORTlZZklqYTR5b3BiaFVrRFhSa18ybTFMbWg0Z0R0bnRyRFdBcEU4TE5kYXVORGthSkZSaXR4bnFZcGFBWkNrdk5IS2ZIMGJlQW00RXlGb1FGOWlyeTZrN2xnYnpSalE?oc=5",
-      "title": "Nach Interesse seitens Pernod Ricard: Auch Sazerac will einen Deal mit Brown-Forman - WhiskyExperts",
-      "source": "gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ0Q4dVFRMmRwWUU1alp4eEc4QjRTelJiMEhRUjBEbGdwUVQtdGx6MV84R01hbnpMRWVMQlJBcEExQkx4cFd0Sk9VMUduLV9OakxBUU9tbGwtRHhDSlNLNllNWkgtcmJZRE1KeWpva0JyaDZyc1Rn?oc=5",
-      "title": "Pernod Ricard: Fundamentalanalyse und Finanzratings | 853373 | FR0000120693 - MarketScreener Deutschland",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS21Uak05cDlOVWF3Yll4c1FqWVd0ODVXN3VnbGFWLUhvRFcyaHh0RFA0aG16aDVIMFZqbW40bzlQUU5Hdk5aWTN5c0JlaDRXTjhfN1dCaTBhbXhaMmVYR3A0NHJNeURDbjdCQndvVXpYbXlwSkZ6aVhHR0pITi1ualJvZ2w?oc=5",
+      "title": "Pernod Ricard steigt aus Rennen um Brown-Forman aus - WhiskyExperts",
       "source": "gnews:de:de"
     },
     {
@@ -85,8 +80,13 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sMTFKZmdJVDhsRVgyTDJ5Sy00N1p5eTFqelE4MHNqdmhFRnE1TkNjU245eUptU3FrZENSYlMwOGtybS1sRk1ZLTdNNXNJQU04RFQ4TEJMT3ZZUDlBX1ZReUNOS25nQ2JuaVM1djdjd21LR2PSAXhBVV95cUxPNlZKX3RjUi0yRUtUckZtTkdwd1k2YlZRUFY5VDgtd05qUGNGNGt6c01UQ3gzVE0xMjJzN1RISV9LcV94RUIyYkw0dnYtdWQyRGdZamY0MTNBSG4yWXBkWGRPQUlBSWNoTkp2ZDlRNEtFaHJ3eUVmZFQ?oc=5",
-      "title": "RBC: Pernod Ricard \"hold\" - boerse.de - boerse.de",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkFmQTJMbVB6SjdfOWRGaXFPeGNfMFVLeGNmV1d1RUQtUmpXTklHSnJSSGkzeWJVSXZJaHFPMThmUXhOZ3ZfcEU1eXhYc0JOVXJ0MW5mVGVBYXFEQk4tZFR3QVl4OTlEWldUY0RJbTMta25udnFOMHYxbTR0cHNMTUFLZmNRRUIxNEE?oc=5",
+      "title": "Pernod Ricard-Aktie unter 20-Tage-Linie - boerse.de",
+      "source": "gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTF2S3dtMV9reFZHQnNySVhNYTVkM21CRFJuT2pSdVdBVFpTMkNpZ0pfTUN1akY3dWhWcUgtN2RINWhoN21MWTBkVVNvMXYxMjVnVjNHUlFoUFpKeVFsSFlpZ25jYzBRYjltdVBSLVlZUVdEUWRvR2x2Z3QwbVJ2THh2MUFCSV9iUlVaWjZUZ3IzMEhxY3NGNUxtMEVsVzA3YXdrZS1GSmR2OGZPekxHMjdNcGNwSzZtQ3g0MHdhUkIwQ3NDOXRKNDNmVXBlQQ?oc=5",
+      "title": "Spirituosen: Pernod Ricard und Brown-Forman beenden Fusionsgespräche - Lebensmittel Zeitung",
       "source": "gnews:de:de"
     },
     {
@@ -95,22 +95,22 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE1IcHVTeDNPZmZtYVFFd1hBamZibzY5Q25tWlJ1T3ZoU2pTMElnTE9oWE1lYVg3NzVHQ29ueFhLWTFJTWNHWU0yZ2JRU0pnMkpGSVA1aDlJaktUcDdRWU16MXV5NnBiRHV0WEpPbmNLZmxScDZtSklxOEs1NHBxT211OGFLUDhTR0xoZUpBTnJ0QVBETXZQWUNkcm5XcU51a3BwV2Q1OFJNY25NSTVTSw?oc=5",
-      "title": "Spirituosen: Pernod Ricard senkt Umsatzprognose - Lebensmittel Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0lHNEIzUkZyNHByMWpXZXBWTVpsYWV5U0ZIWTNiZDZ3S1c1ckhzWndCUHMxbDBKRVZYNVkzZjRMcGlycWN1eE5LLWowcnpjVjFzUDN4WFpydEZrZVNxeVlFUjJ2eWRYbUlBSTJOTkpEVEtKZlBfdWlqaE1oUy15RkFRX2FhZDl4UDhyX1Z4SHJRZkFBSkpVZVhxNVk0Sk1iTHZ5SnFKU29WRTZUR1pxd1psZktlRUZVS2c?oc=5",
+      "title": "Pernod Ricard Aktie (FR0000120693): Indien-IPO in Vorbereitung - AD HOC NEWS",
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTENnWmJucDIxYldaNm13dDBhSWkxcllWS1hoWmxldEN6eXg2RGVReUNGZ2FnbGJYTDdKMUxjRTNYVTRsNkpURnNZMVVUNDF3RTJGdGh6Z3gwemg5a0tBdWtQcXZFRm13X0pXT1VIWDlfaTVwU1I3Um5qRDBXSjZCQU9zUG82YUdjVGp2dmpTRUVDVUllaFBrSmNXZk1JQk81akNZMmtKSjQ5Ml9CNExJOG9idGg3dG13Tnc?oc=5",
-      "title": "Pernod Ricard Aktie (FR0000120693): Analysten sehen 32% Aufwärtspotenzial bei Kursziel 87 Euro - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXBQREhIUlRpTWZpQllfaVNoMkJNbGRTc2xuR3U4NmZ3a0o2WWthdGR4SHBFQ0JGYS1qeVROVnhnRUdEaUZSZzhIQzdMOFFZLTNNcXZhOG1YT0NVZ05oLXBMMUpUY1lBczExblJYaE03bjROSnVwVGNlWGRZYkdQeUUxREhvMVNaWjBXUVpRd0hOMXhxN25rY2ZlSUZZT0xDU21qRE5vYlEwNE0?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Fusionsgespräche - Finanzen.net",
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENpVlljMFRETHhoc0VrQ0NkeHIzRXVXektadU5XbHg3Q25VTVNkRmZpQ01ucTJzaG4yRi1WY3hJVHJIanl0WjNvaVNMU1A4Q2dzYUFkbVF2RkhidklQbnJ2MG9sdFlsZThTdjF0RWF2WFh0cTNsWjU0Tmtfc0hWUk5wenQ2bzhBVk16WlFCMV9kUVlaR1E1V9IBngFBVV95cUxOMWpNWkRvT2tTUVVXUFJxdGViM1Yya0cwbzFMZmROVzBOaHB0aEdhS1hlMWZUcllpUEphWG9QWUJ4VlkwZUUxYmF2YjdIN3JKMUtJUC16OGpRd25jZWk4RVZTMTdlNW5JTHd6QnhOS1VmSjVNbmttVUllUWsycnVGdWZTTjZkeVdETHhlWVAwLUgtYTVrNHIwaDc2TGkwQQ?oc=5",
-      "title": "Pernod Ricard: US-Spirituosenmarkt bleibt schwach - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOENKdEwwcHBsZ1hEeldjejVPcm5SX0tSZTNlVUV6a25rMk1BaEViVVE4UTRHN3Q0MXlEcmFobDd4ZE9ZNU91eUEzSFpMb1FzWWpsVXF3XzBadVZ5X1ZLZTJ2a1EwUHA0bWlQRWgxR3BlX3BrQkU1T1ZwaGQzUEpnZ2k5TVVqb0ZwcFMtMEVnaTI4NVg4MUt5RHFNbGFPN0xXUzE5RnZSQTNXSVg1b0JERjI1bzZkYUpuaWhvel9jZ0N0eFRYOUJxVXNnaGZWdXo1alJlQy1yMUI1MC1lZzFQdm1xMGxCTWZZ?oc=5",
+      "title": "USA/Frankreich - Brown-Forman-Eigner bevorzugen Fusion mit Pernod Ricard - Lebensmittelpraxis.de",
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CcWZ2aDIzOWk2UnNtTFNlaWxPLTY2U3JhS2hkSFY0UmhXU1FKTUd5dkFmOFFoTF9ncm1wRkszM3c1Z1FjazljMDZRdTZEWm1tc0JxLVZTX2NfNXNvVGlUMHdXS01WbTl3UzNBZzN4MW94SjDSAXhBVV95cUxPMlU4Nm1pbjNQMm95dGwtbHZSWEs0SlFkSW9HLXRJSzU5Unpxc3NiUGpfTDRSMGdWVGY1RGhUcHlfdDVlSFNIQnRnZ3RwTWJKNnloT3RFd01YSlZoMUs4bElaaVYxY05ETDQ0cmlLdmZjX0tCNDJUYnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sMTFKZmdJVDhsRVgyTDJ5Sy00N1p5eTFqelE4MHNqdmhFRnE1TkNjU245eUptU3FrZENSYlMwOGtybS1sRk1ZLTdNNXNJQU04RFQ4TEJMT3ZZUDlBX1ZReUNOS25nQ2JuaVM1djdjd21LR2PSAXhBVV95cUxPNlZKX3RjUi0yRUtUckZtTkdwd1k2YlZRUFY5VDgtd05qUGNGNGt6c01UQ3gzVE0xMjJzN1RISV9LcV94RUIyYkw0dnYtdWQyRGdZamY0MTNBSG4yWXBkWGRPQUlBSWNoTkp2ZDlRNEtFaHJ3eUVmZFQ?oc=5",
       "title": "RBC: Pernod Ricard \"hold\" - boerse.de - boerse.de",
       "source": "gnews:de:de"
     },
@@ -125,6 +125,11 @@
       "source": "gnews:at:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGdYYmdxVG4yZVlXWll6ZW9Eb21RbHV6Nm9oMGlSRHBVUTNtaEd3ZWJ3TVRwMVhxVmJpYU83bVBVQ3dFSjllaUREMlhkaTgxMXJSYzJLOVFJUlBZemdINmx6S3ZsbFZVZ2hjUkxERUNSRUVIaEFDaU1SN2w5dUJ1WkJHcEpBU0NMY2RTWGNBdmxqUmUtaDcyTUYxdEhUeHhPVVd2aW9WclZ0R0llVUZ0MFFn?oc=5",
+      "title": "Kein Deal: Pernod Ricard und Brown-Forman brechen Fusion ab - finanzen.at",
+      "source": "gnews:at:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQS1hSU42X2lmbEk0Qm5kQlpleDZEc1p6QmVtZS0wX3llU3pHTmJSdzhUZmdUQWlCMEt3TWgzVVFXM2J0NFdKQTNYVE03V2FKNlNpaUlDaWlncWFJOFFJUWloSmRYNTRVN3IwdXdrdDBmOWJUVjN0eERHX1NXV2xjdUluQURrZXlnTk5ZeVJLSE9obWdrTjlnMk5zMHNSa2JkZ0hLb25Yc1B1d1J5SGxhRWRzOUZBSTI4blVvR051ZHQ?oc=5",
       "title": "Absolut Vodka: Premiumisierung treibt Pernod Ricard trotz Volatilität - AD HOC NEWS",
       "source": "gnews:at:de"
@@ -135,23 +140,38 @@
       "source": "gnews:at:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE5RWEt2bFU0WktBcDRuOXM0SHF2LXg4cnh1bTlXWEt0M29zbGpDU1dtZm9RUFV3UnRhUDhzQlNOU2dCNnRoMlRHa3pDYnFEc0lTTlpmZzFDd1N5cjdFR1pFRkRyUEtsM2I5OGczZkUxZFV5OTZEamRLcVNQalBjYllqcVRLMm01cGJxUEY5Xzg3Vm81UklDT1VrdTlZZ1RHRGx5YjZ1VWY0WWRwRkhJOVEtNmZzdVRQdUNCR21lS1FUZ3dY?oc=5",
+      "title": "Kein Deal: Pernod Ricard und Brown-Forman brechen Fusion ab - Aktien fallen - finanzen.at",
+      "source": "gnews:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CcWZ2aDIzOWk2UnNtTFNlaWxPLTY2U3JhS2hkSFY0UmhXU1FKTUd5dkFmOFFoTF9ncm1wRkszM3c1Z1FjazljMDZRdTZEWm1tc0JxLVZTX2NfNXNvVGlUMHdXS01WbTl3UzNBZzN4MW94SjDSAXhBVV95cUxPMlU4Nm1pbjNQMm95dGwtbHZSWEs0SlFkSW9HLXRJSzU5Unpxc3NiUGpfTDRSMGdWVGY1RGhUcHlfdDVlSFNIQnRnZ3RwTWJKNnloT3RFd01YSlZoMUs4bElaaVYxY05ETDQ0cmlLdmZjX0tCNDJUYnc?oc=5",
+      "title": "RBC: Pernod Ricard \"hold\" - boerse.de - boerse.de",
+      "source": "gnews:at:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0tQUmJmNUdyb0xVUkQzMno4Y3h1WWpoOVpwVHJjOG5kVlM1VTU0UFN4S3dxN1pYek9vUUk5bkRabm5ZblVmelk3bFNCU29taDNiTzJUSzlSVEhqRTV4QmxVTS1vOW1nVl8tMTlWSW1hUFJqb1d3VW83eThFbE12QmN6dFJoOTZDY0UzWnVRWjNPM0Q4NFRFdWhmUFdRUkdyV0VYMVZRZHRHUlZCSUtXb0xFOG5pQVZwYkZDOHJZMnJodw?oc=5",
       "title": "Pernod Ricard Aktie (FR0000130577): Starke Position in GBL-Portfolio treibt Interesse – Chancen f� - AD HOC NEWS",
       "source": "gnews:at:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlJJOUF1WkUxdkswVWJDM1A1bFRwMTZfWEo3bDlLNlREZVZ2M055cnlMbUdXdmJ1b0Z6N0o5ZkpFa3FQYjMxWC10a3FvZzBseXlMT0F4VWJtWDF1U2w4dExtWElkdHF4WWdYNVQ4Zk93QzdhazVINmMwOWc0RGVjZHhyQzZ3ek1iNWpsUFVwUUZBZS1pTzQ5bjBaWG5KMGlnandjQlRhdEZNUlh1NkRFZjA2UWlxUE5va1lkdGQ0NTQxa0pI?oc=5",
-      "title": "Absolut Vodka: Premium-Spirituosen-Boom könnte Pernod Ricard jetzt stark pushen - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXJjUGwxU1NhcTk1Rl9xN2ZBOHlNWXlJSDhTYnR6UWdVbEZNVElQVkw1RXRicHBFYVVqbV9lLVdZR1VJQWY4WDROQzRNaW1VQzdzQnhtZ2VGVnU2WGtoeEJKLTUtRFJScGMtV0VJNFNXUlV3SVh2NWRYeWhvTHJaZnZ2b3QtM3d6RXBkX0J2MzJtTmVUbDhMN2J3dmladw?oc=5",
+      "title": "Pernod Ricard: Brown-Forman-Gespräche beendet - Börse Express",
       "source": "gnews:at:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1dvbjc5ai00U1VmWVF1bjNiUzcxWDFMLTkwNTZnVkY2UktYUlh4NFhjb1MzVjU3R25ESEtTVDNSWDIyWEJqV3Rwd0xGdWN1cVJFTFZrTGdHWThKZ1FfemN2ZEROUGhUNXhLaHZsMm1hU3NiWGpsMzZoMXdXNHNWWlN1OUh0a0ZWUVFsblFBN3JjcWtaQ3RJYWEzNzYyUnR2ZWFWeVE1U2xIZXlySFVEOHIzcGZuQnI00gG-AUFVX3lxTE05V0x1TjNvblktZHhUU2ZIbXdBdWxnUkg4ME5PVnM1cmswck53SEJ0UEpIdVhTRGJTRXBveGFiVFhDX0o1ejZ4RHdBMzc2UFNueEpOWWFfM3BCcTNRZE80Njc2WkdJdmdFcUc3TmZ6RWd0LUY0NjdjVEV2M1NiNVFHSG85dWJJemFuRl9wSktNWDN4V24xSUw5VVVqVWZlcjl6cFdNTzBUNTN5QlVhQmlITS01dHlNelpIMnMtT1E?oc=5",
-      "title": "ANALYSE-FLASH: RBC senkt Ziel für Pernod Ricard auf 90 Euro - 'Sector Perform' - boerse.de - boerse.de",
-      "source": "gnews:at:de"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVY5bUFWSGNwcTBlMmhQbjRRdHRveFJaVUV5VHpvenlzTUZzdWFtTTQxZUJyT1hxLVNyVDJ6Z2NVQ18yOWozSHRMZ1BidThCc3JORmhITG1Ebnhudk1hN0NFYW5lWDl0NVZSalNZcHVDcWRvMkEtazM2WlBOU3dNUjZvVTExVkw1RGh3UmJhSi1iTGVqTi1paDcwbGw?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Fusionsgespräche - Cash",
+      "source": "gnews:ch:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd2tKRnNtZHRmMEd5ZWhXREQ2Q2g4N1RKam9QNVo3VHZ1X3FoaTlhRk5YMjlEZDE2ZnV0ZlVXTWhxYXk0d3ljakJYcDc3UTRjeGNyUVF6NUlNeXNSMHdCd0JVMjFlUl9nVVBNVUNkLUFkRXNzVjRqXzYtbUpUSUpzTTc2MGVxXy1SNlFacGRBeG9KNXJRQWttMS1oMnhzUFhNaHByc25SU1R6ZElWcGh4Z0VUc0FYcXdFdkk0Nldaeklnekx6Q0pZRDNrbXU4ak9vRFlCa2JoUGs5TG96aGo2c1d1ZHRONWZralFyZ1dYNi0taC11UUotVA?oc=5",
       "title": "Pernod Ricard CFO: Ohne Nahostkonflikt hätte das Umsatzwachstum im dritten Quartal bei 0,5 bis 0,6 % gelegen - MarketScreener Schweiz",
+      "source": "gnews:ch:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVYtdW1TRnVhMUltMGNRNzA5cHVYQWg2dnJVRzMwRFJKVkZNeV95T2ZnbWRSQ1hTQUUwVVpyRU1QUC0wWk1XUGRqX0ZUSllscGlNTk1rMVFMS0lvNEpNdzRvYV9kRnBlX0swTVpnT3VFLW5QS296RE1Gd1FJd2ozaDd3dGR4c1paTjlXTmVxbmIwQWNraGtyckJQR1E5VG1UUnd5bkt0ckUxV005MEE?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Fusionsgespräche - finanzen.ch",
       "source": "gnews:ch:de"
     },
     {
@@ -170,9 +190,9 @@
       "source": "gnews:ch:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWdHUkNRdWtNNERTQ2tNaEtvSkZiMmkxY09fWWtsOHNuRnUxTU9vUERodnEtMlllRTE0UlZxOVlieDA4bVRvd2RfcTN3OXA1T2twcW5zdFFSUkwzUVYtaE1uQzBjaTNNVzVxMkdPazJDN3A3OE5teXJVNXIyN29GQjh2UXlTN0J3THc1SlV5d0d0TmpQRWQ1QnF6WnJGczFPY3Boa05jdw?oc=5",
-      "title": "Pernod Ricard S.A. Aktie (FR0000130577): Steckt in der Premium-Spirit-Strategie mehr Potenzial als e - AD HOC NEWS",
-      "source": "gnews:ch:de"
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRzA0S05mWWQyRlRIZjk2N2ZuLUdRMWRKZTNJZWIwU3Q1V2tXQjVySmE4UmlUVTJDN3BWSkU1X2k3clo4U2s5SHFnbzQ5czlSdThsSlpLdDMzYjk4WVZSMUFHanVnSFNWeWJ0d2ktLUtMR0RER3c1cWNLLVNlRzdRYzlRcUNYaUNtMmFib0w4cFAyVTVScFlqZXlkMWt1OUZqdG1TaXkybmY2VGFHdVZ0Z05uR1RJRTZSOUx1SlBBTV9WOWk1MzRCR0QwQWVNT1FKeFd3emlzMk13N1E3clRhbnQ0MExiRm5IYVpFUEV6LXV3MGdSWE9rUVVhYWFOQzE1OGt1dG45cmZSYkVtcENicjN3dENFQnFZM1Y0YmNSWdIBpAJBVV95cUxQLXM3OXpoN2s0SUhUX21SUzhPTEpuZU9jT0dOYndfcG9XU2V3ck1JVnVtTno1dE5YUWJIdjJuMWNTY3ZlRi1CVTV4RGVFel9JWi1HRFY0M1JDUG1uSjBzakdaQnJRc1BBSDhPcXFKTFFaQThEQzk1TmRLSEljYWZ1azFyUlJoaWxsRHRwMk5fYkdtQjc4N1NuSUZXMnJXYXE2elRqUkdnUG5lZGFFNjhQaTJIbzV5eHVJd0QxaEEzYjRhbERtOUZ6Y1VucnJEZW9fT3lRR1J5aFI3NEo4Q1N6NVVsNF9wamNOTXFhV1VKNjh2c2E0V1BKSXdEWUVETWlZdHBSeFY3YmJFQUVMemVINkZVT3AxejBSNlpScTdIbUJkb1Z2?oc=5",
+      "title": "Brown-Forman, fabricant de Jack Daniel's, privilégie l'offre de Pernod Ricard au détriment de Sazerac, selon u - Boursorama",
+      "source": "gnews:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbVRGSXV6RllzWE9ncXE3SnJZdlYyVEdFWFF5cEFsVTR5ZW9LMGY4cmc3LUJ6MUl3Nk5wRm5YV0xIcU16YXhDQlNtQTVnYXoyNk9oOEVqZHRTWDVPbW94QUt5LXpKWDNnZzJwRDdWcVVBNllQMG0zcjhka3otclJOTy1tVV9qNjZUcGtfU21aVG4xeTcxZTh6UUktcWktUHEtci13LTBBeEg4WlUzOWtMZ1kwcEVzdk9lNmFrWnpXOXliUWV4RFBDM3Z6ODd5ZERvM3RBWHJwTHZaSVpXaDFIU3RERDlWb2F5SEltaC1Fbi1PTmVlVnVSN3liODVzTzVBTzMtN0U1MWpfRFlEMmhNZFN5RmJjcUZEVS1Ea2hQTHo5V2xlT0NEV2VzSG82NHR2aWFIYjJtQzIxby1nT0czQ29UajRQcXBmbDBaQUo4REZwNV9XNkVIOXlhQ1ExWWZpMkZud0E1aFVkbk8wdjhz?oc=5",
@@ -180,8 +200,18 @@
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdHRhREhMVjJFRUdNb3BTU2VFSHpKaG1zOTdxZWk3LWFFbENndWdzZW8xdlY5S0FMdExranV6TUgzRDhjQkcwSzhFV0tSVGFZSWtHclJzdmxCQnkySHZQalpaMHg1OGFYU1pkalNiZUZ6QUthRE1MQlg1NjF1NlAtaWNENEtialFBRUpRWDV3S2FSY3F3VnZnZ3NqZjVBaFVlU3VQNFllRmZwcEE4a0NlRjRFWlR3cHZ0Z1BwaDFSSjkwUUFjX2dvaDY3a2NDT25FY2N4RlhzRWo3M0lJUnQ0?oc=5",
-      "title": "Les propriétaires de Jack Daniel's privilégieraient une vente à Pernod Ricard - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTnhXSHNwaTZyWDQzbDlEVGpCcW1uOTdQdzViSXlRYV9Ma1laUUhuMXota0x0YzV2b2tNLUNkYnJmS1Yzdk4tdnRVb2hhUHROREwtNTdKY1d3Umd6bVpiX0lPRGtVNXhUZmQxSUU4dEVpV2Vxdl9iclFXbnl2X08wMTFJVHFWVHBzRVFVTnkzbGt4NFFpaVRhY1dTNUVpSVAxQldueE9vSkpKVVlHSEdyYWhJVHFYNzN2UmlfeV9OQXRzTnJFTHRLQ3dYbnNMZDc0OEFnc1hCbjVvQkJPQWgw?oc=5",
+      "title": "Pernod Ricard et Brown-Forman mettent fin aux discussions en vue d'une fusion - Les Echos",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbTU1TmM1YW5DQ29rNllGcXhsbmQ5SmlMU25ycEpCZDhsUXI5Smx1YmJuSVpNa25xNTh4bW9VU2M0SHBzQjIxMmZSOWVUOElhNE8yT1lRMUoyaFhMWVJKUWFrUVJ5RldNUlZfTHpKZExNMXdZN2pQNFQ4aTBjZ1l1VEJHYm8yZ3FaY0NrY0o4a2FzY2M0Y3kxbE0wcEVDbHFXSTF5akNGQWVOYXRobjJoY0RPbHR1T0V5TEtxekdCWlRZdWpISG85ZE9OTlMxNFRVbnJSLURkbURhbDl1d3ljR0t5Q2Y2TnBwY0lQeGRxVnhxTjV6VmcwNFE5dGttVm1uRFFWZ1hIUS1LSmNaeklrUWFNZlhPaEp5MVc5X1RCSEJ3RlY4MGJ6bG1CcWZLLTA?oc=5",
+      "title": "Pernod Ricard et l’américain Brown-Forman, propriétaire du whisky Jack Daniel’s, annoncent l’échec de leurs discussions en vue d’une fusion - Le Monde.fr",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUhhZjVsTjl2dU9XdzByQ0ZleHVUM20weVJ5LXlRVWN3cUJ5eG9rN0ZkZk9Tcldub1ptM2VnM0RlbndxYXlEMVRMd2JTSWtEaUd5Y2JmS3JyN3hfTmhPeFNSMkE3eTk4Wkw1U1pTa1RNQ3dENEIwWERVWHhQZk9DdHFzVi1rXzBIbkxqSTdzY3liZXFOYmdSRHNjYlQxelhMUWtnUVhEd1lEUQ?oc=5",
+      "title": "Pernod Ricard et Brown-Forman abandonnent leur projet de mariage - Le Figaro",
       "source": "gnews:fr:fr"
     },
     {
@@ -190,38 +220,23 @@
       "source": "gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcTBwbGM0enZ4eW1iTzlvYVV0dFBCYlVlOGdDVzFJS1JhWU1zemFOckVuTnR6LWVDdm9JazBVSTNnU25vdnBOZ01yNlJGRlRHcjgtRVkxcEdGbUR4N21RSmNZRDE3bDJIRTFIc3JadTNNUVJLYVJ6bDk4a3ViRGduY1FWZzZlLU53NGNnYzJRRnROREUtWHhSNDJ6T3A3ZlhLbExDRkFYZlM4OTVIRExxdFlRX2x2VEZCSm1kSXJJVm0xc1FXUFpjQjJSQUdPYWJVZUFiSm5DRlczRFZpa2RLTGJtTHl2LWxjNU9mV1hFQlN2bnpWOG54TUlsV3llVEVFZTlTZ3JBU29aVV8zRUFzUm55QVFjYmZp?oc=5",
+      "title": "Les ventes en duty free s'effondrent : le géant des alcools et spiritueux Pernod Ricard enregistre des pertes liées à la guerre au Moyen-Orient - L'Indépendant",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWdhQVd6SWRLRTdsblJubUlreE5fUGdVMnVPSEdtc3d0VFRLY2daajIxaGJ3UkJuek0wcVFVNC1YQ1NFZWVuWFI2MFdzaHdMTXZGSEtpXy1KNVdNaXJKOGlXWkxvRzBZYjROdllLN3pSNG9wem9KSU1HclN5ZmtjV1pOZ3VXcGN4My13Z0xwdDMzbWEtaFJtSnRQLWpNWXZvQ29N?oc=5",
+      "title": "Pernod Ricard : Perrier-Jouët confirme sa dynamique trimestrielle - La Champagne de Sophie Claeys",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ta1FZdnY5UVUzYUVtX2hTeFJrVEtVcjlFVTl4MVVwQjA0REFoWk9GdjQwQi1vOXRBVTVLSDZXOW12d1RXR0Z3WXNEV0c0WUxO?oc=5",
+      "title": "PERNOD RICARD Cours Action RI, Cotation Bourse Euronext Paris - Boursorama",
+      "source": "gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlN5VVEzSV9JQmVCaUg5cG5lMUxfdk1jVE9vV3JoODdtRWtGY25TemdYRG9XbTRvRFIwNm82ZzdCYllBNlJjNjFxVmZlWS1MWkM3Rl9VVXhsSFhnZ05USnZfMFBGcVU0b3BrNl90LTNhWk00aUU5bzJiVDBjblJoeUlxSjZwSmFSWFpJdGlybzhPb1k?oc=5",
       "title": "Pernod Ricard abandonne 0,27% - Boursier.com",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMW1jdGZsQTJ4WkVkeU5ic1RVclZkLTNSQWlseUdSS3NIakZUUEV1NjFwc2U5dk9fQjN3V0c4TnJQVng2YnpTYk84YllkeGxpTXJEbWYxSEZPRzVPc3c2Z1c3WElDbUEzRW1zVkxxbWE2c1hqNHBBSng3ZG5iQjJ0Q1I1QkNYSFIxYmN6SURYUnEtSnF4cHBjUG05R2t1TnliTWVPdGlFZ1BiX25kNERMN2t4SktNVEhJQUE?oc=5",
-      "title": "Pernod Ricard revoit ses prévisions à la baisse sur fond de tensions au Moyen-Orient - La Revue du vin de France",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkkwUkJidkJ2X0QyRlcyajJ4U3VFZ0dWckJOa3FXVEF5TVExMV9iVXc4eHViQ2ZDNGtvVEZKcUlfV1V5aVAtRXZMZnd2aHdTZlN6YVVVblpWbUlaUTU5OGZEMmVQWm50Q08zZVpDQ0JsSnM4eVd2cW1tT0M2NVZZOW9pVkZUN0M4ZzdUZkVBNlg1V3oteU5XQW91dGtCUXhlSEdoNw?oc=5",
-      "title": "Pernod Ricard a stabilisé son activité au troisième trimestre - ABC Bourse",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlFDRmw2Sm5ucDJXUm5vQnhLX1F6SFM1blh3YVF4QW9CNU5TRjJmVE9Gb3BzOEJ2NzVoVzJyVS11N09kVVliMlZkN19rUFBLVUU2NTB4WmgxQkJzM0NwSWpCUHpDS1B1RHk4cldkQzhpSkIyWWtKbExCVngwZldqcHJRdDIteVBFSHBEbnhPd2tqYThmVk9PNFNqYUhyOHlXaVZ5dy1sUWhPQQ?oc=5",
-      "title": "Pernod Ricard lance l’IPO de sa filiale indienne - Le Revenu",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjU3S1RQUkpsaTN2bV9lcXNtRWF5WVNESEgyc29tcTVYeHFIZjNEdk9aSy1lb01RaDN3RWNweUl1NTRZSVBxX2JsMTlsU0l0RE16OWVacFlwdmNBMEJ6RG94NEtiV0NlYVhQQXBCNjZwX3MyX1l0aFhmV2ZUVFY0UVU4UXktUG0wSkdsZkI4YnlINDZQcjBqODJZejdfaWVqaG1scDgyM1hZZGZpTjM0TTlCWmY3Wld1SlRld1NLMEhqVzhPUk81QTR4VWZVY3NrS0I3RGVmVXRuWkxQSXdYUWVjOEVpMXk4dmdBQUkyVC0?oc=5",
-      "title": "Pernod Ricard stabilise ses ventes mais avertit sur l'impact de la guerre au Moyen-Orient - Les Echos",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0tPcm1iOGhfN3lyTzl0UlFJUXBZa1hxMTJSOWQwSWRqYVZDZVFrb2tud09nV2NuZ1laWWV1c2lTaUlOdlgxQmVlazlBZHQ1UjdfT0JaWnpRM3BUSGpROExIa0FiSVZ1NXNzdmlfMEpReldxbzMzdHNZenlONFZ6NnYyMnNVR2lFd0VzTEpWdk0ySERKS0xSVTEwdXpaYkQyNmdKa3Y3UXNZZl9hb1htZWZ6TnhPZmdyT3J4ZGxRNDF3WGxabmtvdVdndmE0d1pLMWpKT25xRQ?oc=5",
-      "title": "Pernod Ricard préparerait une possible IPO de ses activités en Inde - Les Echos",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMm9WTWJ3RGZ4VlEtQjVjM2dIckUzeUIzOGh2WFdBV0U4Z2xuOGItSndBY0FnWWxTVTM3d2w1ZlBHTWxidVhMbG5NZXlUd1FEa1pHU3dKOC1JNXBxYmJDYmFaY0Y2aloxZ0JUYVVjTGp2LXVMazJSZXVBX05kQ0pDRWFDd2FYczdmaHhUelozNS1PN3FQdmozYms5eUd0c05DN21N?oc=5",
-      "title": "Pernod Ricard : fin de semaine plus stable - Boursier.com",
       "source": "gnews:fr:fr"
     },
     {
@@ -240,23 +255,13 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOenNkRmVUVmFGYjRxVi1PcjBNalhtYXhRM0ZSSW9WajhEdjlfaVFQcnFRX1JQazZ3MVIzWkQzMVZKTGkyQ1ZyMGdmZzVhV3RNN0NzdXJJTUUxWmNkN0lGMnZFSEZxQUx6MVRiejNSS3V4LUJodk4xb0lCQk1ZMlh6OGlLdm5jT1pjandDVzBlV1d6SlI1akM1ZUx2MjVoUkRvRUpZSUxzaENvM2tFM2p1M25wYmZpVDB3TjlIcHh0VDFOU0swMXhCV21XeTI1bDJQVi1fWElacTFGQ2FhLUNuLXZRS1RGTms?oc=5",
-      "title": "Pernod Ricard said to begin IPO process for India unit, Bloomberg News reports - TradingView",
-      "source": "gnews:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWxrN2FSejVmTkFxU3ZaaGtCbzVXS0Q2WmxnUG5WX01mWXNHbDdLd3ZOSV8tV0hIcGFVUEFPUUViY29VejRBdS1naDctOXllSkRDb01hMkkxMmZwdXVKNkRBR1pYZWY0b3FWZThEU2gxSm9OSWtTS2l0RmtfbE5CYnBQR3ZNLTk1WUlBUm5NUE9LQmxiUmdUMkJ1Yk8yczNKMnRYWm5vUExQdXRBbTQ2RzZRTGlXbjlneERWdmczZDlCWWJ3aDJWUk01MG9BT052THQ4Xy1QV2JYMGJGZWNJR19FTk15SjJQ?oc=5",
-      "title": "La famiglia Brown-Forman preferisce la vendita a Pernod Ricard rispetto all’offerta di Sazerac - Investing.com",
-      "source": "gnews:it:it"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV2cxQmR6Y3NLWGl1X0tBb0VYOERrTGpYeTNpTVVEZEJZa0tkQmF1am1UdWxMY19zQVloQ2V5YkRlZkJqLUdhTEE2MzV2cXRJcHhsdENhT0JhWWNHcTF5SXdfQjEtbVJMblVMaUdxcGVOcEhkWm5kTXVkU1ZfUnZIUHNjMHR2ZTRWZnE0MWxydF9Nd01GVUYyZHVyY1V2c3RXTy1lZmI2VWF1Zl93NUZySkk3WHdOeUo2QkpONEhtZjN4R0JHUWdaTHVaX1BPSW9YTFhZV2MzeDl3alpDdE9tM1NCTzdFVjBkRy1kQlhhMA?oc=5",
       "title": "Pernod Ricard expects FY26 organic net sales to decline due to Middle East conflict - TradingView",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUklkZUdpcWZPclZlMEtsUDVtWm5HT2VaNkhqYndsV0NrWlhXN2RDTFJDSVBaWjNWMFBxUEpES0YzRE1YWUpvN2tPSTRpYVA4ak0zZUtwZzRwRmlRZ3RIX1hBaXNZcnNHREdaS3A0Szc1bjVJcWczaENWV0wtNUFsLTZiVWUyOFFXVDRwVGhDNTcyZHdtQy10V0tiNmxBN0s1S2Y0WFFOczJLTkZ2cVc5ZmJSVS0yR2lwMGRpR2h0U29tYWU2VExmc3BadG5vSktrRUlkU3NIaWFaampRODZEZA?oc=5",
-      "title": "Pernod Ricard punta a una flessione organica delle vendite del 3-4% per l'esercizio 2025/2026 - MarketScreener Italia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3VvQXV6NmVOZGx6YlNhUWV3MDlWcWZUYllpTkxYaURUUVpBLU9xcllhVGU2QWZDTmdWZE5JZFZnUy04dzFMU01EQ1pIZEE4cWROeHJFUW9qQ2ZiVHZMZmVzdGtSbnRIcmVNZ3M1cW1MYmtlSmdwR0xPWjBCRmVncXB2S0lLZkh5VnhpRlgyb0Y4U2VpVnJQYmVGRFRUaXZQc3I4T2NnQlRYZ1ZfckN4S1UwMnduLUNiWnV2QVhXOTg?oc=5",
+      "title": "Pernod Ricard termina le trattative di fusione con Brown-Forman - Investing.com",
       "source": "gnews:it:it"
     },
     {
@@ -265,13 +270,23 @@
       "source": "gnews:it:it"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlU5bEM1MDlyYTRZMkFNQlF2UFZBNGFGUi04N2ViMTQyT1p0VjkteTNCdEJtbnRtVnFBSHdhMno1a0RFaWxKYmVXblNfZy1iNjB2bElkdHFfN3ZhY1BKejBXSWJvZTFrOExyUjJ3TjI5XzlUdlU5bGdNX3BTWUQ5NVRVVlI5b05B?oc=5",
+      "title": "Salta la fusione Brown-Forman Pernod Ricard, niente intesa - Beverfood.com",
+      "source": "gnews:it:it"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ldGVHUU1rblcwYWZ0Wkt3T0MwOFhaUm0xNDFkNlBsREh6bFRHQzJWblZpRUp4bWRPalItNk9rMERpY3VfdjdGdlR1czVVcWFvZHFVUTkwa1FGMGVZWUNuMnNRMHVSTEhUU1NFRmdjd0RIczdCSDB3?oc=5",
       "title": "Brown-Forman, fabricante de Jack Daniel's, preferirá la oferta de Pernod Ricard a la de Sazerac - TradingView",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWTZYc1JyYmstSGdmeW1Ub294ZGhNUDZoUlJpVWZ3M3I3ek9pSXBTMDl6Qm9rQWFyekZhU2QyTEtGSDhOM3EwcU5meTFTSktSQm9hU1FyRmh3Vng3ZUY3dG9ZSXd5bG5HMlhMRk8taFEtZlRFcENWZjBRdzJIMmtFNVFObDYtUjVLNmdKQWMtQmJxNWx3MjdSdklFTk9iUWt5UVNVWk1PcFZFc3c4UFlkYTZIREpfY0NHcHBWQmNqQVlLRGMzeFhWMzB3LXBBZWJOR29BMDZB?oc=5",
-      "title": "Pernod Ricard: i volumi tornano a crescere, ma il Medio Oriente offusca le prospettive - MarketScreener Italia",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWxrN2FSejVmTkFxU3ZaaGtCbzVXS0Q2WmxnUG5WX01mWXNHbDdLd3ZOSV8tV0hIcGFVUEFPUUViY29VejRBdS1naDctOXllSkRDb01hMkkxMmZwdXVKNkRBR1pYZWY0b3FWZThEU2gxSm9OSWtTS2l0RmtfbE5CYnBQR3ZNLTk1WUlBUm5NUE9LQmxiUmdUMkJ1Yk8yczNKMnRYWm5vUExQdXRBbTQ2RzZRTGlXbjlneERWdmczZDlCWWJ3aDJWUk01MG9BT052THQ4Xy1QV2JYMGJGZWNJR19FTk15SjJQ?oc=5",
+      "title": "La famiglia Brown-Forman preferisce la vendita a Pernod Ricard rispetto all’offerta di Sazerac - Investing.com",
+      "source": "gnews:it:it"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVdJbzl4cUVHSU56Mzg0Qjd0YU9YRGQ0NVpPVlE4OTQ4UklJX0FVRzlIMGYtaWFjT0ZBMlQxWkUtZ1hONmhmZFM0MHJiNHpKTXNPODZJLTdHNjBwMjVNOEl0d2RkdmpaaFpDc01RZEk2TWxhNmhtdlRQNWNoay1LTTlCbFY0OXpObUNpbGljb2kxV3ItcmN4aXljdnRCdGI0WUYyazZ3MXNUaU55VDRBTU13bjFueE5KYXJZVW92d0t3YkpGQnhBUlNpemdPUUg1ZDJGNDczM29IN0hkQnEwOEF0bw?oc=5",
+      "title": "Pernod Ricard e il produttore di whisky Brown-Forman interrompono le trattative per la fusione - MarketScreener Italia",
       "source": "gnews:it:it"
     },
     {
@@ -280,23 +295,18 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExDZktaaGFtTXdXaV9rSU1CSlBGQ2Z2RXhVT3NkTGZ3YThzOGZXRGNTZVk4VjFmX1pTVFVuX2h6OEl5MVJmd3FPbThiNE10NXdoUV84YzQxckgtRXpwSWZxYVhqRmNFNEQta3g5c0dZdUp6ZXRXYzAzZHVmekl5UWFOZk1sdWxTQmphV0JiTmYtVFYzRUE3aTB0Qm84NGptaEhlV05pZUl2TEpvdUFsQVZmWTNIQdIBuwFBVV95cUxPZi0tQ091dTJINl9PT25tRXViazFiUlQ3WGt0MWF3R00xZ1hVUWk3cS1YN2FrSG5ldmxaa1pUcFNLbTR4UnBSdE5fbEJQMmJYc28xVFVJS0F0MTdDU0N0bW5zcjF5NnVyMDA0OFpGMnNzd3JRS2l6ZjZ3ZU9iTnFfTzRFbEYxWGpnU3Q2VVJJVG1ZVWlEcEZpbUlSbWRVemk3UDFFZ1ZMUUNJbkNpaE5NMXJsQ0I4aWdwMEk0?oc=5",
-      "title": "Pernod Ricard prevé un descenso anual de ventas por la guerra en Oriente Próximo - Demócrata",
-      "source": "gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bkVRSU41dGNBQTdpTmV2c3RlZ2RkRFdLem9abFFyZVBIXzlzNkdzOHZhWTB4QTRiblBoYUYzZS1zQzVhLUcwbVliUU5aWXRWcVlxYlJhZUQ2SlpiUk5yeUZKb1BiUXhSWmp1NUZ6RENkVkpRZEtTWXN1aw?oc=5",
       "title": "Noticias de PERNOD RICARD - Bolsamania",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUWlDVThDSEtsZXFaTjY5UzdoSmozUjJhRHlRQmFnNDdicER4SzVqeGlhckxIZkNXXzdkT2NwalhFR3BQYng1ODdKQ0hVZUlqSnhEcUNEZTh1Y0hRWVF6aFNhY2NTTTYzYmF5TldvNXgtb1RULVRKV1hNVkhPeEtUaFJ4OUp4a2_SAYwBQVVfeXFMT1BCSllyZTc4c3FEaTlrUHdMU2NpenhnZTd1YUZsTHdCYmZQTzQ4ZnlCSUZDZEctTm5jVGkyOXJlZlFVd1VwYWdNejNCWkRZTnMtSEhPRUJTR3Btcy1IdEs2NDNuM1M2QmhyMUpTRm5Uc3BleXI0OUpncFBWSDc2T2tDbHRQOHl2TWFVQXk?oc=5",
-      "title": "Pernod Ricard prevé una caída anual de sus ventas por el conflicto en Oriente Medio - Economía Digital",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUGktVXh4QXRsbW9yWkdXRkY1NUNvRUxocF8xREJoMVpUUXVkUUlMeE1qcDhCbERUSGtTZFIxUmU3UkU1Ml9kTnJWcU1ncC11ZjY2eGZmNGtiYmhTcmZUajNzdVZSdGxOOWxRU3YxbEl4WTM1eFVOcnVHZ2hZWFdCR2djQVFmS185VGFVWDB6QVlRUkVsWXItQ1kyamZURTdVbXZEcENpSEphSnlDdVRMdUZiMlZiblA0UnZMd2N2Y3ZjbVRRTnRIRFh1VFZaeDlCbDNBMnlLTEhzczVaOEM1VDk4czZEMFlrblV3ZEFHM2pFUFYwalNKMQ?oc=5",
+      "title": "Pernod Ricard anticipa un descenso anual de las ventas por la guerra de Oriente Próximo - InfoRETAIL",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUGktVXh4QXRsbW9yWkdXRkY1NUNvRUxocF8xREJoMVpUUXVkUUlMeE1qcDhCbERUSGtTZFIxUmU3UkU1Ml9kTnJWcU1ncC11ZjY2eGZmNGtiYmhTcmZUajNzdVZSdGxOOWxRU3YxbEl4WTM1eFVOcnVHZ2hZWFdCR2djQVFmS185VGFVWDB6QVlRUkVsWXItQ1kyamZURTdVbXZEcENpSEphSnlDdVRMdUZiMlZiblA0UnZMd2N2Y3ZjbVRRTnRIRFh1VFZaeDlCbDNBMnlLTEhzczVaOEM1VDk4czZEMFlrblV3ZEFHM2pFUFYwalNKMQ?oc=5",
-      "title": "Pernod Ricard anticipa un descenso anual de las ventas por la guerra de Oriente Próximo - InfoRETAIL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExDZktaaGFtTXdXaV9rSU1CSlBGQ2Z2RXhVT3NkTGZ3YThzOGZXRGNTZVk4VjFmX1pTVFVuX2h6OEl5MVJmd3FPbThiNE10NXdoUV84YzQxckgtRXpwSWZxYVhqRmNFNEQta3g5c0dZdUp6ZXRXYzAzZHVmekl5UWFOZk1sdWxTQmphV0JiTmYtVFYzRUE3aTB0Qm84NGptaEhlV05pZUl2TEpvdUFsQVZmWTNIQdIBuwFBVV95cUxPZi0tQ091dTJINl9PT25tRXViazFiUlQ3WGt0MWF3R00xZ1hVUWk3cS1YN2FrSG5ldmxaa1pUcFNLbTR4UnBSdE5fbEJQMmJYc28xVFVJS0F0MTdDU0N0bW5zcjF5NnVyMDA0OFpGMnNzd3JRS2l6ZjZ3ZU9iTnFfTzRFbEYxWGpnU3Q2VVJJVG1ZVWlEcEZpbUlSbWRVemk3UDFFZ1ZMUUNJbkNpaE5NMXJsQ0I4aWdwMEk0?oc=5",
+      "title": "Pernod Ricard prevé un descenso anual de ventas por la guerra en Oriente Próximo - Demócrata",
       "source": "gnews:es:es"
     },
     {
@@ -310,8 +320,13 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVRNdUdhT3l1SUxaRExjbGZQOTg5SGphNW1yUk0xRjFaOUJtT01ZdGx0ajFDeTEzNXczZDJfSmo5NnpueTJ4SmVHbjVKWXU1akVJdC1RakVtRkt1LTZkMDFWSlo3WVRfZWRLaTJ5NXdPUW4wOEszLXk1M1NJWXdLbkUxMjh3TG5kRnZBRTZZU05SLVJVdVVNWE00c2LSAaIBQVVfeXFMTWkyUG5hcEE2blVVd1pTUk9aOVFfNG93TXN3NDVKZW9FRWhQcUVuOUhidUE0ZV91Z0xFZFhaVHhURDI3T3hyMzU4clRUWEVNMXp0WU9iM2ZKTzViN3pfc3R1Z3JUR1ljTmxYZ011Q3RwVm9rSDFZYmMxWldGaXdVZldFWUlaY1ZZRzZDU3RnN2g0SU9hZmFCa0FkZWdrZEF2dVFR?oc=5",
-      "title": "Pernod Ricard gana la mano en la puja por Brown-Forman - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUWlDVThDSEtsZXFaTjY5UzdoSmozUjJhRHlRQmFnNDdicER4SzVqeGlhckxIZkNXXzdkT2NwalhFR3BQYng1ODdKQ0hVZUlqSnhEcUNEZTh1Y0hRWVF6aFNhY2NTTTYzYmF5TldvNXgtb1RULVRKV1hNVkhPeEtUaFJ4OUp4a2_SAYwBQVVfeXFMT1BCSllyZTc4c3FEaTlrUHdMU2NpenhnZTd1YUZsTHdCYmZQTzQ4ZnlCSUZDZEctTm5jVGkyOXJlZlFVd1VwYWdNejNCWkRZTnMtSEhPRUJTR3Btcy1IdEs2NDNuM1M2QmhyMUpTRm5Uc3BleXI0OUpncFBWSDc2T2tDbHRQOHl2TWFVQXk?oc=5",
+      "title": "Pernod Ricard prevé una caída anual de sus ventas por el conflicto en Oriente Medio - Economía Digital",
+      "source": "gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUtNdTBkX2d4eHk0NFVSV0ZBSDFBVmxHVDV3UEVGQVZEQ2FoeU9LRXFjaFJyeDFZSlpWVXFMVW05MU1nVU9WNERfTEplNXlpdGROTGhaNlN1QzFOY0JYeHdiOUNLVjUwb3pjQXhRUHRhUjludkVVblZMNldoUUF3X1JrX1RyVXI1RHdWR0toa2cxZXFq0gGaAUFVX3lxTE41a3VqcGlfNTRyUDE2WHR3SEhtQTJqaUFOU3ZBcGlVb1A2Zk9xNnBWTzc3eXNZeERySTJYaE9WekdVejRZUHh5X3A5STdnVjFER2JudG9EVURNbUdTQ2NqQXhuWmRXVFh2Nk8tYXVSTi00TWhPSmVIMkxiRWRwdUFxT1dMZkJYS1FmWk5WbURLT0lqQXcteXNsQVE?oc=5",
+      "title": "Pernod Ricard resiste la caída en Estados Unidos - Vinetur",
       "source": "gnews:es:es"
     },
     {
@@ -320,8 +335,8 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNenVxY0t2Z1N6Wnh4dF9pbEpWcnJueTBZZXRHLUowNDNKNGc2THZjb0VQUkFuQmNod1lXOERSa18zZWhTNXBLLU5hSVo1TmVwdG80ZW1aMkxSRWFPWkZuYk5tcWJRUHRGN1Rfbi1OOWhpek4zVlQ1X2QzalQ3ZEFHTmZVczgtWkFJUXBQTW5CVG51WlZzNkZCeHJuRm9XNDZhYjFKYzVKbnY4NDVJdzVCdTJ5QUQwU1lBZWF3NGZFUVU2STVBRk55UUhVQjRTU1ViUU5PbDE3X2VlSnUzR2RFVThMYjBGTzN0V1ZKQXJrdlVfUkhnTlloSERwVHNVcUIyaVBz0gHuAUFVX3lxTFBlRUFqeFR5WFRuUmtWWWJudFQ2Y1F2UVRLM0NUX3ZfTFh3TzVnSjNOVTM0eUxsZW9XMHpocUlpTUdLckxoZ1Z5cHZMQkdQNlc1QVUxQUVxbXdfcnU1V0N1aUplUDVWMXlEX3dVS09PU09jNkZEUnV3bFkyZlpqdmtpSnZqd240UFUxcHlXenRObjZyMy14cGhxWmZSM25tSFBUejdyTUJhSDBvNEtseWd6bFJLeTB2bDFMSXhabnlIRGNCRzlvd0lVc1NUUmJaN0JIYTNiaDhpcDZFemg4OVpWV2QtdzRZVlFqMjJKQ0E?oc=5",
-      "title": "Whisky con sabor francés: los dueños de Jack Daniel's se inclinan por vender la empresa a Pernod Ricard - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcXU0a1pqQ3MwNjAzbXhzcC1zcUJ1MGJOVnJZaUczeV8yNWRXSVZjTHNxMUZzanhsT1hDeFE5STFnak53ZnVtRXc3cW44WTJUTUpzU0JWbG4wRFFOaGdKNm93M0RfRHE4RXNsaGQzRGdUdTctRDJQWDhpSnlRTEM3aVc2RUwyZHp6eU9TUThvWFlDWkJZRGs5NzF3aVZXMFNWOUNXdGdUcEN1MVVtNEp6ak5YdWdnRU1UbkVsUWxCcEg4SnlqakdPbC1EdjdnbjhGSTBDOA?oc=5",
+      "title": "Pernod Ricard y la destilería Brown-Forman ponen fin a sus negociaciones de fusión - MarketScreener España",
       "source": "gnews:es:es"
     },
     {
@@ -331,7 +346,7 @@
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTk1LeVRZdDNReUk2NW9HU19ZS3hjQTB5QXdyc18yWVZuUzU0NlJ1a0ZyM3Npa3RNUmN5bEhCbjl6WGxTWWxUbnUxZE80dGlISjdKOVpLQ2d6VW1SV01ZanZKT2pxWjExZ24xSGp5TTVwelRJekVoT2lyc2IwMlBGSVBIYWdwVk5xWWhZUW1NYm82Wng4X1BjZ2ZFZjFJai1TbHZoWWNwYlRGUko4T1NmeUljOEczZw?oc=5",
-      "title": "Verbeterd momentum helpt Pernod-Ricard aan stabiele omzet in derde kwartaal - Beurs.nl",
+      "title": "Verbeterd momentum helpt Pernod-Ricard aan stabiele omzet in derde kwartaal - Beurs",
       "source": "gnews:nl:nl"
     },
     {
@@ -345,28 +360,13 @@
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUxxS3FTMjE3dGZoZmk1WV82VWRVSzVnaE1NTU00VTRWWUhtdTc2YUtkeTZ2MXRNb0hPM1hRZEZ1OWs1dnh5Wk4xLVFQc2JVbHRZN2diV3ItblM3WFN3UGJTLXV4c290TGxmZlVnTjltaW5INktLd0tEQmJYbE5xMWxWWEZSd2ZBbDFRWnVoOFliV3ZBTVVLNjVob2N1dF95NVBFX010QU9Nb2VuMnpDVDRoTTRSRXdsWHNPZHN2Y1BVZkpLRkc4enNocUlGdzFDMEJCUi1FcVp2cjZh?oc=5",
-      "title": "Pernod Ricard: Volumes trekken weer aan, maar Midden-Oosten overschaduwt vooruitzichten - MarketScreener Nederland",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUVmRDUzWUhMdXJELU95cE1hMGF6a1JLTE95ODRrbjdwYjliUVRDSnp5UERYcEtHOEVMS1AwekVVQTU1U0tRaXNiZjlHUVdmR0hWckVYT0JrUXU0d0ZQOGJFa2tsNHV3V2c4OUhZYUR4UXV0SjZKYWFfQlljWE5TMDdTZF9kemNxSEg4SnZKQkNVV3hRcnBGS1N2ZjMyLTBWVHkwbkhnMA?oc=5",
+      "title": "Pernod Ricard en Brown-Forman blazen fusie af - MarketScreener Nederland",
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0ZWRXNsWml3azJkLTJ3U1B6RGNNQXlmSnJaaGFGX2pFUXFPcjJ5YTZRSFdhVTNqMHhLUGhhRndEUWZla0F6QnVyYmtnU1RhdFNUc1hkeW16ZHRjNzM3cHZGN2dpdC1UMDk3YTNLZWM1Mmx3NjV3OFg3OTBfQzdiRlVuOU9vS3Z0UGxFV05xRXpLUEZTTWJZTnEtM1JoRmM5MEZFUF9ibFdMVDkyZWc?oc=5",
-      "title": "Pernod Ricard overweegt beursgang Indiase dochter - Investing.com",
-      "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHBDdW9rZXpBNUJlaERkWEdlOFNXN0w2WjBIcnkyY0tWOHZEN3Z0d0s0T0JZU2hha0hsQ0F6MmRJMmR5eEY1N1lNYmxXejFyS1U2RUJvaHNodzl0S0xRNHdEMDNsMlhRVy1RZjJlWEJKSmNMWHg0aEV0QkViR21yTTZLWjl3N05GdGtGNExiOXY2cWhUSTJ4UEdnTFoyS2hSTzJaV3ozVzBNOUs2ejJCTDhqbGIwaEhnME53Z0FqRUM1VzA?oc=5",
-      "title": "Pernod Ricard start voorbereidingen voor beursgang Indiase divisie - MarketScreener Nederland",
-      "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNjJMdDhuSi0wSWI3MGx5TTVxYUNLU3kzdk5qenM4NGlseWZGajJ6Rm1VZFp3SDhKRHhHTEVUdzg4YkFpWVFTZHFaS0Q0LTJmMHVMcDJSdmlwWTlYbVBzcUF6cEYxQ0J6czFZZHZNNXVDbmVlRmtpNXdKTHBqcnFfbjJKTTMydWNPOERRZW9LdS0tY2s2VlE3M1I3OFlBdW9rY3B5ZzJQVmVoM3loSkRDS25vZ2xXVHRDLXVUYTdJNkZQdVRsQ2ZHMEpyUDAzaEpOOGxBQUZDUFRvSFJZTjZiaFRKb1ZKMi1IWS0wRnNnOA?oc=5",
-      "title": "Pernod Ricard verwacht daling jaaromzet door oorlog met Iran ondanks herstel in derde kwartaal - MarketScreener Nederland",
-      "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmxRbnNqQ0k0UHZOdktHN1VtOFhkMVNyVEZxbno5X2wyXzlFX0hQSWJvT0lyOUlmckxNNVRvTWVMaVVmazJuTTBYdEZyZklwSUZCN0RmUXBha0NOS3pWZThJWng3a3BhX3pfVWRoWnppamxkdndfVmNFVzFCanRkTDE0aXlCVl9qVXRrSWFFbENFb3RXbTJFMVdlQXhYZHBHRVJ1NW1MQ2NBbi03WGQyQy1zMWs3OE4tenc?oc=5",
-      "title": "Brown-Forman blijft in gesprek met Pernod Ricard over fusie - MarketScreener Nederland",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWtOeGlETjljYkpMZlFYTmwzS2dGM19SNjAzUXk1R3JwMGxBY3J1alY2UDBEQUw5eXYzeUdfRXRzQUVPaXllSEZ4YVpKdDdONmg1Vlprd1I0YmM0VGpnRzV3bHdmbk1WcFp5MU5LalBISk1UUi10NGpMemdHZC1MUnNGU0tNVTBLQTE4T1lmN2NmNU5VN2RhT2Z3X3FmMThNQkdLT0tHTkVEMmlxMFRuSGJ4Q0d2Zw?oc=5",
+      "title": "Pernod Ricard beëindigt fusiegesprekken met Brown-Forman - Investing.com",
       "source": "gnews:nl:nl"
     },
     {
@@ -375,13 +375,23 @@
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnpoaGY1VXp6SUtpQjZHUzcybzQ3NHVrNGk1aFUwODhfbFdQcTN4SHA0VV9mQVFvbHpwaFRvYjRUQlAyYWVfNzdNdVlkY0YxaFV5ZGEycmtkVTBEZkdhTnJwa2wtTlh5M3JnSEZONzFXODFOT1QyUGh2amdwWm54UnhiOUNNempiaFA2THNDemlxOXhNYlYwRlFiMVBlUjgz?oc=5",
-      "title": "Uppgifter: Pernod Ricard förbereder börsnotering av indisk enhet - BN - Börsvärlden",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0ZWRXNsWml3azJkLTJ3U1B6RGNNQXlmSnJaaGFGX2pFUXFPcjJ5YTZRSFdhVTNqMHhLUGhhRndEUWZla0F6QnVyYmtnU1RhdFNUc1hkeW16ZHRjNzM3cHZGN2dpdC1UMDk3YTNLZWM1Mmx3NjV3OFg3OTBfQzdiRlVuOU9vS3Z0UGxFV05xRXpLUEZTTWJZTnEtM1JoRmM5MEZFUF9ibFdMVDkyZWc?oc=5",
+      "title": "Pernod Ricard overweegt beursgang Indiase dochter - Investing.com",
+      "source": "gnews:nl:nl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHQ3TDdOSV8tX1U4QWxyLUFhLTdTY09STllxSDFNZVNNZElfVG9OOFZ4VVdaNWpsME9aYWpHQVR1UU4zbEpEMnZLOU53dlFUei1TSFhGN3dFWGlIQkFyYmxBUXptRnB0MzVKZ215WGloQ1RtNUNOcGt2YnhaZi11MmNPZ0N5QU5pYnVfbm9fWU15V1JNX01GMFlZZ0xtN0xEcmNLU1ZCUmItQkp0UWhEc0hDRjZuc0M2SGRiWVMwTVBvTEdtcXBsWGowSFA4SGdiTHpyLW1VWVFzcm9rQnliag?oc=5",
+      "title": "Brown-Forman geeft naar verluidt de voorkeur aan verkoop aan Pernod Ricard boven Sazerac - MarketScreener Nederland",
+      "source": "gnews:nl:nl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXlVTDBfRVNrdUhIQ0tMdG0xVURvUEJQOVp3dHhZRG9DRl9YdHk1NkxRRk9LWGVpWFhGOVdkWUZLbGhiV2RtRFFUSDF3eWkxNnRUd01JYlRqM3VhR1NNYjhmTnZveTV5QTFaVlUyR25MQXJGeDl4TTBYUXdKWERjR051b2pEdVdzTFBLeXhMbzBLOHJZTnItRW9Ld1J0TmZnVmZ4WW9NRUFpZw?oc=5",
+      "title": "Pernod Ricard visar stabilisering – men helåret väntas falla - food-supply.se",
       "source": "gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYmlQM0dZdklBRmhESE9pU3lmdmlYNDBYM3VxeEVITkdDUkRGWW5uWkc5ZGNjS2lXcHRWT1ZRV3Myb01qYjE4Xzk0ZGo2bk9xS19qNnVJMmxwZ1daWHliVWhvcG84TW9BXzdYc3h0NnpuSTFJWFl0eUpDQmR0SlJmb3VURHp6T01ZZ0Zfcy02eVAxR1A0M19mNFNyZVNKSzV0Zl8wb2xlVEZJSWJSb2xjNjRONWJvb19FUjFYMS00Q25QYWt3NS0zVGIzamVUN25qYXZZOU1kbVduVEtzM3pHWGUzYw?oc=5",
-      "title": "Brown-Forman-familjen föredrar försäljning till Pernod Ricard framför Sazerac-bud - Bloomberg - Investing.com Sverige",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnpoaGY1VXp6SUtpQjZHUzcybzQ3NHVrNGk1aFUwODhfbFdQcTN4SHA0VV9mQVFvbHpwaFRvYjRUQlAyYWVfNzdNdVlkY0YxaFV5ZGEycmtkVTBEZkdhTnJwa2wtTlh5M3JnSEZONzFXODFOT1QyUGh2amdwWm54UnhiOUNNempiaFA2THNDemlxOXhNYlYwRlFiMVBlUjgz?oc=5",
+      "title": "Uppgifter: Pernod Ricard förbereder börsnotering av indisk enhet - BN - Börsvärlden",
       "source": "gnews:se:sv"
     },
     {
@@ -390,13 +400,18 @@
       "source": "gnews:se:sv"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXZZT2ZaYjFUZmRuY2Q0RlJVZERWTkVWSFUxSmxSRHBIT1Y0QWR0dGZfNFNNYzBuRDFPT2RGUVB2dVhiSDA2ZDh3R2JXdUJFY1dGNm9kVXJNOUV2UHZuYWNQd0trU09JT2lFS2tZeTV0SDZKQXdjMEdtOFRRWnI2cDBXSUpHOXpnNV9XMEZ5R0JRdTZ4SU5QUkJSRXBNVzhOcjZDS0dvU2JwMXMxSVBORmJ3?oc=5",
+      "title": "Pernod Ricard avslutar fusionssamtal med Brown-Forman av Investing.com - Investing.com Sverige",
+      "source": "gnews:se:sv"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMamR1NjRLMko3eTFyMnB1ZnlRcUVkM08tZm1SanpYODZ6eHFLUXQtd0JFeGN0OXFUS0ZLQldlRUlmV0hpX0o2dFI3OFlSeFhReEVNLUdnWFg2NllGTFZGVmE2VnE5NFk1ZVE?oc=5",
       "title": "Spritjättens varning: Lägre försäljning i år - EFN",
       "source": "gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTzVOMUdmS3UxWWZydV9YM1FMU2xBUHRqdUJXQ2V2U3JJSkFyUUtFNjM0QlN6amNRWWxyZkp5WVFLWlRTU0VJZF9xb202Tk1US1puc1R5aEhDbGhFOUhfejBLam9OVVVldDdWejc4RktTX1RhZ0pEaDd5c3k5Y1RyUklNc1pZLTFsZzYyemFLT3FfNVZrdURhaXBYeFF2SDJSZXJVZTBrdW42MjByXzg5MjhaQjA0QlBmUjl5Y0ZBd2h1SGdmS1dVc3VTeW8yWDlESWljdG9XWmdFem53ZDlJLWZpUjVHdzZjdFJFcUNrQVd4MzJWN05USkE4bHVBQVNGZ2pmTHc2bmtmbGF1M3J5OUdrcjhYY0paNWg2UnE1RjFwRGRZUHJ1NmlVekp6eUJKdTl5aDI2MGFkbGw2V19nMDV2LVdXV1dfeXdvZGRjVnJHQWdhRERvWW9B?oc=5",
-      "title": "Fransk spritjätte vill sluka Jack Daniel's - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYmlQM0dZdklBRmhESE9pU3lmdmlYNDBYM3VxeEVITkdDUkRGWW5uWkc5ZGNjS2lXcHRWT1ZRV3Myb01qYjE4Xzk0ZGo2bk9xS19qNnVJMmxwZ1daWHliVWhvcG84TW9BXzdYc3h0NnpuSTFJWFl0eUpDQmR0SlJmb3VURHp6T01ZZ0Zfcy02eVAxR1A0M19mNFNyZVNKSzV0Zl8wb2xlVEZJSWJSb2xjNjRONWJvb19FUjFYMS00Q25QYWt3NS0zVGIzamVUN25qYXZZOU1kbVduVEtzM3pHWGUzYw?oc=5",
+      "title": "Brown-Forman-familjen föredrar försäljning till Pernod Ricard framför Sazerac-bud - Bloomberg - Investing.com Sverige",
       "source": "gnews:se:sv"
     },
     {
@@ -420,18 +435,18 @@
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTREZmVxUHhNTGNIX2pJVEtrRWEzV1c2UEVibWNFdlRSTEhLS1R4Y3N3ZUQyWl9wSXQyd3N4Vm1HMUlMTTRZQk1Uc2J4eHR2RTFCaFhlX0tuWVJEZE9LTG5BN2Fpb1F6SENXU3RpRWtzWnhoWmpmYVVXZWIxTHZlWXFjVWNXTXJjYzZyc3ZHNjZEWUJtZUY3bnVDZ0ItRTFVa21hZGFWMUpOdw?oc=5",
-      "title": "Rozpoczęła się rekrutacja na płatny roczny staż w znanej firmie - PulsHR",
-      "source": "gnews:pl:pl"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHRRRktJdWtaNWNSaEFnaVFjYXg4SkJ0bnY5MUVVMXBMVW5rbjdIWFAzM3daanlJTjhaaElXNjRVaEprT01Qb0EzcUVfOThBWlFpUHlBUkF0WU9sX1ZEdzJ4Vnp1VEViQXhIOTJteW0wUG5aYVZOY0RMak80N0pIakROWG01Z0VtNWdoZTY2aERZZ1dwaVA0UWFJWEdtaUUxMkxqS0lXclk?oc=5",
       "title": "Amerykańska ikona w rękach Francuzów? Trwa walka o producenta Jacka Danielsa - Bankier.pl",
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHlEZGtCMkt6NEFHenp2OURxMXB5SnUxcFhUN0t3NXYybmQtU0NFZE1DNThJQ1dZejlyV281UFV4T0Fnd0JKNmRCaHFtZGl5NDNac0p1aGtWMGZrYzc3VjllZGNVOXVvaU9Bay1OY19ocW92aHJqSGtGM0d0b08tZklpTTJNX0lWNUlpLTQ5dEp2cTBhX1JzVWEzQUlxNjlrcXRCQV85UGdGU0l5dmxmRVlRQ2FjRjNiQjVpSXpn?oc=5",
-      "title": "Globalna firma zaprasza na staż. Ruszyła 12. edycja programu „Za dobrą karierę” - Business Insider Polska",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGRtWG9tcko3b3FqajBfWVpMemNVdm1OZHF1SktoSmRqTGJRYnF4a1ljZXM0emMtVjJwY0tVU05kNlFCTEFaWGN2bXVzMUZKY1h4R21WaXdlQlItSjhjQTFyZXlqOWVNbnB2RkNuSUxRR0o4Q250VnU4cy1MRGlDSGYyV3E0ZDB5d0hDdXU1eG5sdXBuODZIS3ZKWUFxUkJ5TU5YcHlVbzV4eEJJU3NmXw?oc=5",
+      "title": "Pernod Ricard kończy rozmowy o fuzji z Brown-Forman - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
+      "source": "gnews:pl:pl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMW51TTcwYUt4OWVYbmlycHR5QlBhSEVlQ3NsMzJVQUpINU9yY1Y2YTJYRW1SRHdaNGltcUVOX1FHQTlVZzN6MWpKWUFoS1NidHdtbXRwSUpYME4tRGJnVlVVemJIU0ZDTjBhT1BxRWlnX1A0YXBaaldxc3pUcExlcjlvZEZrZzRpbFV1MmoyQkU5ZHNGSS1seGEzdldZMnczdjBOcVBLTzQ5WVk2SDJkclUzaHg5QjZsOWpQLUZRT3psZ3djbUxKaU5sVTFQTFN3Q3BOQnRHYWk2Snp6S1Q0YQ?oc=5",
+      "title": "Jack Daniel’s u progu zmian. Pernod Ricard faworytem do przejęcia Brown-Forman - Wiadomości Handlowe",
       "source": "gnews:pl:pl"
     },
     {
@@ -440,13 +455,13 @@
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHphWHRiUFFfaFZMaVpNbnc4Z1M3ZVFXaXZrUzNUaHZzRG5jMnhpd1JKeWczUVNERXZOR1czRFRxTkk5bXBKNkJYOUJqUjNab1FjRkljUzlxdlNualp3MngtTkdqQ3BRUEdGQlJjVk1HX0xsVlhvSHJYUm14ZFhtM2hOeUZDR2I5QjQ5VUF3WWVDOWcyNTU5bGxrSWl3X0VBTkVGTFFSWXFGejBBTG1jV093S01mWmNDVWhVMklNOElqem1S?oc=5",
-      "title": "Pernod Ricard ma konkurencję. Sazerac chce kupić właściciela marki Jack Daniel's - Wiadomości Handlowe",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yTTRETmwwSFV1ZGl3cFR1eDVndFd4MEFyM3FDSXhGUTI4Q2ZBNGgwd0tOaXlOY1A3ZlpmX2U5Q0owX0N3VTBVZzhIeGtLcllnWE84ZWxsdjJUWFhDUWFGUHdVeEc3ckdjM1Y0?oc=5",
+      "title": "newsy, analizy, prognozy dla handlu - Wiadomości Handlowe",
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMW51TTcwYUt4OWVYbmlycHR5QlBhSEVlQ3NsMzJVQUpINU9yY1Y2YTJYRW1SRHdaNGltcUVOX1FHQTlVZzN6MWpKWUFoS1NidHdtbXRwSUpYME4tRGJnVlVVemJIU0ZDTjBhT1BxRWlnX1A0YXBaaldxc3pUcExlcjlvZEZrZzRpbFV1MmoyQkU5ZHNGSS1seGEzdldZMnczdjBOcVBLTzQ5WVk2SDJkclUzaHg5QjZsOWpQLUZRT3psZ3djbUxKaU5sVTFQTFN3Q3BOQnRHYWk2Snp6S1Q0YQ?oc=5",
-      "title": "Jack Daniel’s u progu zmian. Pernod Ricard faworytem do przejęcia Brown-Forman - Wiadomości Handlowe",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZE41bjROaEM5dWYxQlJ1MmdZRXFtTUEwa1J3QW82WGJYYW5xWFI5YVR6QzA5ZVo3UTk1bEdPMkVveGF0YmtWTVhySXFoRFNGb0tGV2R5R3dLNHA5MmFQZlVfSVlWbUZqbmJFOUJhNkNMM0l2aUszMkRzc0JfMFR6SlhkQXc0SmVMbnh6UGxGYmcwZmstd2tNS1Ytci0wTlN4SktsWVpNV1UzZ3ZPTkg1RUN2cEY?oc=5",
+      "title": "Akcje Brown-Forman spadają po załamaniu rozmów o fuzji - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
       "source": "gnews:pl:pl"
     },
     {
@@ -480,8 +495,13 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEVrTVdNUzk3SnNpV0lyZW9xT19fTWdyLUkwZkNVQmlWMGJpWFg0YzQzdzBLZXhsUENoNHBGbXp6bHdjZ19yYW9pbGFpTUdsb2Q1M1lidHc0V3FVRU5WV0UwRVRpc29FeUJOME0tbVI2Qko2LThZYWlqTnZjVXBkVXp0d0RCYkZ4aWp5VVZ1WUNEc1NibkZrakVJcHhqQ00wQ1plSGRVdGJoZw?oc=5",
-      "title": "Pernod Ricard says Iran war to hit full-year sales despite Q3 rebound - Business Post",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOXVZeWFKR0VFMTg2TDNiUGZjODM5T1hha1F2YmZNbnp2YXpGY2JvN194X0VYSXJGRGtPcTVZSEFZbjBlRXpTQktTNU9Gak9uRkR4UWFURlQyNDZmQi1OTXpNTjYxNEFGaGRBeFpkZkc0MUVDTmxrWGlFZklFazlDZFdkeXJDVk1PY1l4d01JSThZM3I1TExEZkpQS196eE5SSUJ3Nm1HNDJ5NF81RzNZdlBDaWZOWW9TVm03UXhGQmNfcjF3RWpBd0lCLURLc0xxWkhaUjcydk4?oc=5",
+      "title": "Pernod Ricard and Brown-Forman Terminate Discussions Regarding Potential Combination - Business Wire",
+      "source": "gnews:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmRQTzY2SDNHUkVaTFM2eWozWTRobktSbW1aQ3ViTzZ2VzFLVHlEQjZxRzRydjNLQnZFN0tIdTBybjM3QWpMRC0yUXdZUE4xd25QbXhYQUZPVmNGc2gyLWJ2V2diN3RodE4wLWhJLTV3TEc5clY0c3VZZnBpWGtENHJqdW4?oc=5",
+      "title": "Pernod Ricard ends pursuit of Jack Daniel’s maker Brown-Forman - Financial Times",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -490,29 +510,29 @@
       "source": "gnews:ie:en-IE"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEVrTVdNUzk3SnNpV0lyZW9xT19fTWdyLUkwZkNVQmlWMGJpWFg0YzQzdzBLZXhsUENoNHBGbXp6bHdjZ19yYW9pbGFpTUdsb2Q1M1lidHc0V3FVRU5WV0UwRVRpc29FeUJOME0tbVI2Qko2LThZYWlqTnZjVXBkVXp0d0RCYkZ4aWp5VVZ1WUNEc1NibkZrakVJcHhqQ00wQ1plSGRVdGJoZw?oc=5",
+      "title": "Pernod Ricard says Iran war to hit full-year sales despite Q3 rebound - Business Post",
+      "source": "gnews:ie:en-IE"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlsVDU0UmZfM0pMR1JPaEpFZFJYREJ4eUF6UHVhcGZNb0YzT3daTzVnNnlvd0pMUHBuZGlUQldHSGNCTzVvNk42dHhycHZsa2JzR1N4eGlBV0ZSeFBHT2VzZ3ZNQ2RTSGp6TWZBYmVoM1IwTWxBNXRveS1tLWlJUGlsZjhjaXN4TUtMS2NwR1YyTGZYbWJTU2hXckZHSkZ4bDVMSEVlZU1IY1UzTzV3Zmd2QTU?oc=5",
-      "title": "Jack Daniel’s Whiskey Owner Said to Favor Sale to Pernod Ricard - Bloomberg",
+      "title": "Jack Daniel’s Whiskey Owner Said to Favor Sale to Pernod Ricard - Bloomberg.com",
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVY1aFNORzVNc1Itenc1NDBrcDd5OWNUSFR4bUpsUE0wd1A0eW5iRTNsdFc3UHI2QkdVU3ZFeHcxV1RxQ0NMTnFrQ2JMQWt0Y0ZDSVF2SXktNks3TnNpTDdqOEtOaXQzWGxqWHR4dFRheHJVNGNUS2N4UTd1TmV3NGpaNmg4dDlTb1RScXU5S0pQMFhvam5hZjV5ZnhYbWw3Y1UtdUpSalo4SlFZOGJBUWxOSTF1bFo1SmZ1VVdPWFRjS2s?oc=5",
-      "title": "Jack Daniel's maker Brown-Forman favors Pernod Ricard bid over Sazerac, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2JNS1RwTllWakJOME5VcnY4VFFEeWR3ZEFIb2FZYWJIazZLczY4Tmx6V1BmRVQzUWk2TXdfczNjWXVtVklNNFpqeFlsRDBnaS1vYkR5OHUtRld5dkFXLVdGLW42a0pGZUtsM2VYTEg1Zncxcm1UYlQ3UGJPWnJwTGxsaU12VWR1ZG14Zkpvd2EwOUxjZS1mSzV4cWEzSkU?oc=5",
+      "title": "Brown-Forman talks “ongoing”, Pernod Ricard says - Yahoo Finance",
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX01nbkI4VUpGN0ZoOENaQ05kYTBveG9wR2tCRUFtMGlTdDR2TkdfcHV2WjVkUUNTME5ZWDNDTnFrdVhaTDhrR3pMY0lkUDNZVmllLVFUN04zWFJHQlB5Y1M0ZTJ1MUxvNS1OejF3aWlKMXlDeXFwbEZuV0gySm1fOUpPLXRDS29DaE95NF9HdVdiY1lJamNaQS1fZGh1LWl6SFpaUFVB?oc=5",
-      "title": "Brown-Forman favours Pernod Ricard bid over Sazerac - RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSE9adjRPWkxXT01WSVkwM2hRdWdMYS1QNEdEbmktT3JZX2lvaWtIQTBOOVZ3M3ZDVnd1RFZyWUthT1FjaW8yeTRLQ2trbU9QVmtIMnkzdHhZSzN2WUNQN3ZsU1RKZ1BzMjlWTjRHNV91amlWaC1RN012anNqWVFoNVVzX29IcURyUmZtcUpya2FSTWRlUElNRk1xRUdQbVFlcTBPdjVrUFZBOTA?oc=5",
+      "title": "Pernod Ricard, Jack Daniel's owner Brown-Forman end talks - RTE.ie",
       "source": "gnews:ie:en-IE"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1N3YlMwc3l6TmJkNXE4NHAxVHI2ZWdEbXdXZ0Jsb0hISHN4UkpYd0JJZEtpLWVUaF9wMnQ3TUNub1Vmd2p2RTN1bE9oTkx4U3haZGQ4RXgtVDdDOFNUUGVjUDVhUWVGR1hBOUppbU9xYl9lbUpUam9FVkdocWtRRHBaZGVDRlZYSGtPcTRoYzZxdHlKRDN3OTJUX0dpXzV6Y3c4RlhKQ3VXVVRrM2U5YkFJeFJLRjQ?oc=5",
       "title": "Pernod Ricard Q3 sales stabilise as volumes return to growth - Drinks International",
-      "source": "gnews:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2hwS3R6X0VhRzhWNEFudWxOYUpkUFR1U19uZGdpaDBMNTQzSmdReXluRHM2eUJhVnY4Qkp3VkEycndlUEs0anFWdmVXMGVqVE1SeWVGei00RmlxNUZtSkdGVzFlQ01FbTVSUXlZMmRpTWJaTF9McGVja2htYTZZUHNaTUJCcTY0TjRKbmtZM2NmaC01N0xSZWFLWVNQdDQycGI4RjJSalFhM3c?oc=5",
-      "title": "Pernod Ricard expects full-year sales to decline amid Middle East turmoil - Just Drinks",
-      "source": "gnews:ie:en-IE"
+      "source": "gnews:gb:en-GB"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkNyeGZOREk5ZXlXc1lUNTNwQ0o4cWpTU1dwdUpUME85RXlEc0dSV2QwVjg4djY3WXRhb2pPXzk5WnBBYUlLai1VQllmeGRTN0tOV3dKU1EweWkzYzY0RTdCZlZ5N2NXaU9sTkVTZmVkekVXQXFzbDRzQks5X2ZJcHUtcldZSFNwWkl4bk05NFF0R2tyaTFKVjBTYzhTQldLS1E?oc=5",
@@ -525,8 +545,8 @@
       "source": "gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF9MdF9ubjN4V1VyOWcyWkNGZ21xNVBGc0J5dmY3aHltVGxIa2kwZHotYTRVanNkbHB2RHNwMU9ESmJwbU5ueklvekF2UDVMZFU5T1B0ZTdaSlFQTHp0eVY4UFFWbW5LM1pmM0FqbzVJUUlWX1ZTY0ExNkoyeFdwNUs2MjNpYmE2YTJr?oc=5",
-      "title": "Pernod Ricard returns to volume growth in Q3 - DRAM Scotland",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjlUbG1MZGNWVTFKNzhOcXZ2N3FXREdDTm14TXVuUFFLaWFwY1hpVXFSeTRNak5YVGptM0hGbFJaSjFyajR1bkdsZnY4N3Y5cmFIcWk5MkpNTXVIUlBEYW9ZMm1WV2hWTFhpWllxbnc2WFdiWmprUGEtdXl6Ynl3VGlvSFc4dUU?oc=5",
+      "title": "Pernod Ricard and Brown-Forman Abandon Merger Talks, Both Confirm - VinePair",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -535,33 +555,13 @@
       "source": "gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHljelBEdmlQa0VObHA1YS1IaVJiVkkyYjVwak9vdXczR0d0dU4tYmJSWmhQWlcwb2lpQjlSWWs0WW8xbVJoYlRmQ1hldV9nd2ZtUFJ3M3Znc0ZfSkNJNng0dmdmb2FTOGV3aGs5Vm5QclRLTV8yUUxhZWxhMERRLWZFRk1MZGxhZnQ4SmZCcHBHeUI0aWhYaWQ4eGx1UFlScU9LZw?oc=5",
-      "title": "Pernod Ricard sees first signs of recovery in a year of decline - RetailDetail EU",
-      "source": "gnews:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ1diNG9tdS1EbVVCclcycEJELVF0dERRUERhZV8tdEl3M2c2dG9wak9vTW9INEFZMzR1ejdPMjhBbk1MeUxUSnZHUXpaOUpaNE9QU0d0QU1DTWMyUWxGWTRnM3ZSdlhMa3JDZWc0eENLVHF1ajczdFRYd2xuRHphM19yVVJ3NVFBbDFvcjdmOFpUcWxWSHRtZlJZLVFkVFlvdlpXSmVuZFZhVDdhUE1SWkZ4SkU2VUJQV0pLdV94b0hyVTVRZVpncGRCM08xMDlWWk43QW50V3JabUMzU3dYVVJCSdIB6AFBVV95cUxNTUdWc1ZKdTVOeGs5Rmt6TTZiVnpSejFFbXdPbEdhUzFZOWJwNUNoRGxibEhRNUdFUWFvNmw2NEJRdDVpMUJCSW5TZmxaM1U3TWpvWGRWUVJQWm1ZZnptamxnV0Z3aUYxczhPckRfbGxuUkJPYWFfclh5TVdEandVS2V0N25LVXBnakYwc3d0WUVNMUJ5bmxKVHVGOXNZcU1TSUFybVJiVkxWTGtLdjd4TnBxRlBYRms3Q0tBbFY2SVl2YTZzR2JHYmxwbk1nbTJWYWNWaWNWQlV4aHpCLTJ2eXNZcmhEel95?oc=5",
-      "title": "A Look At Pernod Ricard (ENXTPA:RI) Valuation After Recent Share Price Weakness - simplywall.st",
-      "source": "gnews:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHpyMGFLVWVDU3VtcW1FT3BIRW13VnpYVXYxemtNZFBrdTZuS0ROem9oQU1rZFpqWHdFMzFld2wyRFJHLVEyeHVrMEpRNXNmVVVrNXdTV0pzRzRwZC11ZlBwRlU1TEtnWDhIa0YyNkRNNTczcnNNeS0yejNFUkJpWkxZN29ncld0clc2SUk0OWN2anBSYklvTzRWQVdBejhNalJ6QjBURQ?oc=5",
-      "title": "Pernod Ricard S.A. Aktie (FR0000130577): Steckt in der Premium-Spirit-Strategie mehr Potenzial als e - AD HOC NEWS",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObW1tei1mZ3hwY3h1bEhaNHNxZ19fV2ctWXVOVXowUFF1S2txQlV5a1NtVGxWcEM3a3Z6R3Vpc0hta0psVk4wMklVT3FBNVZuMWRYT2V5RmVsb1JrRHFvZEFQZDVSQVNMVmJVVHpZSkN3UjQzRWdwdEU1eUdlekhwa3RWSC1lWHNjTzJWa3Z4VjViaWUzMk9tYl81QmtsZGVqN21Cdl9HZkwtSl91ZDlFdXVlOUVoakVvV2Z6RkJBbw?oc=5",
-      "title": "Pernod Ricard bereitet Börsengang der Indien-Sparte vor - MarketScreener Deutschland",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnBLQnBSV3JKckFINHdSazNGdFJabUVCbUYtWTMzbmRIN19lVGtNclJoZHBnQ0RRTVpXSG9qeGVxVzN3d3RtbUEwMHYzNF9QY1N2bVoyV1N5Q0RvbTYtWkpMYUpab3diNllkbzk5VWQ5SGt4bHJqQTU4WTB0UUZvNDFTZlBpYUkzc2JHWlI0MWZKMC1tYXRZaDQxV01HcldxVmVuUm5TSXA?oc=5",
-      "title": "Aus den USA: Skrewball Peanut Butter Flavour neu in Deutschland - Spirituosen-Journal",
-      "source": "gnews-ecom:de:de"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUw3Z0NCbF80UzNYbS05M1pjdHhNd2ttNWtjOHVYOGlHLXFqVEFNc01WTzZ5a3I4TGlxVzhTaGhRWUNzTldzem42ZjdiOGQ0Z1c1ODIyX2JqS0h0ZkN0WnZZWTB5Zm5Fc1o0dHBtTDZZTjRobklmTTlTeVVuUjFpMm4tWmM5ZGNNOU5aN3pfQnFjcjJqTDhfbDZjdzh1Nkp5XzhJVTlYR25pQ2JuOUdqWlY3T3M5dURzUDBsU1JudTlUQQ?oc=5",
       "title": "Pernod Ricard S.A. Aktie (FR0000130577): Kommt es jetzt auf Premium-Marken in unsicheren Zeiten an? - AD HOC NEWS",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGhid0ROMnF0TWVuejdEMkcxSkVxVGRxZ2VWWHladWFWQXNMWGJpQVRwN2FUVEl0azdEZlJSVnNBeVEtNTF0VjA5RDlIMXlwZ2JVRjZZTVNmNV9xa1VxN1JXdmRFMTdOMEFBWGJHeEJlbVNiVmdqV2NEeWhkQXBQVHhPTzh3M25JU2hNNlEzQ0RMaTQ2c1BNRmZnNXAwWXIxNUd3Z0l1VHJ4d0IxUFZmYmZOLU9fSEZXS0ZqQXZB?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Fusionsgespräche - T-Online",
       "source": "gnews-ecom:de:de"
     },
     {
@@ -570,24 +570,89 @@
       "source": "gnews-ecom:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmthRVRBS3dQQU5xLThtLWJOc0J5Y055OVI3NWNHOFNLTmpidGVtQWZ6ZzZoeTliOXBXSDNzdjZKY21GbjhMeXJMeXI3Vk1QMUdFbnp0aVhRdWhHc3gtLURHMllKNWlzVWEyZG5hejJrSWhlMXNjT2xHNERKT2ZXZkpZRUtQb0ZnYnFMRFUzMHhub2FJaXFqSGx6dHNzUml2cWpsc0FmQnJDSzMxUmgtVk1rNkZZcnhiVFQycnRoSm1LeWRpSUt6bmtucjhtdnZDeng3VFZLVjg2eWFQdHc?oc=5",
-      "title": "Pernod Ricard SA prüft weiterhin Optionen zur Steigerung des Shareholder Value - MarketScreener Deutschland",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRm1XZV9hX0J2aFBIOGVjQmI4X1VwcTZCQ1Y2OHNobUFYckVjWDVPT2duRHA5eHVXMm9wMy1KVGdnXzZzSzdtMFBDdlNsT2FuU3l1UzhHcDJpazRwdGZQbldTWmtnWHZKMW85cndWMmNuWmp2MXpHN0dXMFRBZWxUU25RMlk0OHJRRFd6Vkdaa21fcnBxS2VsQWhNSURfc1hzY1YwNzVPNkZZUzBYX1FiZk9MZURNem5DZ21V?oc=5",
+      "title": "Brown-Forman-Familie favorisiert Pernod als Käufer statt Sazerac – 32-USD-Angebot im Raum - Goldesel.de",
       "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdwOHZFTWxCNF83RXBNd1RNVVV0NGFtclRlTnZkNVZNOFJmZ1RZRGRzcnJQeVdWYkNIM1p1OW02aU8xOXZFcFdsZmdlRVlYTkd1d1J3NlZ3bnBIZjdfUWR4dXRscDZsLVhuc3NlVjhuVzZKWDI5dWwtRzlQUng3cEFEMGJWS0RKUk9tcXQ3VFMycmlfdXfSAZsBQVVfeXFMTXA0ZE1sTmxnSGhqdzJXZ3V0aS0zZU9FUXBKMUUyc1BWdFpLZFRTc1FBWnZDa0ZTTFF2cV9sRDJGanRydXVjVm9kQUFoOU1UcUpPZmRVZy1jcXRHMDd1OGNKN1JKYTctejN2OXJ4dHdlNVFLQndlakp2NEZsTUF4YmpOdG5TSFhVWUsySGxacW9fYkRCeG1RQXM5ajA?oc=5",
+      "title": "Ende des Abwärtstrends? - Böhms DAX-Strategie",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdkcWdJREFfZ1FDa1NGMHBfVXN1VnBUeDhnY1dVWjduMkxjcXlfTmlBS21DdXczc0doQ3pFSHFKNU1DS3U0eXdLZUJ0YXBaUEVMeXkzNE1XeGxuMXZ6bllMNER6UU9rNVZOS0lXNUhhVHM3ZmZ0Y0dpc1drVlloVkpOUm9TWU52VFRfdVN3UElQQ1FiazUxcUpna0JNSDBrdmZPd000M2Uwckloek1XVlc0b2U5Uk9VSGEtNVRoUQ?oc=5",
+      "title": "Geplatzte Fusion mit Pernod Ricard: Brown-Forman-Aktie stürzt ab - Investing.com Deutsch",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGk2VDZlODI4YVN0Q0o1d3psQmRieU9GTXVyaUxHcFQ3RU5KdWhPc092Z0FMVnBSeHNscTlxQ1drMzlrUTBOMlVBUzhLemRFZWFCS2Itb2FJMzEzWjBBSzJXV25xWl9tRDVzeUhZcWotd3ppXzdkRThjOVRXODVhd1NuVFoxdjdGN1FlSXpGNC1paHp0bGRMSmJWal9qR0V2dEFmeVpCbVN2ZU90Wkl1a3VvMm5mTGN6R2xmQVFYbFBxQUwyU0twY0FGTzRLcDdpZ3lpeTIxb0lGcE5JWS1zM3BpQVJNcjR2aTZwcmtnQVNadmVHUGdyYQ?oc=5",
+      "title": "Pernod Ricard CFO: Wir beobachten potenzielle Lieferunterbrechungen infolge des Nahostkonflikts genau - MarketScreener Deutschland",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmVDdnZsWEdySXZUZkpNdHpkemJxSG9jNkF1Ty1yTlpNQzFBMFNOendSN0JTTUtNS3ZmMXRpaFhYc0oxVWFybG81cjA5MEVfV1pIc0dvdmNFYV9LaUpwRDlTY2FVdW51Y0pFMnNKX1hBejFDSVZVX1pqWHFJVXU5YllYdnJLMF9BNXdUdFZaa25JaGRsSERyQXZIVnRaNC1QX1pqOWVsdERzdUFsbkZyYW1OVmVTVl8wSEc4c3l3Y2M?oc=5",
+      "title": "Bericht: Pernod Ricard erwägt Börsengang seines Indien-Geschäfts - Investing.com Deutsch",
+      "source": "gnews-ecom:at:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWGdPN3hmRkNUVkRwY3IydW5KbXBwZTBvWmJEcUpUVjRpTnBxekgyeDBCRWpVcTgyZTVfczBEUElXZURRSFd4dDdmSDlFd0gtajY4V19zSjMycGp6aWlkNFp6eW9wc0dkNDZidjFWdkd0ZEZla3E2RTRQM29KZ0Jib0tFWDk1Q0ExTTdFYXlXM29RV0tBZU4zX3JDX0xvZWV2ZG1WVDRhOVd2ckExdVFDT1BwS3FwQW8?oc=5",
       "title": "Absolut Vodka: Premium-Wachstum trotz Herausforderungen im Spirituosenmarkt - AD HOC NEWS",
-      "source": "gnews-ecom:de:de"
+      "source": "gnews-ecom:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa0NkaDdwWlRuTGlXNlRWY3VaNFRQM3dJM1U4Y0NadU01ajA4cjRwQ3VUWVBaaDhjZmVMdjA3TUkwTWhxSkduSVRtUXVyRVkxTWdjVmJWSjhlRWJDMlJkeTliRHdFLXA2Ylp5VTdQX2RmdG5Xd1R6V21hckVkVzZJZS1ZazNTWFpSeUlmemljWkROS01YR3gxX2E1bU5XVGZMU3lvWE5PWXF2ZXZkTFFJTFByZDJObDBQSWdGNGlTdVFuaVk2Rm1IQTN2TTJqaXNHSWpQbw?oc=5",
+      "title": "Goldman Sachs überschreitet Schwelle von 5% am Kapital von Pernod Ricard - MarketScreener Schweiz",
+      "source": "gnews-ecom:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmFhYnFIYldhdE0wTVd6MnBFRlNnTklqRlRuZTNfYXUyWXlWcUJfcmtFbW5Ra0t6LWhXZTkxRHFGbGhYbHF1aWduNTFOeUZZVzdOSVFPV3dGVWt6Y2NiZV9tM1EwN2NSa0d2V3F5eWlXbDB6c1BoRlRSV0RkLWVOOThDRGNfdFU1MlpPYlR3c1M0WXVaTFNxVkx6cTRMN1JzTERLdFpFWG5WRUhzc19mVUJhYmhmSHU3YUVITXhTeEVRUQ?oc=5",
+      "title": "ANALYSE-FLASH: RBC senkt Ziel für Pernod Ricard auf 90 Euro - ’Sector Perform’ Von dpa-AFX - Investing.com Deutsch",
+      "source": "gnews-ecom:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHZTa202Ykt2aVFRRFkwM3ROOGxYSTJJcE02OVRQb25MNkFYeTZTSG9tRkN6UnVMdnM5MXlXcWlraTZLOURpeXN5OXZ0dVVhSUZiYjU5QUxiTHI5ZTBaVXZxM1piYXZ1bDZWVlpITnN4TjR5OGxxQ01xTWsyZHg1UERMZVFvb2s4VjdXQkJhclRndw?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Fusionsgespräche - Finanz und Wirtschaft",
+      "source": "gnews-ecom:ch:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDM0MlNWTHJMMHNycFdUWnhCUnBZMUNKTW9Sb3ZGaFNGMUxYTUhwVndlbmJjV2dXLWtCOWtTMTJwTXdGS05OWU4xMHpuc1ZPYllNOUFtLXg5eXR5d1VmUkhtcWpGZ0dJbnhRSFRLX0pHMFZaVlg4X1p3dTZJMy1rMlZaQTZweEVySGI0aTgtaHZQWHdkUXRhV2pzeWFEWnNPdnE3STNTWFBHamduOG00WnFRSDRtQjZxb2w2S0p2UUNhbXB5QVE?oc=5",
+      "title": "Pernod Ricard und Brown-Forman beenden Transaktionsgespräche - MarketScreener Schweiz",
+      "source": "gnews-ecom:ch:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTc0VUc5VUZ4bHFHdVlYNFlMMDNfNk9kcUdjWmhQbk5lbzhuRTZqNjJheENseWJFY191c1VYeFZyNURuQmlVQUJQWTd0NlNCNUJXOTFkanQzQ1pJY1d3bTZ2ZzRiZUd4MDM0TExRb0UtUW9WRHIyTHRSSVphcE5hT1ZUc21yN3ZmTmdiTE80MldmUTRPYmNiUldqRHZraVN0Z2FwclN0TThGY3JhN2F6T04zSQ?oc=5",
+      "title": "Pernod Ricard und Brown-Forman blasen Fusion ab - MarketScreener Schweiz",
+      "source": "gnews-ecom:ch:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGc3YVdRQWd1MGE1MUJaWkY0d05hX2doUWZ6LWhrYmVPdEx0WFVQR0V2TnFZV0lmOTgtc3FqVHRzSG5ia3hhaVVpMkdLajk5RDdTZEVCWXBIT1I0WjF2bzFXYVczZzQ1c3BURUJmVmlIQVBtMzRwUUNIaW14NEV1TWxkQnZmc1IxTFlwZ201WXpjRHRXMl9sNmNXQjNLYVh3NjBRcFdvaVN0VUdJUjFTQjAzUzBEWGpVVHh6V0hZUGI3UVVUcU5Dc0x2V3hzbWJI?oc=5",
+      "title": "Bericht: Eignerfamilie von Brown-Forman favorisiert Verkauf an Pernod Ricard - Investing.com Deutsch",
+      "source": "gnews-ecom:ch:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSW1fYnU5ajYxYVc5Y2hzWXlEZ0dYS3JRRXI2OUhLVkxlZzI0OWNPU1FaZGdZNnBteHhYdlYtckNmMi13MmNLYWZVVUZObS1EbW5GSFdRN1piOUhSUEhZSUw5Y3dReTV5LUZhX0NIRzFVaWtiNmo1VjJtNlNwN3ZLbHVVYW12S29oMjE2V1R5dTdQMHpRS2E1R2tPR1VkNjBWTG5vdHE5UQ?oc=5",
       "title": "Pernod Ricard S.A. Aktie (FR0000130577): Steckt in der Premium-Spirit-Strategie mehr als viele erwar - AD HOC NEWS",
-      "source": "gnews-ecom:de:de"
+      "source": "gnews-ecom:ch:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTmlhRjI2NkhPczllSWhySHVxM20yZWlhSFdWSWVoOFdfeUpmZ0FqYTZabmR4b3oxMVpCTUFRb2xsaGRzcXlhdlBxQVpkdmdVVUgyWkE5Z1gzQ28zUGEwM0x6TGhqcmlQOTctcFNNdVRhSTNoWGNiZWVnU2llZ3B5bmlONEV4d002Y0NKRDMtOWdvdHNIR25SVjNyZHQzUHFXTi1EeWExMUhGdllfNXJYVnYtMjZMa0RhMTZtZzZJTEZRWnhqZXpubkVJT2xVZnBRT1Vnd1N1cTlzUkk4MWV6RnNNTDFHSUxsWUZCWnJYN2o1WVpCbzh6bjVB?oc=5",
-      "title": "Pernod Ricard: Iran-Krieg belastet Jahresumsatz trotz Erholung im dritten Quartal - MarketScreener Deutschland",
-      "source": "gnews-ecom:at:de"
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTlA2cWQwUU5SUHlraG92bHRSTF9Ic3hOTERaQ3lrXzByM1padFhTazVITnZ3VWpkaHhUR3NWcnVIcUlsY1hMOVpOTzBHT0RLSzlSOGJ2X05pLXNTakV1QXBUX0NmU2lZVW9TMklTRk92WE5QV2dRcDJqY3o1MlBDWFM1TUZWRlU4NkJkLWFrV1dVYk9QclZ0SGY2d2N2RkIyRHNQLVdoQkN0SnN4eTZVRlpySVVlNTlCekpqaXh6VUt2eDZWa0JPc0NrVnRGbGs1clYwQXVNdG5mUFVCWWs2WDZ3UVhwWXNleWNiRVJwV01Nc2c?oc=5",
+      "title": "Pernod Ricard continue de discuter fusion avec Brown-Forman, malgré l'irruption de Sazerac - Les Echos",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGtwQnRzNFh1VGNLemxYTEN2ZjBLSk5fbElLTk9BMl8zMk5CUXhRU1hncEk2WDFsa1pzM1c1ME53Rkl1X3cwa1ZmalpGQjMwTERGUUJLdkZLQlNGUE5QWTJGbG50STRPYUtoUERDRzY3akVHOG1Zc1B5U3RxYjlMaWlYZ0EwQTFTSXhZcGVTeUQxNVJYVDVLYTJiMnR5aTN5QVNqOE41QzJXakt5dHZQZg?oc=5",
+      "title": "PERNOD RICARD : RBC confirme sa recommandation neutre - Zonebourse Suisse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRlZWlobkk4ZW85bG1Wb3h6Wlp0SFhEVkVEb0tLYTZzdUxxRjViOWRYVTIxdGMwZmNLRUkwRDlvZjQwczdzM0hFNkV4V3NrU1k5dmxJOG91VlRRWTNnamdYdkpXTkFrNy04ZGZUSVJGTE84TDdIQjhBVlBuMFVwT0dRM1FjcHVfUWVtOVpsUV9zUllwdXJMYWFFcy1Ud2IwWDU0NjJDTHBVRVZ5V3hOUlhLRHJ5dnYyLUJfZmNkck5OWGNTUjh4Yi1LRGk4MFE?oc=5",
+      "title": "Pernod Ricard réduit ses prévisions pour 2026 face aux chutes aux États-Unis et en Chine - Investing.com France",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0tPcm1iOGhfN3lyTzl0UlFJUXBZa1hxMTJSOWQwSWRqYVZDZVFrb2tud09nV2NuZ1laWWV1c2lTaUlOdlgxQmVlazlBZHQ1UjdfT0JaWnpRM3BUSGpROExIa0FiSVZ1NXNzdmlfMEpReldxbzMzdHNZenlONFZ6NnYyMnNVR2lFd0VzTEpWdk0ySERKS0xSVTEwdXpaYkQyNmdKa3Y3UXNZZl9hb1htZWZ6TnhPZmdyT3J4ZGxRNDF3WGxabmtvdVdndmE0d1pLMWpKT25xRQ?oc=5",
+      "title": "Pernod Ricard préparerait une possible IPO de ses activités en Inde - Les Echos",
+      "source": "gnews-ecom:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2x3YnhMUmNpa0VBWmxBaDBTRmtpY0J0TzBhVHhGdHpSVEhXWkNfQ3o1NERCbjE3VG5pME1Sd0NUajFSTGFvUDY3RjN6ZDZfMHk5VDlkSkROdlkzRmdTaTVuLVNVdF93RHZxQVpNX2otMzdEV2xGd2ZMMzBwOHAxNkNVLUJuZ1NQdkdGRVUyYUhUQ1d1NHNRNFFwQmgxdW5UZFRKa1J4a1Vla1p0bEJYanliQnZKU0E3S0xzYkwwZHdZdlJseFJtd1ZZSWJaVzFnVkZJVThINEhoRVFPM041SjZLLXB2enFDNjVEYzNJcw?oc=5",
@@ -595,8 +660,13 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdWlVdkZlNGJ0cGVTQTYwRmxubG9TRVUwbXVieHlXcFNRV0NMb205VGJTRGU4RGVlMHRtTmQ1WTNDTFMxbm9tMkswZ2hxMTNSVFh0VUJ2WkczZHBpeVNPZnNFR2t0bFpsYm1HcVQ0YlBpOHoxWVZORzJyUVNSUFMwckNkSUluU3VEM08yYXpscmZSMTlFYkhtQUl6ZnVpLXJ4OE1OUTQ4VTVyQ3FfcnpaV0ZyLXlTTkRKbUVDOFRuRW1iRm5DZVdPVG1ZVFVsYlFlWHc?oc=5",
-      "title": "Pernod Ricard révise ses perspectives à -3%/-4% en raison du conflit au Moyen-Orient - Investing.com France",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbHZzSHNBMWdOR2NLYVlFUEFhQ1pUREtwX19SUlY1NXJtOFVHSGFXY3Njc2F3dS1xVER6STQ2U0JSZnRMNzVFZzkwWHNkcVhnTzNnYjRmSW5sMVFJNnVWalBJNEI2MTJEQ0V4S214cFlrOENyT2NreWJRNjExQUtlRVYyc29vN211LU9tOTlTa19GXzNuUFM2WDU3ZV9iM2MwdVFBM2VLNE12MG0zUS1WSlRURXc2bU9ZVzd5OG5uSkQxY1R1X0wwa2lSbWdxbnFTeW9oRzJDR2NBckNLbmVxRkxhYTN3V1JsS3ZlWW4zSlg?oc=5",
+      "title": "Pernod Ricard et Brown-Forman ont mis fin à leurs discussions en vue d'un rapprochement - Les Echos",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWVfWGFraWRvTXg5b1ozRVNURFEzNzY0X0NuSHFaNmtqNUlaVUZPYk10ZTh5YTV3MERxRlBWeDFaLWI5dWNrd1d0dXVrN2FiNEkxZ3ZKN05WZHdTUTFucXNjZXZObGhldkswQUJhWl93dEMyWnZoVUJCazZfZGcydExSemhXalRyc1BiNmtxaUU2b3A3X1dpWHdsak15dWp4cktzaFBWcEcyaVEtMTBMNWg4aHNoUnBjdHpfSWx0NWltVkxHQlVnbGF0RWJmVDdqbDZVWkh5ekRiUQ?oc=5",
+      "title": "Pernod Ricard et Brown-Forman mettent fin aux discussions sur une possible fusion - Zonebourse",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -610,48 +680,18 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRlZWlobkk4ZW85bG1Wb3h6Wlp0SFhEVkVEb0tLYTZzdUxxRjViOWRYVTIxdGMwZmNLRUkwRDlvZjQwczdzM0hFNkV4V3NrU1k5dmxJOG91VlRRWTNnamdYdkpXTkFrNy04ZGZUSVJGTE84TDdIQjhBVlBuMFVwT0dRM1FjcHVfUWVtOVpsUV9zUllwdXJMYWFFcy1Ud2IwWDU0NjJDTHBVRVZ5V3hOUlhLRHJ5dnYyLUJfZmNkck5OWGNTUjh4Yi1LRGk4MFE?oc=5",
-      "title": "Pernod Ricard réduit ses prévisions pour 2026 face aux chutes aux États-Unis et en Chine - Investing.com France",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckJFTUh4RUMwaDZJTEV2ZE05Y3VCUElPWmg5WTVkTGNqb1dZSGc4b2pUWXdlRkk5c1M4elREMnRxcE5seldxWWtsYjhnVndwNEJVb3ZtWUQySXRlbTE2MV92MEh5TlMyT2J3Qzk4Z3gxcjVlRXRmQnhDZFZWeTJDdU5VUjNuVlNvamVTYm5UVkoxTzRzRGNjNFFCMHgwVHZxQ045TlVCVFBXeHdoY1lCT2o5RG9paGNmOXN6Q2dfeFBRbXNsQXk3VV84Q0c1TXc?oc=5",
       "title": "Pernod Ricard a stabilisé son activité au troisième trimestre - Les Echos",
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTHYyNzZ2QTNpQ005ZXJlak9fUW9VMDJTVGlXUGFvNzZOVjF0aUEwLUxXdDFJZHdlUktiNWhHOGZ0bWZFdmdjdGpOQVlZamZvdzRXVE9Jc1BGRXZLRy16UkRNeVpsZkhrQkViVVFhOWNLanJxSEhzbTJhY1ZjUWlycUdWUHZuVmc2bHAyU0FHcGpMZmMtbVVaSmJjNzM0dkFTdl81N05peHU0azY0dzQxeFpMa1Z0YXpjS3hpeHYxUlVZTjVqOUY2MWRCd2IxZzJ6azZsNUFEc2MySU1hOGtxOElXLTc?oc=5",
-      "title": "La famille Brown-Forman privilégie une vente à Pernod Ricard plutôt qu’à Sazerac - Bloomberg - Investing.com France",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnpZUjFDOGJuX1NHY1lvT09fZk51RXVYbGF6aU92VHZjbmZiLWpnNWJNWDc2cXAwQUtMQS0weEFBc09CSHNIQW55LVZ6YXJHTXVjSXhFN3Rib3ZBb3VVN0NCb0EzNFQ1R2tpQ3FPV1JoMHFiX1BGYlE0WVZvUG5fN2F1UFpVTHhDd0dUeHBoVWxZMFdmclFaczBNRGU3c2JULXpqajBVUnEyR3NnemR2c21B?oc=5",
-      "title": "Pernod Ricard : Goldman Sachs dépasse les 5% du capital - Zonebourse Suisse",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPamxLdEZ4alphcG1MYVBSNGtJQUlXZ2h0a00wY2pNOERXam5ZRlJLcUZqVm1qTWtqNlZ0cHpmVEhfbnJJcWIyUnpjWGpuWm1GS1NDTXhvZ3dnTVZLWWl1b3M4b1dSRmJfOF9IWWFyQVRhSlhMbTlDTmwxekZzWlVwUGN0STM1bUNZWWNNdGNPbmMzamNpcV9hbzM3TXNFRGdDZ0laRGpGaVdwU3ppTXZ5RmJoR192WEZjSGlUZk1kVU1rZ2o4OG1pQzJja0Y4SDIzRmJtWmZwSFdlQW5McGQ0?oc=5",
-      "title": "Pernod Ricard a entamé le processus d'IPO de sa filiale indienne-Bloomberg - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVktQ0k3Y2lYb21JeGwxdERWQmc3UUdnTmVLd3dPLVM3bTlxYXNsRlNXWkxpako4Q1ctU0NtX3hOZ1FxU3NGamZFcVZQejBsXy1zc3V5cXluWW55RjlXVXMwZ2ZkbFBMLW5wSWxCb2ttOHZXMzBDQ09WUEFxQXBpUEZyd012LThhMGVscFpORm5xbHNieGZBb2FVakFYYXVaWk42ZWN5Tk04M1p2SkpWN2JZX0Z3amh6VTFDU2ZGN2RsU3c?oc=5",
-      "title": "Pernod Ricard valuta IPO per la divisione indiana, secondo report - Investing.com",
-      "source": "gnews-ecom:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWJGcmhqX3FNbnZycFhfVVFfcEllNWRqOG9CV2NGUzJJTkdIMTQwV0pYRFFGQ1Q2ZExJMUVKU082SE5QS1VjNHpBXy1MRnZYaEdqYS10LUxBSXdpaU95RjBidWlsMERZWXdIOGRVanVzZXdoOHdqeXlDcEJBMFlVa2ZqNTRZVDl5VU4wUTByUGdWZ9IBlwFBVV95cUxOVGtUWFVWOERVcmpTUE1jUW1xemplUk9Xa0hMZ3JiN1hvOEFSbVlsTVNwcW1BNHllTmZTT2NLYWx3TzlNeGFNeF9rbFFkWElDeWVNT2thQ1U4NjhPQnFQQ3A4TXU2MEgwa2RJNVVmRlg2RUZVRlVvTnN3LWFLa05ORTVsVWQwNXc2VmxyT0gzUXloU3RQWUNN?oc=5",
-      "title": "L’OMS tiene il secondo dialogo con l’industria dell’alcol - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWTZYc1JyYmstSGdmeW1Ub294ZGhNUDZoUlJpVWZ3M3I3ek9pSXBTMDl6Qm9rQWFyekZhU2QyTEtGSDhOM3EwcU5meTFTSktSQm9hU1FyRmh3Vng3ZUY3dG9ZSXd5bG5HMlhMRk8taFEtZlRFcENWZjBRdzJIMmtFNVFObDYtUjVLNmdKQWMtQmJxNWx3MjdSdklFTk9iUWt5UVNVWk1PcFZFc3c4UFlkYTZIREpfY0NHcHBWQmNqQVlLRGMzeFhWMzB3LXBBZWJOR29BMDZB?oc=5",
+      "title": "Pernod Ricard: i volumi tornano a crescere, ma il Medio Oriente offusca le prospettive - MarketScreener Italia",
       "source": "gnews-ecom:it:it"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXMyeXNDdkRBQTM4OHZjZ0VOVThKU2lUdUVRWV90UzdEODctYUVsbGdfVTlSYzhsd01XWHZzVGtxOVE4ek92QnNvekxUTnNSUlR4QW5OVjh0MDJnbk9GdmVKb3prWk5NaTRiWkZSN2hsSlhRX0RuU0VlR0ZiNVBJR0hCRVJxNC1MRGU1WTFoaXNYeEVRclFENThfV2ZpMEhtQ1A5LVRkWmdLc3IwdHhzV3JTNm5UVG52R1dVbldfempmTVZVRmtjc3o2dW1CNnNKOElv?oc=5",
       "title": "Jefferies conferma il \"buy\" su Pernod Ricard e promuove l'ipotesi di un'IPO in India - MarketScreener Italia",
-      "source": "gnews-ecom:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREFEN1k4SDlBYjRQNE82ekxlQ1FGaDBLSlVtSWp6RlROVlFBbVpVamh1UlFNbks3QkFjRVRycndMbGo0eXlEMGxKUjJXOER3Z2ZnekxmSm9tOGtDbGczbGx1SEF6Tm9HQm00Yk5GTnlBRkVMdERDOWZHX00yME9VbmlRZ2p2SkVWNnN1OGlOdE5rV0ZrNjNmWHJRSTA5VmFmX1paV1dsSml5LXM?oc=5",
-      "title": "Pernod Ricard: Goldman Sachs supera il 5% del capitale - MarketScreener Italia",
       "source": "gnews-ecom:it:it"
     },
     {
@@ -665,18 +705,8 @@
       "source": "gnews-ecom:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVhHeVhhQkR6R2FLT1dhemNkMlVWTDdRYW1KVE85QUg4RE5ZYWpVdm9vUHlUNjFrQTdLaTlROVhFNXBvek5TTnR2M29aY1FQUFppTHRfLVAxcll2eUJJYU8yZXZ6ZUNSU0hxZmNsWjdpT2V2NjZXLWkwUjM4YVBNRHVfSmk3eWFiRUZyb1RXcENBVDBrUVVqeUxabU5OTTRKdWUza01QZXlHSEp6LWM2WFlxTkVNdUZrZ1c1cHZuY1RhOE1LTkpUSA?oc=5",
-      "title": "Pernod Ricard recorta previsión para el año fiscal 2026 por caídas en EE.UU. y China - Investing.com España",
-      "source": "gnews-ecom:es:es"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVThLdlY4TTI5eG0xTXVPdU5YX3BvSEtBY1ZFQkRaWnFEalhHWk8yQzF5cVNvT1pGVVh4UEVSYU82SEVqVFhPNzlrWlBvU0p5T29yMXBoTk1OR09sTS1JTlVibzRlRnFkNWFHMWFuY3MyVVE4eVFaa1dUSEViLUpra0hXREJITVVPTmZTVWt3SlJnd1FmS2o0UGM4YjRDQXFvTlVOb1JLRkdGUEJuMVVnQmdycGVONDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHBqaTN4cXVLS0FDY0FmS0VJOHBpOFoxaUhld2d4eGo4STJBXzV6WmlUSEdLR2FLcVJoZVhQMUJKNTh1NzRVelpDTWR6ZFZqcmZKek94OFdvV3M5YWVFQTl3R0NMbUlyS0lVWFd1d1FsT2tuYklsOHdiMUVmb1lUS25aODdVRUI2clJQOV9NZmJXOXB4ZS03U2M0Y2JqR3ZvOEtya1NScUpZLW5kaWlQaWdKUWRVeVZTS05vM3lB?oc=5",
       "title": "Pernod Ricard S.A. acción (FR0000130577): ¿Depende ahora todo de su expansión en mercados premium - AD HOC NEWS",
-      "source": "gnews-ecom:es:es"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamNYSXRNZHZ3WUNQbEdpOEFEX3EwS0dHZDBkdjZseXpORUc2OEx4ZXV3TUNnZFkyYWczeEFma3hOOUwzVHJaNUxOcVR4MzVLazRqekI4V0lkX0F1eDRmWld5dDNCSnlzNEZuLWx4OEs4R0lWTnFUbldHSm85VG5sTVdqM2YxNjAydHdZa1o5Yl82b1JtNmJWVGFRN2dBM2FYSXRxZTd4UUdKNHdkZzlyX0ppdnpzOXU0THBzWHp4cmFyV0lFazd5Yi1uZ9IBywFBVV95cUxQamNYSXRNZHZ3WUNQbEdpOEFEX3EwS0dHZDBkdjZseXpORUc2OEx4ZXV3TUNnZFkyYWczeEFma3hOOUwzVHJaNUxOcVR4MzVLazRqekI4V0lkX0F1eDRmWld5dDNCSnlzNEZuLWx4OEs4R0lWTnFUbldHSm85VG5sTVdqM2YxNjAydHdZa1o5Yl82b1JtNmJWVGFRN2dBM2FYSXRxZTd4UUdKNHdkZzlyX0ppdnpzOXU0THBzWHp4cmFyV0lFazd5Yi1uZw?oc=5",
-      "title": "Adsmurai incorpora a Jesús González como VP Growth & Client Strategy - Dircomfidencial",
       "source": "gnews-ecom:es:es"
     },
     {
@@ -685,14 +715,24 @@
       "source": "gnews-ecom:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3pGQU15STRFNEpTZTJQbXdmT0VwbGs4VXJsMlJDd1pzSUFsX0pIQkZ6ZkZIaXZkLVpFNFRuRy15d2g2cTBoVTF2c2hqNG9MRnpkLUFsRm12eC1UOFk4bVRRZ2Q3RUdlYzFWZWdQZ2ExbEl5OW0xM1gwaTgzY09mRjNfYy1sQnNKUFNCVjZraXM3ekJFa3ZHTWd5TlhlanZvOW53eGZ1TDBpd3l6cWtDZWE1NVlnRjkz?oc=5",
-      "title": "Absolut Vodka: Entre premiumización y regulaciones, ahora se pone interesante - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamNYSXRNZHZ3WUNQbEdpOEFEX3EwS0dHZDBkdjZseXpORUc2OEx4ZXV3TUNnZFkyYWczeEFma3hOOUwzVHJaNUxOcVR4MzVLazRqekI4V0lkX0F1eDRmWld5dDNCSnlzNEZuLWx4OEs4R0lWTnFUbldHSm85VG5sTVdqM2YxNjAydHdZa1o5Yl82b1JtNmJWVGFRN2dBM2FYSXRxZTd4UUdKNHdkZzlyX0ppdnpzOXU0THBzWHp4cmFyV0lFazd5Yi1uZ9IBywFBVV95cUxQamNYSXRNZHZ3WUNQbEdpOEFEX3EwS0dHZDBkdjZseXpORUc2OEx4ZXV3TUNnZFkyYWczeEFma3hOOUwzVHJaNUxOcVR4MzVLazRqekI4V0lkX0F1eDRmWld5dDNCSnlzNEZuLWx4OEs4R0lWTnFUbldHSm85VG5sTVdqM2YxNjAydHdZa1o5Yl82b1JtNmJWVGFRN2dBM2FYSXRxZTd4UUdKNHdkZzlyX0ppdnpzOXU0THBzWHp4cmFyV0lFazd5Yi1uZw?oc=5",
+      "title": "Adsmurai incorpora a Jesús González como VP Growth & Client Strategy - Dircomfidencial",
       "source": "gnews-ecom:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzU1Z3dDald3Q3ZPX1JWQk81dHFRcmVRV1BLbVdGWVRDY0FKRHNCZTFKdW95Um5JaEtBSk8wVEJvQ21OeG05bi0yUzJvREd5enRDaVpnVDZIbkZCMTBXZ2ZneVVnRmw0OHpDQ29MbzNteDBnS1VpMjBtLUVsWjI5Zm1MMGVxSXJYRUszcXdGUTdPVWtpOFh3U05zNl9GM0hMVXFiamZkT3hYZm5DS29wc1NrQVN3Y21hWWc4WUFR?oc=5",
-      "title": "Pernod Ricard explora OPI para su unidad india, según reporte - Investing.com México",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmxsTVFvYXAyWkQ3ZEZyQjF1anFsN2wyVmtZNHl4UzllbWllZ0tsYkJHSklpbk9TbnJOVFY3bjJfWWZzaXc2QTJib2loYmFwVV9ScDZoOFRJdkxDRmRCTHQ5TUZVYzgyYjBIM0tkdDlJVE9RcmdQQ0tTUzlhMXVyUDg2azJzeExtdG5XNm1ENDdxSDZHQlFYS2RvWGRSanFfdDdGNjg4NlVIRkduUEt3dGZfSy13YlBCTzUxRy1KWDdnT2RHS2w4?oc=5",
+      "title": "Pernod Ricard finaliza las conversaciones de fusión con Brown-Forman - Investing.com España",
       "source": "gnews-ecom:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUItZHljMzJSSjYyNjVyMTNGVk5sY2FGX2xlLXNEUVdRWnR2RS1sYl9XQVR0OVpvcWV4MjI2UnZ5eDRXOTlURFV4eFpYVVFPemZCLTBkUkxJdXYtOWY3ajNxSktEWjFLLVdnNjVKdHQ3Wk4yclhONG9Pc0pFTDdEeW9ydENRTTVWYnh6VU8xYjRELVd5ZElBWldiQjBqNzYzV3phMjA5T0dUMVhDaG5WTDI4TUZLaVh1V2syUUVmZzJGbG5CY2c?oc=5",
+      "title": "Absolut Vodka lidera el mercado premium en España: ¿Por qué esta vodka sueca conquista a los cons - AD HOC NEWS",
+      "source": "gnews-ecom:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1NRaHFIbEhITE9jcHJQRjhCQ0Vmb1VxZ2FRMzQxdTY0aE01MXVsSGVySTFxNzFDNkNLc04wWjd0cnltbkVlT2Z5clY4UkhBMlhWVXhOQWJweVJsWnk1QjBSbXNmWGZwOTBrT2luSnliZ05ONFVIWHBsbTAtRExCMGxkclpxNzEtTE1RWnJxMnE0NmEtTjRWQnU0Tzg3QUVwR1FOaEV0aE9LU3YtZnRPeGk0Z001c1JfSXlSRkJ3dGdqMlk?oc=5",
+      "title": "Verbeterd momentum helpt Pernod-Ricard aan stabiele omzet in derde kwartaal - De AandeelHouder",
+      "source": "gnews-ecom:nl:nl"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc29IZlpfbmtzb3FDMFNYT2JJMlE2LUlVVXFRekVkd0ZsYUFNQmM5bW1uc2M5RlVzelZQZGZhVjZTaEJCLVkzMmllcHJYNEVpUERJVVNZd2ZlZHRDQ2FnYWpOem5tQ201RFZ0NXlqMjRieEJSWllXQy1FZkJnUFFxNWp3Qmk5b1c1S3NCdDJHT3o?oc=5",
@@ -700,28 +740,38 @@
       "source": "gnews-ecom:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3AtM3lMUG16aUlZZ0I3c09oZ3BMSGU4QXNPY2oyTV9lbHF1cmd5UUNuWVpYT21NWFRaTkRfVlZreGFaSnMwTDRfQ1RZRS1UZG43TlV2aU1iZ2hzVWdJMEU4bFd0bnQ5QWNFS21CS3dCM0JFRWdlX0EtcFdETC0zeGZ5a1RVQVdBY0JSaE1hOUZGcWFfd0dING5B?oc=5",
-      "title": "Wolt i Delio łączą siły. Dostawy w dwie godziny - Wiadomości Handlowe",
-      "source": "gnews-ecom:pl:pl"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWJkQ3pEYk1BaU9QZl90Zjc5a3VkT3BodXcxQnc1RWE5aXl0QmMwZ0U2aTdUS0pETzgwaVJseTA1WW5rSElhMHJNUlBfNng0OGxMVDZqb1FHSTczRHZzM0RsY3dHU1daVUJ3VmI4bHYtVzI0UHlJS2pDQ0FJbkVfeC1xZFJHVlktUjdxREtjcmJOdlVJNmdJekY1Y0pDTUJSZ05iT202cnVpZ09YRVVyN3N0ZTFhRHIyV0toQTY4TzVVcUltbV9Ibmk3R1lrTWlYVVNrNXA2MWk?oc=5",
       "title": "Q-commerce w Polsce mocno się zmienia. Kurierzy dowożą kwiaty, laptopy, gadżety erotyczne - Wiadomości Handlowe",
       "source": "gnews-ecom:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlF5dms5b294SU1uUFU0WGZzNmFzeC1WNnRSX3Q4WXF2RnhONGFMbEFZLUV4anRaSnBCTzQ4NjhtNVhPOHN3ZDNyaUlQa3lLOWV3aUQzY3RLQ3Jxa2NhNmFrNlBobTJKb3FvRjVGRE9fODhoUEo2VHh6RXBuc0VYOEVNSndpYWdxZHh3VkRkLTQwYlFpelE4UlR1Z3B1cmN3bUtHcW9UX2lGblhjYUVsUjBDWGEyMEM3blNrNjhXaw?oc=5",
-      "title": "Moody's Changes Outlook on Confirmed Pernod Ricard Rating to Negative - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDl2SE9UdnYwR21TYlRiV2R1a1JfVjR3Qkh5bWl6OE1NRzFVX2JMSWhrS1o5OU91RHpMSTZqX29JcHJrc3hlQmxNUmxYNXVrTERLT0pHUm10ZzRySXpNOF9wVnUwaHdRTkZxLVpmdm5CSUdycF9WcjNPU0FweGpIdFVEWHVZcXpVQUdpYkFIRXpweC16MHhhQnN5TmN6dXNJcUdzRTRn?oc=5",
+      "title": "PERNOD RICARD : Receives a Buy rating from Jefferies - marketscreener.com",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2JNS1RwTllWakJOME5VcnY4VFFEeWR3ZEFIb2FZYWJIazZLczY4Tmx6V1BmRVQzUWk2TXdfczNjWXVtVklNNFpqeFlsRDBnaS1vYkR5OHUtRld5dkFXLVdGLW42a0pGZUtsM2VYTEg1Zncxcm1UYlQ3UGJPWnJwTGxsaU12VWR1ZG14Zkpvd2EwOUxjZS1mSzV4cWEzSkU?oc=5",
-      "title": "Brown-Forman talks “ongoing”, Pernod Ricard says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGhnT3V4TFVJcFk3NF83bmI5VEFfQnBHWGpaZXhRSEx2dXluaFU3cElEd3lROVVrOFZaM3FMVHhETmN3Qm83Y0Uzb2c5clFWNDJId29mRW5FZ29uVVV6RlVDdXkyazlFNnNUMTBUQ3A5RWZ2VHpXMG1wT2R0dnBOZzZ6TTBwajBFSEZCWDRLdXQ?oc=5",
+      "title": "Deal Talks Between Pernod and Maker of Jack Daniel’s Falter - The New York Times",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmJ6R203bmZPYTQyX0hINHpldXo2NFIweThiQTAzb2VNR01DVzhiZ0ptd0IxTkw5SXIxbWRqQUVBa0lJVE9tNkxOM20yTmFTbTRuc1ZKZHFKbzRTYVFEVGRrZjgzMUFXOHo0QlRRTUwyajY0SjYyczRRQ1B4ckZWdzJLNUhvQ09GS0xCdTd2bFRYNzJCbnhXSWZRWlpQNEFfNm1tZkVLLUtmekFSVG5GRkJB?oc=5",
-      "title": "Jameson maker Pernod Ricard flags Iran war impact on sales, sees FY decline (PDRDF:OTCMKTS) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVY1aFNORzVNc1Itenc1NDBrcDd5OWNUSFR4bUpsUE0wd1A0eW5iRTNsdFc3UHI2QkdVU3ZFeHcxV1RxQ0NMTnFrQ2JMQWt0Y0ZDSVF2SXktNks3TnNpTDdqOEtOaXQzWGxqWHR4dFRheHJVNGNUS2N4UTd1TmV3NGpaNmg4dDlTb1RScXU5S0pQMFhvam5hZjV5ZnhYbWw3Y1UtdUpSalo4SlFZOGJBUWxOSTF1bFo1SmZ1VVdPWFRjS2s?oc=5",
+      "title": "Jack Daniel's maker Brown-Forman favors Pernod Ricard bid over Sazerac, source says - Reuters",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzR4WF9DT2l5b0ZPdW9TRVBzR1RxVFRFMHI0Szk5Q2Nobzl2RjRlUkEtUEpGb2xycl9sYmRQSnJSM19FQjIyVkZOLV81d2dNLURDWGVweTBPUHdJR0lUZE1Bb21oemRrQklaRTV4aTFWOGZBY296RlVYX2RXWEZxVHdtdlRFclBKcE1TTTZUNUpDbkZsVEF2Ui0zMml6RHVsRFZxbkhBbmZsSjhxWXh1eWdIMWVZdWYtR0xvQTFHSks4TGNLeG92eUlB?oc=5",
+      "title": "Earnings call transcript: Pernod Ricard reports mixed Q3 FY2026 performance - Investing.com",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQURMVzRPVlZ3UHFBSW1UUFphcmljdTNFTFRTemlHcUJZNlhkNlJ3Mnc5aHMwZjJxSkllRmRCamltQ3JPN19xek1JOUljbU5Hd3VhLTYxc2lxbmR4RXFNUDhWbE93TmVlYVloTDBxakZRUEpacHYwQ1pZeGtBSW9POXVMQWR3VW9STi1OQ2NfdFJLQk0?oc=5",
+      "title": "Berenberg Sticks With Pernod Ricard After A Small Sales Beat - Finimize",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUjVDYlVhUW5PdGR3ZEJsQXVrNHdNXzN6NERlWDVnVmpPejRUUmtlblU5a0NmRlpSTnI0b1NrV0VJQnJPOFY1MGU5WHFOZFlPY3h4YnMtTXVWdVZrZm5Fa2dRN19RV3FuNjlQM1NYVF9WaGU3c0Z1ZjAwN3QzZUFrcGxPeTdCSXloUnZMRUswRWZza2dWZ0pvTlBVdDcxMVQ1X1phYm15N3ZuTWdiM0lBRkRwd09kaC0yUkpCUFJFYl93VmFGWWFveXRqWXNFaU5OdjZscE5BVkZzQ2hhX3Raa2NzZUNkdw?oc=5",
+      "title": "Berenberg Revises Estimates for Pernod Ricard After Fiscal Q3 Trading Update; Buy Rating Maintained - marketscreener.com",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -730,49 +780,34 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlF5dms5b294SU1uUFU0WGZzNmFzeC1WNnRSX3Q4WXF2RnhONGFMbEFZLUV4anRaSnBCTzQ4NjhtNVhPOHN3ZDNyaUlQa3lLOWV3aUQzY3RLQ3Jxa2NhNmFrNlBobTJKb3FvRjVGRE9fODhoUEo2VHh6RXBuc0VYOEVNSndpYWdxZHh3VkRkLTQwYlFpelE4UlR1Z3B1cmN3bUtHcW9UX2lGblhjYUVsUjBDWGEyMEM3blNrNjhXaw?oc=5",
+      "title": "Moody's Changes Outlook on Confirmed Pernod Ricard Rating to Negative - marketscreener.com",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjVfdjA2TXVrOGp6WTNwSFVpQXNTZ0ROUHRjNm0zWi1rakNIc0VNcDh6UEV5TjdfVER5Q3kwMlpUajdQck5taGdLbmU4cTlHNWRuWHN3YktLZUFMOHctNVlBVG8zYWEwbjUwaHZITWRBZ3FaWWxOdWVzN3JGeUxCcEZqMkh5dTdiSWZPczg4bFNNaHhCZ09zUklFTU04Wk81Mi1PdHlQbTRTMjZZR1RqZVo4YURCZDhaV1ZPMTd4ZVTSAcYBQVVfeXFMTVhIbURKVHlOMVdQVjN6emVGMDNaSFNhR2p1SjktdTVFQmdPZFZIcnRQVE9rNHRQM3FaV3FZZVM5blpSR25wem9td3ZvdzFNNThXNHR5elBpcmRpdUs0RWhaV0FqcmdtMkhESm9wUHJqT3A5WUtJeWdYaU53Q2dMN0RNZVBBS0FWaG9pNGpoVERzaHdDa3ktM2YxaTVVODd4UEg3c2pIa2U0VGR5Q3dabVo2U21ldU9TZTdHTVJIUllKN0JYeklB?oc=5",
       "title": "Pernod Ricard India revenue rises 11% in Q3 FY26 on premiumisation, Imperial Blue exit - Storyboard18",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGRQLUNlMVF3czBkd0ZhMmxYbkd6LU5rRmJDaW9ELUpQUVJxSWJWQ2hQVW56RlU2UEhMaTRBem9CZFdSZ1ctTXlONzdUOXg0b1p5TDBIUjh4X0M3Wmt5QkV5dlFEeTdETjEzeU9ka1pGeU5ybHVFbEs0UmhWUmJPVGpwM21MNW5iRXlFZkd3?oc=5",
-      "title": "Pernod Ricard considers India IPO amid strong growth - Food Business Middle East & Africa",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DX3RDRDdVNTZFdzZ5cXJVYWlpd3M5U1JrZWdGNlhNZi1oNXRraHRhZUNIRUI1Tl85N0dDRUFlU0J4RkV1RFhYc1lhQVZJMkFDODJ0ZzlySXJQb1ZnemJ2RFMxcVZkdnR2RlMySWoyR1HSAXBBVV95cUxPZ2dSYXdmbGtnUVRKX1ZYVTl0ZXZ1enJFNmRnTklsbFh1b2dDQi0zeUJUdVBiN1h6aVFJeWRuT3dsZ1R3dzM4dVA0OFBZUk8zOU1QNi1JRUcwR0VjS21nWk92akVqbHZlTEZ4bjFwNWhW?oc=5",
-      "title": "Brown-Forman prefers family control over all-cash deal, report says - Lexington Herald Leader",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckNXeTMwMG16MWpibjZkZlRMZ3pYaEF0Y1B3MVFGaXh3SFprZ0xHU3UzWmRVOE9tT0RkemF6Zk1SbU9pWkZmVkhiaFBGa3ktaGNUVEl2SHFpTU9fQ01BdUQyNGlpTkhTbUgyOEJlWkJNYWFOc1dVbW1XMkhLSS1sWWxscW52VzlWQkpCYU02VlRiVXRxM19KdDlRcEJ2TWt0Q2M3bEJXR1dNbHZTckFMNVBSR1g3RGw2RHh3SUVhQlU?oc=5",
-      "title": "Pernod Ricard S.A. stock (FR0000130577): Is premium spirits demand strong enough to drive U.S. inves - AD HOC NEWS",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVZOeFFGaFpiU3ptWUY3bVd2OHUtbFR3NUliRm1DenhKUzFyTHllQW1yWGRtN3pqLUpGZFdKSFg3TUpya2xTRmlrNFlnbUF2b241QTdEM0M0X0NwbFJ5U3JPV0RacWhMZDBTTDl4WTBIb1loSmIySGpTQk5RQk5VRGVmOTZ5M3JWRElhMzZBQllkOGJXWFBpeWNEMjMydGJGQm1jRGdsOA?oc=5",
-      "title": "Pernod Ricard: Improving Momentum With Stable Organic Net Sales in Q3 in a Volatile Context - Yahoo Finance",
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzR4WF9DT2l5b0ZPdW9TRVBzR1RxVFRFMHI0Szk5Q2Nobzl2RjRlUkEtUEpGb2xycl9sYmRQSnJSM19FQjIyVkZOLV81d2dNLURDWGVweTBPUHdJR0lUZE1Bb21oemRrQklaRTV4aTFWOGZBY296RlVYX2RXWEZxVHdtdlRFclBKcE1TTTZUNUpDbkZsVEF2Ui0zMml6RHVsRFZxbkhBbmZsSjhxWXh1eWdIMWVZdWYtR0xvQTFHSks4TGNLeG92eUlB?oc=5",
-      "title": "Earnings call transcript: Pernod Ricard reports mixed Q3 FY2026 performance - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHZvdVVrMXFBRjdWbjNkVXlJS3F1RzB4amFSM0N4WXB0dzRYS0JsN3d4ZWhVV3I2enlNNVNWUW1PWkc5SEhpU0hBRUtHWWVHdDZPTDRPVmdKWXI4ZHI1Zi1KV1VONm9JT0pnV0xLU05EN1M3cHlxNHJTTV9HZko2VG9aRi1LV0R4RFE1bzR6MENyV3o4eUM1dFZVRmlxcU1QYk00?oc=5",
+      "title": "Pernod Ricard and Brown-Forman terminate merger talks - The Grocer",
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2JuTnd5MlBWM2lLblgwaDV4Ykp3WW9KOE5ibmFDWlptempiMnFyYW8wVHBFODA0VjVUMnl3Z21qSlVtYkQ2VGJEak5DMHAzbmU1ZmluYjQxWnBXRXYxdm90NDIwbGxXcDUtcmdsRkN2WkxOTXRBb2dyeGFpZmllT0lKdG9MeDhyNm1fSTRNdw?oc=5",
-      "title": "Pernod Ricard returns to volume growth - The Grocer",
-      "source": "gnews-ecom:gb:en-GB"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnBLQnBSV3JKckFINHdSazNGdFJabUVCbUYtWTMzbmRIN19lVGtNclJoZHBnQ0RRTVpXSG9qeGVxVzN3d3RtbUEwMHYzNF9QY1N2bVoyV1N5Q0RvbTYtWkpMYUpab3diNllkbzk5VWQ5SGt4bHJqQTU4WTB0UUZvNDFTZlBpYUkzc2JHWlI0MWZKMC1tYXRZaDQxV01HcldxVmVuUm5TSXA?oc=5",
+      "title": "Aus den USA: Skrewball Peanut Butter Flavour neu in Deutschland - Spirituosen-Journal",
+      "source": "gnews-ecom:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHRodDhFY1luQ3RwWHpEYkRlX1RjdmtQTFpCWFZ1U0dELXFUalM3VWRfU2pkb3BRNmV3X0pLaW5YazV3N2lhajNYUnpVU2NRRjU2Wi1nWUpCbXpfRnE0VnZuT3BmVW1tSGxBYmRGNlVwU0ZlQ3dJMUZxRlVuQ3ZnQkxPNktrdF9ldGt3a1hBdDZubnlUYWc?oc=5",
-      "title": "Behind Pernod Ricard and BrownForman's Merger of Equals: - openPR.com",
-      "source": "gnews-ecom:gb:en-GB"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUS1WbXdhNUpaUDVTYlBxcUdFMHItb192ZDM4RllHRFJwQU5GMkNNZWRYNXlaSXZPWURKNkZVZ2h2dmxtQy0tZVV1WWRHRWtwZHdMNUp6UFRzX3ZlUUh1a1VpZDhGVGhOdEpDOXBtTEtnZ3ozdU1URThWREVCakk5ZUtCbjlYb0twZ19jOTF0bjNfWEdOYlhEMDBTOC1FWGZvWnFxMzFnbExDUHJTa1ZyRzFOdlJkMmdTV1pMREJLbVBmXy1TYUNudTg3SmJmbTJuemFhRWc1LWI5X0h6NVpDYm9xX0E3akk?oc=5",
+      "title": "Pernod Ricard und Brown-Forman, Eigentümer von Jack Daniel's, beenden Fusionsgespräche - MarketScreener Schweiz",
+      "source": "gnews-ecom:ch:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0NDS1FGMXl5RWZPTS1KczJBakpMQTVVUFZpTEpiU0dTb3BWUk1ZQV9ucVg0WkZhc01mQTB0d0NqRVI1eUVKMEFqY2hKV3B0QnJvd0xqSk5Yc1FFSjN2MnRjOHhvWU9JcVY4SEdUaGFBTDhVUXRtZDNEbTdBQ2dncmxjLWRQdFJ5N1FaYWhiLUNxU1ZISzgzOWpyZjZWV2JGUGMzaUo2MFJCOGdjS1BkNmZuVEt4NnFGQW9rQ05B?oc=5",
-      "title": "Pernod Ricard stock (FR0000120693): Why does its premium spirits model matter more for U.S. investor - AD HOC NEWS",
-      "source": "gnews-ecom:gb:en-GB"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTHYyNzZ2QTNpQ005ZXJlak9fUW9VMDJTVGlXUGFvNzZOVjF0aUEwLUxXdDFJZHdlUktiNWhHOGZ0bWZFdmdjdGpOQVlZamZvdzRXVE9Jc1BGRXZLRy16UkRNeVpsZkhrQkViVVFhOWNLanJxSEhzbTJhY1ZjUWlycUdWUHZuVmc2bHAyU0FHcGpMZmMtbVVaSmJjNzM0dkFTdl81N05peHU0azY0dzQxeFpMa1Z0YXpjS3hpeHYxUlVZTjVqOUY2MWRCd2IxZzJ6azZsNUFEc2MySU1hOGtxOElXLTc?oc=5",
+      "title": "La famille Brown-Forman privilégie une vente à Pernod Ricard plutôt qu’à Sazerac - Bloomberg - Investing.com France",
+      "source": "gnews-ecom:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZWtLMXJjVmxRekF2QUcxRjZfYVZXM3U3bXdQdjdia1QwTmFzR3RFRGpsNlNUWllhbTJpOE1XUVJqTEUtTVdTdnhLUUhVSzVOWFpUOGJfT3AwWlBsaVl1ZFJ1WjNaeEI3MHhpcmdmYXd3M1c5NHZObmw0ZGpDbXNPMzBuYjNJTEZKWlMtaEFPSGhFcHRSamNFZU1Ka1lRX013djR6RVVhODJYLU5tN0JsVlVyNzRRclE3Sk1ha2p6aW9xZmtXRHUtdkNFZjdSdFV5MXVjTy1kUEp3UQ?oc=5",
@@ -780,8 +815,8 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDcyUzRTWWRGay10amdHemd4M0hwOGNZRUtQT1BNaEJMWEZ3S3J1VDZOR3laSXJRR2NkcTBVeVA0aHFZalVDNUhxSWRHT0l2eTA4TGZMOHBuZW5PaTIzTEhNei1BRkNLa29UeHdjMk15T1NmVXV5UDUwTGVmb0pzb3FoM1pabjdpRTRBMXRpS3dyU1JXRzZuNkhwbjhwdjA0aFdBdks5eUx0SXlicWdZSkZyUGRrM25obTl6eFJCRWxJUkNsSXNncGl3?oc=5",
-      "title": "Cac 40 : L’indice parisien a ouvert la séance en hausse de +0.03% - BFM Bourse",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejlOTXFwVjlwSXJ0RWVLZnJVQ1pLWTlubWw0VW8tdTVxODZMUzhzOFdOd1VsZ1hiZ3ZpYldJZjU1VlFHb3dQby1HLTctVFRlTkxESGdhTFloLXVuZzd3b0Z6YWhtYXRvcDQ1bTlQMXVzMjhBamFlSmF0b1Zmd2U1eXp4ZUhibDJRR2N4VzZTM0hPZjAtRHlyZU9lVGR2Z1c1NDdxU3ZSb2poZW9TRUppVHFvSFVRUFFUcEJhWUx1WXhfbW8?oc=5",
+      "title": "Pernod Ricard met fin aux discussions de fusion avec Brown-Forman - Investing.com France",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -790,68 +825,18 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkVCN05nWnBQWnBjOUFsVXhuX1IweG40WDlEUjBVVUhwRUU5LUpoRlM5MU1hSjBWRDdzRktzWGNiRk5WOElvZ2Y3ZEJxZ1p6SWtGeUVaNzVBYWpoeDdEWFpBYnBTYTVtdGV1UDMxMmNoWGFzVVZyMDBESGYxVEY3cmlnTnBRUGQyVjZ4YzhmSXBSVFBGUXZaTzZkWmZDYUNUbTFwa2xpbFR4SGdKRFJ6UUFHY1JGLUh6LXVINUJrVnBlMTF2Q2VYeFVR?oc=5",
-      "title": "Cac 40 : L’indice parisien a ouvert la séance en baisse de -1.32% - BFM Bourse",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdWlVdkZlNGJ0cGVTQTYwRmxubG9TRVUwbXVieHlXcFNRV0NMb205VGJTRGU4RGVlMHRtTmQ1WTNDTFMxbm9tMkswZ2hxMTNSVFh0VUJ2WkczZHBpeVNPZnNFR2t0bFpsYm1HcVQ0YlBpOHoxWVZORzJyUVNSUFMwckNkSUluU3VEM08yYXpscmZSMTlFYkhtQUl6ZnVpLXJ4OE1OUTQ4VTVyQ3FfcnpaV0ZyLXlTTkRKbUVDOFRuRW1iRm5DZVdPVG1ZVFVsYlFlWHc?oc=5",
+      "title": "Pernod Ricard révise ses perspectives à -3%/-4% en raison du conflit au Moyen-Orient - Investing.com France",
       "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FQ1VOLU52d1dEUm9RM1lOankwMlhOU3BVcGo3VVE5c0ZJRlNFbjY2MmpUNDVRZXBhdmpxeEZnU2I5aTBhelhZM0tYWWQ3aFdrQl83dXNBVU1tTlFvaDJ1WlBhTkFkTXVWQ2U5OThrRGJSMjNVb1ZMYg?oc=5",
+      "title": "Pernod Ricard presenta un vaso con compartimentos para promover el consumo responsable - Mercado Negro",
+      "source": "gnews-ecom:es:es"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GYkdGTXgxM29HWVBuQ3lMQzJjS2J4c2prUzJ3d3ZrVUlvT2NJOExmOWRmdnptY2x2MHM2dkNMYzQwTktEUTZPZ3QxTm05bzNMM3AzUXZFX2ViTVZEUS1aOA?oc=5",
       "title": "Adsmurai ficha a Jesús González como ‘vp growth & client strategy’ - IPMARK",
-      "source": "gnews-ecom:es:es"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFZsVTVkaWR1ektiN0cyS3RxbVNjUFpCZTktY0ExS012YjdJdkU1Y19sNC0wdXNnLV9vUVo2ZGFnaFFwd1I2Z2I3clhUUmlIYVY0dUZ1NWN5a3RMWGdocDQ2VDV2VGU1dnZwWWs3NXJDdkpMd1ZFVHRzbDV3c2FlbVZSREdWMktFWnBMcmZQLWlZVGt6d3M1TThNUFJJZTAtazFDUnVwOU1yNEJSQ2s4bjdTRlpmdGlGUkNPRWNGY2pwZw?oc=5",
-      "title": "Travel retail improves for Pernod Ricard but Middle East conflict augurs likely 2026 decline - Moodie Davitt Report",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTXhpeWNYdzdLOHZDRGVZcFVpR1JYZ3o1X1MxQUJrUk9HU3pkbkxrZnhjX0pWQkhjME1IOUgyeGtQRGNseEoyaEdmZHBWTHBZOWhVTHJPei0wV2NTMVNhT1gyM0hPWmtkREhjWkpLYjhFSFpJcGtCcE5EZzJOeEpjVWdQOVpWR1hVczZscVA5QU1UNXgzUE1zd2pXOGc1ZE9UTG9qeEdKZ0EtcmVPTkgtRlpLLTJrOEdUOTNHT0ZyczYtZDBKTXlYTldnOFZYQ0tKb25RZEItMlA5UVVOeWc?oc=5",
-      "title": "Les bonus cappés Pernod Ricard remboursés à l'échéance au prix de l'action - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZE15bmtpSnExTm5RQWExa3dkM2Vwd1FuNmY5eks0V0ZSMGNWV0VDQXRQQ1pLV2ltWElQV1BJbEwxR21QaDdZcHhmZXd2ZHVvVHBHellPcHpwSWo1RDNRaWtsWW5DUXFxYy1LbDVXakRSUjd4dnZJdHpzSm9KaHRzazRDOEVRLUdrMXhvNi1YSjJCZlI0QWFoc2kzNXZtN1R2MTVaNGpaODNLbWc4NjBfMkkySDJWZ0RVdDJnQ0Z1cWl4S1dvUl8wc1RsWDl2c28?oc=5",
-      "title": "Moody's abaisse la perspective de la note \"Baa1\" de Pernod Ricard à \"négative\" - Zonebourse Suisse",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTW5UTUg4SW44VUE1YTZoYW1BWnNOa0xHUW5FZVVWVU02QmVnM2ladjNaUTk0d1JyVFB0S2dRYUFyR0pSOTBVS3VZRGc1em9CX3NMMWhncUV3ZjV3bVNUQUpydWw0a1pFcDBJZWM4WVJQNVQ4MkJKNkdVU2dVRWVHaEZuMHprME1IczZic0FwVHNsNWE4d1pvS0VJTGdxRmF3N3ctMEVzYndjdEpoc1RMeTNrcDQ2YnZpbmVSLTVlVmc3eEJqZ29la1Fqc2NtOVdNbzJhREdiRWU5aVFWNE5zWDEwVE5zbG4zRWlOaDNBSm9fWkstMmtj?oc=5",
-      "title": "La famille fondatrice de Brown-Forman privilégierait Pernod Ricard face à l'offre de Sazerac - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZVpjcXFhTXRNYl9ib2huS1d2dVBfNmxiamNFalBFM1NyNlJIaV9ubXBhRzY2WDJTN1p3Rnd5alpKN1VDMjMtREhwUC1QYVdFaDU4VHBWTk1kc1c0VU5JRk5kR1RfczR1U1VLdTJmS2RySl9kQW5wNVBYclpWbWNlZFlKZVpHbDB5ZzR3d0RaZ1RvRnV5cDU0SFpHdDE4VnozcG1KTmNLX2NOMmVadkpGLW1fNkEzSUY0U1ZjSmNRRER3TC1CN3htWVFvZ21EYW4wa0ZjdjFTTWcydnhzXzZhWnozV28wRHZubTE4REZhSmhyZTZUWlVxSUxB?oc=5",
-      "title": "Pernod Ricard prévient que le conflit en Iran pèsera sur son CA annuel malgré un rebond au T3 - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVl6bXhjSnpPQlh6UktGZWxOUktlRWlVTDhicGlWQ0ZmVk1NUkpyZzBucWk1MGNUSnlsR1hhT2pLZnVtRUY4S3RUWkgxY2dNNFFGN0xuNURCNnR0aF9sYUZUcG5MSEdBcUg1ckVPTW9YWDRxdUJzRlp6NEF3WGswd3pxdHp2eklkLTJDOE9vZG9jM3FlcWJwWUtnNmRoU05ZZ1Y2WWZRU1NMV3JuRWR1ZDJkekhNTmtXOWVJdEhR?oc=5",
-      "title": "Pernod Ricard S.A. stock (FR0000130577): Why premium spirits demand now drives the real value test? - AD HOC NEWS",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRm1XZV9hX0J2aFBIOGVjQmI4X1VwcTZCQ1Y2OHNobUFYckVjWDVPT2duRHA5eHVXMm9wMy1KVGdnXzZzSzdtMFBDdlNsT2FuU3l1UzhHcDJpazRwdGZQbldTWmtnWHZKMW85cndWMmNuWmp2MXpHN0dXMFRBZWxUU25RMlk0OHJRRFd6Vkdaa21fcnBxS2VsQWhNSURfc1hzY1YwNzVPNkZZUzBYX1FiZk9MZURNem5DZ21V?oc=5",
-      "title": "Brown-Forman-Familie favorisiert Pernod als Käufer statt Sazerac – 32-USD-Angebot im Raum - Goldesel.de",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWZPVTRRa0NBU1NGX2IzUjFNXzhva1A1X0lMelg5MFVoRmd1bk9BSDROTFhwU2cyVmtUbVlMNHN4MEI4QjUzc3J5dDZNa25qLXdWekdpTlZlQXFpYkZMSHZIUGtVZ2hfV0o2b0VJWERjQXhPT2x2ak5PZmRaeGNyVm8wM2tFTVlRWlpyc0NublZ5WGxYQmZIVE94VEhZNmtFUHRueGlQN1Q?oc=5",
-      "title": "Pernod Ricard kappt Prognose - USA und China bremsen massiv - Investing.com Deutsch",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGc3YVdRQWd1MGE1MUJaWkY0d05hX2doUWZ6LWhrYmVPdEx0WFVQR0V2TnFZV0lmOTgtc3FqVHRzSG5ia3hhaVVpMkdLajk5RDdTZEVCWXBIT1I0WjF2bzFXYVczZzQ1c3BURUJmVmlIQVBtMzRwUUNIaW14NEV1TWxkQnZmc1IxTFlwZ201WXpjRHRXMl9sNmNXQjNLYVh3NjBRcFdvaVN0VUdJUjFTQjAzUzBEWGpVVHh6V0hZUGI3UVVUcU5Dc0x2V3hzbWJI?oc=5",
-      "title": "Bericht: Eignerfamilie von Brown-Forman favorisiert Verkauf an Pernod Ricard - Investing.com Deutsch",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmFhYnFIYldhdE0wTVd6MnBFRlNnTklqRlRuZTNfYXUyWXlWcUJfcmtFbW5Ra0t6LWhXZTkxRHFGbGhYbHF1aWduNTFOeUZZVzdOSVFPV3dGVWt6Y2NiZV9tM1EwN2NSa0d2V3F5eWlXbDB6c1BoRlRSV0RkLWVOOThDRGNfdFU1MlpPYlR3c1M0WXVaTFNxVkx6cTRMN1JzTERLdFpFWG5WRUhzc19mVUJhYmhmSHU3YUVITXhTeEVRUQ?oc=5",
-      "title": "ANALYSE-FLASH: RBC senkt Ziel für Pernod Ricard auf 90 Euro - ’Sector Perform’ Von dpa-AFX - Investing.com Deutsch",
-      "source": "gnews-ecom:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaU5LU2ZEQmlUMlo2d0RkNklwMDJ2TmJKSVN2eEFScTBZNzc5eVhSY0pqb0tNcjVJdHdEblNjZDJkc0o3X1lBQzFrNXQ1dnU0anRlYUtOendQcXhfQkNKdUk5Rzc3eU5yTmNMQk90S2JsQzlSVTctMTNSY3BsdmdtdGVxV05NMnlUSGs1YVJTRVpvVGxoZlVRNGNkVWlEbmxURGg0NnRadVJDNTFka3JyTXZEdXJ6Y3pzVDhSbldrNUFiYWdQMFZFQVlKdjg4VEN2U2NBcGNwMmRoXzA4dkpxZVdHbXE4OC03NkZOd01zSDNjVFI5VEHSAfsBQVVfeXFMUEtidzVwU19TWUZFSXE4cFBFMDJNUEhBb0lRcDFOV3dHNERvaTBMc2xwLTdRWVBxalQ0TEViYW9kVGZ0SFMyNGVEa1JFT2o3eFp5UDdndmRLWFBUYkllUnVMZkhrejhndlN1N0loejFUZE9wcEJ4bWcwR3hTTW5NeHFDd0FSMzJMTHVJaUZuWXRVbERWLVAzNWoyVktibzBnak5JTmpjMmlJemdOTzdnR2lsRndYX1U3U3l3ZTNvY2NaeWk5T3VPXzA3bjg1a1dpb2V3bUNmUFNOenVNdWFERGFIbk9IY1hIeWtxTmVDcG9kNENBQ0RiVzdOeFU?oc=5",
-      "title": "Economía/Empresas.- Pernod Ricard anticipa una caída anual de sus ventas por la guerra de Oriente Próximo - Bolsamania",
       "source": "gnews-ecom:es:es"
     },
     {
@@ -860,14 +845,89 @@
       "source": "gnews-ecom:es:es"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFZsVTVkaWR1ektiN0cyS3RxbVNjUFpCZTktY0ExS012YjdJdkU1Y19sNC0wdXNnLV9vUVo2ZGFnaFFwd1I2Z2I3clhUUmlIYVY0dUZ1NWN5a3RMWGdocDQ2VDV2VGU1dnZwWWs3NXJDdkpMd1ZFVHRzbDV3c2FlbVZSREdWMktFWnBMcmZQLWlZVGt6d3M1TThNUFJJZTAtazFDUnVwOU1yNEJSQ2s4bjdTRlpmdGlGUkNPRWNGY2pwZw?oc=5",
+      "title": "Travel retail improves for Pernod Ricard but Middle East conflict augurs likely 2026 decline - Moodie Davitt Report",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGRQLUNlMVF3czBkd0ZhMmxYbkd6LU5rRmJDaW9ELUpQUVJxSWJWQ2hQVW56RlU2UEhMaTRBem9CZFdSZ1ctTXlONzdUOXg0b1p5TDBIUjh4X0M3Wmt5QkV5dlFEeTdETjEzeU9ka1pGeU5ybHVFbEs0UmhWUmJPVGpwM21MNW5iRXlFZkd3?oc=5",
+      "title": "Pernod Ricard considers India IPO amid strong growth - Food Business Middle East & Africa",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEFGZm0tb0doVDJUbWcyanFzbWgza3B4NVJvbHlDWDNjRUZqbF9RdHVlSXIyb0Q1WUVQRm5PVVZ4UTRWQ2xGN1g4RXJHTTRJM2VpYk1fVDdQS1BVYlhLUm4yRmI2UGNsaXZFZVdPWHJFVnVTMXFKQkR1cC0wQUZMU1lQOW0xR21nX1NKWGhXeVZGU25QRzIyNnVOdllwOVRmRko3WTI1YURyc0JYaDQ1Y3RHZ1F4NHpsV2Z0WHJTU2R0OVZIWW9VcUlPRHlkRnE2NDl5MW1xTmNiSFVoalU0Ug?oc=5",
+      "title": "Pernod Ricard manages to stabilize sales, but Middle East and Brown-Forman deal raise questions - marketscreener.com",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHM2ZWRfOE1BM1ctT0hEZnNBVFFMUXVQLWE1alpYbGk1VzhIOGwzcmJTZU1jdTdzZk9JcVlKalVMUV9mUTdhSnJjUUZLOWZRUG5oSmxHaVh0U0YxRGxsRENCTXZjSTNObUdPWGQzMDlsUFhicWI5STdIMllHeHhLUHBSYk1Xb1U1ZV9MajFwczNrazJnZllUVjl3QjdWWVVST3R6OXl5VXlQcGYyQTNXdWFKZ3Fvd0p3NEtkclg3eGRFUUxRcjNxTHBwaWtMeE1MOU9ZU2hYZkVxbFA4LXlNclB0TWhXb2JWMFE?oc=5",
+      "title": "Pernod Ricard et Brown-Forman mettent fin aux discussions sur une possible fusion - Les Echos",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZE15bmtpSnExTm5RQWExa3dkM2Vwd1FuNmY5eks0V0ZSMGNWV0VDQXRQQ1pLV2ltWElQV1BJbEwxR21QaDdZcHhmZXd2ZHVvVHBHellPcHpwSWo1RDNRaWtsWW5DUXFxYy1LbDVXakRSUjd4dnZJdHpzSm9KaHRzazRDOEVRLUdrMXhvNi1YSjJCZlI0QWFoc2kzNXZtN1R2MTVaNGpaODNLbWc4NjBfMkkySDJWZ0RVdDJnQ0Z1cWl4S1dvUl8wc1RsWDl2c28?oc=5",
+      "title": "Moody's abaisse la perspective de la note \"Baa1\" de Pernod Ricard à \"négative\" - Zonebourse Suisse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmR3Y1Z4Zk9jcENBaXJndkdfUnZIUUhHZEgwclZ4bklvbUVTOWtmaEpVdFRoVDhWQzlob0JGQUl3NUlzczN0bWhZbWN6c2J0dF9wR2ZtYmc1NmNzOVVVNF9CdGM0U1ZoRzVRaktPLVdjT1kzekltTVdZeDAtajd1TXNvLTR4dW1GQVNreDRfU3VDRHRRQ0ZiUWxlVjZtVFlmZEtN?oc=5",
+      "title": "Pernod Ricard and Brown-Forman Terminate Discussions Regarding Potential Combination - Yahoo Finance",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmhpWlllT2ZfWGNmN3AteEw2Q0Z5Q3hzTGJvbkRTczRRTnVPN3UzX1I2SlBtWG5sQks4b3pYZGJYS3FpYXRkZWFWd2xNbjUtblVReTNaTk1SaGJRS3JsZDlGVzVSOEdZSU13RTM0Z3VZak5fSnNSQU9JMUt4TU5QMG0yc1JBWVpGa1V2UXItY0Z4M29xMVZ5OGZtaw?oc=5",
+      "title": "Pernod Ricard, Brown-Forman end deal talks - Yahoo Finance",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnVvUElBMnNOZ3F1dGlDeUZxQ2Vkb0VMZk1BOGRfWlpFTnV5b18tR3dMWm1WMTQtRmgtdE5QZWZSZWM2c1FfM3BFaVJSZ2xxVUMtM1V0dWE5LXBNb1dXMFU2YVJBb3lpVDRMb2ZTeEg3YXBhSlNhQk1hcGY5TnFncm1jZlJUMFpuY1E?oc=5",
+      "title": "Brown-Forman and Pernod Ricard Terminate Deal Talks - Brewbound",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMnFXWDZ0UGpudTY3UldsMlJXUWNzWnNnWEdnYTIyYkxYeEVUc2J2c3N1SXg4QXNRbnFkYWNIVFlKS0M1MFVRTTZka1FrSHhVM3UtTHJCTHR2azN1SFp1blh0Tk16T3RaZkpnM2RWRkVsazFaSUZZRV9ha2MzZ3RhVFE4UGdoWHNWZE52bGdZZnJ3YlQ2S3h2M1lLNXJwcEp0SmZxTHExdXQyelNtcFVQTkR6aWtfdThSYWtpbVhTWGFDRzdzb1ZKajJXeGY0SHF5WWtobEVFX2ZuVFdIbDU0X3NGakxKal9YNl92dtIB8gFBVV95cUxNUHRiMTg2ZXFxUzBYMkRfUmtUc1VMak1hNWh3R2I3bEJZYmU3aWFIQkszRm1JbE5vS0Q1S1lPUmRhSjJTRmxGM2s1MjF2dHdJN2NNM2dHZFNXSjBWcGNQLThQal8wVzZnWHhMeVpMcDE1VEZIVVZxcEdkNG9HX2VBQ0s1ODFfNHhLLXcxVm0xaWdzTEF0VmZCLTFXLWpJc1UyRkdfVTRoNDNDZlJ2RWVMZ283N3BYYjI3UmpfMmEtTTNQQWc4SExhODJGZDdWdFg2djMzaGNTY1VGYlA4Zk5qQkNKZnRaTkVXN0FyVUFrVVY3QQ?oc=5",
+      "title": "Pernod says Brown-Forman talks 'ongoing' after reported rival offer - The Grand Junction Daily Sentinel",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWk5OYXJEeHFOLURGX1NpTlhMX19BLXN1WUdYMlVPeW1Pa1BJMUxyVFRhWmVJamh4V2dMWnNZLTNTNEJuNXlRbV9LQmlHbXp3UmhEbUJlSmNfdHZNVS1zbkN1UTNZYWZZVml5YUNuRzJvYXJGY0VyMGxWZGU1SUhZWmhIR1BmOFdwd3pSNzg1SGtFaGJqa1UtWU82TnVaa2hNUjJyQVJjSHkzZTBROFM5U2YtSkVFdmM?oc=5",
       "title": "Pernod Ricard S.A. acción (FR0000130577): ¿Depende ahora todo de su expansión en mercados premium - AD HOC NEWS",
       "source": "gnews-ecom:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDl2SE9UdnYwR21TYlRiV2R1a1JfVjR3Qkh5bWl6OE1NRzFVX2JMSWhrS1o5OU91RHpMSTZqX29JcHJrc3hlQmxNUmxYNXVrTERLT0pHUm10ZzRySXpNOF9wVnUwaHdRTkZxLVpmdm5CSUdycF9WcjNPU0FweGpIdFVEWHVZcXpVQUdpYkFIRXpweC16MHhhQnN5TmN6dXNJcUdzRTRn?oc=5",
-      "title": "PERNOD RICARD : Receives a Buy rating from Jefferies - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3lDNmRZX2tKUm5tNnFEeWlEUFNxOFplSXNHQVlPbHhMOTBxSXhxbWpGaDZ1c3VaQWNEV1JpMHREUkpDUDd5bmh4SDhJNjFKNkRuUkFMejcwVTlzWml0WTJ2QS05d2FwTUxITnlERmZ6TkhndVR6TlNqaDk2TDF3ajE1UFFtTVREZ01fYlBER1BxRy1HZENpb1NYYUtqcndQSWFv?oc=5",
+      "title": "Pernod Ricard: I Don’t Think The Stock Is Going To Re-Rate Any Higher (OTCMKTS:PRNDY) - Seeking Alpha",
       "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjA2ZU1zV2hiekpCM0NDTmh2SkhuU1N5dmZzbVhNRXFHZDBKODBobE1jUUxxZmNReEpSdlVxOEZPQUN4MGRMd3BtdnhvaEZyMXdka25lX2JRODhFaFEzdVJ1dUgxOUNoZ0tLTkN4WlNQbGxlQlg2Z3BHTlNyZ2lGQ3Fkc1hGMkdoZzNON1Bja1ZueW9Mb3ZWYS1XQllpNUxtMlQtYmctaXpVZUNhMDJueGJJWFVrOGprd2JReTZ5ZDRJLS10NHRZ?oc=5",
+      "title": "Fusionsgespräche zwischen Pernod Ricard und Brown-Forman gescheitert - Investing.com Deutsch",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWZPVTRRa0NBU1NGX2IzUjFNXzhva1A1X0lMelg5MFVoRmd1bk9BSDROTFhwU2cyVmtUbVlMNHN4MEI4QjUzc3J5dDZNa25qLXdWekdpTlZlQXFpYkZMSHZIUGtVZ2hfV0o2b0VJWERjQXhPT2x2ak5PZmRaeGNyVm8wM2tFTVlRWlpyc0NublZ5WGxYQmZIVE94VEhZNmtFUHRueGlQN1Q?oc=5",
+      "title": "Pernod Ricard kappt Prognose - USA und China bremsen massiv - Investing.com Deutsch",
+      "source": "gnews-ecom:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDcyUzRTWWRGay10amdHemd4M0hwOGNZRUtQT1BNaEJMWEZ3S3J1VDZOR3laSXJRR2NkcTBVeVA0aHFZalVDNUhxSWRHT0l2eTA4TGZMOHBuZW5PaTIzTEhNei1BRkNLa29UeHdjMk15T1NmVXV5UDUwTGVmb0pzb3FoM1pabjdpRTRBMXRpS3dyU1JXRzZuNkhwbjhwdjA0aFdBdks5eUx0SXlicWdZSkZyUGRrM25obTl6eFJCRWxJUkNsSXNncGl3?oc=5",
+      "title": "Cac 40 : L’indice parisien a ouvert la séance en hausse de +0.03% - BFM Bourse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT1Vza1IxWW1ON192R0tNbkJPN1VrT3BtSGltY2Z1NEdoUXU5VEstRkQ4REcyZ0laemFjXzZrNDBfOGRnc3VWSmNzNGt0NERBckd3N3NyY1VjYzRYSmF5TTlRMjlEckpsT204YTA3TjR3a2pKSFhIaEdsU0FzdUtQTjJPdXJyQlVXZjZtN2xYbXpIcmRNTjlySkN4ZjFld0Q5UFJPOWpOOEhubG4tRkVOSWtKektKWndiV3ZBMWhlR2dLLXhsQ1hzZlI1N1FMWmotQXdNT0VudlpVUk5DYW1TekNTNUJDbGNpX2wzdQ?oc=5",
+      "title": "Bourse : on reparle de SFR, Pernod Ricard concurrencé pour Brown-Forman, TotalEnergies vers un gros T1 - Zonebourse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkVCN05nWnBQWnBjOUFsVXhuX1IweG40WDlEUjBVVUhwRUU5LUpoRlM5MU1hSjBWRDdzRktzWGNiRk5WOElvZ2Y3ZEJxZ1p6SWtGeUVaNzVBYWpoeDdEWFpBYnBTYTVtdGV1UDMxMmNoWGFzVVZyMDBESGYxVEY3cmlnTnBRUGQyVjZ4YzhmSXBSVFBGUXZaTzZkWmZDYUNUbTFwa2xpbFR4SGdKRFJ6UUFHY1JGLUh6LXVINUJrVnBlMTF2Q2VYeFVR?oc=5",
+      "title": "Cac 40 : L’indice parisien a ouvert la séance en baisse de -1.32% - BFM Bourse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaU5LU2ZEQmlUMlo2d0RkNklwMDJ2TmJKSVN2eEFScTBZNzc5eVhSY0pqb0tNcjVJdHdEblNjZDJkc0o3X1lBQzFrNXQ1dnU0anRlYUtOendQcXhfQkNKdUk5Rzc3eU5yTmNMQk90S2JsQzlSVTctMTNSY3BsdmdtdGVxV05NMnlUSGs1YVJTRVpvVGxoZlVRNGNkVWlEbmxURGg0NnRadVJDNTFka3JyTXZEdXJ6Y3pzVDhSbldrNUFiYWdQMFZFQVlKdjg4VEN2U2NBcGNwMmRoXzA4dkpxZVdHbXE4OC03NkZOd01zSDNjVFI5VEHSAfsBQVVfeXFMUEtidzVwU19TWUZFSXE4cFBFMDJNUEhBb0lRcDFOV3dHNERvaTBMc2xwLTdRWVBxalQ0TEViYW9kVGZ0SFMyNGVEa1JFT2o3eFp5UDdndmRLWFBUYkllUnVMZkhrejhndlN1N0loejFUZE9wcEJ4bWcwR3hTTW5NeHFDd0FSMzJMTHVJaUZuWXRVbERWLVAzNWoyVktibzBnak5JTmpjMmlJemdOTzdnR2lsRndYX1U3U3l3ZTNvY2NaeWk5T3VPXzA3bjg1a1dpb2V3bUNmUFNOenVNdWFERGFIbk9IY1hIeWtxTmVDcG9kNENBQ0RiVzdOeFU?oc=5",
+      "title": "Economía/Empresas.- Pernod Ricard anticipa una caída anual de sus ventas por la guerra de Oriente Próximo - Bolsamania",
+      "source": "gnews-ecom:es:es"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW9LalFZVFd0NGhpTVZPOTRNeFRKTkNGNkNrV3puVlNyYmNNQzdBcjdELWZQaDNvWEpXMmdiUjdzQUZoNTFYZ0lIeXB5QVl2NWRoZnZMMWlhRnV4d1FBOTJ6TzhUYzZWUnRFbHA1amUyOG9KX1AydE9JYlRLMmJjajRnNGl4Q0YtazFFZVcwRU0xUGpFUjBCenozOW1OdXYybjVyZFNuTmtieWd4QnE0MEgyUQ?oc=5",
@@ -875,9 +935,9 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHlPN2pzaXNXYUZ0Q2haRTVMSXRaVUZkX2l4Z1VjSVVCaHpBVHJnaWNvOVoxb1ctSlZNN2FCTFlNZHhnSTdXZGhIa3ZITWc5b0xpRVNxZ0tVSVJQb3NnbXRkMi1SbENseUhyOTJnOFowd3owWUM0OUhnbVE2QWxielRqcTAtRkJicDlBT0V5ZkhXTi05aS1mcm8wWmVFM2sx?oc=5",
-      "title": "PERNOD RICARD : RBC reaffirms its Neutral rating - marketscreener.com",
-      "source": "gnews-ecom:ie:en-IE"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHRodDhFY1luQ3RwWHpEYkRlX1RjdmtQTFpCWFZ1U0dELXFUalM3VWRfU2pkb3BRNmV3X0pLaW5YazV3N2lhajNYUnpVU2NRRjU2Wi1nWUpCbXpfRnE0VnZuT3BmVW1tSGxBYmRGNlVwU0ZlQ3dJMUZxRlVuQ3ZnQkxPNktrdF9ldGt3a1hBdDZubnlUYWc?oc=5",
+      "title": "Behind Pernod Ricard and BrownForman's Merger of Equals: - openPR.com",
+      "source": "gnews-ecom:gb:en-GB"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVE41UUNDS3ZjMEFKdkdqblJDejVUU1prRW0yWFpmRXVVcHNMU2JoMEJkeGhYb1VMeGRSMzdtS2g1d1VFTnhfZW5NNkl1V0x2dXhCbHotN203N21OUXdvUFFRQWJKc1RKdEkzQlhFcWc5OFZjSFd0Yk5fbDRFNVVMam5xRWRuNFZpYzhsY3FoVDNjU3hkTUJZZHpfbHoxcDBfN2VDNndXQlJiUTFadzFWZHhoQUN2dmp4bW8w?oc=5",
@@ -925,9 +985,14 @@
       "source": "linkedin:gnews:de:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlJfR18yajJ3aEhBWUl1YWtwenFRRnpJTUZIYUFZNERRT3hQYUJUY1U1TmxpN0pfbVU1SmxnNWFLbTNiS0l1MGpqYlBvTHAzMlVVX2lWUUIwTUI2bHk5eE5hU0diXzdmdUI4T2JkUmFEX18wdEFONmNEdmxhS0hOU3k2ZEN1XzNVekpDZkJCSzBLSW8?oc=5",
+      "title": "Nagarro sucht Client Growth Partner (all genders) in Wien, Wien, Österreich - LinkedIn Österreich",
+      "source": "linkedin:gnews:de:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkhfU1Zkb3BNWVR1bDBZaGZEX2diLWpGaWcxblNfcE9QMjh4d0pEYmNMQTVVTExtcUxCNXZ6VHFyZU9VR1N5RkhreE1wM2hMWjdYQ2lLZm1BNGJJV1lyeDJPeEMzR1l0YkZDSXNUeUQ4bUc2YXF3cG5WZWtWeU0xZDJUamFndVNVY2ZB?oc=5",
       "title": "Uber sucht Sr Account Executive, Uber Eats in Wien, Wien, Österreich - LinkedIn Österreich",
-      "source": "linkedin:gnews:de:de"
+      "source": "linkedin:gnews:at:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3JRRlp2NDE3ejJzdnRrcUFHOHRscHFoLU5zeXZ1XzRiWmRHR0g3XzhrUUp2dWx4OFI3UEd4Vk9oWUN3bk0xbzFJTE5hMnExNkVkazhfb2NmSXFpYTJIMF9zeHkwNUdBZ1hGLWdIM2xhd3hFWFJkS2o1M0xXVnBnLUg3bmwwSlNqekhTSGZMS0h2X21VSFJtMVZFOG82aWJMQlZRb2dXTEk2a05lQjhTSQ?oc=5",
@@ -935,8 +1000,13 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFF4TEdxdFZBR3pSQWY3MlVHdnRRcUk2RWJZRmlfZ2JXXzloeXpaaWwwbjAtbGNfTzYwMTJYSlB5ZVNBT0Y1NkQ3ejhobktfM2FNWDB3SjhpekgyamFKWU4ycUVxZDBrZkU5WlJ6TjhlZnRKbzdTeVhVVV9ycVFmRWw4UWVxeVZWYzYwejdTWFp6RkszMXpHSTZn?oc=5",
-      "title": "Pernod Ricard recrute pour des postes de PR & Events Communications Manager (Ville de Paris) - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXzVib2Y1S0NWV01jZ0o3UlRCNERGek8wR2JlWXdmTHdSVUJrVHpLb2REbnpjYmNudDhjQ0lDU1pUWVRlOGxVOXVjS1IyanEzN0JTWEdUUm9ORHotWmFuMDNhY3FpVXpPZzlOMG1pb0hTd0Y5andpVTF4dEl4TVRrV180OUhoSTh3eW5Hc2dPQjBCUjdIQW5RbUFEckNXc05rNmItS3d1QTFlNmF6TWtDSHBYcEhkbTct?oc=5",
+      "title": "How many of us can relate to thinking “we’ve always done it this way”? This is why risk often starts with routine. So for World Day for Safety and Health at Work we’re proud to highlight the efforts of Maison Martell in Cognac, France. Martell’s initiative ‘stop the h - LinkedIn",
+      "source": "linkedin:gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVERETVJfajEwY1lzeUY0UHpoeUNqODhBY2JYYkZPQzVPczRjeFdDV096MTBEZjg1UU0zNXJDVkZMa3BxNGJGXzV4WEZ0NlV5MnJaak81cHNBR1YyWEtXZ0JJa1FQZnZmMHBqWXAxX3pkSFJtUzZYckFrUUlJczVfYXZwcHB6S2dpNEpzcW4zRFhOZEFBNFhjMjVyNjk3aV90LVoyN1ZOaTZKRWVmRTJpZG9iTE1ubzUwY2hxZVFyWUJUOEZw?oc=5",
+      "title": "Les ventes de Pernod Ricard se sont stabilisées au troisième trimestre. 👉https://lnkd.in/e39V6t6h Le groupe de spiritueux prévoit toujours un repli organique de ses revenus sur l’ensemble de son exercice décalé et il a de nouveau revu à la baisse ses prévisio - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -955,28 +1025,23 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEtqSFdvNWo0UDh6Q0NTOFB6bXRCTnhpa2Vka2N3cS1sN0swRUk3S1I0dDBrZjlGUXhvRkU4bE9fbm1BaFJwZncweUlRTGpwcG0yS0c4TnkzNmVFSzNablVVci0waGQxX3drVE44aVhmNnJnYUFKZ1RnYjRXOTFDTkdpQUN0d2tiRjRzVVdUU2xpY0xOckliS2NwV1IwQkQwUnNWVTFUMHJ2SnJtb0RVUlNla2tUSnhjWGwyeWZSTEhrMmRLbGpvbHhsdE9NZw?oc=5",
-      "title": "Pernod Ricard : Perrier-Jouët confirme sa dynamique trimestrielle - La Champagne de Sophie Claeys - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWpQNzVKTTVzVVVsRThXUms1bVNQQkYtN3EwcFdsRzBuM2xtaXJkbVBnSkEtcm1GRDY1YjloWldCMXprc003TXU2SmpiY1NZVzF3dVVQLVNuQ3ZHVzl2eGhidURqN0NzVE10Uy1oSmxGSWp6V1Z4ZG5aYUtOdVRkejR1Q2xfQk45ZnhBUE9kaDVhNkZ1RjB1M0EyR0oySzEwMWNqYUpKbklPMUxzZ2R6VGQ4MFdnN3V1OFR4RnkwcFNxSDd5YUZrQ2ZR?oc=5",
+      "title": "🥃 Pernod Ricard a vu son chiffre d'affaires reculer de 14,6% au 3e trimestre de son exercice décalé. - LinkedIn",
+      "source": "linkedin:gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUJPdVNJQ3pqLTA2OWJiRk9Bb2JTV3JUcE5TWWU4Qnp1aU80WHNGTXItblVJS0RnMkVoNk9DbzQ2by1sQUJSUk8zMHVEUWpmV25hUlRaUDI0WHpoWFhtaG95d3EtVldMYldRMVA4dE1OTlJyaVBXdzVDY0U5Z21YZ0VkWkJnSXV1RXZjVWxJSVlTQmI1MDJYeEphMjhsWFJKdkx6bjVrRXlNX1pFczNnZ2NLV2ZqVkstZHZOaHJmRmhIRHRO?oc=5",
+      "title": "Le retour à la croissance de Pernod Ricard a déjoué les pronostics, mais la Bourse reste concentrée sur la potentielle fusion avec le propriétaire de Jack Daniel's https://l.bfmtv.com/QI8V - LinkedIn",
+      "source": "linkedin:gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaU9YZGxtOGRkXzdQSlFMS1lSV2hwZW1Sek5Nd0JXYlozdklWVlVLUGNFSW5yOWV6Mm1taFZxLUlxOFhHT01HVVJFYmNoWjMxNEl4cGJweUgycnVlckxFN185WTRlRWl0cTMwbkdCZEQtbHBjSGRlQ0dTTGgwd0xiRDlGU2lHLVdXcGJQWmktRVFCSkxVeEp1RHI3YkoxUUdLN0ZYcW5tZm04bzZqYW1BUUV4eE1USVlMeThVSUhUM2d3dFRIWHlJcnhieGdWalJ2R0E?oc=5",
+      "title": "Pernod Ricard France développe les cocktails à la pression - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMXYta1dzcWNIY0R1MktaSkswTW04a2ljbzFtLUNKUElMM1BQWlA1aE1LX2QzdlpLTm11Tl93RjF4S1YwZ3haS1R3VjNiNzVmN2JyNm1lZmdTbEtIT0NfdEVDWW5aSkhGelNPdEIzM2VTX1F6di1faG1yT25oTkJtMWdFcW5TTnlvVXlzcngybEJCTmVPZG0zelBzQWhSSVJzeTVWdTM2dE5RV0FGMG94eFZ6elp6WUVZS2J5LWFpajk0Q0M5clM4bmgxaER3MnE3WXFnVGJ0Zw?oc=5",
       "title": "Après un peu plus d’un an au sein de Pernod Ricard, j’ai eu la chance d’évoluer dans un environnement stimulant, fait d’apprentissages et de belles rencontres. Cette année m’a permis de mieux comprendre les réalités du terrain, de travailler aux côtés d’équ - LinkedIn",
-      "source": "linkedin:gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHlXY3p2VzRfaGNIM3NkYkRZNmtWbEktcHNpVEx3X0hTR01rLXFRbmw5Wmg5V2pSYkNNekFYNEplbU55ejN0amYxRHNlSHJNZHJpejM2aUJtbVpPQmZ1NkJEM3dDLWl2V3d2bXpJajVSYkY5a0JsRWk3X0NfWWFfZDc4MklZdERGa0ZndTN6NVpvWFBwNzBWbTc4cnhhLTR2Wjl4X2dmNllmelJjUHNKcGtJNGQ2RTRJRV9Bd2V3OE1hbGc?oc=5",
-      "title": "Pernod Ricard nous a confié un brief excitant : présenter Maison Yellow, leur tout nouveau concept store à Marseille. Ambiance chaleureuse, produits iconiques, architecture solaire. On voulait faire quelque chose de dynamique, rythmé. Alors on s'est inspirés - LinkedIn",
-      "source": "linkedin:gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHZIOHI0Nl94T1kzSTZNX09udENXcjY3ajVDaHZnSy16NzRFZDVwM1BCWFdoNVlXRnJ3dDFMdHJPZ2wyTzRqNUl5dDNvbDk0ZTNwWFlNd2tzQlJkOEptbVFobFBya014blE4My1SZTgyVWZzVkxubEZXakZUMHRuSkw1c2ZpUVBZcmdlOExvaHRDZnNNbFVZckZhWWhCY3hURFFldF9HcEVROFVSd3ZqSjlQeFoxQ090M3h3VEt6VktGbUZCNTg4?oc=5",
-      "title": "🇫🇷 PERNOD RICARD Toujours dans le mal. Un espoir de rebond ⁉️ Mon analyse dans cette vidéo ▶️ https://lnkd.in/e9KxWNHn - LinkedIn",
-      "source": "linkedin:gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWpQNzVKTTVzVVVsRThXUms1bVNQQkYtN3EwcFdsRzBuM2xtaXJkbVBnSkEtcm1GRDY1YjloWldCMXprc003TXU2SmpiY1NZVzF3dVVQLVNuQ3ZHVzl2eGhidURqN0NzVE10Uy1oSmxGSWp6V1Z4ZG5aYUtOdVRkejR1Q2xfQk45ZnhBUE9kaDVhNkZ1RjB1M0EyR0oySzEwMWNqYUpKbklPMUxzZ2R6VGQ4MFdnN3V1OFR4RnkwcFNxSDd5YUZrQ2ZR?oc=5",
-      "title": "🥃 Pernod Ricard a vu son chiffre d'affaires reculer de 14,6% au 3e trimestre de son exercice décalé. - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -990,11 +1055,6 @@
       "source": "linkedin:gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDYzT1RCajFKekVUaVRyNDNmX3ZzT0F3M3VBZHJmdFRmMTMtWWtPNTRleV9mQ1g1OWt0UW1TUU5KMlBXRkIzbDl3OGx3bVZZSVI1WU8tVXVyaVBtT245dFduY1M0OUgyS0V3bHcySElyeUtIeDFqOXVZUzFuTFpDU2JMR3htUmU3VHc?oc=5",
-      "title": "Pernod Ricard busca personal para el cargo de Beca Trade Marketing en Barcelona - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVVlMXVJZkt4ZWprZ1BUaHIwTDhIMjl4REJ1SXMyVlVtbW93a3dMNmNRRFU3czZZTG1VOFlFdjNrM0lGeWZiTXIwNWJKVk9TY1ozR0V0dW5GZkxYUGpmZHlfbzhsNi04a2UwYnlKMDJmZHdqc1BJUTB4elRpT1pRQnNfUkRLMTB1NmdTZnhKXzEyVjNEbXZpYW9ubUUwUVh6S19j?oc=5",
       "title": "Pernod Ricard busca personal para el cargo de Sustainability & Operational Risk Manager en Manzanares - LinkedIn",
       "source": "linkedin:gnews:es:es"
@@ -1005,23 +1065,18 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2MxbkUyaFNRUWgtMWt1ejZ6bFRhUUxKZG5QTngtblJNOGpjcjZfZlVPdVFNNEFIT2tybV9zTlFRNks1TnJxdWFiVGVmdWQ5YTBkdXFrcmlUXzZibHZHNDdKQXQ1RUdyWjdZUFM0YlduSjBMSmNWSmx0WkFrWVdvNGNOSQ?oc=5",
-      "title": "Pernod Ricard busca personal para el cargo de Beca en Compras en Madrid - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3OVNybFNzLTdCeC1MRnpIVkhMa2E1blF4RTFydzVPdFBaYjRkam9tb01BbUZtQ21hTUVfUGx1dklHX2pGR0JRTmY0M3JQUXJFbEhJNWEwdThJdEo2am5n?oc=5",
       "title": "Karla Aguirre - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0tfNXdyTWxNbTNicTItYk5BWWVLa01iQWtsODFFQTJwc0xSZnA2M2t0b0hWQUxCeWpnbmdlbFB0eUxwa0VIYk9yNlNVb1hIemR1WW4yTEpPRGM1TDJaYXJDRFNVRmJwSG4wN0txWkUtSXZ4dGlXQVdUanpRa0k0VVQzdEliX3hTRFdaczdUZUloQU00dlRGcGppSm1ZX2xPUVhZeEFBclBmbDRCY04xTlkzTEZwREtId1lzR2kzZmdTcEFnY2ZuNHhnS3p1djZZTDdkbHBjZHBFSi1naWtN?oc=5",
-      "title": "El pasado 7 de abril comencé como Marketing Trainee, en Pernod Ricard , para las marcas Absolut,Seagrams y Malibu. Tenía muchas ganas de dar este paso, y empiezo en un momento muy emocionante, con muchos proyectos a punto de arrancar. Estoy m - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pU3VId01ZbWtmajdQS0d0Q3U4eDVCRk1lUFpUMDdpRTNFYlc0TDM5VUctMGxYdW5RdkktbmVLNHZzbGxnX0VjS1U3UEtIWjZl?oc=5",
+      "title": "Brenda Oliva - Financial Planning Manager en House of Tequila - LinkedIn México",
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pU3VId01ZbWtmajdQS0d0Q3U4eDVCRk1lUFpUMDdpRTNFYlc0TDM5VUctMGxYdW5RdkktbmVLNHZzbGxnX0VjS1U3UEtIWjZl?oc=5",
-      "title": "Brenda Oliva - Financial Planning Manager en House of Tequila - LinkedIn México",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZbUNnbnU2azlwV1JQZzZhVzRUbXRBa0E0ajBDX0NjdDdUVGI0Nm1ndi1HcUNZbk81Mk5scFBFT2UyWEVZellZc3JQZjFuYkdWMzE5Tw?oc=5",
+      "title": "Augustin Robinne - Brand & Cultural Strategy | Executive Advisor & Founder - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -1035,19 +1090,19 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TcXVfczN2SnFGTjVvY0dRYVg3NFVtOG9ZTnppdkd1UDhmb3lsX2JLb1h1eVpwR0VzMm1zWlZ5MUl3eVJCV19wQW00UkhDbHRwQmw1eXRDWlVCNnM1SzdfaGY5VElYQ1dMLWZJ?oc=5",
-      "title": "Rodrigo Reyes Rivera - Solar Energy | Mexican Wholesale Electricity Expert | Carbon Credits Specialist - LinkedIn México",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsLUhtM0VOMVdERGZNYTBVcUdRMkNvb2xKei13VE9QN2h6T2JFVDlXQW5qeUxwcFBUN3BoREk0YmdoaUxyOS1UclU3eDFNbTZodXVqYXAxRXdfcUNRVlZVU1ZkeWVUdXpkUlFMS2VYYw?oc=5",
+      "title": "Daniel Blando García - Sales / Wine & Spirits / Export / Trade Marketing / RTM / Business Development / WSET 1 / FMCG / Events / Strategic Planning / SaaS - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pMFNEY19xTUYtSnczRDZUOHp5RmgzS1ZFUW9LNHZfYXpKUkhad1dNU2MwOHB4Ym9veWNyU0Jfc2huZk1ENjJaZGNPb2MyXzl0MHFWWEQzdU5iT1k?oc=5",
-      "title": "H.Emre Ertan - LinkedIn",
-      "source": "linkedin:gnews:nl:nl"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDdmZElXTFJ4RkZWenlZajZBRnJab3hZVU5JUUdvYlBZRTA1QTFBM1NuMEFNbWZJWXc5SWlqYjZoRDk3XzkxTE9qbXFMdW5VSElEMEZwTDJKcWxxUHVUY01ObmUyZkE4VWtDcFNaOG0wUmNPbVlyUUx1RFFKX1RUQm5GOUdWYVIyVUpCeG1pSEEyM19FMFU3Q3ZkVTNId1NyMlIxcnZsNi1HZGZEbWlhRUxR?oc=5",
+      "title": "I'm excited to share that I have joined Datadog as an Account Executive based in Amsterdam! 🐶🚀 I'll be covering the Iberia market, continuing to help customers on their journey to and through the cloud and AI — now with a focus on observability. Thanks to my - LinkedIn",
+      "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikwhBVV95cUxQOEM3UUFDUzlRRW1qMFNsYVo3N1hYdEZaSHJDOGZpb3dTOUtVYm54Zi1XUUp4R3NLb1M2eEJHdXN2Y213UlRidmowejJyanA2TGZXZXMzeGU3U1RkOGY2aDlVdWV2ZWRWMllqa200VzhkT3lzNlZnOVdxNXpGRnlOQW1laDJEZUhOUnF1cWR2X001LWhKalNDNmNsemd1d2pxQUE3WGYwSmltSjc3cWVVVG5fd1JHQVF2RUZQOFFxczRObzJtck1yVzl1dFFBcFF2bEVlcXQxRVdMZU5oR09FZG5EeWxueThKVE9nZmxoYzBQa0ZWVVN6OXRjbmV2MHA3Y3NIR2xGRHlDMkJwSThOd1gzQlZaLWxyRXdpa1YtWDdrWmhPTTIyaEFtd3NlSUdCZFFnNGhqVnJxMzNERXBibDFHU3BXb0J2MlhGQmFhOW1zYnN1WXhLaEFRbTl1OUcxcmphcjI0cFROZ2NabkxvQ0VreElQMWlPWDVUZTc1YzM2MVdLWklZVUdtVkVRT2VVcVVzR09SbVJjUm9kcHo0TjNtbUhkV1NGZTBSNnY3Z2FJRmNhMm1OU2tQbVFZbWl1dHJ5RlVrNENHVFU5SXZOd0RpLVhobU1RVE1kZkxlaUpsaW5ZS1FIeUhSa0laYUFGVXY0dVF1ZjFCMTNsMUFrbWVzTjc2cjJiaTFreFpibVVWUTdMQ2VvUURkbHVnVGxuRUp4RVpHdHdTREtsd3RuYU5MclpJNHN2Q09nWlpUUWR4eHI0Um5pNjAtaG9NLWNOR25JZ2o3Y0E1bS1IVTBILXFlUWRNVFpFd21EQlNvY0Q5YlNDN0JLOC1NT0F5S2JEVkZzaXVBOEQwUVRZRVhkOEUwZUEwaVFfRHJLeElmRlNQZ1dMVnVHM0JRaF9rYk5MTUZ0VnVnUHQ5VmVXRDZCeERVRTFoaGlFTVl2eFlRdnkyMUlUNGxTVnZNdXJ6cHNxdzloSERldjNTeGcwMkxFNlVsSzFNa2c1X2FrVldaV1RFcm9rdE80R1N1MlA4X2JfUW1HQXdpa19XdFRGSE4ta1ZCcFpheHhpODlCQ3VBR1JrNFMzSUFlNXk1dTF3SWJIVE1IbTg2UkREYTRJWVl5Z0I1RnBKNEp6SFlzcHBHazdzazVuMkUwTldZaW93SWhHUi1RQW5YbmxZN1JIOVZQV19lVXFNWTBONUs4cjRPYnVybmFXX0NhOFd0M2xYVlV0VEViSURSMW5rZlY1Z2c2SkR4MWxZVDh5VVpId08xel9haXBOSGJaTkJnR05jVWZvTVU0Vmw5VUJyRW5aRDR1T1ZQMXF0bERiZnNfX0VnR2Z4bVAxTURPS2lvcUR3NTA0Sm8ySENjN1FYay02N2hZYjBfaw?oc=5",
-      "title": "Vacatures voor 奥伯伦酒店约炮｛在线客服网止→ｍ８８９９．ｖｉｐ在線選妹｝奥伯伦怎么找会所出台小姐服务，学校附近不正规的地方，奥伯伦怎么找大学生约炮服务，奥伯伦小妹约炮小姐约炮&eglh in Nederland - LinkedIn",
-      "source": "linkedin:gnews:nl:nl"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ad3pJZHNXSzNIM1lTaTFXMEQtVi1ldkJhVXNyN1hjM3U4RFJ0UXZ0OTFKRzRncXc1NUpLR3ZqT3lSNEtCMWZXaklBQW5MNDhVSmNIWWJ0YjV0VlF5?oc=5",
+      "title": "James Henson - Diageo - LinkedIn",
+      "source": "linkedin:gnews:es:es"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVV9OYzhZR2tobEtyd1M4alowS1R1cWNpQ20tM3lQWnRBMi1CSmhYWklxZDVYbm04T3Izbkd4aFFNR0hRRHdqZFNCemEwVW5IaEFrYmpISWVta3BMd2pEbXdQaGwxelBzZXB3U0dKbjl1WDlyb1Zfb0RsWnpBTExCbW5R?oc=5",
@@ -1115,18 +1170,18 @@
       "source": "linkedin:gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMijghBVV95cUxQRFE3Q0x3dVlOMnBoQWQtZHFpZmtXbUpKaWt0a0E4aE9WVzZkRWNjbjQyc1NNZ1FwT1hVODRGc0V0TVVyaXV5Z1NpMFBEbk9Ibk1paE5vcDhzU1FNRmFmV0ZHQ3hwTlJxTjdZOVNFQUIzbkt1ajc4OVZ4RFJEaEJLdW95eEJrWnlfaTNWMi1hWTR0c0VlZ0ZtT0NSRk5PWm40MmVZVUY3RlRObEJRa2Z4QTRZUEVubEk1MEJwSWVBOXdTTVM4ejBhRkRzaFpoZWtlaWxFa2hOcm5XQVlQZTR0azlWbjhxNkRBdVp5OUE2N2QzbU41cmxBaldSRWM5Wm9FM2UxcFl4NnpGSUdyaXN1U2x4c21vWVRJaE8xYkxxaW4tZ3NTY0hDQW1zbzNPc0tPZW9lcFAxN3FYRDFvNEx0OGFDbGhOcmhpR2FnT2pPTHFTNkhybjFzeU5HSEh4dDNsek9wWGpFSTJ3TzNfcHVYLVVrZ0xMN0djWjFSU2d1a29pREJ5YmV0dkdtNFBpc2dFYWRkWHN1SHBhajNlbGx3X3RacFc2aXdlSUt4bVFCRVlwdnA2LWN2Y1ljQXFlSE9lZ2xYRlV6VkRFeThFT2lERmYzMDVLRFM1bEFCcW5Dc1NmU0R1UXMybmF5WjcwamRRaTJaVjFOUFV4S24zUzFlVGVpbkxsYm94NGJkMGM5V3pDZnd6OWQta1M2U0Y5QUdFajZSejRDODdvczdMWEJvd3g2M0hlSU9UYXRDWFVmeXowdWVSUXFOdzNkOEhFeGNDNEVYTG9pYlJ5aTVvME5uT3dldmNqenBtek1UckhBZjhHNlhrMWg5WTlCLUNzVVdJY1pDWFdtS29OamlzcnRxSlUxeU8wSDVLN3FPSlFqelhVSGRMTkFRVmE4R0pZQ0ZJOENHdnNOcEEyOUxmQXRjdHdkX3h1Szl3cms3NWpKcHFzdkVSb1owb3IzcUx2MXlRNmMtVWdfbjlfNnhoeE5HWDZpTUZKQmNGMGtub2pOUV9fLXhyUVZvczV4NjNIT19FMV84d3g4cW1kNzFOSVd0RE1yXzdIZlJzQmZVNVIybXhNRVo4WnZ2NEw3UzZrWFc2X094VXd6cWhlZ3phTFkzUnZGcTFUM2pVMDdKc0swWlQ1UnREZmxTMmlEYzhzUV9nNy1DMGdXZEEwMVBrN28xUXVjaktzcm1ibjhDN1N1SGluLUJrRW52MlhPT2xwQ3JNSUxsM1h3emZaWHNMMXQzbkRxejBHZXdMWnl5TlNCU3pHMm1yb3l3REx1MElMQUlMaTlvODdpUW00OVNHQWJpQ2JhXzYycUkydVRmMFlDTlRUZWZOWlhTN2FoVURSaDhpbUtMVnNvdnNBamtybnc?oc=5",
-      "title": "Oferty pracy wg wyszukiwania 杭州市临平区怎么叫空姐包夜服务《高端小姐网址ｙｅ６６６．ｖｉｐ小妹任选》杭州临平怎么叫美女上课服务杭州市临平区哪里有姑娘大保健服务杭州临平找漂亮小姐上门约服务.20260418/ w Polska - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFd2I2NWwxRnJCRTNOVC1Ja1dwMG9SMGV1UjgzQThnWVhwbUZRS2dzZXFwV29xQi0tSFhNQXBYZlBqX1Q3R0RSRmU1UWhjV29FLVpkXzNjM3NHVTc1dnNUSngtNDJPc3BkNTI4Ymk5QVRJQW9BemdiSg?oc=5",
+      "title": "Vestacy zatrudnia na stanowisko Brand Manager w Warszawa - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1AdBVV95cUxPN2hkNnJzX2VBLXc4TTJCck5PdjVzTUR1TU54SXplTlpoVVZ6RHdKaWg1ZXlaZDlPRVg0RjRZcTRiM0owb1dkWV92WDAzMGRabWFCQVUwNDFDdnhTd29mUHBmVS1YSU1lZnMxZzRUb3RreHpfLUNvWW9TNmlQSm1mMnEyVks0cVNxOHVFVGxjd2t3YTFjVW1JUDNkcC12c041QjU2clo4bjVmMEVWbDhzQU1UbXM3bDFPcHpOZ01HWUNSbmM0dFVhazdObmZMdkRqZ1hhWUxVSFJ5U08xV0p5R0RrRnhvV3JIQndjMlp3SC1yUE05X3I3a1ZHNmFSdk80YWZGUUFSZWNTUnB6eURLZnViTjV1TmxnenRibk8yR2VVN0dRZ3hySFd5V1pVbUJnaEZ0aS04MmlnWG9KdDhlU2UwcWttQmM1aklDR2d4X3ZGV1l4TndDMElJTGtaQlBkN0dGa3ZGVjBuZ090RDhHNEtZY0paOVFRZ1gwakkxQVZrQjZQQnNuYmF4SE1aRHIzZUZ1UFM4N3dQQTloM2c1Qk95Z0pHUDFSWlpuRHhJdXdyVUhNZFBpclBlMjVubHFsR1V5WlV1Ry1tZ2xlakdfRVdmTXRUekgyYkpGaG56MFVfX3ZOMG5GeklNT1UzOHVYS0ZwcW5wV1dWRVFlN1JWRmkwTkdJQjFYWmNYUUNUazdjMnh3akU5OEZVcFNDODIwS1d3WWV3Qi1FOVdMY2V0cm1xSndKR0lSZzJVdTdtbWd5VVgtaDB5Mk1GU2hmT2hYZFBfaTNjYnp2UDhRWlU0SFhFcEpsNFRmR19Qa0VDSEVabzhwYnVLci1IMWJ1MFdTVm1ubURGQjlNdHRxNTZfNTNHODQ4UFNvcU9fRV9vQ1l0eXVtMHAwX29ySmRQRkJsUXlKWnoyUTduMHd0UWdNTHJzVjFycmxnOXVRS0lIc2hxOG1VdlVGM01qbl9OOHVtbEdoZXM4dGlTMHVzUDVLd0JuYmhBVnZYdnB4NXBjYTJ5QTJfa1FxeE1rWnRqNS1OSkNjX0FZLU5mb0JlQTNWRmc1VlFEcU8zZ184Wk1xWjQ0MHNPb1pTdWgwSkJaM3ZJVFBBcDZTNVotb1pLVGtNUndKcXBKbkVjOXJXQjgzeEoxdWljTDNCTHlDcnJOZHBLVjVjS09tVmZkWUlGdWplQzdiWm1ZeVhxckIzamJwSVBVNkVjSkgycTdBTUM0QW80UnpaQllNcUtma0RPaDZ3SmtVT2Q2R3M4NEZWbHNTd2pOMVQ4Z3RxOTd2bU1paVFsTXp5cA?oc=5",
-      "title": "Oferty pracy wg wyszukiwania 朔州朔城区约炮工作室外围｛同城約炮網→m666.tw在線選妹｝朔州朔城区找小妹子预约服务☞哪里有约炮服务☞朔州朔城区找小妹子上门服务☞朔州朔城区怎么找小姐上课服务+uxxhc/ w Polska - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiowpBVV95cUxPNEZoUG1mTXE3U2M3bWZqQVBSMk95OGFJUVFyRS16b2NpQUE4UjFOZDIzMmZTdGRZSUxmZl9UOTQ2eUVJMlptUDg1emhwYjRsbE0yMW92cTFNS1hOR3c2TndJa3JFcXlvckNkaTRIT1FyazFOc3JxcE1FRy1sMXllSGZTanBqU0hncllKX2hVSnFRbW8zWDFCcC1TVm1xWjZVRWZoSVFZLVV3cU80dzhnU3piZzl3TEttV3Q0OGw5OElaSmJIZUxBMXZPTlNxV01BelRLMjRMUm5BWkRqMk4tRHdwcG5fcEM3cVppeDZSUlpTZHR4bHBwN3BDWmJ0LThLcjRQX1dnZm9RREZBZjBMbFVHalU4bjVFZ3d5YTlXbk5UZGE4V0I0YWpBMmFxam9iRzhqRmhxLTFsZ1RaVEtIVE4xMDVVeWV0SjY1dV9SQ0w2UkJQX1N6YXVMUUNlX0I1UFpBTlFTRjRxZ3NBUEx6R2pCWUpwN0V3NERuemkxVi1xMk91TzhYbTBYdzZMWlRONnY1Q2l2UUhqQ09TdGd6ZW1vYjI3bjhQTERtb0xRMEZlY1lWbXByaUJwQUpTR3VSdnl1Z2V1NDhEWkhGUlJhMjJ5bDhWaTdoVFBUUXRtMnZYZWtHVkc2ZENpcHJVSnBjVjhHenZXOW8ydUJPWFlYTUdHN1NBZHFMcXlyemxWSjBsTmZzNmJDemdNWWViOEVacG5jeFllTU5EbUpqYkI0dUhPWF9xVUl6VVVfWGNld2lfdDlCbXh2ZklnanNQLWszYVgyOFNFeUwzNXhBaXltdzVjX3ZYY01wdktYVEZOeHVydWZOZFJ1ZWpJUFg0elR2WW9aQjY5VlNNa0pVeGR1akgxSmh4bnpKMUpjY3hpSk8yV0RLU1o5Zkk5aElsMnNMM3Z3MkNmNWtwd1g5LXR2MWNPMl9kdW9Ncjg1bkd2UlI3X3U1d3RyZUpSX0NNSWxtWnJpR1pjWXRIZnVNckJrSUV0RE8xc0tSU1NfNGRfQS1hOUlfNno4Nl9lTC11Wm5DWVJCNVNwdGc2ekkwRXhYRXJzdnppbWdTdUV0bXg4V3U1aWZzZy1EUVloZ3VLMXJzVGNkYmRqUkRaLUJzdlN2Z1hYVXREMk9XTGZJOXVNemlFa3lSbGZNenhkdnB4QmdwS3drOVNSVTNFQ1VKTllYVzUyNzVHUTFEN1puSEhzSXE4bkN5b1RvX3E1Zi1PWmVmLWxHLXg3QWRRMktIRWlyQXQ4RUlISnhsLUlPMjFHQ05QZ0ZQOEdGaVJxbWxGWXRIUTlDU2t4QjJRd19mbVZxQTAzclcxLVk3WFAtMWNXVXVzRXlCdmw5eV9nemlkTDRremxFMVNJZDZ3ZG5GRFJZejJjTFZ1ejdHUGN1Y1ZQZUFIVGdWSHFoTDAtOUNtd3hrY0R3VzhxZklXYVhCMDU0RGs3XzlhNEw0VDF3bndRSUdhdERaWDE1YVpwamN2d3NqN0lFRDBvemJ2WFFQczdYa0dGZWZZOGlRemRhdmQ5UDNtYlR6cW41WUhTRGFrVVA2eVVVRVl3OEprM3JIcGdyVjJQQVFOUW5XUXd1czBVUnFzMjZ5bVZDUHZmQnltRk9YaTdISFFjV3JUSGs4NjVXVHh6cnZEQ2pHVk9rd0hXNnlDaGZER0RNaldhQzZCeDZCVlNnNTJsQmtWQ0pFcWQtYVlJNnl4bm5BTFl3c1J5NnZMOWxFV29Ram9oTllYdUNWSlNZ?oc=5",
+      "title": "Oferty pracy: 佛山三水乐平镇哪里有小妹服务（性价比高）❰精品选妹网→ｍ２１６．ｃｃ靓妹全套❱佛山三水乐平镇找外围（身材么么哒）☞小妹上门服务（找小妹服务）☞佛山三水乐平镇找小妹上门全套服务☞佛山三水乐平镇约小姐上门服务≈xohe – Polska - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimglBVV95cUxPaXA1RmhIcWR0SVNDTzdpVDBqNjZKVXduQXJ6bk9aNUpkcWlUNER5MVB3aTY2b0sycjdRUV9ORjFoMU5LbnZJZDFRczZRWmxaZ0RMeDh4OWFHTDhSSXhPdjFfTFkzblNVakdUbUtyR3V5TzRGa0YwWTl4cDF0aUo5WjB2dDBPQmVGSzh1bXdlUFN5U2E5Nl96c2ZyN0g1Q0trMGlDYkFWeGdiczhkQ2NYbUU0d08tcmNnMlMyX2o3TmZ3M3B0SldDX2FuQk5rQUVGY2tUcFFCZ1JVSDNzTmhDSGlFeEROWHBJOG9LLWlnVTFFQlljMl9UMjMtYlp5ZVZwa1ppMUtoTzQ0clI4Y0NJUXRYaTYydmhIMHVaSTFOWUNTNGV1SUpBVDAwd3JILWtmeFFkRmJoSWRoamtiYV91ZGxEZDRNUDNoYWY1aU96M3Ita3FZUnFGNTNkbnFvLW9mXzEweDNWalU4ai1HcmxsSTlzaXFpRXFNZ3JMOHdqTTRiQzdYRFV3VU1xTWw4UHEtYnBNbUU4VkUwaDlNd2JXMmZZbTlkQ1c2YmhEYkI3Y0JmUkNSdzJDX2d2MFg3cVlyNHhUTkJyVzNXNUNWN0lYMGRDOVBoMjdwSDVmZGFIa19pZlM1MG9QU2lfZzd4bks3SzlyN2FKSVV0M1hpc0NwZjdhSnNUcUhsMUZrb3RsdjV2U2FvVHh0MHMzdjNyUUtTZjg2M3pGTkg2MmJ2Q2hoQmNBR2VPX2lzaW1vbDhmd0lyNVBZaVVYQ0hvNXFKOW5uQ2stRHFVb1BaMFVDOEhTNUdrWFNBR2FMdTh0Tk5jaU1wVXNleDJiZDJZdHNnZWJZQmg1aEYwMUVHRjRVZnhKajBoVFhPR1o1aDRjWFEybUxvZkY5REp4bUpWRmV6Y0xaNnRMOG9HSXVjalk1WmhKNnVmZTRnUk4xZkdrMmRteUYzc19kc01UNWlCdmlkZkcwdnYzQXplUzBFUHlrVDRoM0l4Umd5ZEdKTE1BRlJnRFd3a3dEN2FnZW52WE1tWldubjNwdDBiRW5pczZrTElmWWlQenE0THdzcjJqQ2Q0ZWx2VXJpcURBUmU1YVFzSTdfUDkxcll1UGhYU2pKdldwYVVmT3hKejh0dE5Gd3N5MHU3dTZfSTdIUFROUVkwX0FidEdJa0VCQWJ2T2lWNWNvV3hvcVhEWk9KQTB6aU82N3FOYUNTcW1WRkFTQW5uRFdpNlNTMTlnbjV1aTZNX1RsOTJZQWJGNGExWm9kSjdXZkVJVGp6bmRuc1JubmxwVm5BVU5QT0t4cmctNlpBS2swZldOLUg1NWVVWFZGMnZwWTJYWnR3MW9WXzNwS1F0TGJISGhPeXNXNTNjNUtZb09hdFZEc2lCVjY2emtacUhqTlRON2VlOEs3aWZScVdsaE1TQ0hNT3Z0RW5TYnBkUjIwVExNajFsYTZRZi1JUjdXeFhPbW9xNjYzSzBwQ291RkM3RHVnM3ptb19zZFRPNUxXaElYcGpDOWxJOHZaQ0owU2NtN3VKRjZCMjZsTXNUYVl0R3dsV0ZUc2ZHUQ?oc=5",
-      "title": "Oferty pracy wg wyszukiwania 苏州工业园区怎么叫妹子特殊服务『小姐妹约炮网ｙｍ６６６．ｃｃ嫩模学生』苏州工业园哪有喝茶包夜服务苏州工业园区怎么约空姐大保健服务（美女外围女）妹子外围女苏州工业园怎么约模特上门服务≈wdbnst w Polska - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiqwtBVV95cUxPYk9tUjBZN2dtYS1hOXFVeEliYW9DZjhYeWFlRTFHUEsxSVF3TzRxQ3F2QUNvS2JEaXQ4cmptZUF1TmxXSUFDRF8yRExMOTFMbXloRUNSSHd5WVJ1MlotWnFKOFM0Wk1TR3cxQ1A1cVdPRHdsYV9sUFh1QWJjUUg0Vkt6akh5NkdpN1d6VXVmYTA2Q2xDc21iVTdrcld1bzlEYXpIdV96T1VENnVvamVSOVRaUFc3dVByMTl4QVdiZzNQbTdKVlBpanVQSG5GRjA4SERfeFB1bUd5TGZEVm5iWHM4MzRUU2pSQkliVU1xaVRsTHF0WWNtTEJPSkExYlpOTEJlUERRalVJc1lDUjAyUmhGVHJ5U2ZtQnI5QVdVQWRjdkpvRE1mNm1UTzVkcFBPM01YaXNySDRFRmQ1QTVqaGdxc2dvcFY0V2JGZW15YS1pcmJxRF9zWV9iZXhGRzVuRl9QWHFaa1VLbkM0NEhzWEs4NGIzTU5UemxmWjBWU2RieGxWUkcycXBrVzBPc0VTSjd2dDFtYkV0c3QtWDZYaVRHMnBDdEdpVG80RkN5UHQ5R2ZIdFNyMDRJTzRtc1BfX3pTLXRoR0J6VzVDd2o4MXVVTzc4SkNRa3QyMDlFVjI5RlBHODJNWTJZbW9PNHhPZVR5RVJ6TndSc1lkVEpjZTNORDRaVUpvMWRJdnZBLU85QVRqSWsxdEVBN1hqSkY1X2JncHF2MjJILVkwYk5Ic1NWSEh4Y1ZYZi01UklsQkRXMktkcmRveGFHT2twMzJRdmx5LXRlQTdPeGZBc0pRV0xBS0VrZTZjWjMzTjF0Z0xJVWVmMjdIRmo4bUxnRlY4RGlkVzdJY3pFVWpuc21YRnNXcGx0d3E5TENIX2lmWjJkSUh4RUxYTU5DOTVpTnpQVkpwbnNpM3VQZjgyQ2txdHFjaFBwZVhBTUVicDNXTmJzV1E0OC1hLWd6T1M1SUJGSWtZRWNPMFFrUHF6Z3o4Sk9tV0dVQkFIWDhDUkl6aHVXdnhDVUZENlJ3UHVMd3ZmQ1pKVHh4NWk5SnpJWnl4UV95LVpWLUFXMlRCT0p6Vm1uaGZzdE45RDJ3bGhuVTdrdlpYSmpNdEd2ZGFFSWJiVFJoSE5FQUd3bk0xYkVGTU9ScmU3cmZEUmhDSHd1a3pCUGVuakxEVE9yRU9MakV6NVhjblQxRlMyWlNJSzllclU1OXRyV2c1eW1lb0NoNzJ1SFktUlNkbVBsWDVIRkluRS1JY1cwUDJLQTNjOVBjc1NaY0ExQV9NaU5ITEVNeFE5M0RBTFAyLXpJeHdpVzF6aTV5ckd4dVlSMUs0WnFVaUxBc1lwOWVrdi1aNjh1Z1d0OUpEWE1hbFFUYzFIMHJqYlVtMEJtYS0xUFBBOE8tbmNYblAyanJuNHVDTlJqQnBKVFplQW1wTjd2Y29KbTc2MXNVMjkxYkxCUkR4cElWTElaWU5BVTB3TWlSdm5sc2ZlR0YyLWxaQVhQSG1ISTdFQXAtWThCSE43SWxZcnFRWTdHenJ6SmRaVDNEYVFQbGFTRmZWdzdfRVlsanMtY1l2N0tva1B1akNIOVNNeGJDWnloX3pOQzdjdDBmX25jbjNwd21OUkZ4eTZZNE1hUEtaelhjTjhXQXpLUjN4YXBHQy1aMUh0RzdKVU9pbjU2a0t5ZnMwU01MeWJJSHBDNHNTYjdpM0FQWHJHZzNUZW1OSnNva2lBVVMyNWpPZ3ZpM1VXaDhUQ3FpX3dkVU5VdTdDOWY5Wm9uUXRGY2FBdGRiTEtMQkRwQ1ZvaHZKWDZDcWY5VE5ZSEVkbUlOeTk3QlRWUjllS29OOXg4dWtXT2lvQXlzMHdVQ3k1dVFsVXBIMVVzNnJ0bkw1Q1V5bEE4c1RsTG5hQ2d4LTNPZW8zd2F2VXVpU2taejg1Y2ZPOA?oc=5",
+      "title": "Oferty pracy: 合肥新桥国际机场附近哪里有小妹服务（性价比高）《tg客服网址ｋ１６６８．ｖｉｐ小妹预约》合肥新桥国际机场附近找外围（身材么么哒）乀哪个酒吧怎么找美女特别服务乀合肥新桥国际机场附近找小妹上门全套服务乀合肥新桥国际机场附近约小姐上门服务~pax - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
@@ -1160,6 +1215,11 @@
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUVfYy01VUhWLVVLMHJiSHZHWVFMNlN2bm01NXdCRjFLd1Eydl9CRm81ZUd6dVlqV0ZBWjNSXzVZd2lzZm16c1NaRWxBMk92ZGZmMUNxTHo2eGVXT2piYnlndjZoS3I3T3UyOG11dFd2N1U1STh6MnpOTm9HcUlwMW81N1V0UHJYWC1Kam1Idm1PZnlueTdOaHVGY3Eyd0l3NFJ0ZTRLVDloZUpSWVc4LTNONkVCVkhOVGVz?oc=5",
+      "title": "Pernod Ricard Indonesia had the pleasure of attending the Indonesian French Chamber of Commerce and Industry's 2026 Gala Dinner, uniting the Indonesian-French business communities, leaders, and inspirational figures. We were honored to meet experts - LinkedIn",
+      "source": "linkedin:gnews:ie:en-IE"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjZ6c1FXX2p5ekw3SmZLWXdBRXFGNmlDRlgxQkxiamFqNkNNaDJiSlVBTGhaWFloTTlXSzgtZHV5MTFXWTlVMnJfVEJEbzFFYkxOMGpPTEVXNFJjZWxOUEEwMFp6WGJxcXc1OExYRlpJbm9wTXJxdFd2al8wNndlUENPMHhEbmlLekpoeUo3b2NtYUJmcjFLak9jMmFSNGRweXhCOVprWHo2MnNYVUl1UDg3c19sSGo0WUpBbUFqWUdDWk4zRHVuVTkyeEpCdVNK?oc=5",
       "title": "Pernod Ricard gains family backing in Brown-Forman pursuit - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
@@ -1173,15 +1233,15 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1NCT0tBTmhwMGx2WWNkOWdQeE9uNEp4SEdlTWZwbC1qcXdMeDBFUXhTdlYzTm5NNTlvQm1VdlFpUVB2aXh2bGtSQlRjdUc2Q0xtZzMtTExiTzNtRXRvRHdMcXo4UDJhcEFJdV8yZk02OVFONk1EMlM5c2FoUDRwMDZhcnI?oc=5",
       "title": "Pernod Ricard hiring Director, Chains in Irving, TX - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWElIRjM1NEFGOWE5X09RdDNCempzQVNnMWptWEpLRXQ3NDcxa0ViOGxpazBhU1pGcTJjbzRYRWkwZVZvekN5cExUZjJHakdXdXE4Yk9qVk5ESEF0UEh4bm54VUZvRVRLVUs2OVc1d0gyckVvRnppbjBWNkRrZTVDR3JjT1FnX3BzcEE?oc=5",
-      "title": "Pernod Ricard hiring Trade Marketing Lead in City of Johannesburg, Gauteng, South Africa - LinkedIn",
-      "source": "linkedin:gnews:ie:en-IE"
     }
   ],
   "report_markdown": "",
   "report_used_sources": [
+    {
+      "url": "https://www.pernod-ricard.com/en/media/pernod-ricard-and-brown-forman-terminate-discussions-regarding-potential-combination",
+      "title": "Pernod Ricard and Brown-Forman terminate discussions regarding potential combination",
+      "source": "newsroom"
+    },
     {
       "url": "https://www.pernod-ricard.com/en/media/third-quarter-fy26-sales-and-results",
       "title": "Third Quarter FY26 Sales and Results",
@@ -1225,11 +1285,6 @@
     {
       "url": "https://www.pernod-ricard.com/en/media/annual-report20242025",
       "title": "Annual Report 2024/2025",
-      "source": "newsroom"
-    },
-    {
-      "url": "https://www.pernod-ricard.com/en/media/q1-fy26-sales",
-      "title": "Q1 FY26 Sales",
       "source": "newsroom"
     }
   ],
