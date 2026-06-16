@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2026-06-15T11:39:09Z",
+  "generated_at": "2026-06-16T10:49:23Z",
   "signals": [
     {
       "type": "summary",
@@ -80,6 +80,11 @@
       "source": "gnews:de:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oUjhkOXhTcGJMWW8zTG90eWRaeUV0b2FIRVNmdU11VFhSLU1aZnRFeHNkUVdUdm5KN054LVBVQ1ZFNXdNNVhzaHl4TUFseGkxbG9tTlNTNXBIbjdMU25UTHJyWHZWQ19pQUoySENzTkdibTZW?oc=5",
+      "title": "Neuer Vertriebsprofi für Pernod Ricard - Getränke News",
+      "source": "gnews:de:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElBSmE4aW9lSnlxekJhUndNb0d3TzNLN0drMExQal9XTUNQMGxkbFBMclRYaEJlc1BPaE90SXgzdy1Vakc0MEpBUlFUYmUxY2c3VXhoRF9abnFLQmtzbWRxamRXa0IwSGJaVjdHM0lkNFF1cWdEN2xBUUFYX2RPOEM1Tm9CNU9zLWc?oc=5",
       "title": "Pernod Ricard-Aktie über 20-Tage-Linie - boerse.de",
       "source": "gnews:de:de"
@@ -87,11 +92,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTXFEYTlXNDNxYm5EQ2RnbDRiODB1Z3BFOG5HbHhuQ1RpM2gyRVpjeGVQbU9DWkpYckpjVHZUTjdPeklCaU1vSDRwaFlEUWNPMHhtM0RVZG41am9PcVZkXzQ3ZF84OF96a3ctTWtNaFgyRUV5Zndhb2gyYXVPMEVvVkhQbFU5WHRZZ2M4Sjh0elhaN2wyUl9JeUoxMlU1RFVKOU1aN3hQQkFIMWRmUmEzRExrOENtc1FYQTJ3ajYxcXRpQngwVlk4VUpMY1BLVEtGUFhn?oc=5",
       "title": "Pernod Ricard: Wie InvestingPro die Überbewertung vor dem 44-%-Kurssturz erkannte Von Investing.com - Investing.com Deutsch",
-      "source": "gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oUjhkOXhTcGJMWW8zTG90eWRaeUV0b2FIRVNmdU11VFhSLU1aZnRFeHNkUVdUdm5KN054LVBVQ1ZFNXdNNVhzaHl4TUFseGkxbG9tTlNTNXBIbjdMU25UTHJyWHZWQ19pQUoySENzTkdibTZW?oc=5",
-      "title": "Neuer Vertriebsprofi für Pernod Ricard - Getränke News",
       "source": "gnews:de:de"
     },
     {
@@ -105,14 +105,19 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUEhrSmNqQ1ZFNFR1X05uXzZwcFpZQ2VMZEx6UG1Ua1lPWi1ZQVM3M2U2ODhTS0pqOUJjeURnd3BEUnZVUHFha19jS19FejEzQUkwdUpuNURhY0lQbUsyVmNHV0RzczlzWVdKOEl2aXYwVkpEMTFpSG9aeFpCN2VjTkVJTEd1VXJhaHpDUERsckZncFIyWndtUGxLSTc3bFJ4OHZCQV9hM1B5RkNpWndkY3oxTGloNXZvVkxWNlFFUDVhN3RHbnplUTZ6Yi1kOGM?oc=5",
-      "title": "BlackRock überschreitet Schwelle von 5% am Kapital von Pernod Ricard - MarketScreener Deutschland",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemxHY0JTb0hsbFZYVlBzQkdQWlY0RkxGbmxYQVFsV3RsNUNXSUhyaTRvRjhhQTBXbi1tNnktaFpiTEd3WnljcFJGTnd2Q0VER1U0aUFHWGFUUzFvVjk3YlgxaXZna3RoeS1RNXRTYU1hOTVHLXVmSHVzUVducVdtQlF4Mm9RV0RuOE1TemQtWVhkZ25EcWNsWXFZVjhtOE5RU2czdGtQaVhwQQ?oc=5",
+      "title": "Pernod Ricard: Eine Unterstützungszone kommt zur Hilfe - MarketScreener Deutschland",
       "source": "gnews:de:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXlIbEU0YWFUeUJMWnY1VW1RODR6ZENMUHZKaWtQZl9fWjZsdlY5cWNJOFh6UUc0eFBDZG1RU1NrMlNsWVRjU1NMS25peGlwTXJvalpyZnVKcGxMNzdremk2N3NkLVhHeUc3YndMSmo0Nm1nZUN6WldlY3FVb1dteUh1WEdYTzNNM1lOWXJxSDl2V0w1bjBjNUc0ZDhDYXFISjBEZVc1UU9fX0JWa0VyeE9HZHh0Ylh0YmwtY3NaWnctRldYc2tfaHZMNA?oc=5",
       "title": "Pernod Ricard nach Zahlen: Wie robust ist der Spirituosen-Gigant wirklich? - AD HOC NEWS",
       "source": "gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODVlXzdKLW9IVG1xcXUybmtnMElFY0RrTFNnZ2phak14eFhzOTN1VDE1NEh6cDd5aGVDdE5jQUVXcFpJa1YyVGhjM1F4bXRQVEFRd1lvMFVwRHBPRXJmMEZyQXMxT29kR2lhbV9kb2otWEx0OW1wY3BDa2RJNlJtM3ZhY0l5THAzN0E?oc=5",
+      "title": "Pernod Ricard-Aktie über 38-Tage-Linie - boerse.de",
+      "source": "gnews:at:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1FyQmU5VmhnX0ZZaGpiSi0zcDJ6SDVlTUdId2tJcXhKZzFMeVgwRVV6WDRna3ZDQ3FHb2k0ejl2RC1manJLd0xaRk9ZaHBsbDViSUpLR2FEVzNRbFliQzVHSGdhMXRKckttdlFzdDZCSkRlREg2V0szYmwyVGhWVXE2T0w0RFNxNjBXTzJyZkcxZndWU2tvemxHb1ZqcngxNHJJZjl4TjNQYzdTVm92R1dZU21iTDh0SnZGS01uNFc2bW9qeEZTTTJhODVPak1uaVUwT1dyX1lXcmFiOXNrV25R?oc=5",
@@ -130,16 +135,6 @@
       "source": "gnews:at:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTklmdXMtUHZQZ3ZYcm9zYnhjYkpLSS15akVDVWtTVW4zSGlDN05tdHJqaVpfU0FBa21QRGthRG8zUUhRX1hKLUVYZjh4VmxiOE1GR0ZDczdJaVdtMDRZczB4T1Y2cTJjWnYtLWJEVGUtdnpsNWFHZGNIcGJObFJrQ0EtbFQ3S19QWUxnMDA3OWVMN0RlcDZuNFl5bUxrS2xsVEIwa3dIOHMwNkRhaUg5NnRvUlNTZ1FlbE9DZkxRczJPQ2hYTlZqRV9oN01qUlNaaHJsR3l1ZTVObWNHUEtidWxWRWI2SHM?oc=5",
-      "title": "Lillet Spritz Tour bringt französische Summer Vibes nach ganz Deutschland - Mynewsdesk",
-      "source": "gnews:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemxHY0JTb0hsbFZYVlBzQkdQWlY0RkxGbmxYQVFsV3RsNUNXSUhyaTRvRjhhQTBXbi1tNnktaFpiTEd3WnljcFJGTnd2Q0VER1U0aUFHWGFUUzFvVjk3YlgxaXZna3RoeS1RNXRTYU1hOTVHLXVmSHVzUVducVdtQlF4Mm9RV0RuOE1TemQtWVhkZ25EcWNsWXFZVjhtOE5RU2czdGtQaVhwQQ?oc=5",
-      "title": "Pernod Ricard: Eine Unterstützungszone kommt zur Hilfe - MarketScreener Deutschland",
-      "source": "gnews:ch:de"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2ZLbUozLWh6bkIwYlBvbzZmLXRKQlM1d3NGZlFVSi1oTmZFYmx1RkhXWXh0VjhtTGVjNnBDYUI4NXZoN2FxdjBHV1F6T183dEllT3NXaS1XMk5MV0xveGYwZHdBQ3dNSlhvUk5SYnNiVi13RHpTa0NYV3VjYXRlXzltbVp3NUtVVEdmZF81WjM1VkJId3JadE9rS0hxdWJTRHFpUTJlM3FyMV9pZm1FUlREV2Q?oc=5",
       "title": "Pernod Ricard: Analystenblick auf den Spirituosenkonzern - AD HOC NEWS",
       "source": "gnews:ch:de"
@@ -150,8 +145,13 @@
       "source": "gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMWZuRlZJUi14VHhHc2h2YU1JZFJGX3pRWHhXWXRHUmhKNk1yQjNGTTh4NTVZVmxGd1cxMjZxbmdJZy00OENmcWtmMXdJTU00YVcyWHVWMjlHSndQdTBLNnhYaU9xQzI1UWgxWWgwbDlhVlFqR1JfOEFxWkRBdHQwWE9za25haTJWdWIyejhBREp4aGp1WFZfRGhZM2dqc2wxMG5JYWh3N1FDZ01yNmdLYXBGVkNJYjkxajVGYlctWjYxQ2w5X013allCa1M1dFNGQVhyNXJidGdWQ2xLR2pva1VKN1U1SE05RDlfeFFjSTZrb0JraDJzOGUwQ2szRE9YWUxRMGhpT3F4UXczRDROQ2Q4dFN4Y01uYWt3Z3J3?oc=5",
+      "title": "TotalEnergies, Air Liquide, Pernod Ricard, SEB, Quadient, Arkema, Danone : toutes les recommandations des analystes - Les Echos",
+      "source": "gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXdTU3JseDVwTE1wYTNpOTZpelRWUWR6dHlOUUVGVjVHNlBTa3R3aGdhR1NOUHRkWnc3ZUExdEV6TngzQ09aRDN5SkJTeEdmamhtMGNpVjBMelVLamJ2RGRKZ3ZTZm1acTZQRXg4MGhFTVlyeUF0Tm5xX0pPOTU1NXN4aVRSVG9PTWdaTk93?oc=5",
-      "title": "Pernod Ricard gagne 0,73% - Boursier.com",
+      "title": "Pernod Ricard lâche 0,32% - Boursier.com",
       "source": "gnews:fr:fr"
     },
     {
@@ -170,13 +170,13 @@
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXFDeG45Nlo5NE93TzFSeE15aDJDdVR6cEN4T3NHVHpMNnNnS0F3bmsxZEJLaWFzdmdxVVZySjFPRFpJOGh6YlR6SHNXQlRBVFJDeWR3RmJfUUMxNTdFTGJ2b3VLVi03QlhCYlh5NGxuZXpPZmVkbG9ERENDbWo4WXJBR1NuYUhBd1NwSmk3TDZEMXFMZ3M3NVVVZklmMEJkRWVORFBWZlR1d05SVkR1aTdvaDJRX3JTVmZ3bVVZV0xxdkoxVy1yZkxDYzM2NmdaXzVJ?oc=5",
-      "title": "Arash Nassiri bâtisse sa toile à la Fondation Pernod Ricard - Libération",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkxTUlF1cDNSR0xmSDdkbXJvVEh3N1FLcE1Qb3FPZEhwNW1jdHNGM0FDZFRSOFlZUW9LZFZQTHMwNElieVJER3BDVkg0YkxmREwxTG5QNlNLYmVRNU9QRHBZMU45bjZFekRLemJId0RuOE4wckZyeHBuUWRkb1NMNjFzRksxejhTWURxOWtkbWZqU1d4TUFTZEtOYkR1bGZfODRIZUVmZVF5NW01SGhUQURjTjJnZjZLNVhKSUNqcDNmOElr?oc=5",
+      "title": "Caroline Connan nommée Global CDO de Pernod Ricard - republikgroup.com",
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkxTUlF1cDNSR0xmSDdkbXJvVEh3N1FLcE1Qb3FPZEhwNW1jdHNGM0FDZFRSOFlZUW9LZFZQTHMwNElieVJER3BDVkg0YkxmREwxTG5QNlNLYmVRNU9QRHBZMU45bjZFekRLemJId0RuOE4wckZyeHBuUWRkb1NMNjFzRksxejhTWURxOWtkbWZqU1d4TUFTZEtOYkR1bGZfODRIZUVmZVF5NW01SGhUQURjTjJnZjZLNVhKSUNqcDNmOElr?oc=5",
-      "title": "Caroline Connan nommée Global CDO de Pernod Ricard - republikgroup.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXFDeG45Nlo5NE93TzFSeE15aDJDdVR6cEN4T3NHVHpMNnNnS0F3bmsxZEJLaWFzdmdxVVZySjFPRFpJOGh6YlR6SHNXQlRBVFJDeWR3RmJfUUMxNTdFTGJ2b3VLVi03QlhCYlh5NGxuZXpPZmVkbG9ERENDbWo4WXJBR1NuYUhBd1NwSmk3TDZEMXFMZ3M3NVVVZklmMEJkRWVORFBWZlR1d05SVkR1aTdvaDJRX3JTVmZ3bVVZV0xxdkoxVy1yZkxDYzM2NmdaXzVJ?oc=5",
+      "title": "Arash Nassiri bâtisse sa toile à la Fondation Pernod Ricard - Libération",
       "source": "gnews:fr:fr"
     },
     {
@@ -187,11 +187,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXVnM3I4c3Y0NmhxMlh2TXVpandJaVJBNWxXQm1rUTBFQmlEd0lielpJOC1RbTJNODFfN1ZUQ0xFTGtYWWpVbmNnVkJKTGx5UHdhVDZQLWJPMHg2U3dHcU1vdGd2azhLR2hrYUFFNjJTY2JUTWtpa0tTS3VoMnIxSlhEYTBpdEdiMExmWDQ4Z1hKSDM5Vi0ydGVUZHVkWC1jUm9sYi1Iei1saW9mNUhZZXVId09lRmFmMXhBRnRIZnBiWVZWVHhlSElseTA1QzZfb2p3S0thOVdNTjl40gHcAUFVX3lxTE0tdWczcjhzdjQ2aHEyWHZNdWlqd0lpUkE1bFdCbWtRMEVCaUR3SWJ6Wkk4LVFtMk04MV83VlRDTEVMa1hZalVuY2dWQkpMbHlQd2FUNlAtYk8weDZTd0dxTW90Z3ZrOEtHaGthQUU2MlNjYlRNa2lrS1NLdWgycjFKWERhMGl0R2IwTGZYNDhnWEpIMzlWLTJ0ZVRkdWRYLWNSb2xiLUh6LWxpb2Y1SFlldUh3T2VGYWYxeEFGdEhmcGJZVlZUeGVISWx5MDVDNl9vandLS2E5V01OOXg?oc=5",
       "title": "PERNOD RICARD : L'analyse ne suggère pas de baisse à moyen terme - Boursorama",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlVSbERjYVN5ekZIUmVKdk9zNndiVEd4bzZRWUhpQzE3TmhBRlFfUlRzRjhpX0s3RXY3MDdMN1NzUW9aX3g2ZnZYZk1jRjFUSzRRNml0akdhY0lOYWpZeG1IbEc2M0VOYkw1VmZYby1ZeGVRN1c5TnVRRU93T2NhUG9BeFBER2dlT1VJRUhUZTlaemRFZ3lxR3Y3OC1Gd9IBowFBVV95cUxQcHpzVE1rLVFDZlhZWXdJbnlORTJVU2RucFNPSHVNMXZtNjZOcDFPWFh4ck80ckcyZXJoNHl3cTNiWXBLX0w3dXY0YnVYZW5PUFFWZHdQdUdTbU4xUUJsc0RXMnlDbDdjUGJuN3BNZC1sWWJ4bGVVcGhjUEZlTU9OXzFFUmgtRjZhUnJ6eUhqNHpVY2pwc1BOckdpYlBpejlHcnVn?oc=5",
-      "title": "BlackRock dépasse les 5% du capital de Pernod Ricard... - Fortuneo",
       "source": "gnews:fr:fr"
     },
     {
@@ -210,8 +205,8 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTFNyd05MZVZJRHZuR0s1SXBxU2VGS1JEb2lFTWZTdVg1T3NaUGtyeGFyS2t4VlBoM0tZSi11dnR4SVpRWmlNdXdiQUpjSXA1Z2RGZFpIZG55Vm9BNUdjT3FhN1VaYl96UW5vY21OZ0V0a2VlUjN0RUpIOWNPbkd1bzRadVhUS1pPS2o3UTdUSmFWYmlJNXNV?oc=5",
-      "title": "CAMPARI +2% - Remy Cointreau batte le attese, +12% a Parigi - Websim",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb05kcTBQVmxYMjZVbTEydnhtZkJLVVBjZWJjb3BwUzdDeHlvMXl5SHpOcV9WUm1EUDNQaUVSWUVYbHpfMy1hUERyZFU3czNoOW5OaXM3UW4tUE1jM0NhNDNLZ2lFTzRYeFpVb1dnTFIwcjJUYl9zcDhiQkl5d3lnTU5LaU90R2diV2VnNGp0QmdhN2J6dkozWDBlelRjblVISDljZTEzSVd5SktMWU5TLVBjQmhSSmVWc0hsMmxCY0pfaFHSAcgBQVVfeXFMTUd1dUVjeHlNc1QwODJaejFRZDR5N29aRGdNb245Z1FyQTVpYmwtVlh2b2ZRUHdBR1A2bEJRMVliM0xNRXJGb21WNkFuRlgxSk1VbG9JRkh1aGgxQ2RPV3ZQdEwyVGdCdGVfc3YyZndwT1Ztc2lvNmFlb3hJUWp6dUJ4aDJjVXVGbTZ4bHhEOU8xVE9Da3psdGhZOHFtUlhOX3hWU1gyeVVjNUlGNG1iak1qdXZHMDd3eFEzR2REdnhZdmFuaUFVckk?oc=5",
+      "title": "Le aziende globali delle bevande fanno causa al Telangana per 400 milioni di dollari di debiti alcolici non pagati - Vinetur",
       "source": "gnews:it:it"
     },
     {
@@ -220,18 +215,18 @@
       "source": "gnews:it:it"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnpsd3dZRGNKV0NqeTRiMHVYT1RTQzdQd3F4SklKVHZ0bVF1a0U4akNWOEZkRGg2bFN2cFUxb1F5NzRzMEVnWXZIem5kVGpJT1A3LTMwT3dIRnZ5QV9Vd280Ml8tcjhqTENSdnFwYUQwRGYzTmFTTDlTbWg3TFpLWmdwSS02UVhva09pSXBfZm1kdTJyd2R2UUNDaURXa3RYQ1ZzeDZ0WkJhLVB4YWxwMUx4dUtaNVoyc1pxTFl6bDN6bmJ6SlI4M0dINEJaZw?oc=5",
+      "title": "Trump minaccia dazi del 100% sui vini francesi a causa della tassa sul digitale - MarketScreener Italia",
+      "source": "gnews:it:it"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHJ2bDdTTmpJSTdUT2V0S0ZsZUViNW8yZk1rWndPTTRpRk9qQ1dQc1FjMndUYlE0OS1nM29qeFR1cHAtZ3FCdnNGOUxpUnJGam0tTkdLSk9fQzdGQWJlenRYLXdISjV3UjhTZHRGUzNtQVJ2eDhMRk5hQnV3RjdRUGtGT0N1dXd5NTN0bFZENHppRlducHhMZG5TelY1RG91WWNNRmc0b1J6eXVRTERkbDVXemFmeS1VUzdacWdiblF6a3RS?oc=5",
       "title": "Rémy Cointreau traina il settore alcolici con rialzo obiettivi di redditività - Teleborsa",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHRRVEMtbmF5Um1oYmRLQVRzOUJKdzdNSE9mNF96MGhpazNETXFDUF9Cd3Y1OTJOWDJvRVh1aXlQdG0ybzFfNXhhZWtYTE9ZTlNLcFc2V2ZjMkRQXzB4VHJOY2NKb2xQMERlT1NKN2ktRHhZRVZydXJfd1R2Nmw5ZFBDYkk3ZTNkdW5Yc1MwSnNCVGdSRU41dGdVU1U?oc=5",
-      "title": "Parigi: andamento sostenuto per Sanofi - Teleborsa",
-      "source": "gnews:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWFVN01NLVZNN1NZSWlDV1VFM1U2SUtFa19tbUpZSDBqTmhCTUZfNGpMWVR5VVhjTXJjNC1LMHhlSHFpLW1xeWFtYm9IT2h2dVR2cEk2MHdtZkJVSHBRbzRleTlJUXlWNW8yNTQzYUthWlZuemxUSUFqRm55YUxTLXRJdjVhaUliLUxqbUp1blU4Y1lackZVV3lmcXVsQkdyck9ab2RKMG5pWXpFZkJKZ1prVEJMcHJ2M1A3anZ0TkJYVmdxaExaUDhNY3MtQU90cl9B0gHYAUFVX3lxTE1SWlhHbDJFSHAySVVOX29QSjNUTzNaQk55cnRMQ0pDX3pEOUZnRkN6aFdpek9EOVBaa2NndmdYaTA0TTJXRVRJX011cUdoU3drNUtFSTJfYUppMGR1NnNrTlNsTHNsd0tWOXFUOUxFa0liWnNVZEEtWk5fOHcxU3IxTlNya3U4YjI4N1piR2FXbzhsX0h4aXRuclNKRG1ISnNrMVZUNU4xTlV3ckxRdWdtYnpsaHRnVDI5OWRLRWJuM3RzV3JsbGNZN1VpSm5vOFR2TURMUWlQdw?oc=5",
-      "title": "La malagueña Pernod Ricard España nombra a Javier Avisbal como nuevo director regional en Andalucía Oriental - La Opinión de Málaga",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSG1YSHp5OHVORUZmdHFxbk9ycmJacFBYQ0F2NzE3elI5Z01EaWZmRVAta2RtVE94ZGR0bHFmZmlUUXBsMFRiSmZ0bTBsZ05fNDZFSkcta0FacHdMa3RwYy1UUWpOTWNuSmkxdXF6RHA2bkh6VWR4eG1lRzliVmhNUndNNTl1MzNELWNvcXhMT3BUeFR3YXRVM2tkTVNwU2QxSE5nRVBHVnNZcGJneTJnbWw5U3JTdGZYWUdwZUo3Yy14VEs5RFlabzBTWnl2SVB0SHYwendlS3Zqcmc?oc=5",
+      "title": "Pernod Ricard aumenta un 40% su capacidad de producción - La Tribuna de Ciudad Real",
       "source": "gnews:es:es"
     },
     {
@@ -240,33 +235,43 @@
       "source": "gnews:es:es"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaG5Nb2hzSVlNamJ6enlKeWlGTmhCVkdhcHVJWUx3N3Y1aWZiTW5zcUJ4R2VnNlkwUVFpeFl2dWgzZ3U2MnJkRUdJbE5SY0ZhTFpzdmwxdHV3NGY4VlU2R0U3SFBoUUoyY1h0V0tiMWotcnM0VVRtYm9jMWVtQTZZa1lsUTBqdzdrUEh6LXMxOU53bzdXeXJVcFF5NHdzN0dlRmJ2Z2pwYW0ycDlpY1VWbWhGUQ?oc=5",
+      "title": "La Mancha gana a Reino Unido la carrera por una inversión de 14,5 millones de Pernod Ricard - ABC",
+      "source": "gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVVpPSVdtcjY1Tmc5clpWNXd3NmI3MmJtS1IxYVd6dGV3b01iOXlER0JNb2wxT0pFR3RQdVYxQXAtbUMxS3paVFdWTTc2c3NFYVdhS2czOWxuMUUyOHdZVVczQlVhZGw1bHVDeElIaTUxUFNnd0ZBYks5c194SHNta2VHUjBmRWdvenQ2b3pBaVlGVkhHS28zRGtTNFFHUEpkOVV2RVc2OVQ4OV9vWHhNcjJBZnl5S1dIa3paVjFpTWljYVNXUjJ1Z0dKX3NRNW5INGFxblppLUw1V3ZBcnJ3dnk1Z1RIUC1JZ1ZoMzNpdUtMZEFi?oc=5",
+      "title": "Pernod Ricard invierte 14,5 millones en ampliar su fábrica de Las Labores (Ciudad Real) - InfoRETAIL",
+      "source": "gnews:es:es"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFdqSlpMTTRVVXNWSnpnNmhpNVc4bHFveG5Vb1lscW8tU05IanpCN1gyZ0h3YU4zWmtMZTFsaFlFQkFwOEhwR0FxNWFaZS1vOFRES3Nyb1FLQkJPRnhmcC1uRzB4N3E5NkxjVlU3YzZrWk9PRFNzMmdQRjlFaW95WE5rSmxMdWV0dS1Kd1o2QnRlb2pFc2Z4U1VB0gGaAUFVX3lxTE8wV2pKWkxNNFVVc1ZKemc2aGk1VzhscW94blVvWWxxby1TTkhqekI3WDJnSHdhTjNaa0xlMWxoWUVCQXA4SHBHQXE1YVplLW84VERLc3JvUUtCQk9GeGZwLW5HMHg3cTk2TGNWVTdjNmtaT09EU3MyZ1BGOUVpb3lYTmtKbEx1ZXR1LUp3WjZCdGVvakVzZnhTVUE?oc=5",
       "title": "Pernod Ricard se vuelca en los productos ‘premium’ ante la caída de la ginebra en España - Economía Digital",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhaZ29GOWVBRy1nVWhsamJBbWNDdm9TeWpNVFViOVNVcmRRMnNldmF0LUdmWWRzSzFQM01pMjRxQU9FdU1qTUlBNXFKYTFCNGJvMFdHS0tXdmM4NkFVc3N1bzc3bWtLME5KLVk4RTBfSnhjR3VqazdwQXVBbE4yU0FUdkdaZktrX3JFUw?oc=5",
-      "title": "Fotogalería | Las mejores imágenes del Forbes Sustainability Summit 2026 - Forbes España",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFJZUXJPOWwwUlNzbEFvc290Wm52cy1qNklqcWpVVktCVks5QWdvMUM3ZlE3MGxWT1VTZ25Udi0yeFhZOFN4NjB1eGF3MTJxZFVjWEtHaHlaanRHaVBodUdDVUUycnpIa2dkZkNjVVExbjBFNFl0QWZMXy1HTkVzRTNiQ1BGR3l6TS1yVFF2dkttdnA2V3ZkWW5Qclc1YlQ0eWgzMXMxUUp0TjVnRjdnMGotMVhTT1VnVmV1YWxTUnJ6T09tLXYwMkJMODZvUTg0c3VNcTFXWGQ0MjlJN0pJdVNVQ09fT0tu0gHuAUFVX3lxTE4tUkVWS0loWmUzazcyUVVmVFVTcVlJTEt1LVJGeFZ2YlRoeXZBcXZlMDZyaDdnZ3ZRRFpRTUF6OUt4Z2VOTTVBWjhjd2lfaVFwSk15TUppaTY2V0VPSkFfRHBoZXN0STlyd1YyWlc1MUFVYm1hRzdqck9fTzVrRjZ0a2xDd3liY3JQVU5JdEdiZ1N6cWs3R3NLSUJzUkVMdEJUNzFTRk15ZTM2QkFsT3F2R21NUWoyVjVhSm9aaHkwMHhaWHlSdy1jNDdNOENxbVhLalQzNGxySkVYdGkwbEpoanJpUVR5cTVWNzZvRHc?oc=5",
+      "title": "Pernod Ricard refuerza su apuesta por Ciudad Real con una nueva línea que aumenta un 40% su producción - Lanza Digital",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUVuc0ppZ0lNRlBUa3ZMeGNxYS15SkF6OTBocVpJYmlvN1lNQWlFN1pmRjJoZUlSYkJWUlBZSFB6TFNDQTltZ0h0cEhBM05KbHcyZ3FrOUJGSmJ3WTZBWmhDdmppaDdNdEphR1Vtd3prcDdod01NcEZpR0kwc0ZLX2tqY25iR1lKMVp3azVPSXFSelZPblJKVkc5elVDV05DM3VNejJpYmsyZw?oc=5",
-      "title": "BlackRock supera el 5% del capital de Pernod Ricard - MarketScreener España",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHdESU9pZlVBb25oeHBNWHN4bTVDbENMREhxMjYxSklva0ROa1dBZ2hhaG9BcEw4Q3VvQzltR1Z0b0lRa2lYRnJhWVNtTGJHZGJ1YmlvaUpvaERJSjQ5c1FSajg1OFlqR0JiUEFlU0dIOHpSOG5Ta1ZfVDBVVDhfLU9adGVGTW82SlpUS2RVUmpXRHRzZnZlcnZ0a1pXVHdzT1M1UjNZNWVYbjlFVlNxeDdqbXlCNE9MMHZ1Zk5DdVNPWF96UnUzZVZKcllQTVhxQmtYS1JMUldqU0J3T1JJWk1R?oc=5",
+      "title": "Pernod Ricard amplía su planta de producción de Las Labores (Ciudad Real) después de invertir 14,5 milllones - FRS Food Retail & Service",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzhaY3ktV1lGSXhzeVNZSW1sQ1o5dHJtUUFvMkE3bHZlNFQzaEJEQXVFTTRjdk9JT2tMOF9NQ080VlpQdzBSTklzUTVwalRINnpjbFNMcmtYT3JBWXhKS1FHQzB4ZGZvX0plUTllNzdnSDZYQmg4dTBmT2tyalBfTkdZdnhMU29kRTRiVVMzcnlmQzZVYmMxY1dMel83eVRkRW14bmVUVnJxdG84TzhYQzM2QQ?oc=5",
-      "title": "Page se agarra al Mundial: «Espero que al menos nos una la selección española» - ABC",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWW5QSEl5LUduRFFrRFdQal9NcUQyTm5fVlRxcERJUzFPelJVTXEyUzVKRHl3WXJsSXp5ZC11dXdseG1XZXlnOW9IMERUOHJtR08tczlFaE1nNHUwOVN6MjZ1Qm5SWVp6RXJNUmQtaExPY2I2b3BPYWRpOXNjcEJtbzJhS2xuTVFlVlJoaFZpTGxBZi1QUDJ4SHQ5RnVUbDh4S1BpWW1NSk51SXZ0TmllTmV2VmhJT0xlNlFnOVJBXzhsQzR2MVVZYmxjUTAzaGlFM0Y1M2xoMC0xN1lWdG4wbWlOV01vYzVtRzFpT2ZSdjMzTTV0?oc=5",
+      "title": "De Beefeater a Jameson, la fábrica de Pernod Ricard en Ciudad Real amplía su producción: 54 millones de litros al año - ENCLM",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGJyaHZITy1xLWVvY2ZTaTFGQU9zNVZRdjNvbU9PV1U3X2VEWlJzYmxpODRURFBTUHhQN0dWa2JuNkJsS214d2YyRnFxbWlBbm5tUm82dFl5MEpJcUI1OHBwYkVfeXVqWUJDUEM1WW1rczVuYmZydTl0VFc3UGlBS2NTLV9QYnREb3Q4UHI5WnJPSkV2N1ZPenlPek8tLXdjc0M3WkIxUW4?oc=5",
-      "title": "Estudiante UPAEP impulsa innovación en Pernod Ricard - upress.mx",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEd6VXpwTWIwUGg3djItOFNWMW5uWFd5RXJFbVk1eGxCRm9nMjRWNFNjaUlJNlBrcGM2X3g1M09pVG4zV1JXb2cwVDN6cXBub0lhUDNmeUVlamhkbGVJVUJEUHFhd0xRcWFfcDl5YnEwM3F2U3hEUDQ2LTZfU2swb3NmMGQxYnhlcXYyYVl5WDE0cl9OYkR0QWhuVFNDNEJsVmNrRlpYdF9zR0xhUXFBV3NUdS1vRE5DSUFYcjBR0gHDAUFVX3lxTE0zVWFuN1dLTXlLX19SYXpHeXc4djBSdmJDeTVXakdrRHpEbUgxa19iVUtGbElXUGdMUzNYbUw4ZEpFQUdVdjk1Rmo4emVkZDF2azJpbFpmb0daekpKcnh1UUVqdnJ1Y1lHZmNjM1B1aGVoOTlFekNkT3BaenpaYlNnWDBVTWFvcmhJT0NZOFpLQkJhX0xHRmx3c0RqUWlYRzJtemNQeWxFUHZKOW1xQ3REN2lDLVBrYXk1ZzJKcVdaZ1pCOA?oc=5",
+      "title": "García-Page confía en que finalmente se consiga una \"razonable\" PAC gracias al \"esfuerzo\" de much - LaCerca.com",
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnp4a19iNFJGODRYeU1rUUpqeW5tM0cxQWI1a1F4QWFJVXIwVGhxX2dYOXVnenpjZ0lIWjg2cXpQWkRWZ24yM0NZYWhwTkQ0djV0UXdCTlRyZEd6QWY5aEdMUGtyMjllYkQ1cnFYVXl6QTQtZmFxNWFpdkF4RFdlTGJLRHdra3MwUWQ4RzFIMWg1OE4wNWd1QdIBngFBVV95cUxPV0FHSHpaRDBuRDh1Tzh1ZWhvd2syVnZOVTk3SlhLRm5CdktTS2gxTnFpU1JLbm5OeTIwWVgtQlR2bDdTME9JczV4RkU1Vkw1ck9KOWJqeS1hZmxMUTdrbDA3N1RjUVdPOGlTRlhMbHlaNmw3Y1NRVy1ZUEg0MmxYZVNnczg3U0MzVkV6TERlem90V0tnbWlpWEYyMkY5Zw?oc=5",
-      "title": "Pernod Ricard inaugura pop-up - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0s3VzNLYlJmYlcwb0xod0V5RkYwTnZBc3ZoM180V0dQNjNyVENvUk55ZklkQ3pnLWxhYUV1WGNzdm5fa2dISUFQX2xwSlBZYVEzdFczSXdyak44YnViSzdfR3F1Nkd1akU3VTVpX29oYUNONjhIUG9icXE0Zm1pelA2aGFqMWlYUFVMME82czJiTHVmWmFpdlJPZWtjczBjTlVuclhsSERjLVZGOENfMS05a3RzWVFmSm9idzJrcw?oc=5",
+      "title": "St. Petroni reinventa el aperitivo en bares de toda España - MarketingNews",
       "source": "gnews:es:es"
     },
     {
@@ -275,29 +280,19 @@
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXl2bkx4YmNPRXlFUlNVRjhiOHdnek9BeFJDdEptMldqVWwxQm0wV3N1VXQ2c1owSnBhQmY4OU9JcVYyOWxmanJFT0hJekZUb0VSRlV3dlVYdEVuNktLWWpuNHFUU2ozQzdrcXI1U3Z3a0pQVDdrWUhZUmRFLTR3TVU4VTR4RFZ5eFhnZF9YeTlHTHk0WUl2Vnl4YWVlbDNX?oc=5",
-      "title": "New York Post: Trump dreigt Frankrijk met wijnheffing - Beursgorilla.nl",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0ZPX2FFNEVlRVd6NTViRzNpSXBVTlp3UXpXNTdMNDdBX2szUVB5dXVMMXlEMUx1NTdHOFhZVzJhbWJ3TDAyN0hRZzRWc2d1bW1GcUlobVo1TC0zSEhyN1dLSnFhVW5ZRmhXaWctc1haMjhFOTZ0QXdyYlhFX2swS2RwM2oydW9vMlh6NmFMRzlsV29zSGV1cHlPSQ?oc=5",
+      "title": "New York Post: Trump dreigt Frankrijk met wijnheffing - Belegger.nl",
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDNvUGFGeTlqOXJzSXVfazFIc25VbVo0eFNSTFpic2U0RU85WVByQ0EtNDI2X2JpcEJnRkZ5cXRHU1JuSk4tMldobzJLdHVtcGNqNEl2VUkxT25KT08zblZYZkdHdGNUYTdUQU92cFJtOVlSUzlCTnprdFNpakMxTTJSYmJXT0hDalJmZUpIejZRQlE2cGctazlWZXpLdlZ4RnFmVERuV2Zidw?oc=5",
-      "title": "Groningen krijgt er een gloednieuw whiskyfestival bij op een bekende plek - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2JsaEMtdWgyRFdwMllNYkV6WEZtTGtuUTdYQk5VRjVYeGdsNU81Tmd5cE1rQXJUWmljMFRWVWNNUHJBTk9vY0F4M0tvaUZkSFE3aXRBQ0tLeTRCRWo5dFJrZm5rdkIwYWR1SmVicmd6VXdoczMwS1pCMXJ6VktlT21xbEU0cDBVZmRBVnpmaXNPSXNWamdhM2ZBU2JVSTZjSHJQYk80U0Q3RHFSUXFkSWl0NnRyVG9RWm1aMkx1cjczNHU0bWJpVk9qUjJXUnRsZVVN?oc=5",
+      "title": "Trump dreigt met invoertarieven van 100 % op Franse wijnen vanwege digitale taks - MarketScreener Nederland",
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcGNTRVVsaGRzVzFPeDlWbkQxeXNoLUtKV25CcmNnd1ZWXzFfSFkyQkxmOFJxMW1mbDVNMXNzUmwyUmEwMFZNaS1DaDF5eTdndmF6SUxjcWJSRDFIbXZ2dV9LbGNJNnlNRDhwWjNmSDdMb2pxbWkwR0hNdVRiQVNuVUpsc0t2bzA?oc=5",
-      "title": "Shell schort aandeleninkoop op - De AandeelHouder",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTlnQnpFbGJrV0xpa3lMTkhhT0xQZ00zVWFsdGY2dnNQWVB5SUVHWWstQnpSazdVWUlWcFhVY0NmUHdHVmNwaGpUdkVBLVdQUDRjdVFBUXgyTFdMaXhHWjdRM2gtODk5VC14UFRGTzVrQlBjb3hpYjRiN2FKb1FoY0Q1ZzBtd3g0dUdXelBYRjlnZ1F1NmlfWWJObw?oc=5",
+      "title": "STMicroelectronics haalt 1,5 miljard dollar op - deaandeelhouder.be",
       "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdnA0eXF2WTQzUXRUZUJrd0FPMFZ2MmhQdUNPSnlJc2lfOUE4RWpnWUxrQUl0ckIxQ0M0blZ1OXZreXU4eVMwc3ZUZEVfdTRKYXVGc1pkemJsdlVNb1FhR0ItRUFFbnEycVFidUc2Y1RZQXR3SXc0NXBPdEJwTEVSQ29MWEdWNmRTZm43ZEFJbnNmclJNWVc5WTV5MjBQaDdZWWpfZjBsQklERU5ReTdqNlI2Vmp5UlEyLWpNV3duZHQ0YWUxN2NTNVV3NnM0YXRodVdRQjVZWEZzQnVNOGFWNjVsVQ?oc=5",
-      "title": "Carlsberg plant beursgang in India om tot 700 miljoen dollar op te halen - MSN",
-      "source": "gnews:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDZLWUZ4b056VWxnQnpIMGhqZFF3N2s1T0x0YUt4M2FtUUd6cjVmY3QzNDRxNm96bWY3YmM4bVdod25nbmN4R0RZbXNDWE43UFR2LU1lbC13ZFp6aUp0aWh5NnFhSzhlOEtFLUo0d3NRQU9TM0VLVjBPRDZqRVowVmhoenFRRVRyd2ZYdGkyc0ZrdVhHY1ZDa3cxMU5WM2lIc0ZLVTJ3?oc=5",
-      "title": "Wyniki Brown-Forman pod lupą w cieniu rozmów o fuzji - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
-      "source": "gnews:pl:pl"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMTdCWnlEZFdFYkd5dmp2RDJNNnZIeENoN2FZRDFqSjY2WEkyUzFFNlpkbHJrTkc4S0gxVElJcURJVHlFNWpZaXVJbFk5QUY5WXNGeDBVc01HZmJER2Job3hqbHlFWHg2RXZIcy1tYzNBUkh6RGx1N0ZFRkhFMFhLQ1pKVjA2d3lJVzJ0bmZYbXRJbFV1Tld4YWxnZDhXekJ5ME5mRFlhdnpqWHNGMU9EN0o2SW5leWwycFBqTWliaEZLcl9iVUFaXzlXNFdxNXBfQlBTdTBQRQ?oc=5",
@@ -335,8 +330,8 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzMzVzdyWEhsVTBXOGdLT0MwMTNWdER4aDFMeG5tTi1qRWYwdDBHRXNqdnZRQ3h1eFhrZ3Q2anlRS2Jnd2ZrVXJndnVfNUZWSUNkQUI0bDRZUExlVTV2aGVjVDU3alFVZjBoNHZaOU9zVThlNkpuTE9Bdk5aazV3dV9SWTc?oc=5",
-      "title": "Pernod Ricard ‘loses New Delhi licence appeal’ - Just Drinks",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFgwN2RSSnBURFh0TU5iQTBKV0RKMjBBZG9KUnA0UEFObXhQWEV2WW9KQldoZTdhajhfVlJnb3RXTWlCZzVCdFhVRW1EWmVPN2FkQjZDQ3c4Ni0xWU5HTGkyZ0lEMWMyMjk4aGlXNHFLaEVsUm1zSWVmT0NpSjJsSk1FS292d1RsdVBFaWF3Vmd3ZFNZZWplWjZB?oc=5",
+      "title": "Pernod Ricard joins forces with Madonna for Absolut campaign - Global Drinks Intel",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -355,8 +350,8 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vUzlFXzVxSjdXRENTSlhtd2Q4ZWtwZDd4NjhUSXNmeG5IVVhWaGVTRUp6MTNzcVVCR3RIVDFPMEhycnJqUk9tb1ZkUnR4bFFpc3ZjSWdFSEJrT29OYmdyMU5IbFEwYkM0MURBdjdoMWFpVlliUGJybzdvaXo?oc=5",
-      "title": "Pernod Ricard: A good level to buy - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFhYTkpvZnBjR1hCX0VHNlVFZDJCbVR2eUZIOVg2ZlptT1h0OU9oT3VYaWgtSEJ4WGstdTIxRWtzWEd2OGRHdE91eUMtemJlRjNxQ1VubHN1b0VEamVpS1RXMEUwUTczWl85QlQ1OHFEQjVCSUFEYnpQWHRtWjZkLVZHdUZIcE5GWHBNTFowbmQ0YU0zcUVQc0Rqdw?oc=5",
+      "title": "Pernod Ricard: A Solid Long-Term Deep Value Liquor Play (OTCMKTS:PRNDY) - Seeking Alpha",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -365,23 +360,18 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaG5LOUd5ZlEtWVp3TXN4Qm4xZ1lwUUtsalM1TU1fZGlfT1h0Vnh2ZXFPSTVmODFaQlJYV0ppOEI3VFcycEFxbEhNdlRIWFNzV0FWcUF4eXNBSllVV0pjZkdTamM2V1NJU1pEZk9qY3pTZUNOc3l2NDNDeHhjRExKSXNUTFMtbmowblpiOWcxVQ?oc=5",
-      "title": "How to elevate the people behind the work in brand storytelling - Ragan Communications",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUmVLNkl2REVQTlo2RUliZDkxVU5rWExtcmlvLWFvdjFRLVBMcEd5MW1ENVgzOUVuaEVadThGN1RGelgzdVdHbG94eU5xbVktMzlhdjRGamlmbzNFLWZ6NHE1OW1DZUhvXzM3VXhSWlpkYW9vSXpjNjNFNHBuM0Y2a2RyVkplZ3RHVlV4RERmc2J0LS15Q09UVlZNbHZsUW9ERF9sQk9CcTBRdjFUY25Ha1laSUpwSDFDYnYtY2JwYmxwVmw1emNXN1FB?oc=5",
+      "title": "Pernod Ricard's Stock Rebounds by 2%, Boosted by Rémy Cointreau's Results - Idéal Investisseur",
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWkg5VTlBdDNnWXlqbXVLUWZIVHNPT2Jsc0Y1QVFUd1h0QU5jMy1oc2FjYU1vTE9mX0FtRzh1TmJFdGRFd004Y1I3eHdBc2FZQnN5cWwyNW5MZ01iNm9vUURjeXBEU1lzRW9ST01qWTNoV2VQRncwRXdBamtXekN0TWdWMDdoNElzWDF0VVN6VzBVUzhBTWNYQURJcWxXYlE4cmpkeUJyTzF3Q2JTQk1rY0JsU1NNY1lGUG5uNnV6OWpURVk0NnN0LXptWWZEUQ?oc=5",
-      "title": "#e4mExclusive: Pernod Ricard India initiates media agency review - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpvQmdGRnZzcFVEaFZfQmg5eWZXbHJKN0xkZEZJQWJhVmhUeTZOT3hmdFdCZXJfQVhGQVIybWl4NU1SdWNJa0R4OE5DRDZTZjJtN0c5NmtkSDR4NHR3V01XNndvOXdhSnFrX01nX2d6OW53d3hqNjMyNlZMS0pFVDJDSm85VWdkR1hQdjFQUVVxbTlEbkRKRw?oc=5",
+      "title": "Absolut named vodka partner of Madonna’s new album - The Spirits Business",
       "source": "gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9ubmhyTE5OYi1Wc3VyLWhwYXc4VGo0M3daMXpseHcyZ1FEbDIxTU9QX2dVVzhIRkN3QmpEZVphc0pSTmJzLS0zS2t0ZzZGeU5ZRTBVNE1LazFwdEhjb0UtZ0NfQjJDbHZ3VEJCZzFVVVBLUzhRaVdBLUltWVZEVU8zM3FNVTVEWjVFVDN3bUd3S0JqSVN5c05RczhtYTBp?oc=5",
-      "title": "BlackRock crosses 5% threshold in Pernod Ricard - marketscreener.com",
-      "source": "gnews:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmNPNmZua3M1Rzg0cDE0Si1EanJneDNXbVpMNEEtMjdoWnNyWDRmNVV2Ul9sWElFQi1jYWptbFJJYVNkd2xCQklRQVZZdlRMYkJvYlkzbVFMdVo2aUpvN0JaU09fWTZJTUZreWFFRnVYdUdqNXpLV000bjZFWjRZRnJwSmZpRzhUcUxaOXF5eGw1ZzBHS0c5bWlQQVFZZVlOTVc3Zng4ZzZibkNFNW1FTVJYaW0?oc=5",
-      "title": "Pernod Ricard Leads CAC 40 After a Yearly Decline of 32% - Idéal Investisseur",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmdGNkd4ZFVxb1doamVzZExaZ1lBdHAzMVAxYmd0V1czS1pxWmczbTNEV2ZrejJaNXV1YjRxdTRnUldBQVdLcTJiN3c3MXFQQnQ1em1pQjEwZEh1VUxnVGVnWHBFMUlZcHB6VTdFVjhTMEUtODdfX0gzOE92LVExYmpzOWlNbERNSG1vM0NHcG1oQ1dhSnFxdzNUeHpFOVZ3R0ZnVm5DaDg1a2hERlQxY1U1S2ZsNkt6bzdGSzlFd1NoeTlscDhGdGtVS2hLenZZcjBPSDNEcUZBSlAzZUE?oc=5",
+      "title": "Brown-Forman drops after merger talks with Pernod Ricard end - MSN",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -415,23 +405,28 @@
       "source": "gnews-ecom:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFOTUltUGIyOGE2QzlyWTFTUy05MFJoaVBzTjd1Qm43N2s4SU1adHVEdnZYRnVBbHBKOURHd1pOZHdLRWlobzZTS0xIanYwTWNHQ0hxLTdCaGJzczJ3T1VDSmM0QndfaXdRLWFiQnJ3X3ZQWTRxa1Jlb3VmRVBnbEN3eFl4YWdrODdZN1RKYWpHVy1md0FjUmhZbE8?oc=5",
-      "title": "Prévision du cours de l'action Pernod Ricard : résistance à 63,49 € alors que RI reste stable - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVVGMzB6LVlRTVFkc3NNLWhQaFdzdWtndVpsUDAtRDZiNXdUMk9MVEV1dlAwaHR4ZGRuNjM1Y1g1MS1iVXRTY1V5QWJ4dHNDNkhtM2pHY244RTJVZ0hHeTF2U3M0bkpWYl9uengyX1FmU3A1TkVVQ19kWF90Mjc5aVo3Qk43VFhxX1R4NFV0Yzk?oc=5",
+      "title": "Pernod Ricard: Une zone support en soutien - Zonebourse Suisse",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmtPcHVxajJNRWFVT2NzYjAxOXhWR1E4UUtFTDRMNlBScTN6UEpoRlktWmRUWEtZQlRVSDZKeFpCamtZMFJfVjFqSDVFU2VTNzZUWTRlYVVqUFd4VXZFT3BFRkhUM1ltUUg1SnFkam9vWHU5VVNkdDlMMzRTTUdIVHFaOUVqSEhLODZhYzBBQ29pYkZ5NUg1Um5vUlJkU2lOXzNFeWYyQ1haYnhuOVE?oc=5",
+      "title": "Action Pernod Ricard : Trump menace les vins français de taxes massives - XTB.com",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHhlLVdzbzk3MUNLTGQ0OTRRMnFrWG13WEVINHVfWE8xWlJsVU1nS01EWEVWNzFGMTM3ZHRSRERqeDVYMTU4WFVqcDZpVjRsSV9vdnR6QUs5VWtLdDFzM3YwWHBPVG5CRjdiejlBX0w2X3lWSEExSXVHZ2ZzWEczQXByOXJXYUtISnF1WFBCeFhZdFd2ODVxZEVEY2E?oc=5",
+      "title": "+1,17 % pour l'action Pernod Ricard alors que les acheteurs défendent la zone de support clé - Traders Union",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQW1aeWRJWUNXUDNfRnJTNUUtMGtyUnBRVDd0RjQxOHc1ZHZ4WTh3QWpDc21nY1Y2YmY2SzI2T0FZUkt0aFFFLUJlVWFPQkdQR3BZTC02QjZlbmFtTWpVbmN2UnRjTnJud3BYX3NlelBvcTk1b0VkMkxlWWR3VzdGcDY1enBFNXNfcGRvY25od2dHRU83YTQ0dEppM2pJWVEw?oc=5",
+      "title": "Prévision du cours de l'action Pernod Ricard : la moyenne à long terme de 75,65 € reste en ligne de mire alors que RI se maintient - Traders Union",
       "source": "gnews-ecom:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWNDM0ZjWjJ0VFp2NTV3eEZZX0ZxVENGYkNyVmNUZmxmVWpTLTFwTGxLUGxaVHRIYzdNeU54enJYUTRucHM5RGZ4Rm5Mc0hleHRSZG1TUTZGT1AyMkdEQXNMallxdjFfTDNoZHNrX29RLTZkTGZxRXRFN05NNjNDMmNXVWUtbjJZLUE0VXE5RGNIaGpOYzZtczUwZGM?oc=5",
       "title": "L'action Pernod Ricard se consolide alors que le cours reste proche de la résistance à 63,49 €. - Traders Union",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXYxUk82UTN1dGlyRHdDMHZGZWs5dC00T215QTJySGpHbFRqa25GS2ZndWdVeG9taXYtNWJvdEUzZDU1SEQ5M0s2cnU4bGZTaHR0dUFRMi15LTBjcVVCcFNYMnQwUmVCaTNDQlFKNXlRV1VOa1hWWF8zVWQxX1BVdUxVZWdVZHVCMElOV3VZZHllMjEzUVpPT3RvZUw?oc=5",
-      "title": "L'action Pernod Ricard se consolide alors que le cours reste au-dessus des moyennes à court terme - Traders Union",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjF1Ul9VQXRyLUFWczY5Ullza0hFTU1pREgxcURNbWFPdUw5Sk9tblNlem1veDdwU2piZ09KcFBVdDFVOE81VWxLamFCVGhZZmFaN29ZSXVvNXZMV0Eyb0hQeXJIUHctX3N4VHVVSFlWbWwxdnVIZkY4UWFuY3o0M1c4NkozWVZiLUJzM3VXWHJGVVkwaDVmZ242dU10bEZlSVE?oc=5",
-      "title": "La pression vendeuse fait baisser l'action Pernod Ricard lors de la séance d'aujourd'hui - Traders Union",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -450,23 +445,8 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5CV3ZQR2Y1NXQtYXdKbmc4N3hNekZhRGNrT1l5QlB2N3hmSTRfM3dwQ0ZJSzRvOTZFeVAxc0xSb3BmNnhnckZjR0cwR3YwS2FNR0hwWUxMR1FycFJkZmxkaVc5UEkydS1OUmcwaDllZlNBbGVKQ3V5UkRUNWp4YjUwaFFNY0puek1icFFYNWF1V0Vral9UNmtfWXQ?oc=5",
-      "title": "Le projet d'IPO en Inde fait grimper l'action Pernod Ricard de 2,30 % - Traders Union",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0ZPX2FFNEVlRVd6NTViRzNpSXBVTlp3UXpXNTdMNDdBX2szUVB5dXVMMXlEMUx1NTdHOFhZVzJhbWJ3TDAyN0hRZzRWc2d1bW1GcUlobVo1TC0zSEhyN1dLSnFhVW5ZRmhXaWctc1haMjhFOTZ0QXdyYlhFX2swS2RwM2oydW9vMlh6NmFMRzlsV29zSGV1cHlPSQ?oc=5",
-      "title": "New York Post: Trump dreigt Frankrijk met wijnheffing - Belegger.nl",
-      "source": "gnews-ecom:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlhud1lSMGJXUm1aQVZyN2Q3bXZ4QXRNTzZKbl8waFBmS1ZHOE5tNEt4a3lRRGp0cm1FQVpxV3hhZVlURGUteEtjd2I5NUNzSTB6U0t3ZlVtZ0ZsVE10UE9hYW03VUp1c1pVWndILTA3VHVBLS04cjdMd2IxVXdvYVdHYWdldWlNbkdkUktVRmgxT05Tc2VHb01hdzA1Vy1pRlJFcC1WSXRJWEdJQndtd1hsMGpsdDQ4TnMybzAxZzJBMl9lSXJOTTdOenc?oc=5",
-      "title": "Pernod Ricard in merger talks with Jack Daniel's maker Brown-Forman - MSN",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHlVQ2pKYXZPRWNTTUdqbnVjcGhCcjQ0UzhFWEVqcFE4M2hDSFpLZHg1ZGhWejM4Ml9zQnlhRHgtY0VOVFJ3RTkxbDYtX3ZHM0xkM1hpaGJPVlQxVDZwMnlMUEMyT0k1TlhINjRHd0J6dkFFaFAwNDNsYk9LV2JyZmduRGtGcnhJYlpVeDZ5OHRFM281Y2xpY2w5dThURmxtYUlGbHZ5MF9wOEp5b2NkQlJYSEJFSTdzUXg0aWhkcHdwYU5YV0lQQklHa0NWV3llUUZBXw?oc=5",
-      "title": "Citrus Alcohol Market Forecast Points Higher Toward 2035, Driven by Premiumization and Occasion Fragmentation - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2J6bGJaVTExc2tHUWN2YzUwSE0tdkw1bjg5WnZfSVNxb0Mya2w0T0FueWtoWWMtcXZLVFFldWpselk2R21jT1dkNUdXZzlPTWlreWZtQ0dDS3JVZ2ZDVl94enRNSlp1T1huVDJSbk42cVo0YjV4VzA1Q2dRNkpnR3V5OW1rSXV4OW53OUZUMlRWUHdHZFd3Z3hn?oc=5",
+      "title": "New York Festivals Advertising Awards Announces 2026 Shortlist - Branding in Asia",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -475,13 +455,18 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXNLY05jTlVQaHBtaFdPNm5nQnNzWmdhTjZTNU0xMVM3T21oLVZ5TTV6QzFCNERfbDdsUndEVlctYVFyVVFNdC1lMXFFbDBuVUZzVVNvS2FwX0ZfVGM1U2NEcjhtNUQwem1tcUV3N3ZrcG50X0Ezd0FXR0FTT3ZiMGdMcWZHNHpKek1hLW8xOG9RSGZ4d0RTQkVWQ2xsYWU1bTdTbXREUU50anVDOUlpVnFhMGtYTmd5NXozS1B2X21KaHp0WDB1V3dR0gHPAUFVX3lxTE5EdW9IUGVZTkphRzhpY1Bwdkk0VTZEVnBUbXpRYzJrWWlaWW94R2g2LXBpNzlMeTROTk9aRGxjNzV4R1E5aW44Qy11b0NlU3VTWVRSZDkyak9VUjdfODN2X2ptY2ZZdFNpdlgwRWp2RGZWN2k1U3ZvVGtoak5mR1BtblVLakNpRVlNT3J5NXBhb0tKbHJlOUtMU2s3Z0VpNHhKQTUxdllLemZRWVJsZWExQy1HcmQzeXhfTlNyVURDVlhzMm5EakMycHpZM3RLYw?oc=5",
-      "title": "Global liquor companies chase Indian state dues of $400 million - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVJzQmp5UEp1YVpNVXRFUFdhRnpURTRCNUljUnNiUzN4OFF5T0t4S2NtNk5OVmVJNmhSNklNSVN2M09CTmhydXNMM3NxdGZpaHZ2Y1l4c3FhVTNzczZoZm5FQ19aZlhqVUk0TjBiM3JXc3ZzNUtnNmtMYmhFZ2JOSzd3dWtCRFlhTnl6NHlOSFVlZV9GOWlrc3Nza3Bjd0hmbVk4VkpNWThrLVlxOTlVOG9xbWFLQkJCeHVNVlRIREo2VEV2ZnZVd2hpcw?oc=5",
+      "title": "Amazon Prime launches in South Africa; Ecommerce Counsel says brands must act by 9 June - Bizcommunity",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM05IcmMxVGs0V0x1cTh1TnhoUXZVZkJwS1EtYklqYjNCbENQNVJsaUVJLWZvN0d3VEhoLXFkUjZRTEltMzJ5VGpFSlBPX3BOZk1neUdYeUVvZnNnWVdtNlBQaWxCSWhSSWpSQjdSZGd5WEVHNnRZMjg2OG8ydGVSZHp0TTlMTktjV3BmaGlRd3ZMcXNJYzMxVEZuQ3gwRDZ0RjYzMVhsZUNVSEJzWXFoZWY4Z1pyWmNTd0ZqT1ZKV0I5UWpQVzh6X084WnpQXzFLU0REcA?oc=5",
-      "title": "Carlsberg gears up to file for $700 million India IPO - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlhud1lSMGJXUm1aQVZyN2Q3bXZ4QXRNTzZKbl8waFBmS1ZHOE5tNEt4a3lRRGp0cm1FQVpxV3hhZVlURGUteEtjd2I5NUNzSTB6U0t3ZlVtZ0ZsVE10UE9hYW03VUp1c1pVWndILTA3VHVBLS04cjdMd2IxVXdvYVdHYWdldWlNbkdkUktVRmgxT05Tc2VHb01hdzA1Vy1pRlJFcC1WSXRJWEdJQndtd1hsMGpsdDQ4TnMybzAxZzJBMl9lSXJOTTdOenc?oc=5",
+      "title": "Pernod Ricard in merger talks with Jack Daniel's maker Brown-Forman - MSN",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXNLY05jTlVQaHBtaFdPNm5nQnNzWmdhTjZTNU0xMVM3T21oLVZ5TTV6QzFCNERfbDdsUndEVlctYVFyVVFNdC1lMXFFbDBuVUZzVVNvS2FwX0ZfVGM1U2NEcjhtNUQwem1tcUV3N3ZrcG50X0Ezd0FXR0FTT3ZiMGdMcWZHNHpKek1hLW8xOG9RSGZ4d0RTQkVWQ2xsYWU1bTdTbXREUU50anVDOUlpVnFhMGtYTmd5NXozS1B2X21KaHp0WDB1V3dR0gHPAUFVX3lxTE5EdW9IUGVZTkphRzhpY1Bwdkk0VTZEVnBUbXpRYzJrWWlaWW94R2g2LXBpNzlMeTROTk9aRGxjNzV4R1E5aW44Qy11b0NlU3VTWVRSZDkyak9VUjdfODN2X2ptY2ZZdFNpdlgwRWp2RGZWN2k1U3ZvVGtoak5mR1BtblVLakNpRVlNT3J5NXBhb0tKbHJlOUtMU2s3Z0VpNHhKQTUxdllLemZRWVJsZWExQy1HcmQzeXhfTlNyVURDVlhzMm5EakMycHpZM3RLYw?oc=5",
+      "title": "Global liquor companies chase Indian state dues of $400 million - Business Standard",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -495,13 +480,18 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVVGMzB6LVlRTVFkc3NNLWhQaFdzdWtndVpsUDAtRDZiNXdUMk9MVEV1dlAwaHR4ZGRuNjM1Y1g1MS1iVXRTY1V5QWJ4dHNDNkhtM2pHY244RTJVZ0hHeTF2U3M0bkpWYl9uengyX1FmU3A1TkVVQ19kWF90Mjc5aVo3Qk43VFhxX1R4NFV0Yzk?oc=5",
-      "title": "Pernod Ricard: Une zone support en soutien - Zonebourse Suisse",
-      "source": "gnews-ecom:fr:fr"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0dRdGdoM0I1UDI0OFdPLXNsdjAxRXFGRkhWNmNheXQ4Z05Ra2YwajNqeGlOSlpNb1VKdm43bTEydGF2dU9pNl85VlJlOEFkekxMWEhvSWFFS3hTaERhaXJJVDdBbHlXS2pyXy15R0VJOW41V01TTDAzQlpZODVYaUtiYXg3NlU1ZEI3Vk03U2haWU5CVVU2Q1lIYU5JVi0tUDlsRTZHLUlFblg3UGxzVmFvUGpxMWJvbWltbjRXUQ?oc=5",
+      "title": "Music tie-in push, Absolut Vodka Limited Edition pays tribute to Madonna’s Confessions II - AD HOC NEWS",
+      "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHhlLVdzbzk3MUNLTGQ0OTRRMnFrWG13WEVINHVfWE8xWlJsVU1nS01EWEVWNzFGMTM3ZHRSRERqeDVYMTU4WFVqcDZpVjRsSV9vdnR6QUs5VWtLdDFzM3YwWHBPVG5CRjdiejlBX0w2X3lWSEExSXVHZ2ZzWEczQXByOXJXYUtISnF1WFBCeFhZdFd2ODVxZEVEY2E?oc=5",
-      "title": "+1,17 % pour l'action Pernod Ricard alors que les acheteurs défendent la zone de support clé - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWk4RWpqSXJxYnlfczEwU1U4clQzY3U2TmlXZ1hoM0hGQ0I3Mng2VDVGbHQ3WUVTZ2RSMXZoUG05MGthelRjZzBwMV9lNVBCd2FlZnNxb1BmVUlUSXIwWEpMTWxFT3d3N2NNSjF6MEF5b0F5WHZDaXMzMmN1aTRCNFg5OEYydE5tTHdFSkF0ejNRbS1SQ2VVQWZ3T2dIWDBnSTBFc1VNMFJmeE5NTlJab1hDZGNzd1I3SmtmZTZtQ2NKQ0Nr?oc=5",
+      "title": "Jack Daniel's Maker Brown-Forman Stock Surges On Confirmed Talks With Pernod Ricard — Why Analysts Still Think Merger Is Unlikely - Stocktwits",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5CV3ZQR2Y1NXQtYXdKbmc4N3hNekZhRGNrT1l5QlB2N3hmSTRfM3dwQ0ZJSzRvOTZFeVAxc0xSb3BmNnhnckZjR0cwR3YwS2FNR0hwWUxMR1FycFJkZmxkaVc5UEkydS1OUmcwaDllZlNBbGVKQ3V5UkRUNWp4YjUwaFFNY0puek1icFFYNWF1V0Vral9UNmtfWXQ?oc=5",
+      "title": "Le projet d'IPO en Inde fait grimper l'action Pernod Ricard de 2,30 % - Traders Union",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -510,24 +500,39 @@
       "source": "gnews-ecom:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZU5sMGRhUGRWeWpGSExUTXE3Z3JXWG5VMlZTNnA3NmdEWlhJOUNJUjRGT1JVNFpSWVllb1dzMVRRc056dmtPRUFRYzlOZjBuZlA4OXBpTExQQTVCQWh0STFVTVI4T1puZjRralpjRWRTM0c0c3p3WG56bVlrRzJObUdnWTFDa244MGlnSGtrUWwwWjcyYi1hbVBjUFI1ekNWZ2kzZ0JYODNtaW5BaFUtbnBpeS0zbnpGM244Ui1TbEJpbFpvT05NUEdab1hDaHJpUU5HZVRTZk14OS1SVk1ZSVlB?oc=5",
-      "title": "Global liquor companies chase Indian state dues of $400 million - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vUzlFXzVxSjdXRENTSlhtd2Q4ZWtwZDd4NjhUSXNmeG5IVVhWaGVTRUp6MTNzcVVCR3RIVDFPMEhycnJqUk9tb1ZkUnR4bFFpc3ZjSWdFSEJrT29OYmdyMU5IbFEwYkM0MURBdjdoMWFpVlliUGJybzdvaXo?oc=5",
+      "title": "Pernod Ricard: A good level to buy - marketscreener.com",
       "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlVudXljdGwwOHNTWnV2bHRYbHVHcTUxd1ZnN1hZRkxDYmFTSXFNNzJTVDdZTnlneU9qd2dSNDdrZXJyTFl2V2ppZm1oaGdSNXNQOWpSUFBrRmUwajJuQ3Jxdmdud1ZTdm9wSjh5cjFIWGJLX1BnMWluclQ5NVVybFNleUg4ZnpCUVN3MmJiTHBQZ0s4TjJfRGszcEV3aEE?oc=5",
+      "title": "New York Post: Trump dreigt Frankrijk met wijnheffing - Beursduivel.be",
+      "source": "gnews-ecom:nl:nl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHlVQ2pKYXZPRWNTTUdqbnVjcGhCcjQ0UzhFWEVqcFE4M2hDSFpLZHg1ZGhWejM4Ml9zQnlhRHgtY0VOVFJ3RTkxbDYtX3ZHM0xkM1hpaGJPVlQxVDZwMnlMUEMyT0k1TlhINjRHd0J6dkFFaFAwNDNsYk9LV2JyZmduRGtGcnhJYlpVeDZ5OHRFM281Y2xpY2w5dThURmxtYUlGbHZ5MF9wOEp5b2NkQlJYSEJFSTdzUXg0aWhkcHdwYU5YV0lQQklHa0NWV3llUUZBXw?oc=5",
+      "title": "Citrus Alcohol Market Forecast Points Higher Toward 2035, Driven by Premiumization and Occasion Fragmentation - IndexBox",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM05IcmMxVGs0V0x1cTh1TnhoUXZVZkJwS1EtYklqYjNCbENQNVJsaUVJLWZvN0d3VEhoLXFkUjZRTEltMzJ5VGpFSlBPX3BOZk1neUdYeUVvZnNnWVdtNlBQaWxCSWhSSWpSQjdSZGd5WEVHNnRZMjg2OG8ydGVSZHp0TTlMTktjV3BmaGlRd3ZMcXNJYzMxVEZuQ3gwRDZ0RjYzMVhsZUNVSEJzWXFoZWY4Z1pyWmNTd0ZqT1ZKV0I5UWpQVzh6X084WnpQXzFLU0REcA?oc=5",
+      "title": "Carlsberg gears up to file for $700 million India IPO - ET Retail",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRExGYWp2akZmcHpfOVhMTVgwX3N6YXp4M2xhOFRKSkNXYWdSZzJ1ZmtUUEJ6VzhpQTRWOXBaVGFtcTVPTkhCcDd6NkIybklTZWtiN19ucm9lei1OYXVSLTUyV0FwQWlqU3hwZ2FSeTRURFFiWXNOOFZrSl9hbEZIYkdQNkhCeHFZVXM5ckoyd0dZRlF1S2QzczBSS2NkaXE0RXMtM2ZSazdnNW1zM3lwWGhld2dPUjhWTE5sQkhqOA?oc=5",
+      "title": "Madonna, Absolut Turn Up The Heat For 'Confessions II' Album Partnership 06/15/2026 - MediaPost",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUNuN25KSThOTnBWUUpPYXNqREdYd2NWQmlxclBxVXdHRndDSDNUd2ExMEFUc2doSUVYV2MzZF9MUWlRaXF2MDBfckZPQ1NkUWh5ZGppWDJRYU5CYnlsbDB4YzhSU0hvT3BoeFVySlNsVHZ0SS1aemJKOUhONWhRV2gtR05UcElfc1NnSGExWUJCMHk3UWpzNHQtN1hYa243am1kTnJPclZZdklNTXBVaUtOMTlvajRNWDdxOFFzVQ?oc=5",
+      "title": "Madonna, Absolut Turn Up The Heat For 'Confessions II' Album Partnership 06/15/2026 - MediaPost",
+      "source": "gnews-ecom:gb:en-GB"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUZ6M0p6U3F0Yk8zZWZvVDctNWZUQW4zcmN0T1EzMGNpXzRiN1VhTTQycDNMM0NjTFpHdS1KQUdsTnRZRnp2SENrd2tRQjhiZFJ2MGVUVDBXUHViMkI5MW8tb0xkTDVtUnU4NGhoN1RGWUprdUt6dFdxOTRxd1ZtX3pOVGpaZXB5WHZvTEFyUEIxMi01SWpmNXZiYms4OGVqakhSRnhpXzBPQlNJVndhSk1IVkloU2Mtamc?oc=5",
       "title": "Absolut Vodka: Lifestyle staple in the premium spirits aisle - AD HOC NEWS",
       "source": "gnews-ecom:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUhhT1NDUDItdkt2dXNSVFVfTTg0bXZwNTg5U1lXS1RmeW9QVlJmY18wcjRXNk5OYVRXQjJveUYxeU1sRTlrVzhwYXY1R0xwMWhpdXRxb3dDaFNDdU9sUmd6T21XX3gwZDVDaE8zR0JhRnNlT2NVMzhzWmJpQUxZclFtd1VCekttZ1FmX0tVX1lKekhn?oc=5",
-      "title": "Media: Trump dreigt Frankrijk met wijnheffing - Beursduivel.be",
-      "source": "gnews-ecom:nl:nl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWpfcS1BVDBlNlFUM1pLSHFSYUcyNUZlQ2t5ZjZENzd0eVVZRHMwOFkxaXhyZ1FucXE1bkdTMERnZGRKaDhtU21WSU1TS2dmdURoNmdLWk9NbDVScFlBMmhQWEJTM0ZXMTB2dzVkUk9abW52YU5acURxUDdrY2ZmcG04cHMtRFJnOHhRZGVEck92VHhaSTBlZ3R6NTVVcDUyNTdKbzBIY1NZbnFRbDE4VzZpOThSNmEtWWtQRFgtZFU3TUFnY0l3dQ?oc=5",
-      "title": "Saatchi & Saatchi makes the cut at shortlist stage of New York Festivals Advertising Awards - Campaign Brief NZ",
-      "source": "gnews-ecom:ie:en-IE"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekVCSUNJTndFOTJyZWF0UGZGMFpfNHluejA3Z1VZd2VxY0htSHktUldXemJqU0dvWW16aktyaXJfVXdPTDU5T3ZYSzVjTVQ5Mk45Z25sSmdQcnNQZ001QWdkZVRiQXRCX1NUQnQ3UGdudldqa3RRNXpNeEs0TGh0ZDRndHE3c1E1VkJrcHgyNkJKSHVHYThoNWVMWWtxdXo2Y0pKRGdtTm9LMG5SdW1yRzQ2SEc2eGFfRmhPb0VRcnlpMWlo?oc=5",
@@ -555,16 +560,6 @@
       "source": "linkedin:gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFNTT0NxazE4S25XMHU3VDhVVm9ONVhwYjNjek54ZGJFNGRMMW51NVl3ZTFacWMyN3ZPNGJTZk5md0lzcV9CVlNpT3A5Ui1pMkhnSkxuSEhSQkt0emtNejBJN1BnUWprUGE5V1JSQ3FUMlQ4V0t6ZWgxM0V6dnlKTWptWFpKSjVoUUhDUlAwX1hYREZfV0RHVVRvZ2Y0RDhsQWJTLXE0V0NuUUI2YU5sRS15TVZSaUhB?oc=5",
-      "title": "🚨 We are hiring🚨 Advocacy & Community Manager (m/w/d) Dark Spirits Bist Du bereit, unsere Dark-Spirits Marken mit unvergesslichen Erlebnissen zum Leben zu erwecken? 🥂 Dann suchen wir genau Dich! 🫵 Werde Teil unseres Teams und bringe mit uns di - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUZ2SmF4ODRVRTFPNjVFWFdjb3h6clZUVExkMGk3Y3MwS09zMFFnWGtFQ2NTTGpCeEwwRGVRdjNMWHRxcmc5ZFFCdlNBWmxzeW9SS0hLUGxKd3N4M1JlSG5SdWdmeFZFWUZrN3QyOEpCcVRvMy15cktSY0dNeTlhSXVGR2dZMy1hUHJhYUkzUV9NYTlPMEFoUHQ3VVRidGNtbEswWW9nS3l1SzY3ZU5VZW9TZ21Ca1JlXzJZ?oc=5",
-      "title": "Eine zentrale Rolle in unserem Vertriebsteam. Eine super Aufgabe zur Weiterentwicklung und zum aktiven Mitgestalten! An alle, die auf Herausforderungen, Spaß und ein super Team stehen! - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWJWd01Fb1BhcUVlQ3ZIMHBwX1VKTk9BWFN4Y0Jfa19FSC1NTl9nVFllUzBMWGxCU0VaUG54RG5sQkNrc0ZwWFFhR0NsaGt2R05rOExieXMwVXVuOE1zd09TWXh2Z1ZlWG9SM0xHS29QM01TSWxaenhFX0JaQkV3Um9YR2pUX3N4OF84RWhKRzhvYlo0ckp4X0J5QzU?oc=5",
       "title": "Weniger Promille, weniger Regalplatz – wie Händler ihre Sortimente umbauen - LinkedIn",
       "source": "linkedin:gnews:de:de"
@@ -582,7 +577,12 @@
     {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEI3ZXV4NjQ2SDBVbDZ3WDF4OUp2bUxJcUJhTmE1RTJVbUc2SmxZMFFKajZsMkRkQXNWR0RSLWttUGtKQTdBUDZ4Y2FFa0pET0FNdTMyZnE3QWY3YUFuazJYWjVDVGQ2eWtjaWt2YzVxWVdxUDhvT2hyZ1QyWVNpczA3NTJVV252WkVIOHJZYw?oc=5",
       "title": "Finmatics sucht (Senior) Account Manager (m/w/d) in Wien, Wien, Österreich - LinkedIn Österreich",
-      "source": "linkedin:gnews:at:de"
+      "source": "linkedin:gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOQ0hiZ3RuTy1FdmNrSUdvMVhkcWhTQkREdTVlNGhwR3BBX2QxUThqR0Znc3ZfUFJaR1ctOWFXbEVMTmZSNnJNWUZGRmZyWWdKdXBJTFQ2SXhiYVFXc2p2QzlCQ2JMLUlBMlk5NTltcC05SmVjMHZpSW94Zm9PYnRJOGlvQ0NFRUtYRDhkdDRuOUhfMGlTVGJaWi05OVQ0ZHlPbGwyZkJncks4QnNKcUZfOHlWNGF6a1BXVzNZbm14QXQzRlNESzNpZG1GZnJHXzBZUXdiWk1QMWFBUFMzaTRXeTZ1OGI1dVRKeGtXV09LYjltVDRfZlQyUlRnRVFicmZqeW4xMkpYd0Yta05TOHZZaUFsX0RKS1FNSWU1ZG45WGp3bUVTb2p2cEFnRHY3R3VkZWt4dFdDN2xEMEFKOTkzeEp4M05kSGViN2J4VWJxLWtMdVpwV1V2a0lSQm1vd1ZSZlFkbVJpRk1GUTFpR1VJQ0U1MWpqLUltemgzMDhKNm16Y3ZIeV91ekJ6bFFEVFlUbmxnUEJyR09DVkd5ZEozcnJxbmhaclpUS1FhMDV3SmpMOXp3NFpuOXI1SC1UdmZxUFBVOVpJTUx6XzE0cUlhNElYWXdwQ1FkUEg0aE1QVTIzWklBc19RTWp0NlMwTDRlQlJGUjFpTDBVUUoyd2lLaExCb1RyZjhPay1hYVZua1E3TWNiemdr?oc=5",
+      "title": "𝗪𝗵𝗮𝘁 𝗮 𝗽𝗹𝗲𝗮𝘀𝘂𝗿𝗲: 𝗨𝗻𝗿𝗲𝗮𝘀𝗼𝗻𝗮𝗯𝗹𝗲 𝗵𝗼𝘀𝗽𝗶𝘁𝗮𝗹𝗶𝘁𝘆 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹𝘀 - im wahrsten Sinne des Wortes. 180 tolle Menschen aus Marketing und Medien, Musik und Lifestyle sind der Einladung von Maison ACME und LIGAN - LinkedIn",
+      "source": "linkedin:gnews:de:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEJNVUNPY2kwWkJvUWoxVHljUWNTR0JFd0NJT3Y1UWphMGVvZ25lalQ1cjVucUxYMVRxOEhwNUZPVUNOdDVSdWJTaldNMFBoSjl1Zzg2eTFfaWFNNENjMzg1T2lVU0pSV281MUFENkRHVTc5MmZETkgyaGR0eEY4U2FWUFlmUzY4UUozcGFSS3RVVHA3YTBWeGJHbktkdEFS?oc=5",
@@ -593,6 +593,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1l4dHl5b1BYNER2eGlzdVBUcXIyeFBnQmRUTzJ1enhDM29RRWZsenhoZFVvbS0zMFktdTVGOWowcGdabXhFRjRXLXpKTm9qblN4bGlUd1RCZ1JWZC1Sa3hSVktycFJxMEZDYlZxM2ZweGtFeUxRNGF5bDhURUtLNEZvQzFfaEFxNU9tRnNMSlVUNkpiRWY3WHlfRDYyVGN1bkdCVmZOd3RmZUpSWnRSdldFVlJXVW9Q?oc=5",
       "title": "IMCD Group sucht Business Development & Sales Manager Food & Nutrition AT (W/M/D) in Wien, Österreich - LinkedIn Österreich",
       "source": "linkedin:gnews:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUZnWjFkaHFoTFhnb216bC1CZE5KZ3RiWlc2dkhnSW9ZX0RIRkU5TGdzRlFPWDVXbUplY0hxSl9GMFlubmRVVm9hWlNia2sxR0pDZXM0bE5lMTlscURLSkJmS1RDbVJ2a1JPVE0wNG9ObFZiczgwUm9GOFNkZTRQQkJLanM?oc=5",
+      "title": "Nutanix sucht Senior Account Manager in Wien, Wien, Österreich - LinkedIn Österreich",
+      "source": "linkedin:gnews:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcV93TERjR1VCb294bFNBalFudHljSy1nVmpkYTBmQzVkanhfc1VVeHJ4WkhoWjMybTE5eVVKNE5idWJDRkhFQk5hLUU2dFFEemlSb1lGNzhFTmpDS1FsN25yQ3JwT2hVR1hjNV9Vc0pxaXFJdFZkenhCWlo4T0lheUVvX09fU3lheTRXbXdBaDFPbnFRbUd4M1RjLWZEQk5Rald2THhuT2ZiTnhWcnBzMUFGT2F2dXNvVTZYTnFR?oc=5",
+      "title": "Fable 5 von Anthropic ist da! Ich konnte gestern Abend schon testen. KI wird immer teurer: \"Fable ist das leistungsfähigste Modell und verbraucht 2x so viel wie Opus\". Bis 22. Juni habe ich es in dem Max-Tarif inkludiert. Das werde ich nutzen für User-Tests für - LinkedIn",
+      "source": "linkedin:gnews:ch:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak1wLWpNRDNwSmpXaEl5eW9CTWhiQUZuRWhBNVlsNVliZzdHYnFRUFU5M1pfVVBpaHFGVEtDMjdpX2VoaHkyMExyVVpMUTJqcE5SbUlfYmZwZTNUSEh2N0wwakFZNDF4bEVJUktXWHdrQ1lMSEVZZ2pxM3VxQU0zNHVVLVdWNS1iVmd4Q25WU1VuT1BzZ2xMblUxd1REa0VhcGhCZHlnSmRLWFdLNnFpdXA5cGdsQld5MmxrSmdRV2xSSDctY3daamw5cE52aVBPUWZJaWstaWpjX3A2QmNR?oc=5",
@@ -630,13 +640,8 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3hEdGdOdXFCU1lrbldKWmthRGttR1B3aUtjNXN4Y1ZtT1hmQS1aU2g4d3FDZDhTN0czWVBnck5IQUk0eHQ0ZFVOcjZOenZPRUIwa0FNZVNXSENReFdDekE1YVEwcVFQQ1lNLTlVUkk4cnk5cENpVXdnVjlpRUd5bDl2dHhRaU82VFViVXQtWWVHNTNSSXM2MnFaTzA2clBfT3EwWjdzTmJhdnV2NWM2VF85eUhjYjU5VHpLaU9MM3laY3ZMcDdF?oc=5",
-      "title": "Caroline Connan nommée Global CDO de Pernod Ricard [A lire sur Républik IT Le Média] Quittant Forvia où elle a réalisé l’essentiel de sa carrière, Caroline Connan a rejoint Pernod Ricard comme Global Chief Data Officer. https://lnkd.in/ekapX5ZS - LinkedIn",
-      "source": "linkedin:gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGhQMjFPbW1uUTNKdE81S2pBeVpFdEdMY010ODNweTFFV2JrckxOS01OVnZIZno1eFJ2d1BQc0xkTmsySlZzaFZFQ0RMdWZrMHNsa1A3Ml9FVXpQLUxocEtpeXA1bFI4MEgwU3VXRG84b2VHNUtTOGdRUXRyTGpfMnJoTFMyaUtDRWg2alpfX2M?oc=5",
-      "title": "Pernod Ricard recrute pour des postes de HR Data & Analytics Manager (Ville de Paris) - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPaWlQV0U5Z1hBQ2E5T2l0QUVjMkY0QkgzQV9nVl9VcDlTb3hCWEVwckF6cHlISHJYamdFSUlPblM0a1h1WkRuSzJhelZGaEhCU3MtUlVoaE1tSU53ZXR6MXF6TmJ6ellfdk5ZYmh5RlJBQXBQb3VRYU5SZ2xGS01SWVZvbFpPeUthLVQ1VXdGM1BkUXhDZV9oQS1rd1dGcHNvSm1mVWVlS1ZuU3FMQ1ljbkh1dDdOaUJPRmcxUFNXTEtNZlRZOFUyeGpna2p0elF2V3JjeTdaU0VQR28tUHg2V19QX1JTbEhzeW5pbUl5aTBYeWgyNEc0djRKWjM5SlR5dk55MlhBYnU0SlA0TVlwTTU4VXNONHZuNldBNXVmcw?oc=5",
+      "title": "🌟 [𝐀 𝐥𝐚 𝐔𝐧𝐞] : Philippe Prouvost, 𝐧𝐨𝐮𝐯𝐞𝐚𝐮 𝐠𝐞𝐧𝐞𝐫𝐚𝐥 𝐜𝐨𝐮𝐧𝐬𝐞𝐥 𝐝𝐞 Pernod Ricard ➡️ Un coup de frais est en cours au sein de la direction juridique de Pernod Ricard. Anne-Marie Poliquin, qui avait rejoint le groupe de spiritueux en mars 2021, lâcher - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -645,8 +650,13 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVdwdTBoYklFNGpUQ1NRakhRSW9hWjU0NC0yYXdpMVNzTExJOUVfS092V2QyYzFTMngwMFhuVGlSdy1SZV85aXkxLWVvaGlFdEpaR0JqaDVEZ25sTGpNMFVnU2JHcmpIOTVFRkktV2xxRk10OUZqSllTdUNRM2FIS2FjZzRkN0FJZmI2UjNsMkdyNjBkRld6THh3?oc=5",
-      "title": "Artefact et Pernod Ricard, lors du dernier #HUBFORUM, ont démontré que l'IA agentique signifie définitivement la fin de l'époque où le marketing se jugeait ainsi : « j'aime / j'aime pas. » 🤨 Le constat d'Alexis Poujade (associé Artefact, practice Data & AI for Mar - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2dsNl9SSWlRYnFPekU0cGJyM1lrWnRMR1BhNUFpeG5Bd3E1V3lYQ3VsajR3ZkhFME5tVWN4SEZhenJlcGw4SEJ0aS1tSmZSeXhBVHA4b0pVNnBRd3FPUzlLcGtwQTB1dEoxTVdYdklKNGxqenRCMHNNaGlvOENoNThONlhmMjVnZnlqNUp4SUV2WXN0MlNablVra3IxZ1FBa0pyUDBpRENEaE44R0ZtcGNUVGZfc1VMQXBpRGljNWVrMnVOa3VKNw?oc=5",
+      "title": "[Le Nouveau Programme 2026] Jonathan Martin, R. Moreno et Clémence de La Tour du Pin sont les artistes distingué·es par la commissaire invitée Salomé Burstein pour la deuxième édition du Nouveau Programme ! ✨ Le travail des trois artistes sera réuni a - LinkedIn",
+      "source": "linkedin:gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0pUVlpzcXhNOWNRZFVPRnpzSVFNNFo4LUh5M19KR2Z2cUtGbXZHZG5NdTBZNF95eXl5dEh2V2ZmWmFsWHVhb2NSdGNDTEJTTUl3cUQ2c0t1RGFyeVkybFp4ZGxGNm00Z1d3dDc5UEhjVVRwTDQ2YWxIcmc1dUFCMlFhRHZnVF9VcGdReVdheHFTX2E2UXFUdDJId1pvYW9zWEJWakJHc0pXNkl1bm1UZVc1SnZFRjRSaWhEd3NJZUpwc2UwMERacVRBYkZCc0ZId2c?oc=5",
+      "title": "Cher réseau, J’ai le plaisir de vous annoncer que j’ai rejoint, depuis le mois de mars, la Direction Juridique du Groupe Pernod Ricard. Je tiens à remercier chaleureusement les personnes qui m’ont accordé leur confiance, particulièrement Marion Toxé Ussegli - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -660,13 +670,13 @@
       "source": "linkedin:gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDFVTVhnTmVpalJ4NjlOMmV4b29CSTM3c083cXJ6b1QtVWo5UWxlc2s5TVlrQmZMNFphcXpKb05MRDhaVk4yUVl4LUZCdC1GdENlcTFrM1hKanRiUXRXa3JKWGRQWDhqTVdna211MWtlMDRlN1l3QW9sdlR6ZVZrRjFHZEJxdmI1LTExVnJRRExWUDhkTV8wYmZB?oc=5",
-      "title": "Giucas sta assumendo Commerciale Clienti Business e Consumer in Pavia - LinkedIn Italia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUQzdmRka2N5aDh2elluQTNZd21SR2kwTTU3UW9BWTFLcFIzTTFWTmROak5VQjVJTk80ZTVuOVk4NWFULWR3VFFVdUJEbTZjaVlFQVZ6YkRsSjd2czRyS19YVk5ZUmlkNDE1blItVEQ0T3lFU1JHcnpMZ3daRFd2ZWtuNFlXQk9qbS1XQV9FM2NCbWhJUDJTQ1FlNjdDTXBqWWhpWA?oc=5",
+      "title": "Life-job sta assumendo Promoter per attività commerciale retail in Pavia - LinkedIn Italia",
       "source": "linkedin:gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUQzdmRka2N5aDh2elluQTNZd21SR2kwTTU3UW9BWTFLcFIzTTFWTmROak5VQjVJTk80ZTVuOVk4NWFULWR3VFFVdUJEbTZjaVlFQVZ6YkRsSjd2czRyS19YVk5ZUmlkNDE1blItVEQ0T3lFU1JHcnpMZ3daRFd2ZWtuNFlXQk9qbS1XQV9FM2NCbWhJUDJTQ1FlNjdDTXBqWWhpWA?oc=5",
-      "title": "Life-job sta assumendo Promoter per attività commerciale retail in Pavia - LinkedIn Italia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1hDTzRmaVFaRWlSRkFWV2R3dnBnVllpbC1Wak9YZEVzNUhxUTMyd21vZktweDVpT3JDajV0OFlEX1FLVG1CelhtTDdLRFRfQzdGODRnNEprUi16bVdVZWptZjFlWjFaMTR5LVJqZnRuRi1rbGZBZEh6clBKWFd1UTByLUtzRUxBYmFLb0w1NA?oc=5",
+      "title": "Yodeyma Parfums sta assumendo CONSULENTE COMMERCIALE in Milano - LinkedIn Italia",
       "source": "linkedin:gnews:it:it"
     },
     {
@@ -705,8 +715,13 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mV1FEVHkzRlRBakRUNGxJUmtrcFB3eG41QTBlUjdCTWNvcFJIbWtDa2haSUU3bDJMeEhqcjRaX18xb2k3TEVXdUdvdnE5by1JY2VDZFU5MnREVVZpUWEwMVZ3?oc=5",
-      "title": "Empleos en Chivas Brothers - LinkedIn Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTB3eFZaN2YzOW9xSzR6NEg0VUJOVUJTWGdEZG51bEVBWmFFa1dtd1FQT2ZjRV9INWM1Nk9OU1I2SGppZ2ItbHJQUmhfRFo0SUxxcXJmQ1B2TEZ3TlAwLTRGV3FvUjdoVllraFpFaXBCOTdDSEsyQ09Ec1FuUmlTalRlVDVSeGhlY3RNejRXWmszRFgzWFlZVGk1ZUNhbWNXRThNN0tiVU95STctdllUUDJwZnRjM1lKZDBhS0t6Q3pMejZNS3pwSWFiYw?oc=5",
+      "title": "Pernod Ricard España inaugura la nueva Línea 8 de Las Labores en Castilla- La Mancha - LinkedIn",
+      "source": "linkedin:gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOenFfdlFFY2N6WENHbG5JdG1OY2o5UWktQzhycXoyZ05ydm84WGR6RXlOVU5Jc1lvWHJtTzktOUNmbExNaExobUZoajhQMUJsdWlOX0FaMjc4TGxoQmYwbzFNSFl4b1lfdkpwWDRCSDFDaUk1bm5aVG1md0RWbGU1SEVGLXk2REFoc1RaY3NLdDFNeVNwbF9sdUVabzd5M3pUMnd1OW5VM2Q2T29IejNOaXBOelJNNmg1Mng0aUpQQUdNbnRRZ0ZiMktYbTU?oc=5",
+      "title": "Contenido de entretenimiento como herramienta estratégica. Esta semana tuve la suerte de asistir en representación de Pernod Ricard a un encuentro organizado por la Chambre y Publicis en Netflix. Una mañana para inspirarse, aprender y conectar con pr - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -715,23 +730,18 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjNiTnFONUFwcWNBNlRRenhQUkpDZmlGRVRCZzh4ejhqZ0JHODdVSGdjU2hVSmpmQUdQajVWcUo3UjBpQW5Sb25CTWV6RlNUQ3FncHhNaG9nMlBfeWwyMmE1QTVjZnFyWm0wZ005Ri13b282RVhiWnY2d3V0aGRJMGlyd2hnOWpTTS1MY2FoYkdkdlhkVWFkNEtaUXgxU3NVclVOdURvSjd5LXB5bEZaMDZEQ1pkVWc?oc=5",
-      "title": "First Quarter 2026 Results In 1Q2026, Inditex maintained a solid operational performance led by the creativity of our teams and the strong execution of the fully integrated business model. The Spring/Summer collections have been very well received by our cus - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iaUtTQ1ZZTGpwa29nMzhZNmN0RVZxcmIxekVLTjhucHdLcEo3WGZtTl9lRlVEZmU5LXBXTWVqSDB2cjBZOXQzOEI3bHdEODRoRV9IeDlCcGlLSE1TQVRHUmJpSWFjYW83TktuWkpuWDZaZw?oc=5",
-      "title": "St. Petroni - Petro y Toni - Muy a lo nuestro - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2hINUpUOERaX2MzVS00VEdEekNXanc5SzdhQXJEckptS1p6RHE5b2JJWWw4dU85WTRYVElUaFhZQlBjSGo5Z2ZNbklGTzNTNGxpTXhXWGhNTUxRQkxnTUtwN1J0VWhEeTZkU1JyamN4M3ZDSEJOcVFyWXhVTlk3N2doMWgyU2ttTlA5bzNSTlE3UTM5YjkxTTUycmVfMnBsUHpSRzJXZFBic0Q5bWNDRF93ejNWbm5odVVRRA?oc=5",
       "title": "Pernod Ricard se vuelca en los productos ‘premium’ ante la caída de la ginebra en España - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmV6b0tvS2UzYzdpUmtha0h1cGVLbnN0dGdacm41ek5JU3U0Qkt5blVtRUxtcmQxbnJ4cFd2N0FhTk1zR3BqZkNfVXZDeDlTVGhkTmFYUGQ5c2FHSllZQUszZ3diemt1V0poUXhVUjVkNmtGR3RhNU1ZTzZfeV9IWFlXd3g5cG5DSlZVVGM3QjJSVHlvZ0R2V1JtNExtdUt0TXdkOU9COGo3TE1XMTlfczBFWFdCOVh4RHc?oc=5",
-      "title": "Inditex acelera su ritmo de crecimiento y gana 1.375 millones en el inicio del año. Inditex pisa el acelerador en el inicio de 2026. La cadena textil finalizó los tres primeros meses del ejercicio con unas ventas de 8.750 millones de euros, un 5,8% más, superan - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeFhMVW5NejJMTnkyOGpPNXZUSmJOd2VKM0NTaWs3WWo2WlRRc1BEQjQzM1gwOVlzWThVUGxXZUZrYVEyRkxaaHgwYkkyR3hjc29LU2NmUUx4XzVEd3U4OTNSRzJ0MFpJc2lKWjBoQkh5LUd6UWN6Nm1qVjFmYVA2TmFRR2I0RVJsT2VrVjNva29MeTZZT3QxYWNIa2NsSU1tZVoxRnVpT25MTFhHTTI1bFVMR2puTUYydG03UV9wZkQ1S25LUUp1N2pMSlpocXNsMUs3MQ?oc=5",
+      "title": "Pernod Ricard amplía su planta de producción de Las Labores (Ciudad Real) después de invertir 14,5 milllones - LinkedIn",
+      "source": "linkedin:gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjNiTnFONUFwcWNBNlRRenhQUkpDZmlGRVRCZzh4ejhqZ0JHODdVSGdjU2hVSmpmQUdQajVWcUo3UjBpQW5Sb25CTWV6RlNUQ3FncHhNaG9nMlBfeWwyMmE1QTVjZnFyWm0wZ005Ri13b282RVhiWnY2d3V0aGRJMGlyd2hnOWpTTS1MY2FoYkdkdlhkVWFkNEtaUXgxU3NVclVOdURvSjd5LXB5bEZaMDZEQ1pkVWc?oc=5",
+      "title": "First Quarter 2026 Results In 1Q2026, Inditex maintained a solid operational performance led by the creativity of our teams and the strong execution of the fully integrated business model. The Spring/Summer collections have been very well received by our cus - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -740,8 +750,8 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUw0Mm1sNk5zUHkycmdocDZab0stRXZIbG94TVExSDB5QS1XdHVoOUdjVXBHNndBZ0p3a0g5VlpSUVBIZmJrVWM2aV9HQ0RFQWh5ODROQkRYalM2R0xleGlzaHk1aU1BRWVNcFA5VkQxUkd4aEhlVHlBdWhrUjlGRjZlNmo4MVFvdVNrTUdIRTdoQmFiX09QX2M2RFZDc0tiRG1ybko5X1NPemlsLTlHc0ZNMmF6eHAyNmYw?oc=5",
-      "title": "🔴 Primicia 🔴 Beatriz Osuna liderará el área de Asuntos Públicos, Comunicación y Sostenibilidad de The Coca-Cola Company. Reemplaza a Pedro Fernandez, que ha desempeñado el cargo los últimos cinco años, periodo en el que \"ha contribuido de forma - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmV6b0tvS2UzYzdpUmtha0h1cGVLbnN0dGdacm41ek5JU3U0Qkt5blVtRUxtcmQxbnJ4cFd2N0FhTk1zR3BqZkNfVXZDeDlTVGhkTmFYUGQ5c2FHSllZQUszZ3diemt1V0poUXhVUjVkNmtGR3RhNU1ZTzZfeV9IWFlXd3g5cG5DSlZVVGM3QjJSVHlvZ0R2V1JtNExtdUt0TXdkOU9COGo3TE1XMTlfczBFWFdCOVh4RHc?oc=5",
+      "title": "Inditex acelera su ritmo de crecimiento y gana 1.375 millones en el inicio del año. Inditex pisa el acelerador en el inicio de 2026. La cadena textil finalizó los tres primeros meses del ejercicio con unas ventas de 8.750 millones de euros, un 5,8% más, superan - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -755,13 +765,13 @@
       "source": "linkedin:gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHVDTG1OcUhtQTdvWjZGR0VNZHV4Z3ZtSjJGSUl3eVVnaTBMRFAwM1Ribk50c3M0Umw1amlYTHFLNHVFOTBmeVdkSmExZUpGMzRLU3BYWjdZX3g2dWRYdFhuTkVnMFppN01ENEp2RXpXdkw3WHN0QXd5cDlmdEFrck1Kd1VUWnQyTjE2NDgtSHJYaTlTMERIa25YUFZjUi00azA3aXY4bkpaN3RzU0FfVDVmV0paTHNFazZ0dFY5NjlRQko1bS10UWhB?oc=5",
-      "title": "Super; 🏆 Trots op deze ISMI Award voor Gall & Gall x Pernod Ricard. Een mooie erkenning voor wat er mogelijk is wanneer teams écht samenwerken. Grote complimenten aan, en vooral heel veel dank voor de fijne samenwerking Suzanne Linthorst, Anouk P - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXTGhpNkRHNnJ2MGJKdlk4MlZBb1JZV3NLNFdMSGN2bFdOdTRKc3ZwaFgyTlg3bnkxbkZxUkFyN2pHelpNcmM1YmJSSEd6YUc3TWJkb0h4RUFxNDN0ZEtSLTNhN25SSUtKNzFfTno3dVpabENlRzlOMy1JdVZKT1NzZF9ndFpxX3NjVmg2RnMwbUpXNXRaSU9GaU9wQ0ZmTzhQT1F2MFVIU1M4eV9rcjdwUGFsMFYwaVE?oc=5",
+      "title": "And the winner is...: Pernod-Ricard Jameson! Gisteren mocht ik tijdens het Catch the Shopper event in Groenekan namens de jury de ISMI Collaboration Award uitreiken. Naast o.a. de ISMI 360 Shopper Marketing Award (die Pernod Ricard ook won!), reikt het - LinkedIn",
       "source": "linkedin:gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXTGhpNkRHNnJ2MGJKdlk4MlZBb1JZV3NLNFdMSGN2bFdOdTRKc3ZwaFgyTlg3bnkxbkZxUkFyN2pHelpNcmM1YmJSSEd6YUc3TWJkb0h4RUFxNDN0ZEtSLTNhN25SSUtKNzFfTno3dVpabENlRzlOMy1JdVZKT1NzZF9ndFpxX3NjVmg2RnMwbUpXNXRaSU9GaU9wQ0ZmTzhQT1F2MFVIU1M4eV9rcjdwUGFsMFYwaVE?oc=5",
-      "title": "And the winner is...: Pernod-Ricard Jameson! Gisteren mocht ik tijdens het Catch the Shopper event in Groenekan namens de jury de ISMI Collaboration Award uitreiken. Naast o.a. de ISMI 360 Shopper Marketing Award (die Pernod Ricard ook won!), reikt het - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHVDTG1OcUhtQTdvWjZGR0VNZHV4Z3ZtSjJGSUl3eVVnaTBMRFAwM1Ribk50c3M0Umw1amlYTHFLNHVFOTBmeVdkSmExZUpGMzRLU3BYWjdZX3g2dWRYdFhuTkVnMFppN01ENEp2RXpXdkw3WHN0QXd5cDlmdEFrck1Kd1VUWnQyTjE2NDgtSHJYaTlTMERIa25YUFZjUi00azA3aXY4bkpaN3RzU0FfVDVmV0paTHNFazZ0dFY5NjlRQko1bS10UWhB?oc=5",
+      "title": "Super; 🏆 Trots op deze ISMI Award voor Gall & Gall x Pernod Ricard. Een mooie erkenning voor wat er mogelijk is wanneer teams écht samenwerken. Grote complimenten aan, en vooral heel veel dank voor de fijne samenwerking Suzanne Linthorst, Anouk P - LinkedIn",
       "source": "linkedin:gnews:nl:nl"
     },
     {
@@ -785,13 +795,13 @@
       "source": "linkedin:gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VZFVLNEVWV3daZnBNSGdtckE2aXM2MDZNQWVGX29vYXJmTmxPTHdEbmRaMWdrdGpjMnlhQm1qNy1uS05ibzFLXzBDQVRWOUtfMC1PWWZkaEhUdmFh?oc=5",
-      "title": "Naresh Adhin - Accountmanager | vantienen - goeie koffie | Koffie & Thee | B2B - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVUdBVERrUWJLNXk0c2NDN1lxTEYxVm92c0NBRG9NbDJWRzl5Z2J0NUtXczJjYnpfblI1dW43aVVraWRTMF92eVhKX1oxaEN3NzIwZUJ0U3ZCX0tD?oc=5",
+      "title": "Jeroen Broos - Commercieel Manager Verbunt Verlinden - LinkedIn",
       "source": "linkedin:gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVUdBVERrUWJLNXk0c2NDN1lxTEYxVm92c0NBRG9NbDJWRzl5Z2J0NUtXczJjYnpfblI1dW43aVVraWRTMF92eVhKX1oxaEN3NzIwZUJ0U3ZCX0tD?oc=5",
-      "title": "Jeroen Broos - Commercieel Manager Verbunt Verlinden - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDRfWHR2YnpUeVBtdXJwaWNvY1hYTGxKb1NYVEdDMmVsVXFVQjAwQVRpS3hiUHZpb1B3U0hhMHhlUWMwOS1EQXFBS0xLQU9fOThTOXZVRUhYdlpKTnNuSTZ4STY2X0ZRa3Z0TmlYV01zNVZpODEta3JsWllFdHBNWFJDZ3NZZ3N1Nkswbm9xSDRWUnBqNVc5Nk1LVDBXZDFIcUdMX3J6NGVyUFE5VWxqZEg1cUVSeEU4emNnTnBHN3cwSXB6eDY0?oc=5",
+      "title": "Jobster zoekt een Bijbaan Salespromotor: Maak impact voor het Rode Kruis & UNICEF - Pepperminds in Haarlem - LinkedIn",
       "source": "linkedin:gnews:nl:nl"
     },
     {
@@ -812,6 +822,16 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fVEtuZmdvaTRybi1QQ3F4Q0xaZGFGYWRnd0hTVkhvcUlkZ0F1a3U4Z0MxZks5bTczYlhTZngxaXZrT1RScVhxYnJBQlB3YzNs?oc=5",
       "title": "Konrad Knothe - International Marketing Manager - LinkedIn",
+      "source": "linkedin:gnews:pl:pl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjNlY2FYcG94a0o2czZFcEg0UzYyTFdQQTNlQ251Rk9XclI5aUwyNV9QN1VsOEhLNk1kWDN6eGNfY0hJVFhodTNpdkc5WFlFVUhJY1k2RUhLNHNKRXU5NlkyZHRZd2IxdG9jVllfZm8zbXZMclYtdHhOZHBPcDZjUnl4VmdaVTM2UEI4RUFPaW5fTjZMWGVBdzdhVkk4X1VYQUxzcFNNMC1POXMtNmd3RWpZX0xrVE9IcUtWR05OWkhHTFhRMlBSTjNjdzFUSnYxVm4yRg?oc=5",
+      "title": "Jack Daniel's to marka, którą znają z barów od Tokio po Nowy Jork i z setek piosenek, a akcje spadły 65% w pięć lat, podczas gdy S&P 500 dał ponad 70%. Jak ikona z taką rozpoznawalnością trafia na poziomy z 2013 roku? Większość spadku to nie zapaść fi - LinkedIn",
+      "source": "linkedin:gnews:pl:pl"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHV0QWNUMlN0OVZ6WlhsYl95dlhLU1JyZW9MR2xCOEZ3a2h4RnE3Yl9zR3YtWkxaVFd4cnJOUHNvOFlfaDF0YXY0MmhPUjRCdlM5b2VVSUxCaEx5SExGNHdnbnF0Q3dPemtFRThPSGRYY1V3OVRNVER2dFRmX3hHM2xnSjUteFYwQy1CZw?oc=5",
+      "title": "Reckitt zatrudnia na stanowisko IT&D Analyst, Marketing Scrum w Warszawa - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
@@ -837,11 +857,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1JNenZKcEEwTWlJa2pyZlBvWWdhTDNnZVItR0tKNUN4OXdRQlBkSzdyTXVMLTZlNEZhbGt0SzY5RGxwVFVFc2N6OWpRaUlOOWNTOHNfa2pZNnMtMmlOUk83a0NNcGRjQ014N1lpUmQzbHNfN2JRNGFxdTZFNWdDNEhPYTlrc0cyeTJJ?oc=5",
       "title": "Pernod Ricard hiring Brand Home Supervisor in Keith, Scotland, United Kingdom - LinkedIn",
-      "source": "linkedin:gnews:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmRZM0hyOTkyRU1CTmpkVzREbEhWOUtfeFF4M0tMX0gzQXVyd3J5dEVoNXZ4R2VUVkZ2NXJKTkpxOUpZSHI1VEl2ektYX1VNcG92MXE5bUdmSVQ1YUtBc1JOd3ZiNmg1Qkl4M3dDTVBOY3pRcm44bGw3VW5XQlVnODBPNnFJMEU3NzR6VDFfbUZJamdpRGc?oc=5",
-      "title": "Pernod Ricard India Pvt Ltd hiring Sales Executive in Lucknow, Uttar Pradesh, India - LinkedIn India",
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
@@ -875,9 +890,14 @@
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUVJTl9zZkZvcWlsN0pFYmxoY0hBYUJLSUhHUko5VkZKTnRDS1l2NUhUZm8xeC1xbC1pUWItd1NWYUtSeXJkcVZXbmk1Q09UemhfbExXX2dtZ2NHMXhVTl9kVnIweVQ3ZUk3d3BfZUxzblg0QkVNZE9CWENCSmRfWGc1cVp4d2ZYYjB6a0hlZVRuRF9uQVhuUGdnRG1MWENNTXJvZHBCam1lUzk2Y0lEaXB0czROX3Z3ZzBnTEg4czJxZ1owbXotMlZsdUs2aW1XS2RraA?oc=5",
-      "title": "What Pernod Ricard's Double Court Battle Teaches Every Kenyan Business About Tax Refunds - LinkedIn",
-      "source": "linkedin:gnews:gb:en-GB"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlF6WlREMkNIcHVhSGxwaVZpVTlnaHpDQVBvZnpEZEMxeUFPcWZpSElfREJubkFDZ2kzVlBsdnBqYVl0RFBva3R4VTFCU0pMLWtKRDVnLVF3bEpQeWs1NnRxYUlGMlk2dlc4OVBEUHFZTnY1N3JZWDB1N3JrbW00UVFOSHBMb1N2TUZZMzVJQW1iN0lEY3VyMjhITTRHVmw5aEE?oc=5",
+      "title": "Pernod Ricard is on the ground for two days of conversations, connections, and collective action for the third edition of #WorldLivingSoilsForum (WLSF). This forum is a unique opportunity to join forces on one critical topic: soil. Because healthy soils are essenti - LinkedIn",
+      "source": "linkedin:gnews:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjdhY1RDNUZKSGNKUVVkb2ExTm55U0lTNVZoYWdXZzFjRTNFU1NNTV9UUHJtY3o4YnNuY0Rkb0Z2VUhMX0V5MGdxZFBOUXl6b1dlTUFpQTdVUXRwREMxdnZVVW9KWl85bDhKUDFIdTVuZXFJVE5jTlF4bUVJdWRRUHQ2N3ZYb0d0ekRxQ0s1OTFjelg1LTdXQjBXQ3I5ZEt0aWlKenJGWlh5aDNCTXB3b3YySnlMWm9KSW5WUWV0M2lxMlVuRlJRUlhWRHc?oc=5",
+      "title": "A few months ago my adventures with Pernod Ricard came to an end. It has been an amazing journey of growth and discovery with great experiences from the UK beginnings to Paris HQ, then GTR Hong Kong/Asia and finally to GTR Europe & Americas. I’ve w - LinkedIn",
+      "source": "linkedin:gnews:ie:en-IE"
     }
   ],
   "report_markdown": "",
