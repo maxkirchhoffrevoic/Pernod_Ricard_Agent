@@ -1,6 +1,6 @@
 {
   "company": "Pernod Ricard",
-  "generated_at": "2026-11-01T12:08:34Z",
+  "generated_at": "2026-11-02T13:57:53Z",
   "signals": [
     {
       "type": "summary",
@@ -70,8 +70,13 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmVfZlUyUXY3MmlyVENWLXJySTJLSzFqMVFFWmQwSW8yUzJqaGlzUUtJb0oycUJYeXVCQVlSaHFTYnFPeGF4OXhZN09TZFZGTnh6N3ZQSDhjQjAwMF9CWXhXWHNPaTd1bUkwMDFFUnM0TjdlOEZ3eGFCVlozaE9UeUpOWTFXaUJPRVFN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDcweTJyQ1lkUUIzTllnZDJnUUhPVHBGSElTZnFCekg5VDJleUYyMDVnUE9XNHA0S1VzQUx1Q0hHNWhKdEx2SU8wNENIQTg1T3pfMUtzTFUyaVRiZU1NLVZQeDlra3JXaW9Cc0lzbW9hNWVpUTQtX3NXZ2dsQldFcGVRMDhzSEpXWXdz?oc=5",
       "title": "Pernod Ricard-Aktie unter 200-Tage-Linie - boerse.de",
+      "source": "gnews:de:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUQ3YS1rZUw0bWtTcXdMV0FaM2VhemVhZnNxdHFCWnNwQk9qMVNwekdfZ3NWbTI5U3N0bEprVUZCeFNibkd2V3hwT2J4RjczZG5oWUNvYXNPYjBLZm15SU1wc21MOC1HcTZSdWY4bUM2R2tqXzA4c3FTQXZmNDNGYnBiSEhMR1AxcFFRVXRyLWcxS1ducU1FcmF2TVN3M1VHYWZjU2JkRG1fYnl6WFRtdkFROVpWTDdyM0Y4ODA1ZzJuV0k?oc=5",
+      "title": "Mixing things up: Das sind die Winterdrinks 2026 - Mynewsdesk",
       "source": "gnews:de:de"
     },
     {
@@ -85,8 +90,8 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObC1LeFgzUWdSUVhpR0NFR0VNd0pOQUxrNG9BeHp4Y0hNak5YZ2NleUswUXp2VlFSQUNxTnN5RXFUclFNeXNkR3VJajhFXzF0WkhZU253UjRwbW93alYyOFZLWjdxSGFrbjhQc1E5ZmZiazNXN2N0aWVoRmQ5OVlEaHF6WThYWFV1UHhz?oc=5",
-      "title": "Pernod Ricard-Aktie über 200-Tage-Linie - boerse.de",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yOUdCaXlrMnVKd2NiS2tOYWZ3VDFDOUpYcGtCUVpTdF9meDVOSXQwWHFxTlFnNHdINmFCa25wVEp3cEdPZmJ4RmRpSzg5M09xeUx5MS1OeVFDeUxnS2xn?oc=5",
+      "title": "Pernod Ricard SA Aktie: Kurs, Chart, News und Analyse - AktienCheck.de",
       "source": "gnews:de:de"
     },
     {
@@ -95,17 +100,12 @@
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDJCYlNqS182eTVVTjJ4ek5CV3g1YkNLTTVjLU5ndnMyRERTdTZGaWc3SGRMN1p1S3VCT2xsRHFIemFnMUwyOUl6ZkdpWkhfZHJsT2pLTEVSYllMVkRMVEdwSmVvRTMxdnhHMWdwSzdvQVgxUm5OTDRBM0g3UmI1bHdFXzVxZkhZVGdlZ1pXbjE1UlBJNzdid0JNcWcwWk9BM2xoOXFQaFdRQUdhWktpYXVQaFlTUGx4ekZqdG5CQVl3elBsSTVSclZhOV94OWl5RUZKelhpM0l3ZDJkRnQycHJfRjJyZVJaSkg5eFo2NWw?oc=5",
-      "title": "Pernod Ricard meldete 2,23 Mrd. Euro Umsatz: Pernod Ricard-Aktie liegt 4,92 Prozent unter dem Ziel - ad-hoc-news.de",
-      "source": "gnews:de:de"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNEwwYjR5a0xHUW5HV3hNNHF6UXMwRjhacHZUY3NCX0FDUEtRNnV5X1FkRk1ZMWlETzZhUXJZdlF2ZU9haVhHSnd3NWZGUmN6RWVCc19KQ3BOdXZCajFNNkZkREFsYklseWkxREh3VkxwekMzU1lMZDBXUDUxTW0xQ0JBa3F2V1ZuWjJOcnF6NG9aSVJ6NnZTUGpzYlJnRFY2S0I4eFp0QXRfLTgwM1pBVWo4cDB4TC1yLVJ0QmZONDlKc2wtcC1BLWFLSmdDNUpVcXhqTVN0d0JrektjVUhnYTE1OGdCNFJ4Njl3UHJmODZEZ25fZHR4YW5EU2Q?oc=5",
       "title": "Pernod Ricard startet Rückkaufangebot für sieben Anleihenserien und plant Emission neuer nachrangiger Anleihen - MarketScreener Deutschland",
       "source": "gnews:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUG1xTEc1aGE4dU9wUHREd1l5RFdLRjF6cFNTY0drYVJ4Q0wtakczMHdSdVpqWC1mdFpEMDY1a0paRTZxVXBWc0d0eFRQN25jaVJUNC1QQmNkcjlYdmNwUVkwNTRqRnN6eDRVU1pqUlY3S2NsWGd5TzBkNUdWV2Z5MXJDTGV6bzMwVGFV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObC1LeFgzUWdSUVhpR0NFR0VNd0pOQUxrNG9BeHp4Y0hNak5YZ2NleUswUXp2VlFSQUNxTnN5RXFUclFNeXNkR3VJajhFXzF0WkhZU253UjRwbW93alYyOFZLWjdxSGFrbjhQc1E5ZmZiazNXN2N0aWVoRmQ5OVlEaHF6WThYWFV1UHhz?oc=5",
       "title": "Pernod Ricard-Aktie über 200-Tage-Linie - boerse.de",
       "source": "gnews:de:de"
     },
@@ -125,34 +125,29 @@
       "source": "gnews:at:de"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjIwY1owTUFGbHkzU1JVVkMxUWhMQlVKdkY1c1NiRDAxNjdobEhWZS00cUthSGZ1cU1RMG1hZVJjYjVtYU8xZS1yZ2dVLVdtNWV5YzdRSExKOFVKbU56bDBuV3VLRWh2RWR2ejBycnN5eEFLUHpHNWxnTzFTcXpPMW9NQ3FoOTZnSFRlQlotTFZDRllxN1BNeTJONUtROGJYek9kX2FUUkt4NFRSMTktRC1iUjl1dGdCMlZ4czM5T0hkcTBIeDBkNWROWEtidw?oc=5",
+      "title": "RBC hebt Kursziel für Pernod Ricard an, die Aktie gibt dennoch nach - MarketScreener Deutschland",
+      "source": "gnews:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUG1xTEc1aGE4dU9wUHREd1l5RFdLRjF6cFNTY0drYVJ4Q0wtakczMHdSdVpqWC1mdFpEMDY1a0paRTZxVXBWc0d0eFRQN25jaVJUNC1QQmNkcjlYdmNwUVkwNTRqRnN6eDRVU1pqUlY3S2NsWGd5TzBkNUdWV2Z5MXJDTGV6bzMwVGFV?oc=5",
+      "title": "Pernod Ricard-Aktie über 200-Tage-Linie - boerse.de",
+      "source": "gnews:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY205dXhSekpiYW44NTUwQ2JNaXdtcVExemhCYk4yTTZWVWt0bndxa252RUtOX2oyb0RPVmVVa1d5WFphdDdQUFJRVGNwZzByRDJleW80NjIwU2FObXhDaE1sbjNtbWI4OC1ZamRzamhITVBtbWY0eU9WWnFjUzdhS0hSb0VCeVNMSG5ta2NlclJ6THVoZjAwT0x0SGR0S21majJ4YlpDVHR4a3VMRklILTVOdy1jNGRtUzhvZkZqdk9vcGVEX3l0dzFaVTgweE9ydDlRSNIB2gFBVV95cUxObnFCM0tGN2E3Sm9JZmhuenFSZExfSk9LUGZScjAya0xscWRsYTZqQnN4UG1MUFlvVXRUcngtaUVpUHQzOXVmU210S1FranBqVlVUQ01ETnBPSnJmOFo3ckRpV3BmQjJEa2gzaFlTcWpTMTdZek02Z3JEN1BUdmRiWEZ6dGZQbFB3SDFERHhUNm5zZk8zOFhBeFVwZmRtdi01UWVjU29VMFVUQkdNMGxOcEdNcmNzc2JZc2JVU3ZRZ0hBZWFhQzc2MnhXRk5xY20zSnZ4WENuZ0QxQQ?oc=5",
+      "title": "Pernod Ricard richtet Wachstumserwartungen nach Schwäche in den USA am unteren Ende aus - Vinetur",
+      "source": "gnews:at:de"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDZZQ3ZqMnEyU092enFmNXRfYnNyU2RKY0cwLXQ0eTZkYVA4R1Zmb216anRqZFRuV29KWXV3Um9ndkoyaGQ1M0t2c21GRVk0S2txc1o4Njh6WUI2Uk13X0NQcUFibGFrZC01bFlQYXhsRmxWUzZ4TlFUZklQWFY3SHl1bjRDYlBHUnR0QTVHb3Y2RGhKZndBb3BkM3JYQ1RUckw0bEI1MU1hTHRkWTFsUTYxSkktN3hWbW9KNVczYw?oc=5",
       "title": "Pernod Ricard: Eine Schuld wird durch eine andere ersetzt - MarketScreener Schweiz",
-      "source": "gnews:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzAzTGlvX2ZlSm1ESXREN2Fnb0Rhbnc0VEJhekhBVDBGYlM3QlRZZHdEbGVZWkZXaXcxSm9KZDJ6Y1VEWUZ2VXFzQWU0bHp0OHJlZ2FZYkwtMnhtalBDOEdkNU9XWDgwX3N4UExPaW05bmhJOWJRTXAySkhPVENZaHA4UnpZYUxidElveXlFR0lnSEE0bVlXYjQ0Q09uTDN4SlVjUDBJSmxWNUNUSDZQbUNXMTRRMEVJOFFILWlCSUlKUGvSAcgBQVVfeXFMT2I1MEFqSWhCZy1Ra01DOVNLa1REUTlGRU1BdUhpajk4ZjZOQmFiVzdWOE1UektlYnQ2Sk4zc2MxdUpaQUh6ek5sXzNoUV9Pb2RIZjFObUNNTlJmMkEyVS0zdmRUa3NUekNHd2FLeDR4Qm9XQ1k4bzJJOHNuZ2JVdTNYVE0wN3ZuZV9nNmQ0OVY3VEhkYkN0ZjVHVFBvVzNQaHNQbUVHY25naExsMmlsa1FwRE5UZDNIOXBWNEZPQjlldkNDdktNNnE?oc=5",
-      "title": "Indien untersucht Diageo und Pernod Ricard wegen Einstufung von Scotch-Importen - Vinetur",
-      "source": "gnews:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEFMTGV0VnNOUndKcUFLUkp4Zl9HYkd6ancycHFleEw5cE1TYWJEOTVPMVFudnBKY2ZNUFE5ZUMwSklyRFZ0elJMZnBadWxDaXhDOXhEWERTOWVsOExMN0JwMTNPcUJTckVhc1p6NGgwcm9paUJoTVFrOXhYSzd3S1RsZUFHSVBtal9WbUI2UUJLYUdjZVk5aU1BNDgydnhUcm4yREJIeHAtT3BfaTBCcFUzcVI4V2UtQVNFZA?oc=5",
-      "title": "Schwacher Wochentag in Paris: CAC 40 verbucht nachmittags Abschläge - finanzen.at",
       "source": "gnews:at:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2tVRGx2UmZhb09GaHZoQnN6eHdwVEd6TndrM0dEQkF3V1JTdFZQOE1oNDJ0eVUxOXJWeFB3bHpYa0lMY3Awd0d1MXRQdTZZaVdUUjBYNWRfVk1WVy1xTHFMa29tQVlPV3ptNkRmUlQ1eF9Eb2RvWXJJR09uX2ZXYzd1WFJSU0Ry?oc=5",
       "title": "BCB 2026: Christian Balke über SIP by Pernod Ricard - about-drinks.com",
       "source": "gnews:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDBONjNKQS1BbjFQWFVMandYaVgwZVE0TXNxdU40eElHRktrTU5CNHBTMFpNZUlCdHkxTkQ5VmtKT1RWM0NtNGZGSlhUd1hNYzRiTXItRWpiYzZsTVV2emlUQ3MwZDVOLTQ1ZHZlRkMwZzlIMEx3SS1GaV9mMHpBdUV6Y3ZhR0VCdDR1SFlBT0tfWTNMY0d1SXRDNFNCekFzbVZTREtNQjIzWUJ3d2ZJQXVqTXMyaTRIMWlVREtvMlRoVFNEVnBsZGl6bTM3dw?oc=5",
-      "title": "RBC hebt Kursziel für Pernod Ricard an, die Aktie gibt dennoch nach - MarketScreener Schweiz",
-      "source": "gnews:ch:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTVhoZGhmMThJZ1R0M3o4Tk5zd18yZmFvd0ZpX0JETzhrTXBWNXUwVk12WklQWGhnTGJWRXVaYnJiSFVrREx6QUxoX0tmYXYwMkFxVkxPT2ZmdkdvaVZpeHlKRUZDVUpPaGZfc05XZFlmNDZ1bGdaUDdYeXdsVnl3NzFDdTFJUFQtS0pUZDN0T1A1OTJtbFhrc1hmZ0FHdnc5Q3E3QWFsck1pMjFQWDN3UWtLaF9SSmpJU3JzaGFhSWhZZ2JlOXVuRg?oc=5",
-      "title": "Pernod Ricard kauft Anleihen im Volumen von 1,2 Mrd. EUR zurück - MarketScreener Schweiz",
-      "source": "gnews:ch:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ta1FZdnY5UVUzYUVtX2hTeFJrVEtVcjlFVTl4MVVwQjA0REFoWk9GdjQwQi1vOXRBVTVLSDZXOW12d1RXR0Z3WXNEV0c0WUxO?oc=5",
@@ -165,18 +160,13 @@
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ScnVsRzd1emRDSk5QUDJHamJKYllPNEhKTU1nT2dKVlR1MWdKQ1hMSHk0SWdGTzlCblhaM0VWWl9RMG13MFoxbkJNQkZRTlVGWHFUMmROeFdpRjJqSmdhVnRNRzhZbHo3NEFB?oc=5",
-      "title": "Action Pernod Ricard | Cours RI Bourse Euronext Paris - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWjVReEZFeVZ4SXpFLThUUmVzMWt2cTNhV1JOZjhaTFM0cXc0ekRuekhhaDA1U3Z6ZkRnTE1ZdHlVV3ZMVE9JOXpZUHpKNmdSTnVRUUNyV1dYZ2ZON2FXcFNaYXk1alQzX0VfVGU1MUNUN2JDc1Q3Nw?oc=5",
+      "title": "Pernod Ricard: Objectif de Cours et Consensus des Analystes | RI | FR0000120693 - Zonebourse",
       "source": "gnews:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPU21sejRGTUpnd28yQ1I3YlNiMGlmTlU1QWV2bXU4VDVHWTRkSFhPaUtzNlYwcHZMeDVIdzdFSVhrQ05GSXVTZlVLcHQwRnI0UmZQU2t2ZXFKb0tRTEJpckFJMEtpOUx3WVk2UEZFeGRMRjdfR1ZsSXpCNDB0aUtVb2lwaDhnb3BfX1VOMXlyZGJKaUplRWxXdm00UDRXS3MxRVo2bjJ5ZUZNRmVtYmFjNzhJTk9SZTVzZ2pJdEJsdmpKZ21EcDB6YVY0QVhONkYzc2VfYnBra0ZXZXRYaUlGeUZXdUlaaFQteDh5bXNmYThBS09aSFNvVlVWaE9xMXZxbGRuRkZhMTFYV0pOS0ZtX2VZMnFoazI4ZWJhREx2Qm1xY3ZJemVz?oc=5",
       "title": "Son chiffre d’affaires a baissé de 14% : en difficulté, Pernod Ricard cherche des relais de croissance - L'Usine Nouvelle",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOEdNbVg2clhjbFpYdE1zZGN2QUR4d256SlBpS0Y4NkQyczc1dFhjcGViWmJKSF9OcDVMSnp2ZEhUWVV5UExLd2NKRVhNNFJ0bGRja3RKY21CTXRyRUN5QzdiMFlQOVhIaGJMTTVGSld4blE1WnhneFFaNndlVnpTaGViQmJCZFNMc3FOUUVFSi1Mc3lJRWQwM1dTaTlRRWlPcUtqcld5VDhWeGxLNXlpMTJpdjV0Uy1PbDhhdDltcDRYMGxoYnNpMmFacnl2Y0gwdmFmSG9iSkxLUTdfelhxdFl3S3FkdmhhdlU4ZmkzMGppazU3Y2FYN0RwVWpjMHlnREZ6dEFMRFNNTDluQ1c5U211Tm42YkdNNjRYM2tJQkREQVNzSlBxbENJUHdvdkZ6YWhLc2JZTWM4LVpsbFJlSXJRckE?oc=5",
-      "title": "RBC relève sa cible sur Pernod Ricard, le titre recule quand même - Bourse Direct",
       "source": "gnews:fr:fr"
     },
     {
@@ -190,28 +180,28 @@
       "source": "gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUd0WThQTERXMlNGdjhNdUM1VUNCUmpVS2VTN2lQNk1ucFJiRllnanNKcVZrSnFZdHBFWXRMbmx5ZFBQVGFOaXdOQXlEOGlMS0dfY1VTREN6V1JHZzFtMnk4dl9lZkwycnc1MmRwZ1U4d1BwVHQ5TUNiZXFqSEpEV1poeFZpbm1EVlN5Z05QcHNSaTZXeE5wcHJFN1R5b0ZQYXVhdjFKdHpMa09QR2NSUWRR0gG3AUFVX3lxTFAwU19KdTJPX0xRT0tWMUFGTWFSSmF3X1pqSGVZVlBJM1hHcmdPTFI5RXN2UzJhLVc5cl9iZ1dQbmpYT0cwN1loVnJSTW1qSGxPUUVTMmVfQjBRT1RSVWJKZDItNXNUanFLdmxJUUNWVVV5bDhfMnBGdGlycTZMc0VWbUlfbXdPS1BWWWg0YXVXTEdFNVVlMER2WUpxd2JWWGdYNmFaTUhwc0Q1OU9aejZDaE8taFhwdw?oc=5",
+      "title": "Pernod Ricard lance une offre de rachat sur 7 souches obligataires... - Fortuneo",
+      "source": "gnews:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPa2QxNnJOWk5rV1lCdmtGXzVPSFhjSm04VXhxakpuV21kQ01ZdURjcUJtTE1OTFRLY3NGV0ZVVFh1eEF5Y1FRdzdiSEwxb3Bhb1lmbDY5Y2o0bTBUdkRtUFJmZ29pV184NUhURHQtV0Y3bWVfeXVCdWJOMElOWUp5aTZHNkZkTFVHSTd2aXItTld6MllVZEJLSjhOZzBDSVNiQjJzaVBsT3ZPSnJpRHBPVTlLbV9oVTRrOE9tcWN2X2xSNVhVMUR2dExEcGZKcDBucDhkSEwyLWF2NHI0Z2VpYm9HWE03dm1HdnNxRjN5ZW9YeFhhcFFfOTd0TU1tOHVkNndlcGtlWW1ObW9CVVdn?oc=5",
+      "title": "Pernod Ricard procède à une émission obligataire de 1,5 MdEUR - Bourse Direct",
+      "source": "gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlphSldzRVF4WFB3Z0NnT21zbjVITzBTX1pEVjhnNk9pb0NjSldaak9lWUxIZzNZcWRoMnk4cmg1YkhNeDdzVmNBMHUyY0NucmRoMW5uaDcwZnYzUWFPaE5GX1BBaS1IX2NXMDB5YzQtLUdvOHpYOFU1MjNkTVIzY1Fn?oc=5",
       "title": "Pernod Ricard lâche 1,48% - Boursier.com",
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEc0RXp2ZThON0p1ZTdTQmNUdHB0YnhLX25XQ0tQdUNFcTNfY2NyYnZ0ajNhOFJMUFJpWnNUSkdpQjFPQUU3c29mVHRRNDRfMXZiSTVyUU5KTjlTcGNsWThVZkdLOGtJOHJLa0UyY3NNTm5idnNxVU1SNTJMMnJQNGw0R3N1Q3pBWGhrUDliSTVqTFZzUW1OZVdYMlM2T1lpaS1iMExLZk5HUUZRRElWN1lXSlZTczV1VEZEUjY0ZXlWUnZ0N24tRzFlekdranhKWk1uZFdNS2FKWVVH0gHiAUFVX3lxTFBPY1RUX1JrUGl2ak96bVluWDdiUFNtSlU0ZHFjVG85a1BIMmZZVERYMUFWa3MxNFg3eGhFUG1SMkNrMDlCN0VIUXd5SHVyZEpGQ0pWMVBrWkpNcUh0TWlLbWk1ZkQ5RFNMZkNwa3ZXOVZWWml3VGVtelJnaHlYbktGY3l4Qk9odXEycm1KRklGRWpPaXpCeVF1TnNoenlPQ2Y4TUVUZlloUDhHbzhRaFI5cENGdFBfekJ0Y3NYeHdoN1NUSnFlNkhyVkgwNnlkMXVfZFRSR2kyc3lZZjdES3dtUGc?oc=5",
-      "title": "Pernod Ricard lance une offre de rachat sur 7 souches obligataires - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUnZUdFhlOWxnZk5PV2plSmZEQVZfVTF4UzA2SHhJZElnNFlqeVI5ZmtSR2Y5dzlLRmZpVkhmdGozMXI2cVRlT2VqNGVaUWVGRzhpWjlfSnhYZEVvQ0NHX21IOVVKZ0VZU0ttSXVUX3BZNm9SNEhZSlBIWTcxN3ZUQmNB?oc=5",
+      "title": "Pernod Ricard gagne 3,64% - Boursier.com",
       "source": "gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUNMUmI1dk9wS0luTC1lR1Q5WmwwTEJEMEFvNUlBX0tkUDUyOEpyc2NKNmNaSVozdmswRHdKNVdncjRtY1VyNVpITm5oVHhkOTV0NTRBYjRTMEk4Wmd5dEh4U1ppeENrczBjc1VQU09VN3lOVVpTMGlrT2YteURmQzVYSjYtbk1nUEZxRi01RkN5eUQ5T1pobVZMSFk1NXhEQVBYemlEcUJ6UTZPMjR1OFJvd2JfMEluRklYcE91VTktZThWeUU1TFlkT3NTWlRZdHc?oc=5",
-      "title": "Pernod Ricard a bouclé le rachat de 1,2 milliard d'euros de ses obligations - Zonebourse",
-      "source": "gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VC1vS1BYSEFtVWd4aERlMENKNnBobHB3d091OEh2bkh3M0EzNlgxVFB6RlB0TGVOaTVDZk5obExiLWR1RGxubDlkRkxjS2tuNEljc2EwYXJQWnB1RXpiVDFRbktralAxVDIxd1YzQjVWNXJPQ0laLVg0cWUwWE0?oc=5",
-      "title": "Pernod Ricard, Europa giù del 6% nel primo trimestre 2026/27: frenano Germania e Polonia - Beverfood.com",
-      "source": "gnews:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeE4xbUhFWnIzWVF5R0tkQzdDTmZxS213RW1ZSU9KU3J1cXRMZkxySlIzdU4tcnM0VXpieVBCME12OWg2dlRNaGl4d1VNWXJKRkFuS19qRlZ4Y1I3N3d4NXNoMXRkMTFvUzMzY3RidkdlVmNlNEtqVG9CTllDd0N6SW51bUZaZF9XQlNBamhzY0xYZzlxUk51STFSRE4xZkY2QXh4cHF2NXdrUGtCWUc1RjBFaVZoeW1JT0s5R2YwOA?oc=5",
-      "title": "Pernod Ricard procede a un'emissione obbligazionaria da 1,5 Mrd EUR - MarketScreener Italia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMThwVjFlYURlVTFta3V6bHdxUzRKZTU5aWpBYkoyQzNENWdMbVBadTh3TXkwYlotWGRnWTJ2NFhOOU4zeUgzX1d2VXNnWFMxMW1oWTY0V2p5NFFBYS1fNy1UOC1sMEhnZFQzNVEyeUNoNHhtX2xWRmJxV1hlYjZFR2FaUnNWcG5TajRxSF9rRUdVSFhhN2RYSXFUaGREaXlWRE8zeEIzeWJUaERHSHMtVlJQb3ViQUYxY3dVbTk5SGhLQjJRaHhDX3RDZmdyNXhTSW8xdnhzLWVGS2M0TUN2Q0taS0FvMWNVdnc?oc=5",
+      "title": "L'indagine indiana su Diageo e Pernod mina i benefici dell'accordo India-Regno Unito, afferma un'associazione di settore - MarketScreener Italia",
       "source": "gnews:it:it"
     },
     {
@@ -220,8 +210,8 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUpDcnV6Z2R0Nk5fRGg1bTRkT0JJNzB5S3VpenhlZEhKLUs2ZXl6SFpycWZ6cU9UeVhkRUptQmlfT2NuWWFoaTRWVDh1cTBnV0JpN2FTSURxWVhsbXIxTGJ1Q0Nnamo2dHZLYUllZXI3aWJOZl9vT1NzQ1F5ekpGTHBCRjVYbUVpWm9yNmVYb2h5a0RrdlZCc0JrWDBxSkw2QVh4Zy1n?oc=5",
-      "title": "Pernod Ricard raccoglie 1,5 miliardi di euro con obbligazioni ibride - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGVpOGFMMUtJTTFVbTBxclRiTjRpV180QWxEems1bUtSWjF4ZXo5UzYxZE53QldrYkNSb09PWGdDMy1mOEdrMXpXNk9mZTFraHBDaC1VeWlkTDBNMzFuZVdKbFZZcHU2S2lLeUt3anlTOHpjeHJWRmpKVE1EenJXM2NMUEZ0VEl3OTdYNHItN1JINnpQZ3RpRzd3NG1xem5Wd05YNl9pNlBxSWxONlJCa0xnVWg2WHV6d0VmdzJ2SC1GYUlMMHdIbEZmYV9XZThXQ2M0cdIB2gFBVV95cUxQZ0dNTXd6ZjcxaXdJekdEYWdZTDgzbVhTRFE5UmRYUFROamZid1pNS2hWd2N5Q3Q1WUVHVVZRRlk0dEhfS2psc0JnWjZDVTZTZUtoczZXMDFLSUZHOWNXM3hLNWRmU2laRXgzWE1oc05DVklsMjRYN2JRZmxHNkIxZXJ2bGpHaTNDZGEwNi1td1V5MHE4TDZCeXE4NkVJWUl3amtLTUlKOWJnRFc4d0pjcV9DeDRtTE1ZMjVFR1g1bHBjRjN2dVdQeHU1RTVUOGM2QnpoUzE5ZHhRdw?oc=5",
+      "title": "Pernod Ricard orienta le attese di crescita verso il limite inferiore dopo la debolezza negli Stati Uniti - Vinetur",
       "source": "gnews:it:it"
     },
     {
@@ -230,23 +220,28 @@
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rTm9Xa2tWSEpWSTlIeEd5ZmNCOVFJaGdzbE5BdF9fb3pTYzhxa0JzUUYzV0JRU2ZKTjJ5T1lDZmV3dEc2UEU5TzRmZlFhbndqMHNoYWNjcnpqZw?oc=5",
-      "title": "Inés Huergo - saywhomedia.com",
-      "source": "gnews:it:it"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTk51WC1YNkNVemJCWjRlTlY5QlQ4YkhDZm5BNUJLYnpOaEgzR0tvZFV3ZFFFZmZjTmhKd3NSWGRjcWhGa3hDOXhPSG9CWWRQM3Q1R0NEZVk4VzcwMG9nUk8xR2ltU1hRR19fazNDZzNkQ24xM3pJMHRjZGpSUTJXeS12UUxYZWNkTlpvcVZxNmc4TG1ZdTRjV080R1ZzeWJjeUVzczRsMk9yQlVyNXhUakY5UDYyR2huTFFyTWg2UFMzd3o1Y3U3X0pEQQ?oc=5",
       "title": "Pernod Ricard lancia un'offerta di riacquisto su 7 emissioni obbligazionarie - MarketScreener Italia",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTE5iZE5RM1YwcDZTcG1jOFJRZERRbTJIVngtbllkM0ZFcC1NTkt5RkYzRVBhdnVZYlZ5MnFPY1VMekxhT2QtNEZJRDlwNHpOQ3pJaHRuN3dXZWFob1RmbzR4MFRwLS1rVk5nalQwdzZzSHhVTlp1R09qc2h2Y1ZUdHdoMWhMdlo5ODg2V1QyOWRsMXJFdjFLaHFuY25QUXRvU0lYNDV1bHFpZlBmMExieNIBtgFBVV95cUxPcXB3NGVoVHdVZUVObTh2bmNRc0FfVkV1TGtGZ1RKUUsyMlZBSDI4dzY1VFRETlJrVHhHaUFsVnQzakxPaEZBZmtJMUJ3SkxYUVIyUFJtcUtMdmFTeUxnOHBILXhEX2dpUGFESGhsRmJsa0xVdVM5ajN3SXR2RTFFU19mZnptdGFLRWdoV29tOTJ2NnhFYzdNMHFhSGRYNUl5QVcwZVFRSnNJU21MOUtORjBPdmcxZw?oc=5",
-      "title": "Pernod Ricard accetta il riacquisto di obbligazioni per 1,2194 miliardi di euro - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tUWtrVFkwY1ZuYmVKTmx4TjZyY0lIR3pWWEtWQ2sxTFg0QXp3aFNfY21hOWgzZ2I3TV8yUzNCZGVBLWpLMkhwR0JMZ1IzUzZiekJYZXF4ejZXdmJFZ2IxdmxlRGl6bkRo?oc=5",
+      "title": "Victor Andrea González - saywhomedia.com",
       "source": "gnews:it:it"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tUWtrVFkwY1ZuYmVKTmx4TjZyY0lIR3pWWEtWQ2sxTFg0QXp3aFNfY21hOWgzZ2I3TV8yUzNCZGVBLWpLMkhwR0JMZ1IzUzZiekJYZXF4ejZXdmJFZ2IxdmxlRGl6bkRo?oc=5",
-      "title": "Victor Andrea González - saywhomedia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUpDcnV6Z2R0Nk5fRGg1bTRkT0JJNzB5S3VpenhlZEhKLUs2ZXl6SFpycWZ6cU9UeVhkRUptQmlfT2NuWWFoaTRWVDh1cTBnV0JpN2FTSURxWVhsbXIxTGJ1Q0Nnamo2dHZLYUllZXI3aWJOZl9vT1NzQ1F5ekpGTHBCRjVYbUVpWm9yNmVYb2h5a0RrdlZCc0JrWDBxSkw2QVh4Zy1n?oc=5",
+      "title": "Pernod Ricard raccoglie 1,5 miliardi di euro con obbligazioni ibride - Vinetur",
+      "source": "gnews:it:it"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeE4xbUhFWnIzWVF5R0tkQzdDTmZxS213RW1ZSU9KU3J1cXRMZkxySlIzdU4tcnM0VXpieVBCME12OWg2dlRNaGl4d1VNWXJKRkFuS19qRlZ4Y1I3N3d4NXNoMXRkMTFvUzMzY3RidkdlVmNlNEtqVG9CTllDd0N6SW51bUZaZF9XQlNBamhzY0xYZzlxUk51STFSRE4xZkY2QXh4cHF2NXdrUGtCWUc1RjBFaVZoeW1JT0s5R2YwOA?oc=5",
+      "title": "Pernod Ricard procede a un'emissione obbligazionaria da 1,5 Mrd EUR - MarketScreener Italia",
+      "source": "gnews:it:it"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTE5iZE5RM1YwcDZTcG1jOFJRZERRbTJIVngtbllkM0ZFcC1NTkt5RkYzRVBhdnVZYlZ5MnFPY1VMekxhT2QtNEZJRDlwNHpOQ3pJaHRuN3dXZWFob1RmbzR4MFRwLS1rVk5nalQwdzZzSHhVTlp1R09qc2h2Y1ZUdHdoMWhMdlo5ODg2V1QyOWRsMXJFdjFLaHFuY25QUXRvU0lYNDV1bHFpZlBmMExieNIBtgFBVV95cUxPcXB3NGVoVHdVZUVObTh2bmNRc0FfVkV1TGtGZ1RKUUsyMlZBSDI4dzY1VFRETlJrVHhHaUFsVnQzakxPaEZBZmtJMUJ3SkxYUVIyUFJtcUtMdmFTeUxnOHBILXhEX2dpUGFESGhsRmJsa0xVdVM5ajN3SXR2RTFFU19mZnptdGFLRWdoV29tOTJ2NnhFYzdNMHFhSGRYNUl5QVcwZVFRSnNJU21MOUtORjBPdmcxZw?oc=5",
+      "title": "Pernod Ricard accetta il riacquisto di obbligazioni per 1,2194 miliardi di euro - Vinetur",
       "source": "gnews:it:it"
     },
     {
@@ -290,7 +285,7 @@
       "source": "gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0FMdXdORktOdU93aWZzTk5SdFV2ZmxuemN5dTJhYWJmUlRHdEtnXzNXSEd2WS1leGM1c2pqZHYwNC1DMUJNdmc5LUJDMm9QTUhGOXhnVHBMZzRXaFZ1bGxYMVJPOXNfZzQxRDNvV3IycS1NbjY1angyRVhqaVhEbTI4RWQ4M1IxLTNFeTdBUjdiZVRWOEpoOGcySmhQUGRfZEFnLU56TENGc2t3bjg3X09JZm5QRVNJZFI4bDdKOTJjMUx6VWpNcjU3aTE5MFFy0gHWAUFVX3lxTFBZNWE3d056aHU0UXJZTF9hVWtGbTc4MjJ6MGVkR3RvLV96ekVLVUthVXpIb0dXbWMxbzhWeE00UGI3RUJqTElTYkIyODRXb012czVicGQ4NHpDU0tmaWV2TzctY0dkQ2hObkh5dUpwT1lEMlRrNTh3aFhTbWRYNWpYSU9GOXpRT1BackRhczJ5Wl9tUUhwS1FFVjFQT3ZvQUlCVjVWbGRvUzRwdDBnNXFMRjVPZVQ3MkkyTDFQLV9yT1A5ZXRFSlM3VEFfZlNURGdjX3NmUHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0FMdXdORktOdU93aWZzTk5SdFV2ZmxuemN5dTJhYWJmUlRHdEtnXzNXSEd2WS1leGM1c2pqZHYwNC1DMUJNdmc5LUJDMm9QTUhGOXhnVHBMZzRXaFZ1bGxYMVJPOXNfZzQxRDNvV3IycS1NbjY1angyRVhqaVhEbTI4RWQ4M1IxLTNFeTdBUjdiZVRWOEpoOGcySmhQUGRfZEFnLU56TENGc2t3bjg3X09JZm5QRVNJZFI4bDdKOTJjMUx6VWpNcjU3aTE5MFFy?oc=5",
       "title": "Pernod Ricard lanza una recompra de deuda de 4.700 millones para reorganizar su capital - Vinetur",
       "source": "gnews:es:es"
     },
@@ -330,13 +325,13 @@
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHB4RFFGTVlORkVFbC1pMlhoTDNxWXJpWjQ5VWNDQWwwTDBXcEdVLWtRY0t1c2VsS1lvSVFfR3VETTg3ZXprSGFzV3RNalBSa2MtVkUxT0l6eXRHREZ5UUh4VkVvSUVUN3ZOaFlzOTVMYmxBSmhWMGYyZHAzc1BNaGI4T2JuVUR0dmdpMjMzUzNfQVk?oc=5",
-      "title": "Techmalaise slaat weer toe op Europese beurzen - Beleggen.nl",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObm1rQjdtbmszUWI2eEpZT3BORktUQjVUUkprbkRXUUtiZHZCWTJQbThLMXNXUEFFU3ZPeW1XdHZEaGV2dEYxa19sWXJ1R0Z0cHdzdG1OT0JoaDZxMTRwelNFdmIwU0F1b1FTSTJFN1lYaUcta0NIdW5aRnB2OV9ROVBDSW9QdGd1N0tMRHI2ZWMtYTB0MlJuWjljTHFzR2FJMXc1Q2Q5S0ZWeUduVzFuUWhMbHdVV2NhS2Zta1pYMlJpNGc4T2FMbS1RemZxMWhsUXRkajRkWXoyZXdsMk9TX0tuNWVOaWRrRVc4U2lBNVI?oc=5",
+      "title": "Diageo en Pernod Ricard bespreken met Indiase regering verlaging van importtarieven voor Schotse whisky in bulk - MarketScreener Nederland",
       "source": "gnews:nl:nl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamVZSWE1eVpKa2xnM0dld0xtVmJKT0twV2lzQXJzVXZfblFKcXBsbEdfNmJ3aHRzalFmWjBGRzVaM1dsTUFyV21wNk0tdngyWmxJZHFhWHFwaE9sTHJSbEtaSlpzOW9DWDdsNmZFcnozb1d0QVlBejEzVm1qZVlnVmdja1daZnZfZ2V1XzBMVlE0ZUpiUUVCYWtIbi10QWxESFpRZ3dCSnMtV2RxVHpONE90OA?oc=5",
-      "title": "Europese beurzen koersen hoger in aanloop naar rentebesluit ECB - De AandeelHouder",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzY4WHQtMmVZTmZIVkFWT3VQU21PSllRZHdqMkIyLVhSX3Z3UG9IWFJFV3ItNVkyWWhCN3gxZk1wbTlLNERzQkNLZG5RMHJZN2Q2SkdYaHNzRUc5SUhqTmdKNjk2VDBySGMteGU2bXJJNm55Yl9kUHFMOXYtTHN1a25uYzFXNGo4eGlLSkliWTZZalpqMEp0UVhFd0NQM1JiZ2NLRzBMUC15MUFoMmtLdE8ycVhKbWdfQVh3Uk5GTjE5cXNHVXp3UEE5TmNYR010MF9MbVFIX3kzTGRkRVNQTkFSdGtVRlprSnQ2YQ?oc=5",
+      "title": "Schotse premier Swinney kaartte zorgen over invoertarief voor whisky aan tijdens bezoek aan India - MarketScreener Nederland",
       "source": "gnews:nl:nl"
     },
     {
@@ -365,11 +360,6 @@
       "source": "gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHlEZGtCMkt6NEFHenp2OURxMXB5SnUxcFhUN0t3NXYybmQtU0NFZE1DNThJQ1dZejlyV281UFV4T0Fnd0JKNmRCaHFtZGl5NDNac0p1aGtWMGZrYzc3VjllZGNVOXVvaU9Bay1OY19ocW92aHJqSGtGM0d0b08tZklpTTJNX0lWNUlpLTQ5dEp2cTBhX1JzVWEzQUlxNjlrcXRCQV85UGdGU0l5dmxmRVlRQ2FjRjNiQjVpSXpn?oc=5",
-      "title": "Globalna firma zaprasza na staż. Ruszyła 12. edycja programu „Za dobrą karierę” - Business Insider Polska",
-      "source": "gnews:pl:pl"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yYWhRLUJVZW5mX09zM21kMmxzc3ZRTTgxazRib3MtNWRDUGdDeWZScWFqc1E1akVhNF96Qk8tYlZnenpvOXJBQkxNYUdVOFRPYTBuakVNbVQtUlBYdXczUERZOUQ1TlNMaFVydC1PNkRzUHhqTWJUa0VjOUF3OGs?oc=5",
       "title": "Adam Smereczyński wrócił do agencji w VML - Press.pl",
       "source": "gnews:pl:pl"
@@ -380,23 +370,13 @@
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbUgzOThDT09vdGU1VEFyN2ZwZXRfZ2tTekYtd2xDR2JhU2NrS3htY3FUbThsY2E1NUVnSmljdVFFUEpVTmpOekJFdk8wOFlBam5MOW5HUlc3YzhDU2wyVlVhaU1fWWZaNDBSakwzUXFTLUJ3X1FNdV9NdUJLR3FLcGpqWllZRDAzZmV0TGxnWGRPU212NjY1X01ySTV1RC05enQ1N1lIZ0d5U2lpZ1BiTFBvNUU3XzlqeC1BcXpINFdDS2xzTFdwQkdXV0tuSDIyRkhNQ2w2TQ?oc=5",
-      "title": "Putin nakazał odbudowę infrastruktury handlowej i logistycznej po atakach Ukrainy - Wiadomości Handlowe",
-      "source": "gnews:pl:pl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQURjcXdTS2VxYTFMOENEdF96TTd4TXM0WklTWmFnVHc2SUtPaVRQY2VvVUlsTUk3OTNqbVpaXzg2RTRsYlo3cU80NU8teFlheVpRektNbjZGNWR1U3h3NmlPajZPR3FzMl83ZkFLRm1KX1BiWktuelA4WmMtWUxYMVUtRzRaN19Rdl8xWGptTlJlclJ6MWRKSkRsYmtjTF9JY0JCaVU5bnhvaW9EdGw2RmxNdkFsWnN6?oc=5",
-      "title": "Rynek akcji Francji zamknął sesję wzrostami. CAC 40 zyskał 0,51% - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
-      "source": "gnews:pl:pl"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU0lSb0dwRk5qRTFJU3hIckE4M3FORHpOY1VIUThRWDRkU19FNldtVV9CUElOUUgwbnhMeDZpZDlCV2toWGJOczFlYmwxUjJJb0J2SnRZOTE1amg4dmdCWjJyQ1lnYXJhZm9BeW5aYy1zdmY0VWp2MlJhQ0FPaHQ5RWtHcVNxUkNueFJIbE5MSTBuUmpId19KS3VmYkswQ1dKN3VwancydUgxMTF1TjB1T1NLQ1U5TWFMNzBYZEt1XzExWXg5dEdiYVpKOFJBdDByZTZCRVQ5QlZkanJiZHIxSkIyRmROc2NuVDBRRFdibjczQm1RQmlKcHVLdzB1QQ?oc=5",
       "title": "Buldak dla wszystkich! Azjatyckie produkty podbijają polski rynek spożywczy i kuchnie naszych rodaków - Wiadomości Handlowe",
       "source": "gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm5sRVdQMU43RHotN1UtbWRNdG90WWlaQ3FBNW9ydXZMNXYyM25DQ3Jyb2dsS2EtZXVteW5pRTZBNTJCNTh0dlZrSVZxenZVTnhTeC1GdXdkY1pYOVBBaVA0V1FjYWtZWXV1bkhvY1hOb2xzQUs3X1kydGJ6WWZYUzhoaDc4QzJsdXc1UElVRmx0TnVsMHNVWFAyLUU5S0JkUWJQQXNkeXNSS1VFa2U4MlVsZDZsc1Zs?oc=5",
-      "title": "Rynek akcji Francji zamknął sesję spadkami. CAC 40 stracił 0,01% - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQURjcXdTS2VxYTFMOENEdF96TTd4TXM0WklTWmFnVHc2SUtPaVRQY2VvVUlsTUk3OTNqbVpaXzg2RTRsYlo3cU80NU8teFlheVpRektNbjZGNWR1U3h3NmlPajZPR3FzMl83ZkFLRm1KX1BiWktuelA4WmMtWUxYMVUtRzRaN19Rdl8xWGptTlJlclJ6MWRKSkRsYmtjTF9JY0JCaVU5bnhvaW9EdGw2RmxNdkFsWnN6?oc=5",
+      "title": "Rynek akcji Francji zamknął sesję wzrostami. CAC 40 zyskał 0,51% - Investing.com Polska: Kursy walut, kryptowalut, notowania akcji",
       "source": "gnews:pl:pl"
     },
     {
@@ -415,11 +395,6 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWpNTHh4Y3hMX2pBNlZjWTA5QnI2M194bWt6ZUpXLUJyZHZ6MEpBeFB3dUZBT2FlVng4b21FV2ZOM0tOR2htU0h2bWRtbVlyZ0w5TXFPZTRibUpjQlR4TjEydUZySXF6bllGSm5ENms2elREOXNhWnZJR2lxUjhNazhfeENCWjk1alQtT0dPaG5ka2hKN3JScU90RFA5dlFNaTFLWFREU2h0dC1aLUk1cU51SG9qMnRBaUtSMVdLMGN2SnJYU0Nv?oc=5",
-      "title": "EXCLUSIVE: India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say - Reuters",
-      "source": "gnews:ie:en-IE"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDhIbHQxV19GNWxTOFdGVlJ2VllJeFpMNmF3N3NhYS1Ed2p0UGdVUTBtWGxXRVBEazNzc2JNYjBIbHh4YUFFeXQ5MHJCUmFkbENWVHhmTW5ibkE3ZzZuWEk5RlVaV24xYjF3QkJud3ozTlEzWnZXSlZHeTZmMzJJdmxVbERCUQ?oc=5",
       "title": "Pernod Ricard signs up Charli XCX for Absolut - Global Drinks Intel",
       "source": "gnews:ie:en-IE"
@@ -435,13 +410,18 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2VWSWpBajJBbDVuWXI3M3JmZnpTaGhXb1Zjbl9UNEhtM0JRYVFJdXI5Y0l0VFQwREo5UGhFVEVIREh1aV9rSUdlQXdlaEJzQnlUdVctUXF0b3U5ZjJWQjBxckRKcFowZVlwMTVRRTVnRGswNGhybmZnQU5JOHVfNnZ2OXFKenByT0xLNXVKODljRFpCRFlQWWFEeENibXhyeEVTbGpERFY3ckM4WG5pdU5zQ0M2Z3pVXzlSaw?oc=5",
-      "title": "RBC raises its target on Pernod Ricard, but the stock still declines - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVA0dWtVem04UUVKQ3JEcTNCdkdmTXhsWGRJM3NBVnN5V216dGY4aGN1cE9IYnNUbTIyT2d5b2hRcTRfbTZiVE1ZYXdyMU9QYTJ0SVM1U3B5b2xXd2hoUWYwQ3ZlVk56ZEFYaFV2Y2dwX1BxaVdjQWZNbDBGaFdiT1NVOE1SVGdFMkpZVVpSSUpibE15dnJSUldLbjFWbjBuUWl3cjFBa2lLbkFOY3Y2emk3aW4?oc=5",
+      "title": "Pernod Ricard Plans Debut Hybrid Bond as French Debt Risk Rises - Bloomberg",
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVA0dWtVem04UUVKQ3JEcTNCdkdmTXhsWGRJM3NBVnN5V216dGY4aGN1cE9IYnNUbTIyT2d5b2hRcTRfbTZiVE1ZYXdyMU9QYTJ0SVM1U3B5b2xXd2hoUWYwQ3ZlVk56ZEFYaFV2Y2dwX1BxaVdjQWZNbDBGaFdiT1NVOE1SVGdFMkpZVVpSSUpibE15dnJSUldLbjFWbjBuUWl3cjFBa2lLbkFOY3Y2emk3aW4?oc=5",
-      "title": "Pernod Ricard Plans Debut Hybrid Bond as French Debt Risk Rises - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGNNRTlVWVh0UXprM3JveHB2Um8wOUc2MzFWdGdBUXd4MmtlcHJwWEdTckZhVDJlVy1OX0VlNWFvRDVETzZ5VFZrUjZUdWVNU3dpWi1CTjA2SFRVWEhhQk82SGhYME9HZVdBLV80WEZhTDlRYmwtd0JSNk1RV2RybGg0Q3U0ZTV0cUZGVFF5QVVuLW1HUzFCTFQwbjYwMUpSNFB6azh3VUtxOXJuQ1lYTmw5OXVoRzJLY2NFQkRFdkVBSmM0SDNLa3FGR2hleF9UOEQ0cmdnTGpycGU1cXhNNlF0aUE?oc=5",
+      "title": "Pernod Ricard : Availability of the preparatory documents for the annual ordinary and extraordinary general meeting of november 20th, 2026 - www.marketscreener.com",
+      "source": "gnews:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBQY3BDTHZ4N3UxczhFaWJMRzViZ3BkX3loejc4QUFEdnF1WUREYW5ZT0NhTFgyMTdNWjR1b1l5dncyd2lFOURRVEMtOW9YUVdqN3lfRm5Mb0dkcHZqMDE0VmlPX1hpSUM1SXpzeFR0T095QU9Mb2w4SXZldTZkYWpMLVRQZkFfWGtIbTBxQlJJVjYxWmxHclp0TEtMdHNyVDNwaTBVckFmQVdmRnR6Y1lnWkMySy1mMjRrLXhNTGtweEZ6UWJB?oc=5",
+      "title": "EXCLUSIVE: India's Scotch probe of Diageo, Pernod undermining India-UK pact benefits, trade group says - Reuters",
       "source": "gnews:ie:en-IE"
     },
     {
@@ -450,8 +430,8 @@
       "source": "gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBQY3BDTHZ4N3UxczhFaWJMRzViZ3BkX3loejc4QUFEdnF1WUREYW5ZT0NhTFgyMTdNWjR1b1l5dncyd2lFOURRVEMtOW9YUVdqN3lfRm5Mb0dkcHZqMDE0VmlPX1hpSUM1SXpzeFR0T095QU9Mb2w4SXZldTZkYWpMLVRQZkFfWGtIbTBxQlJJVjYxWmxHclp0TEtMdHNyVDNwaTBVckFmQVdmRnR6Y1lnWkMySy1mMjRrLXhNTGtweEZ6UWJB?oc=5",
-      "title": "EXCLUSIVE: India's Scotch probe of Diageo, Pernod undermining India-UK pact benefits, trade group says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTm5QVmdXY3RKcW1UM2VpY3dRV2J6WEdaTjUxYkxTR25VZjI0czFLRWhvVGV3eFNHS0IxWHN0LXFUQ0R0d3JCU3otVDZVQUlyUFU0?oc=5",
+      "title": "Pernod Ricard SA (PRNDY) stock price, news, quote and history - Yahoo Finance Singapore",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -460,8 +440,8 @@
       "source": "gnews:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTm5QVmdXY3RKcW1UM2VpY3dRV2J6WEdaTjUxYkxTR25VZjI0czFLRWhvVGV3eFNHS0IxWHN0LXFUQ0R0d3JCU3otVDZVQUlyUFU0?oc=5",
-      "title": "Pernod Ricard SA (PRNDY) stock price, news, quote and history - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82Vm52a18xVUlteXVqRWlad1pBOUdlYWF2QjVYakl3ejBKaWFvd3BKR3RjOTE2X3l2dGQ0dVZqdEJ1bWxETG1SNWthZ3RaOEltUXpRZUZhM3VaYzZCZWJxYXo5MmpwQQ?oc=5",
+      "title": "Pernod Ricard SA (0HAT.IL) Seasonal returns chart - Yahoo Finance UK",
       "source": "gnews:gb:en-GB"
     },
     {
@@ -475,19 +455,24 @@
       "source": "gnews-ecom:de:de"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjIwY1owTUFGbHkzU1JVVkMxUWhMQlVKdkY1c1NiRDAxNjdobEhWZS00cUthSGZ1cU1RMG1hZVJjYjVtYU8xZS1yZ2dVLVdtNWV5YzdRSExKOFVKbU56bDBuV3VLRWh2RWR2ejBycnN5eEFLUHpHNWxnTzFTcXpPMW9NQ3FoOTZnSFRlQlotTFZDRllxN1BNeTJONUtROGJYek9kX2FUUkt4NFRSMTktRC1iUjl1dGdCMlZ4czM5T0hkcTBIeDBkNWROWEtidw?oc=5",
-      "title": "RBC hebt Kursziel für Pernod Ricard an, die Aktie gibt dennoch nach - MarketScreener Deutschland",
-      "source": "gnews-ecom:at:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDB2aHZ2ZVJWTDFiUDZqcDhVc213YjRHT0R5UmF6bktEV1pfY01BYzd1MWFxRnAtNFR4RzlNX29iNXd6SF9GRUc0eEdBd1V6aTdvX0FPZ1Rmem1HR0x5YlRqVnpCLU1iVHlsdW9UNWV6RXBWeVozT3Jiem5zVnVpMXpURHZDLThMR243QUtKa2JpajdYMHFjajBRemNHQ1N5R1Z4VUVkVVQwcEhuOGxEYnpKUlVCd1dES015bXc3ZllqeGtaWkE?oc=5",
-      "title": "Pernod Ricard startet Rückkaufangebot für 7 Anleihetranchen - MarketScreener Deutschland",
-      "source": "gnews-ecom:at:de"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTVhoZGhmMThJZ1R0M3o4Tk5zd18yZmFvd0ZpX0JETzhrTXBWNXUwVk12WklQWGhnTGJWRXVaYnJiSFVrREx6QUxoX0tmYXYwMkFxVkxPT2ZmdkdvaVZpeHlKRUZDVUpPaGZfc05XZFlmNDZ1bGdaUDdYeXdsVnl3NzFDdTFJUFQtS0pUZDN0T1A1OTJtbFhrc1hmZ0FHdnc5Q3E3QWFsck1pMjFQWDN3UWtLaF9SSmpJU3JzaGFhSWhZZ2JlOXVuRg?oc=5",
+      "title": "Pernod Ricard kauft Anleihen im Volumen von 1,2 Mrd. EUR zurück - MarketScreener Schweiz",
+      "source": "gnews-ecom:de:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd0xoZTBwNmZEZnR5bWFwYlNIV1JSOHVPWUttQklhMmtKNXVwdlF6czQzS0ZxUnlrMUY5V3lqVkl1SVVlVHVvQlJudzhZQ1JHYU5WbFcwSUg2MjBfMDlmNUprNEJYZm4tUHFKdnhZQ1BIT1BVUVVoRWNONlRKLXltOXFsM3BXX05ZdF92Ul9fSml4SF9PckMwX2dWUFpEdlN3MERyTVZGVFQ3Q3F4LS1vYlg1Y0V1bVAxckwydlNMdldwNE5sRjhvalBiOHRjX19BNUZWQ3ZKRHF5dC1JSWZzbW5qYVRkNlNWdjRtcFRUdnFybmp0emk0blln?oc=5",
       "title": "Pernod Ricard und Diageo Berichten zufolge wegen Einstufung von Scotch-Importen in großen Mengen im Visier indischer Steuerfahnder - MarketScreener Deutschland",
       "source": "gnews-ecom:at:de"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlyVGdlRnVocEZ5cVFMZTItSkFrUDdvZTl1SG5DQ3A2VWg0NFJsazljWFJ5VkEtQ2p2ZFgxb0oxQUlCYnROSjlyVW1fNlNOSEgwWjIxNDYxUnJKTDZCMXQyMllRbEpqaDNDdzdqaWlVY0JoRlR0OGtrUkNUeE5hSG9ublJkU0h5Q3lOeWt0ZE5mSW1zdnI4QW14VmhfUkJYZmlueXRBTEhFcVJrQWRnRC1GcGlKMWkwb2lKeF9Mdlo4dGRYYUhpaklBeERoSDROREtQejZuVkoxMTdOWlZV?oc=5",
+      "title": "Pernod Ricard a bouclé le rachat de 1,2 milliard d'euros de ses obligations - Les Echos",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWJRU20yT2FJTmJfWWttM05aRWd2cEpqTnhXVWJsZ3FoU01VZWJEMWZOYzl4MURKbng4ekJBOWgtYlFGdGp5QURjMzBCQW1WUktLY1hGNnNZQ2o4bkF0ekdHTVk4b0dLSWdLYW1BT252ZlRnNHJfeU5wTktiaGloVlhRbEh6eUU0YmlHZGdfMkd5X0lNdHA3V2hmOGZZOVlNRkYtR1J5M1Q3RDFVSk1pTmhma1psckswSkw1QkRnODRRUzZjTHc?oc=5",
+      "title": "Pernod Ricard lance une offre de rachat sur 7 souches obligataires - Zonebourse",
+      "source": "gnews-ecom:fr:fr"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tdDJJNkVxaVNNVWhxV0VDelJacWhLeTdRQmowMnpRR3VMTGpSWGVVNW9IRVJoaWJjelZyOWFOMm9CWDhWSzNtUVM3Ukc4MFJMVFk4eXR3amN5eWRSTllXTXUyVnRiV1puc1dWbm96VHh1dw?oc=5",
@@ -505,13 +490,8 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS3BrWTFqTnZwOHdjQWtoZzlGOEJyVnc2US05bC1qb0xNLTFaaFJhX2VYV0o0TjRuTl9nR2czTldrTzJUbC14RUdkMmdmaWE5R0NkMFhQOWFiV0tRb1ZQbkRPaVpFcnVjU3BTcG92UVg5MEQ2bnlnZG5ORC05aTRmWERteEV4UHBCaFdaQ2ozSGlyOUVGcVdkWE5oZkljeVFmb19lMmNNQUhPZkwxemNMeGxKQnhDdGhfVlFOd3VJTTd6SWJWazNYY0RlYw?oc=5",
-      "title": "Rachat d'obligations, nouveau financement : Pernod Ricard ajuste sa dette - Zonebourse",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc01veWpLd01GOVNGU1BScUhremVaTEVXdlNIZDRpQU90WnEzdkxBeHJoZFdmQlVQN2ExSFZrUW9TNzVTYndCQnRZbG1EM1p0NVpTSXczal9lT1RSWEdfZnFFbldKVmpHdG0xMGhCWnc5ZjFxX3p2WUZDQTZuYm01aVN3VzZnTEYwV3N0b2oya2JPTnFOeTdrbjBad1d0bTFudm5KWC1zMUxYaUdNQzhkdS1odl9kRHYyVjgtYVRjMmhOR3ZFV1RsOXNxa2tLT2JXOUg1SmR5bkRIWGdKS1FUa3A2SHFXemw1MUE5WmRRMlFUMTcta2FoZ0xuWUs5OEJ1TFVxa015STJxZw?oc=5",
-      "title": "SBF 120 - Les actions à suivre jeudi: Airbus, Bic, Clariane, Elis, Mersen, Pernod Ricard, Schneider Electric, Vinci - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSm4wRTZDc2JEbW8wcmZtMDJuenBmTWx2LUhDRUcxQjJHLUVoTGFLWFl0eTZMdVFEM21aQkx5d0tWUTNld3UxbmVJOXBrSERDd1NWVnFCTjIzS0pNcURSSEJrTE8wUUU0M1NOSzBiZGVNT0tvZDVuWHNadUUwYmdybHBGU1NMMGJneUtQODVHZG81MjJCU01qcjZuNTJob0UxYU9TR3J4b1NUNG1DZ2VXYWJ6MU5ucWFuMHd5cF9FM3gtTnljUnFqUWZsa19WYTQyZEtuSXNURFJiUW5DZ0pkNW5PNmREM2xqelBvRG1kQnY?oc=5",
+      "title": "L’Inde enquête sur Pernod Ricard et Diageo au sujet des droits de douane sur les importations de whisky écossais - Zonebourse Suisse",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -520,8 +500,13 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWJRU20yT2FJTmJfWWttM05aRWd2cEpqTnhXVWJsZ3FoU01VZWJEMWZOYzl4MURKbng4ekJBOWgtYlFGdGp5QURjMzBCQW1WUktLY1hGNnNZQ2o4bkF0ekdHTVk4b0dLSWdLYW1BT252ZlRnNHJfeU5wTktiaGloVlhRbEh6eUU0YmlHZGdfMkd5X0lNdHA3V2hmOGZZOVlNRkYtR1J5M1Q3RDFVSk1pTmhma1psckswSkw1QkRnODRRUzZjTHc?oc=5",
-      "title": "Pernod Ricard lance une offre de rachat sur 7 souches obligataires - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc01veWpLd01GOVNGU1BScUhremVaTEVXdlNIZDRpQU90WnEzdkxBeHJoZFdmQlVQN2ExSFZrUW9TNzVTYndCQnRZbG1EM1p0NVpTSXczal9lT1RSWEdfZnFFbldKVmpHdG0xMGhCWnc5ZjFxX3p2WUZDQTZuYm01aVN3VzZnTEYwV3N0b2oya2JPTnFOeTdrbjBad1d0bTFudm5KWC1zMUxYaUdNQzhkdS1odl9kRHYyVjgtYVRjMmhOR3ZFV1RsOXNxa2tLT2JXOUg1SmR5bkRIWGdKS1FUa3A2SHFXemw1MUE5WmRRMlFUMTcta2FoZ0xuWUs5OEJ1TFVxa015STJxZw?oc=5",
+      "title": "SBF 120 - Les actions à suivre jeudi: Airbus, Bic, Clariane, Elis, Mersen, Pernod Ricard, Schneider Electric, Vinci - Les Echos",
+      "source": "gnews-ecom:fr:fr"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQajk4Z3lKYUl1Tkg1QXNXMXRDUzRjSXQxcHZEM0toOEJHSjNKLW9xM1pyTks5YkIyUGlaUkhEb0JTSFhPRktpOUhEUERZdVU5NnlTSDY5eWRMSjFxWms1OEdMYkc0dTV1cmp6dzlSRnk4Q2dIcXBOYTRJeU52Z0FnUDFRLTZhM0hMLW5EcERJTVZkNnppM2ZNMTRtLW9kaE9HRTU2dnp4SUotRm4yYWtFZWkwR1JVeFlzbTBzVURpUGdfUGdkek4tZkJqaGRaNVVjT1pGWGlsVFBWWm5zV29Z?oc=5",
+      "title": "Pernod Ricard rachète 1,22 milliard d’obligations et émet 1,5 milliard de dette perpétuelle - Investing.com France",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -545,13 +530,23 @@
       "source": "gnews-ecom:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82WGVvbFhZY2VqMDBGcG5EbFNrdk5OMEw0YzA4S19xa2s4Ry1PVlVaWkIwXzNPT2xfWFNCSlhoaUxobUpEclBabDFEVmVDXzg2b1BjeDJyNlRCcWxwN2tDOTFQVdIBwAFBVV95cUxPRHY3dURSZ29BSVZ3MEp0TVdydmF3ZzZKX3Q5SC0weWpUS3R6eU5mTGFuanVNRGJHWlBLNlFwaFM3N193YWxzZ0twWllVYk1TVkpWTEE0RU9ZOGppZVdaMVZQVC1QQlZHR1lEZXNMRXktaFJWT3FzaDQ0dEJXM0ViaHNDVHVJMXpvdHV3ZlVXVHV1Vk1HVzNPdHVQVW1GbVBEMTJha1Y5UUpDRVBRV2c0aUZEQm5WbVJtMnhibk5Rd2U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVNSLWMxY0tucmc5Q21PZEZBT2JmWGZpSFhVTVFHeUJQWnVBN25BYThGdUxOcGhOVnBEeW9Xb2xmWTkzTXdxSWJSUWVLRnJrMXpjV2I2UElCN0dYNm56NXRCYTA3c3J5a1hIQ0VUT3lzTTVNalU1MXI5R2RYU1hSRXBWcVlIVy1xVlROQzQyZmFsa09NTW93?oc=5",
+      "title": "Diageo And Pernod Ricard Push Back On India’s Scotch Tariff Plan - Finimize",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVZoRzViQy14V3dBTDRBUjMtcHFYMHdNVGthX1lDN1cwdUVNS1dDN1pQUHF0LVZyaXhxV2x3VzFMUm8xUkZaTHp6TnUxa3k3eURfS1YtWnJYTGlKRFZFdHdPc1JoaVRxaTVkcDlJS3JqQ1FuWl9BUEZqWnlVX2lFM25uTkxGTEt3dlFKd1JSQTVOcEE2czFhaklrQVNpTV9ueEd5dlNWSnQ1MENNMFVMNExqS2tEQ1ZEYXF6UUs1ZDIwRWJLRlhYX19oTU5vaVEzS2wxYVNGM3IzTUdCVkJiNNIB5gFBVV95cUxQbVpwU3dFcUJXclRCanZMY211Mzg0MDZud2lmYVhHcUJLc01IaURIbl9MMy1QVTdicGhiM1NUT3Z1YWJtWjFHaGw1YVVPLTF2dlhEMFNvenNlUTFReDBta01nYkJ6VWE1Qi1ka0QwQk5ScThtRDR5UFp5d29CZ3dyRkhnNERmcjJsTTRsNGYzeVN3dWJhSmFLZHVoaWhuTjBVUG5uN2w2TDBYYzRuaGNxNEdMcl90enVlbTY5LXJ1cmFoaXM3dnl5RXpRSnpHbWVRUzBrTTFlNDhFbUpMZklJSzdYNUhNUQ?oc=5",
+      "title": "Why Did Pernod Ricard (ENXTPA:RI) Shares Climb After Its Latest Update? - Simply Wall St",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1RPSXVrdE9nMGR4aHF1N3Q5N1VoQ0pySUM0QUNmRHFPa21yTWZCSmx3eWx2YTJsczdQN08yWmVkSXBLYXlRWXF4Mi1UMnQ3R0hSam4wVFJHSDRha0l2LUc4WldPYURhTXpGOHNYUURrM2pibmVabl9BYVBuZkM1WHJRVF9YeGhlM000c1I5V1AtUU9MUUtSdWtlaXZFM1UxNDRJQWJkNEN5NlhWeDBPRERTTGtSSUV3emRn0gHAAUFVX3lxTE9Edjd1RFJnb0FJVncwSnRNV3J2YXdnNkpfdDlILTB5alRLdHp5TmZMYW5qdU1EYkdaUEs2UXBoUzc3X3dhbHNnS3BaWVViTVNWSlZMQTRFT1k4amllV1oxVlBULVBCVkdHWURlc0xFeS1oUlZPcXNoNDR0QlczRWJoc0NUdUkxem90dXdmVVdUdXVWTUdXM090dVBVbUZtUEQxMmFrVjlRSkNFUFFXZzRpRkRCblZtUm0yeGJuTlF3ZQ?oc=5",
       "title": "India probes Pernod Ricard, Diageo over Scotch import duties: Report - Storyboard18",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGNNRTlVWVh0UXprM3JveHB2Um8wOUc2MzFWdGdBUXd4MmtlcHJwWEdTckZhVDJlVy1OX0VlNWFvRDVETzZ5VFZrUjZUdWVNU3dpWi1CTjA2SFRVWEhhQk82SGhYME9HZVdBLV80WEZhTDlRYmwtd0JSNk1RV2RybGg0Q3U0ZTV0cUZGVFF5QVVuLW1HUzFCTFQwbjYwMUpSNFB6azh3VUtxOXJuQ1lYTmw5OXVoRzJLY2NFQkRFdkVBSmM0SDNLa3FGR2hleF9UOEQ0cmdnTGpycGU1cXhNNlF0aUE?oc=5",
-      "title": "Pernod Ricard : Availability of the preparatory documents for the annual ordinary and extraordinary general meeting of november 20th, 2026 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VkRlh1TXRhMHpxY2VRS1BKSG9BRDBsS1hoRWxDdVVXSzNfZmVnOTRaOHhNaEZQMjFWcWdieVJCbTdpUG1CV21pZklmOHFMRFJiaHdkaWlTZXlfMVhwYVlXZHpJMmV2U3kzdHFVa2hQMmNSRV9UZ0pTaGFfajZWbWRNM0twWm5xc09VUldHdG9UeS12VV9VaTd5Z1RLLVNyTjZiYzdB?oc=5",
+      "title": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds - www.marketscreener.com",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -560,13 +555,8 @@
       "source": "gnews-ecom:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPek9fV3E2MzVFLTM5aExFcGlNT1VsejYwMC04bVlGZlNEM1NpZHNheUN5WDRUZjBXM3JxY1gtT3pGMUhubldBWFJic1F0SE1PRF9KMnJEQmpTV1h0cTJlY3V2RVZnYmlTbDR5UlprOWk1UkQ4VXFISEVuR3lrTmFaUFBSMlpyWHIzcHNWS3l5VXlmanktUkZ3eGZkWGpkeEIyUDk0Ym1Pazgwdw?oc=5",
-      "title": "Nitin Singhal Joins VVF Group After 14 Years At Pernod Ricard India - BW People",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEIwQy1KQW9qbTdYSzY4dWlnQlNSSWwtQnNKR0V5T1JJQjNtZUNEYUlqaDQ1NUNKY3VRa2VRS01Gb3o2bzhwUks4M2ZILTBFNkpla09maC0xWm1icXZUaTJadWR6dk52VVM1SFI2MENPQ0g3OWhEXzMwU05pZ1ZBRlZ1N3ZwZHdLNGhzYVpfdlBHODZock1jTENxV2V4ODlKbUk1ckpndmxzdHJkOVFXSzlSMzJzUE5vUTBEVEl2TEZfNnhHem5Eb1d5S08weHlBRllqeXp1ZGFXWldSaXc?oc=5",
-      "title": "Pernod Ricard, Diageo Reportedly Face Indian Tax Probe Over Bulk Scotch Import Classification - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0VBUE1pbWstdWNyVFpkVDdXaDNJX1BzY29rY2QwNHhYUjhJbmJNZHdjZ0hXb0NFaWppa0hreHRTQlYtd2Exd3RIVTV5Y3U3MmtvWHZ5eFBmdzh0ZFdSdnNOOE90dFFFb0VkVFhHOXhzemFSS0FfU3NBQmJsTnhZcVlFM2h5cC1lN3dVWThrV1Z4T1hrUWwzR2xfYzdpX3BKc3g5cV9RWkh1X0VYX1VXRUx3?oc=5",
+      "title": "Scotch on the rocks? India investigates Pernod Ricard, Diageo over import duties - Indian Television Dot Com",
       "source": "gnews-ecom:ie:en-IE"
     },
     {
@@ -575,18 +565,8 @@
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWdFWVNXa1k2S1BpbVM4cW8xSUVNVzFKNDhwVmUwZDlpWHBybW9TbTdDSkpOMjhySDZidHRZdEROd2J0ZWFMM0FDM3Nta05Ga09xa2FXVXRHSDN0VURqQXBGekppNzI0amNwdHRBWTVrVTJMNmRGajVCc1BPLVJtR19FWUJhWFg3ZmRTS0oxTFg?oc=5",
-      "title": "Leah Jackson exits WPP Media for ‘sweet’ client-side move - Mumbrella",
-      "source": "gnews-ecom:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TbGZmTzdGdjE2aXNTdXdXZFhBRDFqc3RTaVZoazYxb2x6dy1LTkVGYXFKRUxwbzQ5X0lsX0d1T3RwOEw1U2k0b3BOY2Jvb1FUeXU0?oc=5",
-      "title": "Pernod Ricard SA (PRNDY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "gnews-ecom:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWp3d2twZ1VXWE5XX2ZmSFkzenZIaEtKdVpZUmE3ZUJfRUsyVGczbEQ3a2FhMkNlLUM4LWxUeVdTZklmNjJYeGJYQm1kNTl3QXNUOHY3R2Zma0ZSZWdCSHFSZlpHclNJYkdodVhydExtZXhlUFVMQmpSTDNnOUhCMHlPb25OTlZGYi1BbTRnVXpvYndaYzRaY0ZmVHdRcVFsMW9wZnUyTF9lMl9QY2FYLWRHQ2I5YmR3cWVj?oc=5",
-      "title": "India investigates Pernod Ricard, Diageo over Scotch import tariffs under UK trade pact - Food Business Middle East & Africa",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcExMUjZxejB1UTRYMkRGWHFyUENMdk94aTBOd0ZJWWV0TEdUNldlcXJBbmNMTDBnQW5tbTdhOHVxd2thbGxDc3Y1V2hRMmNHMEQxQ3NOSWlIMWJiY0cyUHRrTzdrcDdkOGJlVWZ2TjMyMWlPTG50ci12U0VEajdDMEw3QWVwRHZnWXIzXy1OMUhpT2pQTHNOTEdaODhVTTJhOHNCaXY3MHVnWE1ENUVEbWJOTXVzVEtVb3Bz?oc=5",
+      "title": "Exclusive-India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say - WKZO",
       "source": "gnews-ecom:gb:en-GB"
     },
     {
@@ -600,33 +580,48 @@
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTVBJTGZJUk5NVXZHQmluYWw1T2hTSzNIZ1pfZDhlX3E1T2drNjU5b0F2NEFheUZqSU45ek43ejAyTTFJaFJhbmVJaTFObzRxcTNHZkxDc1g2SjBIbmxQMmxzRVA4Z19sRXROTHU1cTZCbjdFWldTNGtmeHRlNkF6dTBxT05pNXdKV0tQN2lSeG5Xc3lManBNWDJkVjYySlNSLUw4WlpRc3hfSWw2NlV3bEJEMFhOSjlZcml5VW5SVGpZbjdoTGxPc0ZqREdVNXJXZ3BWaWhwUkg4TEE?oc=5",
-      "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance Of €1.5 Billion - TradingView",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWTdfRzhPRW0tYWt4N3V6YUJ3UDN1d2t4RkpEWDA1YW9ERlZ4WkRhUjF2TlQzVlZ1ckx2dTR1ZUFyRGtWcm1uVllHb3pReU41ZXpRUENFVW56aU1IRW5zSG9DUjRxZjZWelZTWTIwV2hnMjBCM3FDQg?oc=5",
-      "title": "Pernod Ricard annonce une offre de rachat sur sept souches d'obligations existantes et son intention d'émettre - TradingView",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0lPWmkydkoxaFNyTlpzY0RwSWowUC04QVFnbjFhZU51V0JiWGkxZURDWjlFUHE3b282a2VvNTBtOTR5RnNSMy1LaHVuYmU2VmE5R1N5SHFCdmxYVkQ1bVdONWVVU0JvWEdvVzQ5RGZNM0I1enloTWluVGlwQ0h5ZzRMczdkSHl0a0dvOUxobUtLSUVTWUFnQnNUa3BvTzhqejlsRjN3cTI5THZkeXdQYWUwY1NUeFdBSUt4c3V4X0tab3ByZ0VOdlZDZEc1cWZlaXhJNGtCOGs3aC1OV0duNE530gHnAUFVX3lxTFBpc3VzeVBPSWFEX0ctQzZaN3VHUXZ1X09tS3RiOVNDUGV2SGNZaEJHaS1kYjNBWTA3VWRhV1dndnRYNHRwb1Jhb0ZVYk45RkgyWHZKVDZVRE9qZXZfTjdQTk5sY3VRUl9XLVdGRVFYdC1Na1BnMmo5SDRVYnUxYVJUOVFMNW1iT2JCSFNiMThycTVoSE5ubjh1VkF3ckZGTHNMRDRoVDdPWXFCYjA4cVk1SUlGNlMwSnRUcVNrN0twSzFmUzdWRUstdlRuRnNJWHpOUnFxRURRZWpwMFFmY2NXeTBGYmYtNA?oc=5",
-      "title": "Global FMCG giants find an Indian answer to their Western slowdown - The Economic Times",
-      "source": "gnews-ecom:gb:en-GB"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVWNDWlM2T3BVRHJfbFoyNkN2TGJxU2sxZENpTE5hSVQ4OWFOZ195OWZ2T1VZTFZMd2VQX2NxZjRTQTlpQVV1TGhSeVdXVG5lN1ByaS1CTGp3YUZLUHB4dDVjdkRvTVRsYkt1UU5kb2JsWllYMDd1dnN5NFQxemlmbHBLQVVncVI0VE9uWnFmdy1HYkZvakcwVTg4cDBGYnBHRERMMjd0bU1mdEZiSmo3dzA1YVQ5UThpbGJ2bDZXZ204WGxVSXVxWlZsNDVabk13ZkUzOEFWUFFSMTJw?oc=5",
       "title": "Intel massacré à New York à la veille d'Halloween, le Cac 40 sur ses gardes - Les Echos",
       "source": "gnews-ecom:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmxlN2YwelpFWXBSY2pObUpmaVJNb3loTHBOZWhwWEFtcjIwYktoaDRPYldWRUJGVkdMZVBybERuQWJVTjlMWTNPMWJ5ak5YS3ZMdnFMT2hWazhEejJWYlgySTlaa2p1REMwS0hiZGtobE43cDE2ZTgxTk1lQ0VxWlZYellweDJHa3NSTmlEZlF4ZXk4OWFEYnRjenV3OHZuYm0zaQ?oc=5",
-      "title": "Pernod Ricard to Buy Back EUR1.2 Billion of Notes - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTVBJTGZJUk5NVXZHQmluYWw1T2hTSzNIZ1pfZDhlX3E1T2drNjU5b0F2NEFheUZqSU45ek43ejAyTTFJaFJhbmVJaTFObzRxcTNHZkxDc1g2SjBIbmxQMmxzRVA4Z19sRXROTHU1cTZCbjdFWldTNGtmeHRlNkF6dTBxT05pNXdKV0tQN2lSeG5Xc3lManBNWDJkVjYySlNSLUw4WlpRc3hfSWw2NlV3bEJEMFhOSjlZcml5VW5SVGpZbjdoTGxPc0ZqREdVNXJXZ3BWaWhwUkg4TEE?oc=5",
+      "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance Of €1.5 Billion - TradingView",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0lPWmkydkoxaFNyTlpzY0RwSWowUC04QVFnbjFhZU51V0JiWGkxZURDWjlFUHE3b282a2VvNTBtOTR5RnNSMy1LaHVuYmU2VmE5R1N5SHFCdmxYVkQ1bVdONWVVU0JvWEdvVzQ5RGZNM0I1enloTWluVGlwQ0h5ZzRMczdkSHl0a0dvOUxobUtLSUVTWUFnQnNUa3BvTzhqejlsRjN3cTI5THZkeXdQYWUwY1NUeFdBSUt4c3V4X0tab3ByZ0VOdlZDZEc1cWZlaXhJNGtCOGs3aC1OV0duNE53?oc=5",
+      "title": "Global FMCG giants find an Indian answer to their Western slowdown - The Economic Times",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTBWOGVnM3hnVElDWm5HNDR6NEhiaElZSTJWTmdocVBCcjJPMUJ4QnkyN253SjlJMUxxcFl1eHI4SlAtZVlyS2ZBRmV4Ry1NT05qbVhBOXg4OHhOeVE3LVpxc2dzSHRBY3JGU1FXOTlvQmlkajRCdHI4ZWdnMHdNVkhlTGpmdzh2eGpEdzR0TENMNDZ3YzJ2WUFYOTBROEIwYnNHY3dzOXN1RjQ5S1E?oc=5",
+      "title": "Manulife Philippines recruits former Pernod Ricard marketer Tony Atayde - Marketing-Interactive",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejFqY2NyYm90eElLeWhydmtyQ1Y5ZWFSdkQ0Q284MlJZenhNUHg1d0dUdEI1VnBPNVNWSjNaS2pybE14QzloUmp1NERjMGxmX2s4ci1KaWFXY2VPNUZlbFQ3UWpnOThSWU9EZGp4SDB2QzVQLTRuV1ItaHVkS2x3N25ZVGV6ZHBmYUQzeWFEaHFKYWhlMFRtMzJVWTB5MFZMVm15MUxnUmt2QWtlNTVfRU1xcWRrNFAyNVFYU0Z1dWVqMkdQLVJv?oc=5",
+      "title": "Pernod Ricard Successfully Completes Hybrid Bonds Issuance of €1.5 Billion - www.marketscreener.com",
       "source": "gnews-ecom:gb:en-GB"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkcyTmtfbzBXQzBjMVNyajJQSFEzeEJxcXEyNEw2UDh3VThpQ1pXOE4tSnFLbFN1djRIbXc3Qk9yUWVlUjdKQXFVc0FFeFp1YzhsclFXUE42aFlzWFVldmlrUS13MjJQOWlNMVNqanBzSlZCcXdEdXU5MC1kWDNlaFhaZ19Mdm5qc1hNaEZVa1BpNGZVd0FxLUJDMmRFZi05c1dXMUxYTlFGa3JGN1ZmVFQzb24tQ0pwTjRFMHpoS0V0cmJ5OHNHS1FWSEE?oc=5",
-      "title": "Ariane 6 lancera 36 satellites Amazon Leo le 23 novembre pour son dixième vol - Idéal Investisseur",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWdFWVNXa1k2S1BpbVM4cW8xSUVNVzFKNDhwVmUwZDlpWHBybW9TbTdDSkpOMjhySDZidHRZdEROd2J0ZWFMM0FDM3Nta05Ga09xa2FXVXRHSDN0VURqQXBGekppNzI0amNwdHRBWTVrVTJMNmRGajVCc1BPLVJtR19FWUJhWFg3ZmRTS0oxTFg?oc=5",
+      "title": "Leah Jackson exits WPP Media for ‘sweet’ client-side move - Mumbrella",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMk1UMUFRcW5fQjNiTlJJcENwM2ExdE5nNnVTeDh1SEdpdVRzb3FkUDZwMnZfZUJ6eEdQR2tqT1BtdVBJTWZpWG5kOFRRNU4xYzdwVDNhTFBkMUZnbGdKM1dJWnFwX3pmcTJiZlFwcDBCTzhPTDBqX0RQMGxlUldFX0t6TG5IdC1fbHRSNXM1OTBjVzRZUl84XzFoMGlFWEdvM0tJOGM0cVNfYzZ2RDE4R19TUC04ZzdUOC1OUTBLUFVzUmVWaXZ4UjZkZU9abzlYV3RkeA?oc=5",
+      "title": "Diageo, Pernod Ricard to Discuss Bulk Scotch Imports Tariff Cut with Indian Government - marketscreener.com",
+      "source": "gnews-ecom:ie:en-IE"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWTdfRzhPRW0tYWt4N3V6YUJ3UDN1d2t4RkpEWDA1YW9ERlZ4WkRhUjF2TlQzVlZ1ckx2dTR1ZUFyRGtWcm1uVllHb3pReU41ZXpRUENFVW56aU1IRW5zSG9DUjRxZjZWelZTWTIwV2hnMjBCM3FDQg?oc=5",
+      "title": "Pernod Ricard annonce une offre de rachat sur sept souches d'obligations existantes et son intention d'émettre - TradingView",
+      "source": "gnews-ecom:gb:en-GB"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM09OQ0VvOTF6T3VkenF1LVprMVFDa05NTUIyV1hNWjlhY3VsMmc1OUN3QzQwWWxtUWJpUXBvZXFuQjZXeW9QaWNFZHNneW9wMFRuRjRTNC1YNE1sanZYdi10bVZSdmJ0dGxWWHgtZktHekV3YUJtWEYtbm0wbDY1eFk1MUhJc19faGxQU1A2WEp0cUxQZ0ljM05hZl9ZdDNrRG9zdWxHUnZsSmF2QkZuSmFfSmJaZTVtbzBENnplMmxyN1ZMQ3lUTW4zWQ?oc=5",
+      "title": "Valbiotis ouvre un canal de vente sur Amazon France, l'officine reste centrale - Idéal Investisseur",
       "source": "gnews-ecom:fr:fr"
     },
     {
@@ -635,34 +630,9 @@
       "source": "gnews-ecom:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VkRlh1TXRhMHpxY2VRS1BKSG9BRDBsS1hoRWxDdVVXSzNfZmVnOTRaOHhNaEZQMjFWcWdieVJCbTdpUG1CV21pZklmOHFMRFJiaHdkaWlTZXlfMVhwYVlXZHpJMmV2U3kzdHFVa2hQMmNSRV9UZ0pTaGFfajZWbWRNM0twWm5xc09VUldHdG9UeS12VV9VaTd5Z1RLLVNyTjZiYzdB?oc=5",
-      "title": "Pernod Ricard to Issue EUR1.5 Billion Hybrid Bonds - www.marketscreener.com",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRGlyVGdlRnVocEZ5cVFMZTItSkFrUDdvZTl1SG5DQ3A2VWg0NFJsazljWFJ5VkEtQ2p2ZFgxb0oxQUlCYnROSjlyVW1fNlNOSEgwWjIxNDYxUnJKTDZCMXQyMllRbEpqaDNDdzdqaWlVY0JoRlR0OGtrUkNUeE5hSG9ublJkU0h5Q3lOeWt0ZE5mSW1zdnI4QW14VmhfUkJYZmlueXRBTEhFcVJrQWRnRC1GcGlKMWkwb2lKeF9Mdlo4dGRYYUhpaklBeERoSDROREtQejZuVkoxMTdOWlZV?oc=5",
-      "title": "Pernod Ricard a bouclé le rachat de 1,2 milliard d'euros de ses obligations - Les Echos",
-      "source": "gnews-ecom:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1RPSXVrdE9nMGR4aHF1N3Q5N1VoQ0pySUM0QUNmRHFPa21yTWZCSmx3eWx2YTJsczdQN08yWmVkSXBLYXlRWXF4Mi1UMnQ3R0hSam4wVFJHSDRha0l2LUc4WldPYURhTXpGOHNYUURrM2pibmVabl9BYVBuZkM1WHJRVF9YeGhlM000c1I5V1AtUU9MUUtSdWtlaXZFM1UxNDRJQWJkNEN5NlhWeDBPRERTTGtSSUV3emRn0gHAAUFVX3lxTE9Edjd1RFJnb0FJVncwSnRNV3J2YXdnNkpfdDlILTB5alRLdHp5TmZMYW5qdU1EYkdaUEs2UXBoUzc3X3dhbHNnS3BaWVViTVNWSlZMQTRFT1k4amllV1oxVlBULVBCVkdHWURlc0xFeS1oUlZPcXNoNDR0QlczRWJoc0NUdUkxem90dXdmVVdUdXVWTUdXM090dVBVbUZtUEQxMmFrVjlRSkNFUFFXZzRpRkRCblZtUm0yeGJuTlF3ZQ?oc=5",
-      "title": "India probes Pernod Ricard, Diageo over Scotch import duties: Report - Storyboard18",
-      "source": "gnews-ecom:ie:en-IE"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUWhpRVFyUXpOY0ZpeG8wc1h5d19ib2tneDNnUlBNVUxfOElTUGctZExlS1NKVk9aeDhwTUstQ04tOTNOaHJHUTJXUkNBSlJDZzlfMkpiZmp4Mi1hck91N0hvejRvTTNrSjJiNk5QeDdtRS1ramZ3clRNVC04WHF6WXFuOUFMNWc1akNGQjRNM1UyZmlhSjc0eEVLRGFCWkg5WmJ2XzQzU1NhOFVsMXN0WE9hR2ZreC01dXhLNXFZc0Z0QTN3Q3I5SUlwSlYtdEJkQzAwSXMxWXNtc2Y3Vk5qcNIB5gFBVV95cUxObnp5cFZVcjM1cmhWOC16YzEtaWxfVUhIbzJQVkkxY1JWOTVxc29KYWlSbjRZQ0hUeFFUTnpQR0ZwQjZiNEFaNzBKRGN2ODJWMTVNQnFZR1lVYUQ1RDM0LUZ2VUVMcWREUlV5RVhKN1lnN2ctZS1zaTJfQ2FMWlp3QjN6cjF6bGNZcUNEVDlyYW1aLThHMWZoSlBZODBHSmNzN1dobWhHUEpUV3cwUjFHSmp5bnNHSzNlUGJ0anRCWmZpdjVtaFp1akJjZzBtNVBMRDhxN21IaXQwWnlpN29CR2RSZGNUUQ?oc=5",
-      "title": "Learn Why The Bull Case For Pernod Ricard Stock Could Change Following Debt Refinancing Success - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVllvMl94UWxIZm03SWFmbmstQnNJcmFxTHpqblZQR0xqSzJlZF9qcUstUmh3Q21TQl82WW5rQnljUm1QSWxkNEVoYXhfRFJtVGI1Yk1BOTVqMFVrS3pIdG5WZlNHcmNvOVhpTmxmR0gyYmt6anBGWmRhRGxVdG1reklsdVFQVTVzemhDMmltbllJYnc5blBKMUYyUHllNWdlbGY3TGFJRGZTZ2E2bXFYUHJYakFXZko1Q1hmR1BpOUYzbHFYOFFVYmJGY1ZtTXpuaVlqQ3czOA?oc=5",
+      "title": "Pernod Ricard issues EUR 1.5 billion: RBC lifts target for Pernod Ricard stock - ad-hoc-news.de",
       "source": "gnews-ecom:gb:en-GB"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0hfeUw1R05lNHZZdk00MndYbGVEb2ZhUEZWSDRsek5mcjlaOWlwTzhsZl9mbEdSQkJFeTI5b2Z5X0hqdWpPUF9vc3VySVFoWExmazhpUTgzMjdfSFU2UWljLTVVSTNBcXZ6OWNmaVVkd2tJajNXVmRIOTEwSFRMZU9jaDMteTZmc09rS3JVU2NQT1hiZjZUX2JJLW9MUXhqRE5ZalN5N0pzdmZHei1GOUtXYWVPams2WW4wRDkySF9kMWhOOFE?oc=5",
-      "title": "Top News in Global Spirits Industry - Pernod Ricard Inspiring Brand Cooperation between The Absolut Company Vodka and Charli xcx. Absolut Vodka and Charli xcx are joining forces in a new two-year creative partnership, bringing together music, creativity a - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemk5LU1IUWd3M2ZHbmEwem9ic2dLNU85S1loQU5JdFhxQ2FhWWNmOXpwckFKdnN0QVV0NDlCOFZRd3R0NUU3OGhCR1ZWWUdWYkRsQnpqZXRWN1NObVFxbTczR1lDUHVkSTZTUjFRY0lSTUVCR01rUlFRN09rSVpxN1VZUC0wcmQ1LW1qNjE4NExQMV9SMEIwV2JfM204cFBRazRPVTVmc2NEakRfR1Foam5PdFBTeUFBbzB1MHZnVno?oc=5",
-      "title": "Einmal fühlen wie die Profis 🏒 Dienstag war es wieder so weit: Das All-Star-Game der Löwen Frankfurt, unser Premium Network Event für Sponsoren und Partner. Seit zwölf Saisons ist es ein fester Termin im Kalender. Denn wer Woche für Woche mit uns mitfi - LinkedIn",
-      "source": "linkedin:gnews:de:de"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFRnTEhsX2kxQmpqM082OEQ2WGVfRThRNEU1TmVZWEYzZHJwWGxyVFBCYjR2TlhXWFpZakVVYXZjUVk4ZTRKdFhKTDE4Xy1FbHNxQ1Q1OHlhcXU1U2VDRTM5c1dKalBfUHU0ekRKeVh6bnFXSnJaZzNYSE5VQVhTX3pUVzM1a2pPNFd3YWVmM3JOa3RHMHVjQzlXSEF5a0J6OXcwUmF3?oc=5",
@@ -672,11 +642,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHdWNlp3a1ZhU1VocmhicjlEUl9FdTEwM0hlV2lEWGxvREZWbE1DeU94R2ROMUlhOFZVSFU5YUN0RHl6RnZ5NjVYWVJVRnU0TTNMdjQtRmlHUVNZVmtRRXFWTVRQUlltajI1ajl6MkdPbFV2MmZJcGZ5cDBOem9jM2M3aDEzRC16VWNnMFhYczQwQmptQmRRZTBvNDg4VGtJMEoyQWlsdk5ydkRWVWNPR3I0SHRaZ19nM1h1aFBESkROdnRwVVRGZXhFWTBZT3VNYjZJ?oc=5",
       "title": "Area Sales Manager Niederösterreich Nord & West / Wien Nord (m/w/d) - LinkedIn",
-      "source": "linkedin:gnews:de:de"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWlsX0ljODhFeVJrdUxUUnNPRDhlYXRVMW4tODFDd2h1eDEtZlZSVERfN2pscVBTNXk5WmI1ZjZDaWVDUnBHSlY2TnFuRWh3N1FTN2NXaDRVMXNmZEt2emFudmVyRHpqS0NkcFNVYjktTUlXd0ZUcmIwd3psUjR2a3VRRHdyT3RUYjE1VnRSMG9GVnY1c2pwN3VKODNQcGl5MjRvajF6SFdFaldHMlRKcUJtWXpIR2ZoWVNYX1Job1FsVl80dU4w?oc=5",
-      "title": "Great News: We are launching Bella Bavaria: New Brand. New Category. & La Dolce Vita to Go. 🍋 With Bella Bavaria, we are opening an exciting new chapter: Starting in March 2027, we will enter the German market for ready-to-drink cocktails and aperitifs wit - LinkedIn",
       "source": "linkedin:gnews:de:de"
     },
     {
@@ -690,13 +655,8 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2o2QmN4cFdoaVJEdXlveTVYblV6b01xLW9yWDRFOWMxTVpDNUIxRVN5YjhBS0VKODRKVVdSa3gwQnFOeHNBOF85OE9hVGFhNlZ6aVFkcmdETDdBaWRVYk9mamVZYllJSEVuRXBvbU9YcGdzcHc1STFSZ0J6ajE0aF81ZWd1NnA0UFA0dURoUmY3WThJV3dodmwtN3M0cFQ1M3R5RWNidEtfNS0wLS04a3RoTl9TWDVf?oc=5",
-      "title": "Creative Strategy & Brand Positioning Intern - January 2027 - LinkedIn",
-      "source": "linkedin:gnews:fr:fr"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHFVWjYxdzMwOTFZeWNWaXBlbjRKUmRfNDdFeUMzUGZxRGstNi1mb3dxXzMtZHE3YzRVMktPazh4RkJuZDktenl3MDI2NnpxOWVELTBOLVp6YU5fWldDYjgyMkUyMHRHcnZvaHE1U0RYRWdmNENxdmxidE1XdWJKVEdRdGJfbDlaR1hZdDRMR3haMTg4d1pKeXdkeWFJdDZ4cUN5M2lFU0Vqdw?oc=5",
-      "title": "Pernod Ricard recrute pour des postes de Stage Douanes & Accises - Marseille - Janvier 2027 (Marseille) - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVItTE5aeGRfOVB2Wkh0LXoyelN0cFdkMWUyNlVFMEpHaVllOURVTnp5cWFtM1pTLWZoUG1kVWdYLW40LTJBMjdwenhmRXRBMm1qa3JtWjYxenNQaDN5MVFZdDVLaEtTdTB2X2l4TnQtZW8ySmlhZ293S2RFZzkzRlRSR2wyOVNFbXl2TnBydGtyb1hSNWJGcmRCUmNjQ1R3MDhXUFJkZHdzOUtrSWhZMXg0M2tWMXZ5TlpPY3VlYw?oc=5",
+      "title": "Stage Animateur RSE - Engagement, Performance & Nature (H/F) - 6 mois - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -710,8 +670,8 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVItTE5aeGRfOVB2Wkh0LXoyelN0cFdkMWUyNlVFMEpHaVllOURVTnp5cWFtM1pTLWZoUG1kVWdYLW40LTJBMjdwenhmRXRBMm1qa3JtWjYxenNQaDN5MVFZdDVLaEtTdTB2X2l4TnQtZW8ySmlhZ293S2RFZzkzRlRSR2wyOVNFbXl2TnBydGtyb1hSNWJGcmRCUmNjQ1R3MDhXUFJkZHdzOUtrSWhZMXg0M2tWMXZ5TlpPY3VlYw?oc=5",
-      "title": "Stage Animateur RSE - Engagement, Performance & Nature (H/F) - 6 mois - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEdkc0o3LURwV0dEdVRpbHJ0UThiWVFSTExfdDRNejlBZGdtSFJmcUFRQ2R1V3A4RTBwSndxZV9PYXN0cXQ2VkdDcEFaMUFEbFNfMHJkNGpubjRLNjVrdDJXUFZJWlk5MlNlRnhVM3hqZ2p1ZVQ1SEhQOE5pT0hIa3RVQnBPVVF1RGp6RllYUFBVRzhsNXdrT2dkWm4?oc=5",
+      "title": "Aberlour présente ses plus anciennes cuvées permanentes avec les nouveaux 21 et 25 ans d’âge. Issues de la maturation en double fût, signature de la maison, ces deux créations révèlent la richesse du temps, au cœur du savoir-faire et de l’exigence de la - LinkedIn",
       "source": "linkedin:gnews:fr:fr"
     },
     {
@@ -730,6 +690,11 @@
       "source": "linkedin:gnews:fr:fr"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORy02S0NScHppNzZpTFdNajlhbGNoVXFmVFQ4YWl2d3NSRURtSDZWV253cFZlZ3RoQWQ2SjlWRWw1NkVSWjNWd05nVGRWU21PbDd1ajkzd0l3ZFpoUnhlclIzNjBtaHFEVTNvaEdMWXl1RkpQTVlZZno5M201OFBKNEdpYWFWbnpPMlBXYnhKakpYbmlkWXBJR1dTTmJQckxzemotVzRLRTRHZHJUYnlUNXBn?oc=5",
+      "title": "Stage Assistant Chef de Produit - H/F/x - Janvier 2027 - LinkedIn",
+      "source": "linkedin:gnews:fr:fr"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83bDAxNUdfRnpqVkgyQmltNDNONVREb2RKVWVFQlJXN0hLSkVxcHBUT2dKdjFBQ1p4TExVNC1RczRZLWN4dncxMm5MM04td0hkUmNTR2QxOUJnQQ?oc=5",
       "title": "Stefano D. - Analista | Finanza & Tecnologia - LinkedIn",
       "source": "linkedin:gnews:it:it"
@@ -737,11 +702,6 @@
     {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkxPdks5VS1XeUhEdXBxNjZSUm5WNm80d1hoZ1YxNVpDbWhUeTVFeGM2bHp4SmlfV19nY0hxRnNPc0hGZUhoLV9VYUlrd1l3X1AwMkxhR0lFOFFHeG9BTnB0TmF6RjZlbGEwaHN5OVhDRXhtLWRBWnRYd0FXLUZ5cFNmWk5KT3M?oc=5",
       "title": "Strategy Intern presso Capgemini Invent — Milano | LinkedIn Lavoro - LinkedIn Italia",
-      "source": "linkedin:gnews:it:it"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR09QTU1aUGFLR29iYU04dE1Rd0loV2doX2FiNFVvZk9fVU9IS01waDRETDhwWUM1cTQyc2Rvb29kQWlPRkZraXlaQmpNRUZVODNxdkIwdklNNzFubVN2YmtXQ29qbzVKZXRBb0k1MXdFdGdsQzNiZGxQWGxCMG1EaTQxSGNkMnNPMWwyclIxQ0xjdDkyWmhWMVBOcU1Ia29vSmV0cUxSaFkxTnhuTy1OUTN6VnhubXoxcXltSUVNRkViRWc?oc=5",
-      "title": "Stagista Ufficio Marketing Operativo e Strategico (Product&Pricing) - LinkedIn Italia",
       "source": "linkedin:gnews:it:it"
     },
     {
@@ -795,16 +755,6 @@
       "source": "linkedin:gnews:es:es"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0F5OGJqSDNjV3pROUxzWm1zV2Ryb3NBYk43a1ZSVURXV3MwdzBVUzc0R1hsWTJIa18tVTBGTzYyYS1sVktaSDhDQThlb1pVQ0p4TlZhWWxNR0REZ3FuOHEwWmNacnJ4YXlNX1dFMUFFWkJQNUVWaWhBS0ZHVjAzUFRYYjJ0M1U?oc=5",
-      "title": "iProspect - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSS1rc1prN3FlQS1Kb0NMWDVhaGJVUVlxVmNZMFBzU0JxLXdOVW1EQl9yTUxod1FnMFQwcFpkSUVVQTZkM01sVVk1UkFITHZ2Z2JibGtWMWJkbnUzdzVlZEg3VFVCa3FPdERjVDFLSlc3OHM5dzJGNFF6N3lwV1BNSUYwblhCV1Z4VDlROENXVlJOOVdqc1YxbE9DZnB5bDhyVi0yLUlrQ05yVHNsRWZjVjRQZ2lfTDVXd0tDeE5yVDRzUEY1OG1hSWNvSzc4RFMx?oc=5",
-      "title": "Gracias a Forbes República Dominicana por la inclusión en este ranking y, sobre todo, por impulsar la conversación sobre una función que hoy ayuda a construir reputación, confianza, acompañar procesos de transformación y conectar a las empresas con la - LinkedIn",
-      "source": "linkedin:gnews:es:es"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRm1Pam0zU1JyTW9Id1haSm5nUENHRlJOdG1DeDVGODU5MkZNRlVBS3c5ck5IbVRBQkVVV29pVHR2c1Z4MGhVb3BIUzBnLTBua0VGNlRqVFlsZ0JmYm1wYmpVWUFwbmtVeVJIdEhoNU1DdmwwanBNejhwMTd3bmtLYmtfYkVLOTZGWTNyQmdFYmlQdVphY1kxbnEzQmc4Nzd6Q0xTd0REcXphTXRCTDE1Zm1fNS1NVU9qb3BrMU0wNUF2OTUxUUc3ZGFuUTJ5cHNfZkNOU0F2Y1cyZXFEZzcxNXk1UkhQbmtYV2phc1ZHdWtRSTVKMktCemk4VVZidlRyeFFxN0lSWHk1Z20zOEFVVkJSalNsTHV3RWpzTzNoMERtQQ?oc=5",
       "title": "(9,000+ vacantes) empleos de 重庆涪陵区精油开背 微 184 6989 6659 皋 en España - LinkedIn",
       "source": "linkedin:gnews:es:es"
@@ -812,6 +762,16 @@
     {
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTW8wVU9BLXRQT1l0d05ERGZDUVRBdUQyRFRvbXRablRWLWZyQjVhMkg3Vl9jTVpjUjhTRVR6OXNQRkhTckxHVFZXLXZEa2F6cVVHV0VYOUo4cUFqa1ZqZnNqRDF3d0RNY2tnZ09YTnlQOEZHOWNGNDBkelVEbWRKcW9ZLWZjaWpEbTd3WW5DOURiVDBXZ1JLZmIzVG9wV09Uck9RUVMzcjBDX05mRGRSS3dnLUM0d3FkYWV4cHE3aXBYWHdfVkdvYUl5dDNPVDBNSFNMNWVOZ1prSHpldzgzVXJ2N0JmRFJFcUJFSjdfb1VRUEFLOHN4dFJPbWpmM1ZyQ0xtQW5wbjlOdDFieldtbQ?oc=5",
       "title": "+10.000 empleos de «重庆涪陵区高端约(V~184 6989 6659）谅» en España - LinkedIn",
+      "source": "linkedin:gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHJoakJFeFJjNXdqN3VVVWNSclRUTndqOEthTy0xZWp2TkYxbnNBXzc5Yk42czJLSS1uOHZ3c0ctQjhPNkVqVmFXbC03WldjRnlHSjcyV0tTYnRwYUVfcV9yVFVwT0FuQXQ4Y0JaNWRWSVFJZmVGYUYtT2ljTDhGZ2djX0JQaFVjMGp1VXhBRkVoVWxWV3NrSFVsYzM?oc=5",
+      "title": "14 empleos de «Auxiliar Administrativo» en Torremolinos, Andalucía, España - LinkedIn",
+      "source": "linkedin:gnews:es:es"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbEZpTFdwcGR1S3RaOHh5RDcwVk5wdFVYOTlENS1QbzEzSlkyTWtIYjVlYndGek5kM2ZnTS0zQktqUXFvU1h4YUtndU1hVm9Ic1plck1UZ1FPdUhsWndtd052cUlnMlhFMHBFaEVYYXlMMFBzTDlFSzhDQmpPUThCLWxFeFdKbVJjTER4anIzMXhfaDcwQU92ZGJsZFp0RjZsa2dOUHJCZGxfcDN5bmV2UGpGb2oxYWl4UWJ6V2ZhbTd5UkZCQUtfN01MYnM3NHhXT0lMREpDclZXQmJZV1d3U2drWWxFZUVkNjVVWFhzRW9reFM3OTdaSHVsNTVtS0lCUlFKUzFwMHZBMHNXNFdxbC11QUhKTFh5QUJ3dFRCNEJsQQ?oc=5",
+      "title": "(7,000+ vacantes) empleos de 雨花台区临时性伴侣 微 184 6989 6659 颓 en España - LinkedIn",
       "source": "linkedin:gnews:es:es"
     },
     {
@@ -835,18 +795,13 @@
       "source": "linkedin:gnews:se:sv"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BRXFaTjNvOUFySGx1dGNlR2xPWnRaazhuSWhsWEhOc2szUXVFc3BOb3BfTmctNFR6OFpLLUFuWkp6blpBY1B5VFdGR0VaTWFwSHZzejZzcnhVSm1QRUdaSmJoWm52MHltY3JlTw?oc=5",
-      "title": "Campari Group: Kultura firmowa - LinkedIn Polska",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkc4SENEMThIYkVVYmxyem9OaEhwaW9WbmNZWmpfYnoyMllLOEtHdzVPaFlXSXlfWEJRaGNYYXBaZjNqNjg3NDNtZ3AwbXFQLWw1SURVaWowSndBNUVGMDRKUERnRXZpSm5fQnlndTROeDNpVjFZV3VCS256ZFJ1X0kxU2QwcGlPWTBVYTdHb0M3R0c0SmxqUXZTd0NWMDRBREg5dHRaRlo4MDB3MmFmVEpNN3BBZjE3RXc?oc=5",
+      "title": "SPRZEDAWCA / SPRZEDAWCZYNI JYSK Grodzisk Mazowiecki (5100 PLN) 1 ETAT - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkg1aEl3UFZoY1ZpLUVuQ1kwV0V4T3FGSTVzbGVFVkt5XzRQVzRDVWxuUkFtT2VYLUtBNzFXelcxdTd5N1NycFpQSUQ4dFUxWGk5VlNxeFBsNzRjeGFMMG9BSWEybkpSRzdRQkRiRHRmaUdUSWxhZHY3b09uYm9LaDdFbFpGUk53d0xlLXRxTi1KOTJieThTeWNhQldMWW5Edk9nOGo2N0MxU1laYS1Ldm1UYl9BRzRvVDE3MUNiQmxXeFpSZGx4UzFtbmQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlZQWWtRb01ycHNfaGhKT3VsSEdDYnJpM1hxOFJlQ1RaYnhNcmdTWmo3N2pOdmJhVWtWSl9vZ1RNRFBPRXRuRk5xX1hCSzh6WmpUZGxhZzF1UWkzMjFCWjZ5dmkzVXozb3ZJZ0prclpaQURIMXN1RzQtb0xoSlplcXpUOUQ5ZkNRNlVCWEJBQjU3VHFKaWZCZjBwRVlhcXJKYWxvQlUxeDNYcU5vMERORV81SXNTeHhoOVBwcmdKOEp5T1V6UWEza0ZGbTU3ZlNwX19B?oc=5",
       "title": "IMAGINE NATION wybrana Agencją Eventową Roku 2026 - LinkedIn",
-      "source": "linkedin:gnews:pl:pl"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDlPX3JLVnd6OG5COUhMX0xGMmdLMloyMzRUNnZfbDRNcjVMZ2dyYjFaQ2g1UEFkc2RCbGxhcFdUcTVYLTBDZmttVjR5SUpRelBxNzFpcjVTNDZSX0kzbVFRTzcySkV1SkxxZ0RTU1hzWUg3Sks3OWhVbEFlNzBVVFJpRzJIUEZJc2tvSURBZklfdzA5LTdSMnplZ3hGWDJROVJ6bGdscUdlUzVoRWF3OElsektUQUVmTUJN?oc=5",
-      "title": "SPRZEDAWCA / SPRZEDAWCZYNI JYSK Warszawa Aleja Krakowska 61 (5500 PLN) w firmie JYSK — Warszawa - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
@@ -855,8 +810,8 @@
       "source": "linkedin:gnews:pl:pl"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzNtdFdTYXlMMzIyUUpEYS0zRC0xM1lKZjZFZ3Juc1BJeHlzT1dmSHMyQzhUc2pKTDUtaUxiV0pvTTJORjhHVHNOUlNMOXBNRldSVjg5RC15M1h6cXdSS0tFU29TTDVXWmtXNDI3TVQxbHpEQkU4U2Z5Nm1YQ3VmRnRqWjg5YTZWLXN3X3dQMkFCZEU1Yy1LVG9FaDJtckhBTE1iVEhQY0pFd19qbkEzSTk2Y3prUQ?oc=5",
-      "title": "Przedstawiciel Handlowy (k/m/x) w firmie Truck Care | Grupa Crédit Agricole — Woj. Mazowieckie, Polska - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDF1azExRy1OSnU1T3pUaEhIZXVsejhqdFNtT3J4VWNYV18tQnpZX0VSUmZCZVJPa1hhMVFySzU0TWs4SDRsWlExS0tzMGN2T2xsOFpaQlkxa0ZfMWpNVnF4bFJXREdycFNsVWVaOWRZd1hadUxpWGpobVIyanVDVVpKeWJEME53eTFyZUhsVlU2QkNLWUtZdTVDdzdCMDZfbndDanRadnRYT2N0TjJBVTBMTzllTFk?oc=5",
+      "title": "Sprzedawca (k/m/x) III - Józefosław w firmie Netto Polska, Salling Group — Józefosław - LinkedIn",
       "source": "linkedin:gnews:pl:pl"
     },
     {
@@ -910,8 +865,8 @@
       "source": "linkedin:gnews:ie:en-IE"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlhwZXZHM1hMdzRaUjU2YUNPOWZ1MlkwNllmQUZxUU05ZTdYdXRJdmNweU9fVW5NcDdOWnlPLWVLZkFiS1ViSU1YeGduRUV1LVE5aWcxUUZ2Q0trUGZpU2FNWHVMcUh6elhHRFZsc21pMGF5WVFQWG1BYXh2V2huNkFGRUI2QXY0b3N4YmRnM0Y0XzFOQl81MzhoTjFZOXBzdkIxVHRaS00xZ1RhSC1LWFU3SVBsdw?oc=5",
-      "title": "India is probing Pernod Ricard and Diageo’s Scotch whisky businesses under the recently implemented India-UK trade agreement, according to this story by Reuters. Inspectors questioned Pernod’s India executives last week, with a focus on how bulk Scotch i - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3BrTnY0LVlSNWNocWl3OE1yOWRzckRPNWRlbUIxUkQ2NkgxRUo3S3dNNGU1OTJucDJDeW5maVZiOXl2emFyYnFacWZ5WEh1UEVJaEVXV1Awb2ZmWjdMOEh2SENZai1TQ0NhSF9ZTjhUNVJBaXMxaTlYV1FXQzNMb1Qzdnh1LXFqSldLQkZqcEQ3OFF3b2d5d2pkNmdGZVJDcFhDS1hsNzBsUEFfLW5OZjdQZktKZ19RRFE?oc=5",
+      "title": "Scotch imports by Pernod Ricard, Diageo under tax probe - How is it linked to India-UK trade deal? All you need to know | Company Business News - LinkedIn",
       "source": "linkedin:gnews:ie:en-IE"
     }
   ],
